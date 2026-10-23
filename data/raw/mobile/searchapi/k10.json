@@ -1,0 +1,86 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:15:55+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "what is a serp api",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.68,
+ "bytes": 56186,
+ "seconds": 4.88,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Scraping SERP API with Google Sheets (No Code)",
+    "url": "https://www.youtube.com/watch?v=unKcoGYnSIk",
+    "snippet": "In this video, we'll learn how to scrape a SERP result, for example, a Google SERP result, using the API from SerpApi into a Google Sheets. ..."
+   },
+   {
+    "pos": 2,
+    "title": "Top 7 Google SERP APIs in 2026",
+    "url": "https://www.scraperapi.com/web-scraping/best-web-scraping-apis/google-serp-api/",
+    "snippet": "Discover the 7 best Google SERP APIs in 2026. Compare pricing, speed, and features to find the best option for scraping search results."
+   },
+   {
+    "pos": 3,
+    "title": "SerpAPI — Prompt flow documentation",
+    "url": "https://microsoft.github.io/promptflow/reference/tools-reference/serp-api-tool.html",
+    "snippet": "The SerpAPI API is a Python tool that provides a wrapper to the SerpAPI Google Search Engine Results API and SerpApi Bing Search Engine Results API ."
+   },
+   {
+    "pos": 4,
+    "title": "Best SERP APIs",
+    "url": "https://rapidapi.com/collection/serp-api",
+    "snippet": "The APIs refer to software applications that help you scrape search results from the search engine in real-time, running on a specific programming language to ..."
+   },
+   {
+    "pos": 5,
+    "title": "What Are SERP API Fundamentals and Why Should You Care?",
+    "url": "https://www.serphouse.com/blog/what-are-serp-api-fundamentals/",
+    "snippet": "A SERP API (Search Engine Results Page Application Programming Interface) is a service that allows you to retrieve real-time search results ..."
+   },
+   {
+    "pos": 6,
+    "title": "SERP API for Structured Search Results",
+    "url": "https://www.webscrapingapi.com/products/serp-api",
+    "snippet": "Collect Google and Bing results as parsed JSON. Capture DuckDuckGo and Yandex SERP HTML in JSON envelopes, with query and location controls."
+   },
+   {
+    "pos": 7,
+    "title": "Top 7 Google SERP APIs for Efficient Web Scraping (Free & Paid).md",
+    "url": "https://github.com/lenoarditrryh/scraping/blob/main/api/Top%207%20Google%20SERP%20APIs%20for%20Efficient%20Web%20Scraping%20(Free%20%26%20Paid).md",
+    "snippet": "SERP API specializes in collecting data from a variety of search engines, making it a versatile choice for diverse projects. Key Features: APIs for Google, Bing ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "inline_videos",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

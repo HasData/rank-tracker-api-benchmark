@@ -1,0 +1,96 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:55:49+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "what is a serp api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 8.29,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "host": "serpapi.com",
+    "crumb": "https://serpapi.com",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "SERP API - 5K Requests/Month for Free",
+    "url": "https://brightdata.com/",
+    "host": "brightdata.com",
+    "crumb": "https://brightdata.com › products › serp-api",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "What Is a SERP API? How It Works and When to Switch",
+    "url": "https://you.com/",
+    "host": "you.com",
+    "crumb": "https://you.com › resources › what-is-a-serp-api",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Google SERP API: Everything You Need To Know",
+    "url": "https://medium.com/",
+    "host": "medium.com",
+    "crumb": "Medium · Darshan Khandelwal",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "20+ SERP APIs to Try Today [Updated List]",
+    "url": "https://www.lupagedigital.com/",
+    "host": "www.lupagedigital.com",
+    "crumb": "https://www.lupagedigital.com › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "SerpAPI tool in Azure Machine Learning prompt flow",
+    "url": "https://learn.microsoft.com/",
+    "host": "learn.microsoft.com",
+    "crumb": "https://learn.microsoft.com › azure › tools-reference › se...",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "People also ask",
+   "AI Overview",
+   "What It Does",
+   "Common Use Cases",
+   "Related Links",
+   "Web Result with Site Links",
+   "Web results",
+   "Sponsored result",
+   "Exa vs SerpApi",
+   "My Ad Center",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

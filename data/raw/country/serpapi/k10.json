@@ -1,0 +1,97 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:55:49+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "what is a serp api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 0.88,
+ "bytes": 56329,
+ "seconds": 0.94,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "American Petroleum Institute | API",
+    "url": "https://www.api.org/",
+    "snippet": "The American Petroleum Institute (API) is the only national trade association that represents all aspects of America's oil and natural gas industry."
+   },
+   {
+    "pos": 2,
+    "title": "APIs",
+    "url": "https://en.wikipedia.org/wiki/API",
+    "snippet": "An application programming interface (API) is a connection between computers or between computer programs. It is a type of software interface, ..."
+   },
+   {
+    "pos": 3,
+    "title": "Find Your Experiential Program Abroad, Study, Gap, Intern - API",
+    "url": "https://apiabroad.com/",
+    "snippet": "Academic Programs International is committed to safe, affordable, experiential education abroad that accelerates learning and career growth."
+   },
+   {
+    "pos": 4,
+    "title": "What is an API? - Application Programming Interfaces ...",
+    "url": "https://aws.amazon.com/what-is/api/",
+    "snippet": "APIs are mechanisms that enable two software components to communicate with each other using a set of definitions and protocols. For example, the weather ..."
+   },
+   {
+    "pos": 5,
+    "title": "API",
+    "url": "https://api-pt.com/",
+    "snippet": "With API, you have people and results you can rely on to meet all your proficiency testing needs. Online portal management. Result submission reports."
+   },
+   {
+    "pos": 6,
+    "title": "What is an API? (Application Programming Interface)",
+    "url": "https://www.mulesoft.com/api/what-is-an-api",
+    "snippet": "API stands for Application Programming Interface. You can think of it as a common language that lets different software systems communicate smoothly, without ..."
+   },
+   {
+    "pos": 7,
+    "title": "What Is an API (Application Programming Interface)?",
+    "url": "https://www.ibm.com/think/topics/api",
+    "snippet": "An application programming interface (API) is a contract that enables software to access data or invoke functionality exposed by other ..."
+   },
+   {
+    "pos": 8,
+    "title": "API Platform",
+    "url": "https://openai.com/api/",
+    "snippet": "Our API platform offers our latest models and guides for safety best practices."
+   },
+   {
+    "pos": 9,
+    "title": "What is an API?",
+    "url": "https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces",
+    "snippet": "API stands for application programming interface—a set of definitions and protocols to build and integrate application software."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

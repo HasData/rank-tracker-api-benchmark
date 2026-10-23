@@ -1,0 +1,94 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:02:05+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "tesla stock",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.57,
+ "bytes": 38216,
+ "seconds": 3.62,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+    "url": "https://www.google.com/goto?url=CAESYAHrOzAVsXgijWAqaj0skJL1nypgQ19Em3hjVw6eha8o8E9u0hEDSwWGI9XVrkqxRkCOGdC8j-0hsH4-gd0NrSyBFG9CStGe9cDZkab3d7r0FaMVMBHJ58ZjZUu6083W2A",
+    "snippet": "22 hours ago — USD Tesla, Inc. (TSLA) Close 375.23 Open 371.15. Range 363.82 - 371.39 52 Week Range 297.38 - 498.83 Volume 30,868,569 Avg. Volume 37,327,718 ...",
+    "host": "finance.yahoo.com"
+   },
+   {
+    "pos": 2,
+    "title": "Tesla: TSLA Stock Price Quote & News",
+    "url": "https://www.google.com/goto?url=CAESYwHrOzAVQzDq63vqmIQkODV2q-bpbcIM74W8wj3s89SgXslwgD7r4tzdL-NpcqpG2Uob3UazL_yFfPXAGBaBdla5Fp6iuIf9QQpEmjIIubPjk9s-Oizim0dBAC00_rlqBeMWgQ",
+    "snippet": "Tesla(TSLA) stock is priced at $377.30, At a current price of $377.30, the stock is +3.8% higher than the low and still +0.4% under the high.",
+    "host": "robinhood.com"
+   },
+   {
+    "pos": 3,
+    "title": "TSLA Stock Price - Tesla, Inc.",
+    "url": "https://www.google.com/goto?url=CAESawHrOzAVd68blgagdLcK_I9xxDXMy7lvFjizyHcN5OR8pl4uWFMQUWs85K4S5q9yD70y1dSJFWE_F9N6uDUGrn0I2YODSjl3smdwFH1ZgTOiIB2mB4EJx4ZB4MiV_3AW-auqh-Di-67v-78v",
+    "snippet": "The current price of TSLA is 367.16 USD — it has decreased by −2.15% in the past 24 hours. Watch Tesla, Inc. stock price performance more closely on the chart.Read more",
+    "host": "www.tradingview.com"
+   },
+   {
+    "pos": 4,
+    "title": "TSLA - TESLA INC | Stock Quotes from Fidelity Investments",
+    "url": "https://www.google.com/goto?url=CAESkQEB6zswFZmUu149rXOXgn7ClEK8UYRV2aaz6Qbdi5fQ3O_h6GMIvvEYrM3BwM2LY9ZdjdFLK6n8Z81Gj-gHrSP75DGmZ0rBKO67K8_gUG0dbSfMgzwN1faUIOp6wr8TYBPhYnW3OKctIIMWvz9cTauIH-TdD_Rzz1ac4OmS861kF1e_mVyZ83-G3jo2JoqyGDE-",
+    "snippet": "Tesla (TSLA) is trading at 367.16 Open Price 371.16 Previous close 367.16 Previous close 367.16 P/E Ratio 367.4724. Index NASDAQ100,R1000,R3000,SP500",
+    "host": "digital.fidelity.com"
+   },
+   {
+    "pos": 5,
+    "title": "TSLA: Tesla Inc - Stock Price, Quote and News",
+    "url": "https://www.google.com/goto?url=CAESWwHrOzAVEr_jTmoGVndWi6Wc_98dWfrlI1yDo81aXS7fWtMttGQOIhMVEJbJxr0P1Xdtr-TnHRiMzJlvIoCbzRZagnyGbayX1xR1yCkq3cJIDUPmIHE3TxDsGaU",
+    "snippet": "Tesla Inc TSLA:NASDAQ EXPORT. Week Low297.38 52. Market Cap1.45T Shares Out3.95B 10 Day … and Financial News, Stock Quotes, and Market Data and Analysis.",
+    "host": "www.cnbc.com"
+   },
+   {
+    "pos": 6,
+    "title": "Tesla Inc (TSLA) Stock Price & News - Google Finance",
+    "url": "https://www.google.com/finance/quote/TSLA:NASDAQ",
+    "snippet": "Tesla Inc $367.16. Open $371.16 High $371.39 Low $363.82 Mkt. cap 1.45T Avg. vol. $297.38 EPS $1.08 Beta 1.92 Shares outstanding 3.95B … 1,883 Shares in Tesla, ..."
+   },
+   {
+    "pos": 7,
+    "title": "Tesla Inc. (TSLA) Stock Price Today - The Wall Street Journal",
+    "url": "https://www.google.com/goto?url=CAESZQHrOzAVYWApEIP-QJJGojsIdnxpjtcGkOZVRJ1_F8vIffuMUG3HKyZWd_7TlccNUPLinIfOd4paUbP4d2AxDCi2YlzpIwvq5CgcRyq_yVgoJKYgulCslbbsd_XiF0fVn8-Pv07k",
+    "snippet": "Tesla Inc. TSLA • U.S.: Nasdaq $361.36-5.80-1.58% PRE-MARKET|Vol. Designs, manufactures, sells and leases electric vehicles & solar energy generation and ...",
+    "host": "www.wsj.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "knowledge_graph",
+   "organic_results",
+   "related_questions",
+   "related_searches",
+   "top_stories"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k15",
+  "q": "tesla stock",
+  "intent": "finance",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

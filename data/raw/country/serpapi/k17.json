@@ -1,0 +1,100 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:04:20+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.84,
+ "bytes": 74777,
+ "seconds": 1.89,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Mon-Sat: 7:00am - 9:00pm Sun: 8:00am - 8:00pm Store … calling 1-888-266-7228. store pickup daily until 6 p.m."
+   },
+   {
+    "pos": 2,
+    "title": "East Wichita #2204",
+    "url": "https://www.homedepot.com/l/East-Wichita/KS/Wichita/67220/2204",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 3350 N Woodlawn Wichita, KS 67220"
+   },
+   {
+    "pos": 3,
+    "title": "Home Improvement at The Home Depot in Kansas City, MO",
+    "url": "https://www.homedepot.com/l/MO/Kansas-City/MOKR0Psh",
+    "snippet": "Get directions, hours, and services. Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm. Kansas City, Missouri,"
+   },
+   {
+    "pos": 4,
+    "title": "Home Improvement at The Home Depot in Tulsa, OK",
+    "url": "https://www.homedepot.com/l/OK/Tulsa/OKei9vi7",
+    "snippet": "Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm. Depot We proudly serve Tulsa, Oklahoma,"
+   },
+   {
+    "pos": 5,
+    "title": "Leavenworth #2216",
+    "url": "https://www.homedepot.com/l/Leavenworth/KS/Leavenworth/66048/2216",
+    "snippet": "Hours Mon-Sat: 6:00am - 9:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location"
+   },
+   {
+    "pos": 6,
+    "title": "Shawnee #2213",
+    "url": "https://www.homedepot.com/l/Shawnee/KS/Shawnee/66217/2213",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 15501 W 67th St Shawnee, KS 66217"
+   },
+   {
+    "pos": 7,
+    "title": "Home Improvement at The Home Depot in Kansas City, KS",
+    "url": "https://www.homedepot.com/l/KS/Kansas-City/KSLSm1BZ",
+    "snippet": "Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm View Garden Center View Home Services View Rentals View Pro Desk"
+   },
+   {
+    "pos": 8,
+    "title": "Hutchinson #2214",
+    "url": "https://www.homedepot.com/l/Hutchinson/KS/Hutchinson/67501/2214",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 1907 E 17th Ave Hutchinson, KS 67501"
+   },
+   {
+    "pos": 9,
+    "title": "Home Depot confirms all 2,000 stores will close for 24 hours ...",
+    "url": "https://www.the-sun.com/money/17116615/is-the-home-depot-open-thanksgiving/",
+    "snippet": "EVERY Home Depot store will close for a 24-hour period next month for a major federal holiday. The Home Depot is joining the likes of Olive."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "knowledge_graph",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

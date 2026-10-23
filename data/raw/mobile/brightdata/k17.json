@@ -1,0 +1,93 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:20:02+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=home+depot+hours&gl=us&hl=en&brd_mobile=1&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 8.89,
+ "bytes": 14697,
+ "seconds": 8.89,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "The East San Jose Home Depot in San Jose, CA, 95127 | Hours, Directions & Curbside",
+    "url": "https://www.homedepot.com/l/East-San-Jose/CA/San-Jose/95127/6672",
+    "snippet": "Save time on your trip to the Home Depot by scheduling your order with buy online pick up in store or schedule a delivery directly from your East San Jose ..."
+   },
+   {
+    "pos": 2,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Order online for convenient store pickup daily until 6 p.m.. Learn More. Search By Image Or Voice. Let our app find it ..."
+   },
+   {
+    "pos": 13,
+    "title": "The Mira Mesa Home Depot in San Diego, CA, 92126 | Hours, Directions & Curbside",
+    "url": "https://www.homedepot.com/l/Mira-Mesa/CA/San-Diego/92126/6679",
+    "snippet": "Save time on your trip to the Home Depot by scheduling your order with buy online pick up in store or schedule a delivery directly from your Mira Mesa store ..."
+   },
+   {
+    "pos": 14,
+    "title": "The Brooklyn Park Home Depot in Brooklyn Park, MN, 55428 | Hours, Directions & Curbside",
+    "url": "https://www.homedepot.com/l/Brooklyn-Park/MN/Brooklyn-Park/55428/2804",
+    "snippet": "Save time on your trip to the Home Depot by scheduling your order with buy online pick up in store or schedule a delivery directly from your Brooklyn Park ..."
+   },
+   {
+    "pos": 15,
+    "title": "The Milford Home Depot in Milford, OH, 45150 | Hours, Directions & Curbside",
+    "url": "https://www.homedepot.com/l/Milford/OH/Milford/45150/3844",
+    "snippet": "You can buy online with free pickup in store in two hours using our product locator app. Returns are just as simple — start them in the app or online to make ..."
+   },
+   {
+    "pos": 16,
+    "title": "The Home Depot - 3902 N High School Rd, Indianapolis, Indiana - Updated October 2026",
+    "url": "https://m.yelp.com/biz/the-home-depot-indianapolis",
+    "snippet": "THE HOME DEPOT, 3902 N High School Rd, Indianapolis, IN 46254, 30 Photos, (508) 987-2151, Mon - 6:00 am - 10:00 pm, Tue - 6:00 am - 10:00 pm, Wed - 6:00 am ..."
+   },
+   {
+    "pos": 17,
+    "title": "Highlands Ranch #1540",
+    "url": "https://www.homedepot.com/l/Highlands-Ranch/CO/Highlands-Ranch/80129/1540",
+    "snippet": "The Highlands Ranch Home Depot in Highlands Ranch, CO, 80129 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using ..."
+   },
+   {
+    "pos": 18,
+    "title": "Home Improvement at The Home Depot in Tucson, AZ",
+    "url": "https://www.homedepot.com/l/AZ/Tucson/AZtlnnR9",
+    "snippet": "Get directions, hours, and services and plan your visit today! Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber ..."
+   },
+   {
+    "pos": 19,
+    "title": "Urbandale #2115",
+    "url": "https://www.homedepot.com/l/Urbandale/IA/Urbandale/50322/2115",
+    "snippet": "Save time on your trip to the Home Depot by scheduling your order with buy online pick up in store or schedule a delivery directly from your Urbandale store ..."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

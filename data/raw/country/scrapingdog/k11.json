@@ -1,0 +1,103 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:23:41+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "pizza near me",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 5.34,
+ "bytes": 7082,
+ "seconds": 5.34,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Pizza in Tampa, FL | Papa Johns Gunn Hwy",
+    "url": "https://locations.papajohns.com/united-states/fl/33618/tampa/4231-gunn-hwy/pizza-near-me",
+    "snippet": "Order from Papa Johns Gunn Hwy for the best pizza in Tampa. Order online, call or visit for a selection of pizza and more for delivery or takeout!"
+   },
+   {
+    "pos": 2,
+    "title": "Delivery Near Me - Orlando, FL - 7060 International Dr - Pizza Hut",
+    "url": "https://locations.pizzahut.com/fl/orlando/7060-international-dr/delivery",
+    "snippet": "Looking for delivery near you? Your local Pizza Hut at 7060 International Dr, Orlando, FL 32819 offers a wide variety of food for delivery."
+   },
+   {
+    "pos": 3,
+    "title": "THE BEST 10 PIZZA PLACES IN LITTLE ROCK, AR - Yelp",
+    "url": "https://www.yelp.com/search?cflt=pizza&find_loc=Little+Rock%2C+AR",
+    "snippet": "High Activity Now - Best Pizza in Little Rock, AR - Last Updated October 2026 - Deluca's Pizza, Certified Pies, Different Dough Pizza, Problem Child Pizza, ..."
+   },
+   {
+    "pos": 4,
+    "title": "Jordan Ranch - Crust Pizza Co.",
+    "url": "https://www.crustpizzaco.com/locations/TX/jordan-ranch",
+    "snippet": "Conveniently located at 29615 Jordan Crossing Blvd., Suite 250, in the Jordan Ranch Market shopping center, Crust Pizza is your go-to destination for dine-in, ..."
+   },
+   {
+    "pos": 5,
+    "title": "Pizza Perfect | Best Pizza in Nashville, TN | Pizza near me",
+    "url": "https://pizzaperfectonline.com/",
+    "snippet": "Pizza Perfect: the best Pizza in Nashville, TN and other locations. Order directly online today for takeout or delivery. Save money, support local business!"
+   },
+   {
+    "pos": 6,
+    "title": "What are the best pizza spots in Sanford, Maine? - Facebook",
+    "url": "https://www.facebook.com/groups/405526816271757/posts/3394909914000084/",
+    "snippet": "House of Pizza and Paras Pizza are top recommendations, with some preferring Coletti's Pizza Factory over Otto. Kasey Lee. SANFORD HOUSE OF ..."
+   },
+   {
+    "pos": 7,
+    "title": "Best Pizza Places in Newport News 2026 - Slice",
+    "url": "https://slicelife.com/pizza-delivery/va-newport_news",
+    "snippet": "Top Pizza Restaurants in Newport News, VA in 2026 Near You ; Azzurri Italian Restaurant · $3.90 Delivery. 4.9 ; Anna's Pizza · $4.95 Delivery. 4.6 ; Joseph's ..."
+   },
+   {
+    "pos": 8,
+    "title": "THE 10 BEST Pizza Places in Broken Arrow (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g51224-c31-Broken_Arrow_Oklahoma.html",
+    "snippet": "1. Andolini's Pizzeria. 4.4. 4.4 of 5 bubbles · 2. Hideaway Pizza. 4.2. 4.2 of 5 bubbles · 3. Uncle Vinny's New York Pizzeria. 4.2. 4.2 of 5 ..."
+   },
+   {
+    "pos": 9,
+    "title": "Best pizza spot in Corpus Christi, TX - Facebook",
+    "url": "https://www.facebook.com/groups/5778221958942229/posts/27372058399131940/",
+    "snippet": "Yall definitely need to try build your own MOD pizza! Its super good with fresh unlimited toppings and not so much dough!"
+   },
+   {
+    "pos": 10,
+    "title": "Best Pizza in Tamarac, FL | Pizza near me - The NY Pizza Place",
+    "url": "https://nypizzaplace.com/tamarac",
+    "snippet": "At The NY Pizza Place, every location is casual and welcoming. Visit us in Tamarac, Coral Springs, or Boca Raton, and enjoy comfortable indoor seating, outdoor ..."
+   }
+  ],
+  "features": [
+   "dmca_message",
+   "local_results",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:16:45+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "what is a serp api",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.82,
+ "bytes": 59267,
+ "seconds": 2.0,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SerpApi",
+    "url": "https://serpapi.com/",
+    "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you."
+   },
+   {
+    "pos": 2,
+    "title": "What Is a SERP API? Architecture, Limitations, and Why the Market Is Shifting",
+    "url": "https://you.com/resources/what-is-a-serp-api",
+    "snippet": "A SERP API is a managed service that retrieves, renders, and parses those pages into structured data your application can consume."
+   },
+   {
+    "pos": 3,
+    "title": "SERP API - 5K Requests/Month for Free",
+    "url": "https://brightdata.com/products/serp-api",
+    "snippet": "SERP API A comprehensive solution for easy, real-time search engine scraping, handling proxy management, unblocking, and parsing with ease."
+   },
+   {
+    "pos": 4,
+    "title": "Best SERP APIs in 2026: Official Google Alternatives & Third-Party Providers",
+    "url": "https://scrapfly.io/blog/posts/google-serp-api-and-alternatives",
+    "snippet": "A SERP API allows developers to access search engine results programmatically, streamlining the process of data extraction for analysis and SEO optimization."
+   },
+   {
+    "pos": 5,
+    "title": "Google SERP API: Everything You Need To Know | by Darshan Khandelwal",
+    "url": "https://medium.com/@darshankhandelwal12/google-serp-api-everything-you-need-to-know-e9ae28fd86ef",
+    "snippet": "you can use a Google SERP API to supply up-to-date facts, examples, or Q&A to a chatbot or language model. Developers often chain a SERP API ..."
+   },
+   {
+    "pos": 6,
+    "title": "SERP API You Can Trust: DataForSEO Always Works.",
+    "url": "https://dataforseo.com/apis/serp-api",
+    "snippet": "DataForSEO SERP API can power up any workflow: rank tracking, keyword research, competitive analysis, SERP feature monitoring, and AI Mode search insights."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "inline_videos",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

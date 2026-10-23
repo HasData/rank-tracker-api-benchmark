@@ -1,0 +1,94 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:21:50+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=cheap+flights+to+paris&gl=us&hl=en&brd_mobile=1&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 6.42,
+ "bytes": 21116,
+ "seconds": 6.43,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 4,
+    "title": "$214 Cheap Flights to Paris Charles de Gaulle - Skyscanner",
+    "url": "https://www.skyscanner.com/flights-to/cdg/cheap-flights-to-paris-charles-de-gaulle-airport.html",
+    "snippet": "The lowest price currently available for a one-way flight to Paris Charles de Gaulle Airport is $214. A round-trip plane ticket to CDG right now is $398."
+   },
+   {
+    "pos": 9,
+    "title": "Cheap flights to Paris - Flight from United States to Paris",
+    "url": "https://wwws.airfrance.us/en-us/flights-to-paris",
+    "snippet": "Find your cheap flight to Paris with Air France from $716. Discover our selection of return flights at the best price to Paris PAR."
+   },
+   {
+    "pos": 10,
+    "title": "Flights to Paris",
+    "url": "https://www.aa.com/en-us/flights-to-paris",
+    "snippet": "You can often find lower fares by booking in advance and traveling during off-peak times. Midweek flights and flexible dates may help you find better prices."
+   },
+   {
+    "pos": 11,
+    "title": "$222 CHEAP FLIGHTS to Paris in 2026/27",
+    "url": "https://www.kayak.com/flight-routes/United-States-US0/Paris-PAR",
+    "snippet": "Monday is the cheapest day to fly to Paris at $946 round-trip on average over the past 12 months on KAYAK. Saturday is the most expensive at $1,020."
+   },
+   {
+    "pos": 12,
+    "title": "Cheap flights from the United States to Paris ...",
+    "url": "https://www.momondo.com/flights/united-states/paris",
+    "snippet": "The cheapest day to depart from United States to Paris is on a Sunday when prices can be found for as low as $801. Be sure to avoid booking ..."
+   },
+   {
+    "pos": 13,
+    "title": "Find Cheap Flights to Paris",
+    "url": "https://www.google.com/travel/flights/flights-to-paris.html?gl=US&hl=en-US",
+    "snippet": "Use Google Flights to find cheap flights to Paris from United States, Flights. Just enter your departure city, choose Paris in the destination field, and click ..."
+   },
+   {
+    "pos": 14,
+    "title": "Flights to Paris (ORY)",
+    "url": "https://us.frenchbee.com/en/flights/paris/flights-to-paris",
+    "snippet": "Offering some of the lowest fares available, choose from three levels—Basic, Smart, or Premium—to customize your flight to Paris."
+   },
+   {
+    "pos": 15,
+    "title": "United Cheap Flights to Paris from ...",
+    "url": "https://www.united.com/en/us/deals/flights-to-paris",
+    "snippet": "Book cheap flights to Paris (CDG) with United Airlines. Flights to Paris (CDG) from $ 1,322* Roundtrip One-way. Economy Book Now View More *Prices have been ..."
+   },
+   {
+    "pos": 16,
+    "title": "How to Book Cheap Flights to Paris from USA in ...",
+    "url": "https://vocal.media/01/how-to-book-cheap-flights-to-paris-from-usa-in-2025",
+    "snippet": "Budget-Friendly Options: Norwegian Air, French Bee, and PLAY Airlines offer lower-cost flights. Major Airlines with Frequent Deals: Delta, American Airlines ..."
+   }
+  ],
+  "features": [
+   "flights",
+   "organic",
+   "people_also_ask",
+   "related"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k20",
+  "q": "cheap flights to paris",
+  "intent": "travel",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

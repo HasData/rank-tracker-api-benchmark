@@ -1,0 +1,95 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:15+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "iphone 17 pro price",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 5.81,
+ "bytes": 123328,
+ "seconds": 6.09,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Apple iPhone 17 Pro: Price, Colors, Specs, Reviews",
+    "url": "https://www.verizon.com/smartphones/apple-iphone-17-pro/",
+    "snippet": "Pay in full today $1,099.99. Full retail price $1,099.99. Apple iPhone 17 Pro Starts at $30.55/mo for 36 months,"
+   },
+   {
+    "pos": 2,
+    "title": "Apple iPhone 17 Pro",
+    "url": "https://www.visible.com/shop/smartphones/iphone-17-pro?sku=MG7R4LL/A",
+    "snippet": "Shop Apple iPhone 17 Pro and … $1499 Color: Silver Capacity: 1 TB. Brilliant 6.3-inch display1, A19 Pro chip, all 48MP rear cameras, and breakthrough battery ..."
+   },
+   {
+    "pos": 3,
+    "title": "Buy iPhone 17 - Education",
+    "url": "https://www.apple.com/us-edu/shop/buy-iphone/iphone-17",
+    "snippet": "Buy iPhone 17 From $899 or $37.45/mo. 128GB 256GB 1TB iPhone 17 Pro Max iPhone 17 Pro iPhone. BuyFrom $899.00 Footnote ‡ , Dual Fusion camera From $899 or $37. ..."
+   },
+   {
+    "pos": 4,
+    "title": "How much does the iPhone 17 cost? Here's the pricing for Apple's new ...",
+    "url": "https://mashable.com/article/iphone-17-price-confirmed",
+    "snippet": "iPhone 17 Pro (256GB) - $1,099 · iPhone 17 Pro (512GB) - $1,299 · iPhone 17 Pro (1TB) - $1,499 · iPhone 17 Pro Max (256GB) - $1,199 · iPhone 17 Pro Max (512GB) - ..."
+   },
+   {
+    "pos": 5,
+    "title": "Buy Apple iPhone 17 Pro Silver 512GB",
+    "url": "https://www.puretalk.com/buy-cell-phones-online/PT-AP-17PRO-512GB-SILVER",
+    "snippet": "Pay Monthly*. $27.75/mo ; Pay in Full. $999.00 ; Description. iPhone 17 Pro. The most powerful iPhone ever. Brilliant 6.3-inch display,: aluminum unibody design, ..."
+   },
+   {
+    "pos": 6,
+    "title": "iPhone 17 Pro Max Review: Worth the $1199 Price Tag?",
+    "url": "https://www.youtube.com/watch?v=b-KxskcWfIE",
+    "snippet": "iPhone 17 Pro Max Review: Worth the $1,199 Price Tag? @TechDoctorUS3.3K views6 months ago"
+   },
+   {
+    "pos": 7,
+    "title": "Apple iPhone 17 Pro Max, US Version, 256GB, eSIM, Cosmic Orange- ...",
+    "url": "https://www.amazon.com/Apple-Version-Orange-Unlocked-Renewed/dp/B0FTC2PRVZ",
+    "snippet": "Apple iPhone 17 Pro Max, US Version, 256GB, Accept your estimated trade-in value, buy your new device at the current price, and receive your delivery."
+   },
+   {
+    "pos": 8,
+    "title": "New iPhone 17 or Air on Your Radar? Get Ready for These Prices Today",
+    "url": "https://www.cnet.com/tech/mobile/new-iphone-17-or-air-on-your-radar-get-ready-for-these-prices-today/",
+    "snippet": "iPhone 17 Pro, from $1,099 The priciest iPhones are the iPhone 17 Pro and Pro Max, It's priced at $1,999."
+   },
+   {
+    "pos": 9,
+    "title": "Get iPhone 17 Pro, iPhone 17 and iPhone Air all on Us at ...",
+    "url": "https://www.t-mobile.com/news/devices/iphone-17-apple-watch-release",
+    "snippet": "iPhone 17 Pro on Us (or up to $1100 off any iPhone 17 model) when trading in an eligible device — in any condition! · iPhone 17 on Us (or $830 ..."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "inline_shopping",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "device": "mobile"
+ }
+}

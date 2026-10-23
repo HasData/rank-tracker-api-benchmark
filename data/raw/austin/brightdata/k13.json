@@ -1,0 +1,95 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:15+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=best+running+shoes&gl=us&hl=en&uule=Austin%2CTexas%2CUnited+States&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 7.57,
+ "bytes": 113844,
+ "seconds": 7.84,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 2,
+    "title": "7 Best Running Shoes in 2026",
+    "url": "https://runrepeat.com/guides/best-running-shoes",
+    "snippet": "The New Balance 1080 v15 stands out in the all-rounder game, bringing a whole new level of comfort while sustaining lightness and responsiveness ...Read more"
+   },
+   {
+    "pos": 3,
+    "title": "The 15 Best Running Shoes of 2026",
+    "url": "https://www.runnersworld.com/gear/a19663621/best-running-shoes/",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "What are the best running shoes that you'd actually buy ...",
+    "url": "https://www.reddit.com/r/runninglifestyle/comments/1u5x7mx/what_are_the_best_running_shoes_that_youd/",
+    "snippet": "I’m finally replacing my running shoes and I forgot how overwhelming this category is. Every list says something different and everyone seems to ..."
+   },
+   {
+    "pos": 10,
+    "title": "Best of Road Running Shoes",
+    "url": "https://believeintherun.com/shoe-reviews/type/best-of-road/",
+    "snippet": "Independent, run-tested reviews of running shoes, Popular Brands New Balance Nike Asics Hoka Saucony Puma Adidas. These are the Best On Running Shoes Right Now ..."
+   },
+   {
+    "pos": 11,
+    "title": "The Best Running Shoe From Every Brand in 2026!",
+    "url": "https://www.youtube.com/watch?v=9qv6rh34rXU",
+    "snippet": "If you get a shoe from Adidas, ASICS, Brooks, Hoka, Kiprun, Li Ning, Mizuno, New Balance, Nike, Puma, Salomon, Saucony. ON, R.A.D and even ..."
+   },
+   {
+    "pos": 12,
+    "title": "Men's Best Sellers Running Shoes",
+    "url": "https://www.nike.com/w/mens-best-running-shoes-37v7jz76m50znik1zy7ok",
+    "snippet": "Find Mens Best Sellers Running Shoes at Nike.com. Nike Pegasus 42 Men's Road Running Shoes $145 Nike. Vomero 18 Men's Road Running Shoes $128.97 $155"
+   },
+   {
+    "pos": 13,
+    "title": "Best Running Shoes of the Year: 6 Top-Shelf Models",
+    "url": "https://sixminutemile.com/post/six-of-the-best-running-shoes-of-the-year/",
+    "snippet": "Six of the Very Best Running Shoes of the Year · ASICS Megablast · Adidas Adizero Evo SL · FAST-R Nitro Elite 3 · Mount to Coast H1 · Norda 005.Read more"
+   },
+   {
+    "pos": 14,
+    "title": "The Best Beginner Running Shoes 2026",
+    "url": "https://theruntesters.com/the-best-running-shoes-for-beginners/",
+    "snippet": "The Puma Velocity Nitro 4 is one of our favourite shoes for runners of all levels, and one of the best value shoes on the market as well. It's light, ...Read more"
+   },
+   {
+    "pos": 16,
+    "title": "The 6 Best Running Shoes For Men of 2026",
+    "url": "https://www.rtings.com/running-shoes/reviews/best/for-men",
+    "snippet": "The best running shoe for men we've tested for beginners is the ASICS NOVABLAST 6. You get more stability than with the ASICS MEGABLAST or ...Read more"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "popular_products",
+   "related"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k13",
+  "q": "best running shoes",
+  "intent": "commercial",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

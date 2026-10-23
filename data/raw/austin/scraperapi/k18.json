@@ -1,0 +1,66 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:50+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "how to tie a tie",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.43,
+ "bytes": 9841,
+ "seconds": 4.46,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "How To Tie A Necktie | Different Ways Of Tying A Tie",
+    "url": "https://www.google.com/goto?url=CAESoQEB6zswFdDeteDZUdwMa6C8W6OSCBwyOirMdYO2RXhw3Y-qxLsUy7lUnQlc2-xVOi6LOzZ9SGdL0CSxQrO27RBDokEW2i0oLkXm33dF16OLxUCTZVYuJVFWpLnHZlQiFsIfh2-DOm8WPoMM74x-QGdApG7qJz0bGfltsW1MpLXvIMsS0sWRGBUKxqWV_90fiYSLsOUorbuhLQPLmbn4YAa8hA",
+    "snippet": "A comprehensive step by step guide on the different ways to tie a tie. Windsor, 4 in hand, Eldredge, Trinity, bow tie, and other simple knots from Ties.com.",
+    "host": "www.ties.com"
+   },
+   {
+    "pos": 2,
+    "title": "Tie-a-Tie.net",
+    "url": "https://www.google.com/goto?url=CAESVQHrOzAVH1kkgPXtgqu5CFr3u3wBrg8q_rRkd0AdbvrHquD8z-SII4CbR_TfIk8230xJWtlhpg0zCNh_Su4RiIBYcp_FhPofMaZJRPpgZK-GG-76c3E",
+    "snippet": "Learn how to tie a tie with the Windsor, Half Windsor, Four in Hand and Pratt necktie knots by following step-by-step video instructions",
+    "host": "www.tie-a-tie.net"
+   },
+   {
+    "pos": 3,
+    "title": "How To Tie A Tie",
+    "url": "https://www.google.com/goto?url=CAESgwEB6zswFVVVNaWo2hval-aBnd6zT6ZJRno06BTGMywMJOxMoFGMdUU0AuF_gmqUUQylfaL7ZTdCieVoR0gk5q5dxf_Y06Lske3mD_1cFv4t8sZPEKR-gSrugqwRIAh5vJfqswQVjL84xkTSjM5cOhO53hRqQtyPni9IMJrVIr7OPoTVwQ",
+    "snippet": "Step by step guide on necktie knots here: How to Tie a Perfect Simple Knot Ties.com®. How to Tie A Perfect Eldredge Necktie. How to Tie A Perfect Windsor Knot. ...",
+    "host": "68.1k+ followers"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "places_to_visit",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k18",
+  "q": "how to tie a tie",
+  "intent": "informational, video",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

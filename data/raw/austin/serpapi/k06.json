@@ -1,0 +1,93 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:01:49+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "seo api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 0.84,
+ "bytes": 70091,
+ "seconds": 0.94,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "DataForSEO: Powerful API Stack For Data-Driven SEO Tools",
+    "url": "https://dataforseo.com/",
+    "snippet": "We provide comprehensive data solutions for SEO and SEM analytics via API. DataForSEO is a trusted partner for 750+ SEO software companies and agencies."
+   },
+   {
+    "pos": 2,
+    "title": "API recommendations : r/SEO",
+    "url": "https://www.reddit.com/r/SEO/comments/1bt4r59/api_recommendations/",
+    "snippet": "Top 10 SEO TOOLS APIs & Scrapers — I built an advanced SEO data API for AI writers. How I actually use an API for SEO software day-to-day. ..."
+   },
+   {
+    "pos": 3,
+    "title": "3 APIs for SEO pros - get a free API key | Authoritas",
+    "url": "https://www.authoritas.com/apis",
+    "snippet": "The SEO Platform API is free with Advanced and Expert level business packages and all agency packages. The SERPs API and Page Structure API are charged per ..."
+   },
+   {
+    "pos": 4,
+    "title": "SEO API: Automate your SEO and AEO workflows",
+    "url": "https://seranking.com/api.html",
+    "snippet": "The Project API lets you manage and automate SEO and AEO/GEO workflows within the platform, including rank tracking, keyword grouping, competitor monitoring,"
+   },
+   {
+    "pos": 5,
+    "title": "Search Console API",
+    "url": "https://developers.google.com/webmaster-tools",
+    "snippet": "The Search Console API provides programmatic access to the most popular reports and actions in your Search Console account. Query your search analytics, list ..."
+   },
+   {
+    "pos": 6,
+    "title": "SerpApi: SEO",
+    "url": "https://serpapi.com/use-cases/seo",
+    "snippet": "SerpApi provides rankings, organic search results and paid ad results. Use any keyword, any country, and any language across various search engines."
+   },
+   {
+    "pos": 7,
+    "title": "SEO API Tool",
+    "url": "https://moz.com/products/api",
+    "snippet": "Moz API gives you the power to quickly create custom SEO tools, dashboards, and integrations — affordably and at scale."
+   },
+   {
+    "pos": 8,
+    "title": "Best SEO API Providers in 2026 (My Honest Reviews)",
+    "url": "https://www.position.digital/blog/best-seo-geo-api/",
+    "snippet": "An SEO API lets you request ranking, keyword, backlink and AI visibility data in code, so it lands in your scripts, reports or AI agent instead ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k06",
+  "q": "seo api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

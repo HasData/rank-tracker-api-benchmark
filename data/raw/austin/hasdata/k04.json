@@ -1,0 +1,86 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:01:05+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "web scraping api",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.23,
+ "bytes": 40841,
+ "seconds": 3.78,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "ScrapingBee – The Best Web Scraping API",
+    "url": "https://www.scrapingbee.com/",
+    "snippet": "A web scraping API is a tool that collects data from websites through an API request. You send a URL and get the page HTML, rendered content, or structured data ...Read more"
+   },
+   {
+    "pos": 2,
+    "title": "Firecrawl | Web Data API for AI Agents",
+    "url": "https://www.firecrawl.dev/",
+    "snippet": "Give your AI agents web data and beyond. The web data API to search and scrape with access to more sources through Alexandria.It's also open source.Read more"
+   },
+   {
+    "pos": 3,
+    "title": "ScraperAPI: Scale Data Collection with a Simple Web ...",
+    "url": "https://www.scraperapi.com/",
+    "snippet": "ScraperAPI is a web scraping API that lets you collect data from any public website without worrying about proxies, browsers, or CAPTCHAs."
+   },
+   {
+    "pos": 4,
+    "title": "API scraping | Academy",
+    "url": "https://docs.apify.com/academy/api-scraping",
+    "snippet": "API scraping is locating a website's API endpoints, and fetching the desired data directly from their API, as opposed to parsing the data from their rendered ...Read more"
+   },
+   {
+    "pos": 5,
+    "title": "Web Scraping API – Free Plan, 100+ Templates",
+    "url": "https://decodo.com/scraping/web",
+    "snippet": "Web Scraping API extracts structured data from websites at scale, combining 100+ pre-built templates with per-request control. Built for developers shipping AI ..."
+   },
+   {
+    "pos": 6,
+    "title": "Web Scraping API: 5,000 Free Requests, Plans from $19",
+    "url": "https://www.webscrapingapi.com/",
+    "snippet": "Send a URL, get HTML or JSON back. We run proxy rotation, retries and JavaScript rendering across 195 countries. Start free with 5000 requests."
+   },
+   {
+    "pos": 7,
+    "title": "The 9 Best Web Scraping APIs & Tools in 2026",
+    "url": "https://brightdata.com/blog/web-data/best-web-scraping-apis",
+    "snippet": "The Best Web Scraping APIs, Ranked · 1. Bright Data — Best Overall Web Scraping API · 2. Scrape.do: Best for Speed-Sensitive Workloads · 3. Zyte ...Read more"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "discussions_and_forums",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k04",
+  "q": "web scraping api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

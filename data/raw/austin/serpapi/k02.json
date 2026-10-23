@@ -1,0 +1,98 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:58:33+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "best serp api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.05,
+ "bytes": 58745,
+ "seconds": 1.09,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SERP Products",
+    "url": "https://www.serpinstitute.org/products",
+    "snippet": "SERP offers many open educational resources related to the following: literacy; math; science; social studies; organizational capacity; and school culture."
+   },
+   {
+    "pos": 2,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you."
+   },
+   {
+    "pos": 3,
+    "title": "Search engine results page",
+    "url": "https://en.wikipedia.org/wiki/Search_engine_results_page",
+    "snippet": "The main component of a SERP is the listing of results that are returned by the search engine in response to a keyword query."
+   },
+   {
+    "pos": 4,
+    "title": "CEQA Statutory Exemption for Restoration Projects (SERP)",
+    "url": "https://wildlife.ca.gov/Cutting-Green-Tape/SERP",
+    "snippet": "SERP consultations provide opportunities to discuss project objectives, help avoid unnecessary delays in the concurrence process, and assist lead agencies"
+   },
+   {
+    "pos": 5,
+    "title": "url adding ?sclient=gws-wiz-serp in google search",
+    "url": "https://connect.mozilla.org/t5/discussions/url-adding-sclient-gws-wiz-serp-in-google-search/m-p/83957",
+    "snippet": "When I type something in google and end it with a question mark, I get sclient=gws-wiz-serp added to the search. For example, I type: msi mpg"
+   },
+   {
+    "pos": 6,
+    "title": "Advantages and Disadvantages of Supplemental ...",
+    "url": "https://www.investopedia.com/terms/s/serp.asp",
+    "snippet": "Supplemental executive retirement plans (SERPs) are non-qualified retirement plans offered to select executives as a tool for long- term incentive."
+   },
+   {
+    "pos": 7,
+    "title": "How to change website name in SERP? : r/TechSEO",
+    "url": "https://www.reddit.com/r/TechSEO/comments/174g6cw/how_to_change_website_name_in_serp/",
+    "snippet": "Hello everyone! I have a website. I started this website in my local language (Czech). But over time I added translations in other languages (english, ..."
+   },
+   {
+    "pos": 8,
+    "title": "What Is a SERP? Search Engine Results Pages Explained",
+    "url": "https://www.semrush.com/blog/serp/",
+    "snippet": "Learn what SERPs are, how search engine results pages work, and how to rank higher in search."
+   },
+   {
+    "pos": 9,
+    "title": "SERP Reporting / FICA / Vesting",
+    "url": "https://benefitslink.com/boards/topic/70154-serp-reporting-fica-vesting/",
+    "snippet": "I am have been tasked with setting up a NQDC plan for a few key executives at our small company and it has my head spinning a bit."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k02",
+  "q": "best serp api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

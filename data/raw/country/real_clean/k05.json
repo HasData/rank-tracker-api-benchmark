@@ -1,0 +1,114 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:49:18+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "rank tracker api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 5.75,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Keyword.com Rank Tracker API – Build dashboards, ...",
+    "url": "https://keyword.com/",
+    "host": "keyword.com",
+    "crumb": "https://keyword.com › rank-tracker-api",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Rank Tracking API - 5K requests/Month for Free",
+    "url": "https://brightdata.com/",
+    "host": "brightdata.com",
+    "crumb": "https://brightdata.com › Products › SERP API",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Introduction",
+    "url": "https://developers.similarweb.com/",
+    "host": "developers.similarweb.com",
+    "crumb": "https://developers.similarweb.com › docs › rank-tracking...",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Rank Tracking App",
+    "url": "https://dataforseo.com/",
+    "host": "dataforseo.com",
+    "crumb": "https://dataforseo.com › Solutions",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "6 Best Rank Tracker APIs Tested in 2026 (Speed, Pricing & ...",
+    "url": "https://www.scrapingdog.com/",
+    "host": "www.scrapingdog.com",
+    "crumb": "https://www.scrapingdog.com › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Rank Tracking API: Google Positions + SERP Monitoring ...",
+    "url": "https://cloro.dev/",
+    "host": "cloro.dev",
+    "crumb": "https://cloro.dev › Use cases",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "hilmanski/rank-tracker-api: Find the ranking position of your ...",
+    "url": "https://github.com/",
+    "host": "github.com",
+    "crumb": "https://github.com › hilmanski › rank-tracker-api",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "9 Best Rank Tracking APIs for Accurate Keyword ...",
+    "url": "https://www.link-assistant.com/",
+    "host": "www.link-assistant.com",
+    "crumb": "https://www.link-assistant.com › SEO Blog › Google SEO",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "Best Rank Tracking APIs for Developers & Agencies",
+    "url": "https://www.scrapingbee.com/",
+    "host": "www.scrapingbee.com",
+    "crumb": "https://www.scrapingbee.com › Blog",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "AI Overview",
+   "Types of Rank Tracking APIs",
+   "Shared",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k05",
+  "q": "rank tracker api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

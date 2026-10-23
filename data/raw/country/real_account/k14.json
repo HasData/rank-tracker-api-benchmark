@@ -1,0 +1,109 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T13:01:28+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "iphone 17 pro price",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 9.18,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "I just checked the iphone 17 pro and the upfront price for ...",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/AppleWhatShouldIBuy",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Buy iPhone",
+    "url": "https://www.apple.com/",
+    "host": "www.apple.com",
+    "crumb": "https://www.apple.com › shop › buy-iphone",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "iPhone 17 Pro",
+    "url": "https://www.bestbuy.com/",
+    "host": "www.bestbuy.com",
+    "crumb": "https://www.bestbuy.com › ... › iPhone › All iPhone",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Buy iPhone 17 Pro | Price, Colors and Plans",
+    "url": "https://www.att.com/",
+    "host": "www.att.com",
+    "crumb": "https://www.att.com › Wireless › Cell Phones › Apple",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Apple iPhone 17 Pro: Price, Colors, Specs, Reviews",
+    "url": "https://www.verizon.com/",
+    "host": "www.verizon.com",
+    "crumb": "https://www.verizon.com › smartphones › apple-iphone-...",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "iPhone 17 Pro vs 18 Pro --Which is the better deal?",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/iPhone17Pro",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Apple iPhone 17 Pro: Deals, Features, Specs & Prices",
+    "url": "https://www.t-mobile.com/",
+    "host": "www.t-mobile.com",
+    "crumb": "https://www.t-mobile.com › Phones › Apple",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Skip the iPhone 18 With Up to $291 Off iPhone 17 Pro ...",
+    "url": "https://www.cnet.com/",
+    "host": "www.cnet.com",
+    "crumb": "https://www.cnet.com › Tech › Mobile › Phones",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "More products",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Web results",
+   "Videos",
+   "iPhone 18 Pro Max vs iPhone 17 Pro Max 3 Weeks Later Review",
+   "iPhone 17 Pro 1 Year Later Review",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:05:00+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "how to tie a tie",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 7.18,
+ "bytes": 70021,
+ "seconds": 7.24,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "How to tie a tie - Quick and Easy",
+    "url": "https://www.youtube.com/watch?v=9BMhFmNzw-o",
+    "snippet": "How to tie a tie, a step by step explanation. Learn the quickest and most popular method to tie a tie, the four in hand knot."
+   },
+   {
+    "pos": 2,
+    "title": "How To Tie A Necktie | Different Ways Of Tying A Tie",
+    "url": "https://www.ties.com/how-to-tie-a-tie?srsltid=AU7gw4W6nA0d1Ib8KV23SRkXTYIWH7BJg5wX9B795YYWr4BzS6vCfUV6",
+    "snippet": "A comprehensive step by step guide on the different ways to tie a tie. Windsor, 4 in hand, Eldredge, Trinity, bow tie, and other simple knots from Ties.com."
+   },
+   {
+    "pos": 3,
+    "title": "How to Tie a Tie | Windsor (aka Full Windsor or Double Windsor)",
+    "url": "https://www.youtube.com/watch?v=HXJx8j7JpKY",
+    "snippet": "I'm going to show you one of the most popular ways to tie a tie using the Windsor knot also known as a double windsor or a full winter."
+   },
+   {
+    "pos": 4,
+    "title": "Quickest way to tie a tie Wes & Alison share a helpful tip for ...",
+    "url": "https://www.facebook.com/lifewithwesandalison/videos/quickest-way-to-tie-a-tie/7247470708699432/",
+    "snippet": "The tip of the point should be right at the top of your belt buckle. One break in the lower leg of your pants (otherwise have them hemmed)."
+   },
+   {
+    "pos": 5,
+    "title": "Learn How to Tie a Tie using Step-by-Step Animations",
+    "url": "https://www.animatedknots.com/how-to-tie-a-tie-necktie-knots",
+    "snippet": "How to Tie a Tie. Learn how to tie a Bowtie, Windsor, Half Windsor, Pratt, and a Four-in-Hand. The animations are presented as though the wearer were seeing ..."
+   },
+   {
+    "pos": 6,
+    "title": "How to Tie a Tie: The Windsor Knot (Easy Step-by-Step)",
+    "url": "https://www.youtube.com/watch?v=zpe1-BWJqz8",
+    "snippet": "Learn how to tie a tie with the classic Windsor Knot in this easy, step-by-step tutorial. I'll show you how to tie the Full Windsor (or ..."
+   },
+   {
+    "pos": 7,
+    "title": "How To Tie a Tie",
+    "url": "https://www.otaa.com/en-us/pages/how-to-tie-a-tie",
+    "snippet": "There comes a time in every man's life where he needs to learn how to tie a necktie. It's the first step towards transforming into a gentleman from a mere man."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches",
+   "short_videos"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k18",
+  "q": "how to tie a tie",
+  "intent": "informational, video",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T12:55:49+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=what+is+a+serp+api&gl=us&hl=en&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 21.19,
+ "bytes": 34078,
+ "seconds": 21.2,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 2,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you."
+   },
+   {
+    "pos": 7,
+    "title": "SERP API - 5K Requests/Month for Free",
+    "url": "https://brightdata.com/products/serp-api",
+    "snippet": "SERP API A comprehensive solution for easy, real-time search engine scraping, handling proxy management, unblocking, and parsing with ease."
+   },
+   {
+    "pos": 8,
+    "title": "What Is a SERP API? How It Works and When to Switch",
+    "url": "https://you.com/resources/what-is-a-serp-api",
+    "snippet": "A SERP API is a managed service that retrieves, renders, and parses those pages into structured data your application can consume."
+   },
+   {
+    "pos": 9,
+    "title": "Best SERP APIs in 2026: Official Google Alternatives & ...",
+    "url": "https://scrapfly.io/blog/posts/google-serp-api-and-alternatives",
+    "snippet": "A SERP API allows developers to access search engine results programmatically, streamlining the process of data extraction for analysis and SEO optimization."
+   },
+   {
+    "pos": 13,
+    "title": "Google SERP API: Everything You Need To Know",
+    "url": "https://medium.com/@darshankhandelwal12/google-serp-api-everything-you-need-to-know-e9ae28fd86ef",
+    "snippet": "Having a Google search API allows you to access the large dataset that this massive search engine holds.Read more"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related",
+   "videos"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

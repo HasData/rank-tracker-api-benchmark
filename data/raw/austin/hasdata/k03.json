@@ -1,0 +1,96 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T13:59:27+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "google search api",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.35,
+ "bytes": 32463,
+ "seconds": 2.52,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "What You Need to Know About Google's Search API",
+    "url": "https://promevo.com/blog/google-search-api",
+    "snippet": "The Google Search API serves as a tool for developers to integrate Google's search functionality directly into their applications or websites,"
+   },
+   {
+    "pos": 2,
+    "title": "Does Google provide a search API [closed]",
+    "url": "https://stackoverflow.com/questions/21753451/does-google-provide-a-search-api",
+    "snippet": "Closed. This question is seeking recommendations for software libraries, tutorials, tools, books, or other off-site resources. It does not meet Stack ..."
+   },
+   {
+    "pos": 3,
+    "title": "Free API Solutions for Automated Google Search - itnext",
+    "url": "https://itnext.io/now-you-can-search-on-google-for-free-solution-with-api-7699954325b1",
+    "snippet": "Google is ready to provide API to search itself, Google Custom Search — 100 free queries per day. SerpApi — 100 free queries per month. Plans ..."
+   },
+   {
+    "pos": 4,
+    "title": "Google Search API - Free Tier",
+    "url": "https://outscraper.com/google-search-api/",
+    "snippet": "Access Google Search results at scale with Outscraper's Google Search API — scrape organic results, ads, search features, and metadata for SEO research, ..."
+   },
+   {
+    "pos": 5,
+    "title": "How to Set Up the Google Custom Search API Key",
+    "url": "https://docs.aicontentlabs.com/articles/google-custom-search-api-key/",
+    "snippet": "This guide will help you connect Google Custom Search with AI Content Labs so you can leverage its web search capabilities within the platform.Read more"
+   },
+   {
+    "pos": 6,
+    "title": "Is there any FREE custom search api like google ...",
+    "url": "https://stackoverflow.com/questions/5575569/is-there-any-free-custom-search-api-like-google-custom-search",
+    "snippet": "Closed. This question is seeking recommendations for software libraries, tutorials, tools, books, or other off-site resources. It does not meet Stack ..."
+   },
+   {
+    "pos": 7,
+    "title": "Understanding Google Custom Search API Pricing",
+    "url": "https://blog.expertrec.com/google-custom-search-api-pricing/",
+    "snippet": "The Custom Search JSON API lets you develop websites and applications to retrieve and display search results from Google Custom Search ...Read more"
+   },
+   {
+    "pos": 8,
+    "title": "Google Search",
+    "url": "https://rapidapi.com/neoscrap-net/api/google-search72",
+    "snippet": "This is an API used to retrieve data from real-time Google search results. It supports both web search and image search functionalities."
+   },
+   {
+    "pos": 9,
+    "title": "How to use Google Search Console API with R",
+    "url": "https://www.r-bloggers.com/2019/03/how-to-use-google-search-console-api-with-r/",
+    "snippet": "Once you have created your Google developer account and have downloaded your API key, you will be ready to connect to the Search Console API ...Read more"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k03",
+  "q": "google search api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

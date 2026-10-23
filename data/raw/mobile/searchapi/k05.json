@@ -1,0 +1,94 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:10:36+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "rank tracker api",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.82,
+ "bytes": 9980,
+ "seconds": 1.82,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Best Rank Tracking API 2026: 4 Providers Tested - Serpent API",
+    "url": "https://apiserpent.com/blog/serp-api-rank-tracking-cost",
+    "snippet": "Serpent API tracks Google rankings at scale — pay-as-you-go from $0.60 / 1,000 ($0.10 at Scale, from $0.03 at the Enterprise rate after a ..."
+   },
+   {
+    "pos": 2,
+    "title": "11 Best Rank Tracking APIs for SEO Agencies (2026)",
+    "url": "https://www.rankability.com/blog/best-rank-tracking-apis/",
+    "snippet": "What is a rank tracking API? A rank tracking API programmatically returns keyword positions and related SERP features for specified engines, ..."
+   },
+   {
+    "pos": 3,
+    "title": "Google Rank Checker API - Live SERP Positions",
+    "url": "https://hasdata.com/apis/google-rank-checker-api",
+    "snippet": "Track keyword positions on Google with one API call: organic results with rank, title, and link as clean JSON. Any location, proxies handled."
+   },
+   {
+    "pos": 4,
+    "title": "Best Rank Tracker APIs in 2026: How to Pick the Right One",
+    "url": "https://www.reddit.com/r/ProxySellerOfficial/comments/1u03s48/best_rank_tracker_apis_in_2026_how_to_pick_the/",
+    "snippet": "GeoRanker is the specialist option for local SEO, backed by 50,000 local IPs for location precision. Credits are consumed based on keywords, ..."
+   },
+   {
+    "pos": 5,
+    "title": "API Access - PRT Knowledgebase",
+    "url": "https://proranktracker.com/members/knowledgebase/225/API-Access.html",
+    "snippet": "API Access"
+   },
+   {
+    "pos": 6,
+    "title": "Best Rank Tracking APIs for Rank Tracking in 2026 | Geonode",
+    "url": "https://geonode.com/blog/best-rank-tracker-apis",
+    "snippet": "A rank tracking API gives you search engine results as structured data, on demand, without you having to fight bot detection yourself."
+   },
+   {
+    "pos": 7,
+    "title": "SpySERP: Rank Tracker | Rank Tracker Tool",
+    "url": "https://spyserp.com/",
+    "snippet": "Rank Tracker is a tool that scans information from multiple search engines to determine how a particular domain ranks. Using historical data, you can track the ..."
+   },
+   {
+    "pos": 8,
+    "title": "Build The Best Rank Tracker with API: Step-by-Step Guide",
+    "url": "https://bishopi.io/blog/build-the-best-rank-tracker-with-api-step-by-step-guide",
+    "snippet": "Learn how to build the best rank tracker with API access using Python and a SERP API. Automate keyword tracking, alerts, reporting, ..."
+   },
+   {
+    "pos": 9,
+    "title": "Python SEO rank tracker that monitors your website's Google search ...",
+    "url": "https://github.com/HasData/rank-tracker-python",
+    "snippet": "Uses HasData SERP API to collect ranking data, generates visual charts and Excel reports. Track keyword rankings, analyze position changes, and export results ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k05",
+  "q": "rank tracker api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

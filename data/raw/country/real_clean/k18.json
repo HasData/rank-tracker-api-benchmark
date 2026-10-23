@@ -1,0 +1,106 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T13:05:00+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "how to tie a tie",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 9.23,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "How to Tie a Tie",
+    "url": "https://11.4m+ views/",
+    "host": "11.4m+ views",
+    "crumb": "11.4M+ views · 12 months ago",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "How To Tie A Necktie | Different Ways Of Tying A Tie",
+    "url": "https://www.ties.com/",
+    "host": "www.ties.com",
+    "crumb": "https://www.ties.com › how-to-tie-a-tie",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "How to Tie a Tie: The Windsor Knot (Easy Step-by-Step)",
+    "url": "https://988.3k+ views/",
+    "host": "988.3k+ views",
+    "crumb": "988.3K+ views · 11 months ago",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "How to Tie a Tie Easily",
+    "url": "https://3.6m+ views/",
+    "host": "3.6m+ views",
+    "crumb": "3.6M+ views · 6 years ago",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Tie-a-Tie.net",
+    "url": "https://www.tie-a-tie.net/",
+    "host": "www.tie-a-tie.net",
+    "crumb": "https://www.tie-a-tie.net",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Quickest way to tie a tie Wes & Alison share a helpful tip for ...",
+    "url": "https://6.1m+ reactions/",
+    "host": "6.1m+ reactions",
+    "crumb": "6.1M+ reactions · 2 years ago",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Images",
+   "Short videos",
+   "How to Tie a Tie",
+   "How to Tie a Tie The Right Way",
+   "Dad, how do you tie a tie?",
+   "How to tie a tie easily | 5-Minute Crafts Men",
+   "How to tie a tie quick and easy beginner tutorial !!",
+   "How To Tie The Easiest Tie Knot (The \"Oriental\" Knot)",
+   "How to tie a tie the easy way!",
+   "AI Overview",
+   "Four-in-Hand Knot Steps",
+   "Alternative: The Full Windsor Knot",
+   "Share public link",
+   "My Ad Center",
+   "What people are saying",
+   "How to tie a tie in 1 minute ? 👔",
+   "How to tie a tie. Love, Dad",
+   "How to tie a tie : old bertie knot",
+   "I’m so proud of you. Love, Dad",
+   "Dad, how do you tie a tie? 👔",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k18",
+  "q": "how to tie a tie",
+  "intent": "informational, video",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,95 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:42+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "iphone 17 pro price",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.98,
+ "bytes": 94447,
+ "seconds": 5.42,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Buy iPhone",
+    "url": "https://www.google.com/goto?url=CAESYgHrOzAVlQ-ri13wpA32zfT0P1EUf5zt_uMT7Lh7WtP_A-c7xvoinSqkKrBai-ELt-INvp6TThN4nz9Y7MLHs6HFKtuSMgUcCXBHTAME0OJAiTtIGJlshofxE2zKrAQ5rRcK",
+    "snippet": "Buy from $1099 or $45.79/mo. Get up to $175–$885 in credit toward. Special pricing is available for state, local, and federal agencies.",
+    "host": "www.apple.com"
+   },
+   {
+    "pos": 2,
+    "title": "iPhone 17 Pro",
+    "url": "https://www.google.com/goto?url=CAESnwEB6zswFTK7WH1IbSnIZefH082HvA3P9Zkb-q1n6WaRoZ27maZ2aU0AkZXwn4T7_dfKzyIpVWQkbOmFdiC6rvMJ_4KF3f7PVCJGlkrwWhYWRUl5gDjb-KAipEaD_5Dj4EmygO5QVOu1BA1bFU7sIflcYaH4aZJIQiCClzdJDnlF4WNnN_HUPtrgQkR6o98MyYetaWU0C12yr8BDu39GZ1k",
+    "snippet": "iPhone 17 Pro 512GB. 4.6(41). $1,299.99 ; iPhone 17 Pro 1TB. 4.8(13). $1,499.99 ; iPhone 17 Pro 512GB 6.3\" 5G Fully Unlocked,. Not yet reviewed. $1,155.78 ; iPhone ...Read more",
+    "host": "www.bestbuy.com"
+   },
+   {
+    "pos": 3,
+    "title": "Buy iPhone 17 Pro | Price, Colors and Plans",
+    "url": "https://www.google.com/goto?url=CAEShAEB6zswFcR4M_RS5groi2nv52C651rrGypqZE6xhH9INmN-mFK5u2zSK9Dhg7ethJIVhyc5FBvuGhXZ4e31ATzjCYj6g1wyMM1GfuDVinL0EzxnbejlUc4rAFmugzuBR3YCqr8FHT-BiQH83UATPNS-vNjiTbS7omdZ_QWI9c9ulqtpmV0",
+    "snippet": "What is the iPhone 17 Pro's price on this page? The full retail price is $1,099.99 for the entry storage configuration. The installment price is $9.99/month for ...Read more",
+    "host": "www.att.com"
+   },
+   {
+    "pos": 4,
+    "title": "Buy Apple iPhone 17 Pro Cosmic Orange 256GB",
+    "url": "https://www.google.com/goto?url=CAESiwEB6zswFZ8ioFGzQpK8Yk_FLlgP_3yH87CJZ11ByZDOjzcLXMSoKvyMTJMrxGmAreCp2Hoprfqp89AYccCbFShAdZOfz8hkr6g5DEV6Xeq9vhbN6f7v4J_JLNFPn9RT362JAvcitUgN8INobp4z88yr1MztQA1NzSH_QHN3GaQ8y-ZDYtUZJ22qNFfF",
+    "snippet": "Retail Price: $1,099.00 Pay Monthly* $22.19/mo + Taxes & Fees Pay in Full $799.00 + Taxes & Fees … agreement required at checkout. Discounts can be up to $300 ...",
+    "host": "www.puretalk.com"
+   },
+   {
+    "pos": 5,
+    "title": "Apple iPhone 17 Pro: Deals, Features, Specs & Prices",
+    "url": "https://www.google.com/goto?url=CAESdAHrOzAVRONE5D59HHZoKq-qi-w2znh1CaNI2a3g_S8HPEtWAEGwbterTZuCME6HDmkdWwebRBYjYOnUoDwFlEShBNyKbua_QoDPEe82F2bpDtLAgsVnfS7u3-KCJpwvKZCPEXWtnaezgVhI-Dr-ie-ouaDY",
+    "snippet": "Original monthly price $30.56 before discount $2.78/month $2.78 credit/mo. Full price: $1,099.99 + tax",
+    "host": "www.t-mobile.com"
+   },
+   {
+    "pos": 6,
+    "title": "Apple iPhone 17 Pro: Price, Colors, Specs, Reviews",
+    "url": "https://www.google.com/goto?url=CAESdQHrOzAV_lAuIO6HPfDpFWyl6iPzf1MMyrKwfZBXrdKlwJnlhXMIhlDOFqAgOYK8VBGUlns_pzw-xpcLMl7ZMKKqgJMpmqjfmeG_mkchVUDAqCXksnFnFOoCycDKp2iBbYJ-oCOa9Y1eFS0jFgdtlzMvKbJN9Q",
+    "snippet": "Pay in full today $1,099.99. Full retail price $1,099.99. Apple iPhone 17 Pro Starts at $30.55/mo for 36 months,",
+    "host": "www.verizon.com"
+   },
+   {
+    "pos": 7,
+    "title": "iPhone",
+    "url": "https://www.google.com/goto?url=CAESWgHrOzAVe9ujk2g-zHHB5-JuA6icTWkygE1GNVSLcD8RrUE-3RNTLfjCHsiUfJ9Igzxtir7oX0dqFS3pvMhcIByvITGJe7YHhxJ8wF_MtAC7FBtck1KZaIUmGQ",
+    "snippet": "iPhone 17, and iPhone 17e. a new iPhone with a trade‐in. Get $175–$885 in credit toward iPhone Duo or iPhone 18 Pro",
+    "host": "www.apple.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches",
+   "shopping_items"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

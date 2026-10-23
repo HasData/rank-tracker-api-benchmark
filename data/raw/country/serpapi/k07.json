@@ -1,0 +1,96 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:51:56+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "google maps scraper",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 5.51,
+ "bytes": 52038,
+ "seconds": 5.63,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Scrape Data from Google Maps (in 2025) | Octoparse Tutorial",
+    "url": "https://www.youtube.com/watch?v=7cy3um4m55c",
+    "snippet": "Want to scrape Google Maps data, including phone numbers, ratings, and websites? In this tutorial, I'll show you how to extract up to 120 ..."
+   },
+   {
+    "pos": 2,
+    "title": "The Best Google Maps Scraper Tools in 2026 (Free & Paid)",
+    "url": "https://chat4data.ai/blog/google-maps-scraper",
+    "snippet": "The 5 Best Google Maps Scraper Tools · 1. Chat4Data · 2. Octoparse · 3. Apify Google Maps Scraper · 4. PhantomBuster · 5. Google Maps Scraper ..."
+   },
+   {
+    "pos": 3,
+    "title": "Outscraper - get any public data from the internet",
+    "url": "https://outscraper.com/",
+    "snippet": "Scrape Google Maps Places, Business Reviews, Photos, Play Market Reviews, and more. Outscraper is providing fast and reliable data on Google Maps locations, in ..."
+   },
+   {
+    "pos": 4,
+    "title": "Google Maps Scraper FREE Tool for Lead Generation (No Code!)",
+    "url": "https://www.youtube.com/watch?v=kdG0vms6T-M",
+    "snippet": "Google Maps scraper tool—all without coding! extract business data like addresses, phone numbers, and websites from Google Maps using a FREE no ..."
+   },
+   {
+    "pos": 5,
+    "title": "Best Google Maps Scrapers in 2026 [Tested: Data, Speed, ...",
+    "url": "https://www.lobstr.io/blog/best-google-maps-scrapers",
+    "snippet": "I tested the top no-code Google Maps scrapers on the things that actually decide a purchase... data, usability, speed, cost, and scale."
+   },
+   {
+    "pos": 6,
+    "title": "Google Maps Scraper : Free & Easy to Use",
+    "url": "https://mapsscraper.net/google-maps-scraper",
+    "snippet": "A scraping tool for map business leads, one click to scrape data from Google Maps, includes phone number, email address, social media profiles, and more."
+   },
+   {
+    "pos": 7,
+    "title": "Google Maps Scraper: How to Get 1000 Leads for FREE",
+    "url": "https://www.youtube.com/watch?v=IoqCnS0oC1w",
+    "snippet": "Today, I am showing you the ultimate Google Maps Scraper strategy to generate 1,000 targeted B2B leads for absolutely free."
+   },
+   {
+    "pos": 8,
+    "title": "️ Easy Google Maps Scraping with Ultimate Web Scraper",
+    "url": "https://ultimatewebscraper.com/blog/easy-google-maps-scraping",
+    "snippet": "Google Maps Easy scraping with our chrome extension Ultimate Web Scraper. Scrape phone numbers, emails, business addresses and more."
+   },
+   {
+    "pos": 9,
+    "title": "Google Maps Scraper: This chrome extension helps you ...",
+    "url": "https://github.com/LeadGenerationTools/google-maps-extractor",
+    "snippet": "The free version of our Google Maps extractor allows you to scrape up to 200 listings. Pro users can extract unlimited Google Maps data with no restrictions."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k07",
+  "q": "google maps scraper",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

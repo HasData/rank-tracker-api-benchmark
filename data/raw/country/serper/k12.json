@@ -1,0 +1,99 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T12:58:38+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en"
+  }
+ },
+ "status": 200,
+ "ttfb": 1.4,
+ "bytes": 5679,
+ "seconds": 1.48,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Dentist in Buffalo, NY - Insurance Accepted",
+    "url": "https://thesmilist.com/dentist-locations/upstate-new-york/buffalo-dentist/",
+    "snippet": "The Smilist Dental in Buffalo, NY is a leading dentist office offering general & cosmetic dentistry, emergency dentistry, dental implants and more."
+   },
+   {
+    "pos": 2,
+    "title": "Best Dentists Near Me in Buffalo, New York",
+    "url": "https://www.deltadental.com/member/find-a-dentist/new-york/buffalo-dentists/",
+    "snippet": "There are more than 50 dentists around the area of Buffalo, NY. Delta Dental has the largest network of dentists nationwide."
+   },
+   {
+    "pos": 3,
+    "title": "Dentistry - Neighborhood Health Center - Buffalo, NY",
+    "url": "https://nhcwny.org/services/service:dentistry/",
+    "snippet": "Our dentists provide short- and long-term dental care with preventive and corrective services. To schedule a next-day appointment, please call 716-875-2904. ..."
+   },
+   {
+    "pos": 4,
+    "title": "Buffalo Dental Group: Exceptional Dentist in Kenmore, NY",
+    "url": "https://www.thebuffalodentalgroup.com/",
+    "snippet": "Buffalo Dental Group offers quality preventative, restorative, and cosmetic dentistry from their Kenmore and Williamsville, NY dental ..."
+   },
+   {
+    "pos": 5,
+    "title": "THE BEST 10 DENTISTS IN BUFFALO, NY",
+    "url": "https://www.yelp.com/search?cflt=dentists&find_loc=Buffalo%2C+NY",
+    "snippet": "Best Dentists in Buffalo, NY. Altman Dental, Amherst Dentistry, Emily J Schaefer, Kazmierczak & Nowak DDS PC (5/5) Mary E. Ricotta, DDS (5/5) Embury Family ..."
+   },
+   {
+    "pos": 6,
+    "title": "Hertel Family Dentistry: Local Dentist | Buffalo, NY",
+    "url": "https://www.hertelfamilydentistry.com/",
+    "snippet": "Hertel Family Dentistry is a trusted local dentist in Buffalo, NY. We provide routine and specialized dental care for the whole family. Call 716-875-5000."
+   },
+   {
+    "pos": 7,
+    "title": "Western New York Dental Group Buffalo Main St",
+    "url": "https://www.wnydental.com/practices/western-new-york-dental-group-buffalo-main-st/",
+    "snippet": "At Western New York Dental Group, we provide local family dentistry services in the Buffalo, NY area. Hours Monday 7:00 AM - 5:00 PM. Friday 8:00 AM - 2:00 PM"
+   },
+   {
+    "pos": 8,
+    "title": "Downtown Buffalo NY Dentist - Inspire Dental Group",
+    "url": "https://www.inspiredentalgroup.com/buffalo-dentist/",
+    "snippet": "Buffalo NY dentist providing services for the entire family. General Dentistry, Implants and Adult Invisalign. 199 Delaware Avenue, Buffalo, NY 14202 Mon-Wed: ..."
+   },
+   {
+    "pos": 9,
+    "title": "Sheridan Family Dentistry | Creating the healthy smile you ...",
+    "url": "https://sheridanfamilydentistry.net/",
+    "snippet": "Everyone deserves to smile. At Sheridan Family Dentistry, you can expect to be treated with respect at all times. We strive to deliver the best diagnosis ..."
+   },
+   {
+    "pos": 10,
+    "title": "20 Best Dentists Near Buffalo, NY",
+    "url": "https://www.healthgrades.com/dentistry-general-directory/ny-new-york/buffalo",
+    "snippet": "There are 714 specialists practicing Dentistry in Buffalo, NY with an overall average rating of 4.3 stars. There are 7 hospitals near Buffalo, NY ..."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

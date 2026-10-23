@@ -1,0 +1,114 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:59:47+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "best running shoes",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 7.95,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "7 Best Running Shoes in 2026",
+    "url": "https://runrepeat.com/",
+    "host": "runrepeat.com",
+    "crumb": "https://runrepeat.com › guides › best-running-shoes",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "The 15 Best Running Shoes of 2026",
+    "url": "https://www.runnersworld.com/",
+    "host": "www.runnersworld.com",
+    "crumb": "https://www.runnersworld.com › ... › Running Shoes",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "What are the best running shoes that you'd actually buy ...",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/runninglifestyle",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Best of Road Running Shoes",
+    "url": "https://believeintherun.com/",
+    "host": "believeintherun.com",
+    "crumb": "https://believeintherun.com › shoe-reviews › type › best...",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "The Best Running Shoe From Every Brand in 2026!",
+    "url": "https://317.2k+ views/",
+    "host": "317.2k+ views",
+    "crumb": "317.2K+ views · 4 months ago",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Men's Best Sellers Running Shoes",
+    "url": "https://www.nike.com/",
+    "host": "www.nike.com",
+    "crumb": "https://www.nike.com › Running › Shoes",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Best Running Shoes of the Year: 6 Top-Shelf Models",
+    "url": "https://sixminutemile.com/",
+    "host": "sixminutemile.com",
+    "crumb": "https://sixminutemile.com › post › six-of-the-best-runni...",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "The Best Beginner Running Shoes 2026",
+    "url": "https://theruntesters.com/",
+    "host": "theruntesters.com",
+    "crumb": "https://theruntesters.com › the-best-running-shoes-for-b...",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "The 6 Best Running Shoes For Men of 2026",
+    "url": "https://www.rtings.com/",
+    "host": "www.rtings.com",
+    "crumb": "https://www.rtings.com › Running Shoe › Best",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "More products",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k13",
+  "q": "best running shoes",
+  "intent": "commercial",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

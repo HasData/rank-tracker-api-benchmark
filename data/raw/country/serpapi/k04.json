@@ -1,0 +1,97 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:47:54+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "web scraping api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.01,
+ "bytes": 63872,
+ "seconds": 1.03,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Web scraping",
+    "url": "https://en.wikipedia.org/wiki/Web_scraping",
+    "snippet": "Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. In 2000, the first Web API and API crawler were ..."
+   },
+   {
+    "pos": 2,
+    "title": "Scraping",
+    "url": "https://www.f5.com/glossary/scraping",
+    "snippet": "Learn about web scraping, the method of extracting data from websites for various use cases like SEO monitoring and dynamic data gathering."
+   },
+   {
+    "pos": 3,
+    "title": "Does Go work for web scraping? : r/golang",
+    "url": "https://www.reddit.com/r/golang/comments/1c4korg/does_go_work_for_web_scraping/",
+    "snippet": "Yes, I had a service that had a web scraper build in Python and ported it over to Go. Memory usage dropped a lot. It did around 10k websites ..."
+   },
+   {
+    "pos": 4,
+    "title": "Guidelines 03/2026 on web scraping in the context of ...",
+    "url": "https://www.edpb.europa.eu/public-consultations/guidelines-032026-on-web-scraping-in-the-context-of-generative-ai_en",
+    "snippet": "The European Data Protection Board welcomes comments on the Guidelines 03/2026 on web scraping in the context of generative AI."
+   },
+   {
+    "pos": 5,
+    "title": "Scraping data from Service Now without the API",
+    "url": "https://www.servicenow.com/community/now-platform-forum/scraping-data-from-service-now-without-the-api/m-p/1204198",
+    "snippet": "I need to use the API without being able to use the API We have CMDB data in our Service Now environment. It would be tremendously helpful for me."
+   },
+   {
+    "pos": 6,
+    "title": "My Reddit AMA on the Law of Web Scraping",
+    "url": "https://blog.ericgoldman.org/archives/2026/10/my-reddit-ama-on-the-law-of-web-scraping.htm",
+    "snippet": "Scraping can enable services that create significant social benefits, such as search engines, price comparison bots, and AI modelbuilding."
+   },
+   {
+    "pos": 7,
+    "title": "What is the difference between web-crawling and ...",
+    "url": "https://stackoverflow.com/questions/4327392/what-is-the-difference-between-web-crawling-and-web-scraping",
+    "snippet": "This question already has answers here: crawler vs scraper [closed] (6 answers) Closed 8 years ago. Is there a difference between Crawling ..."
+   },
+   {
+    "pos": 8,
+    "title": "Web scraping",
+    "url": "https://community.alteryx.com/discussion/799548/web-scraping",
+    "snippet": "Hello, There's a website - https://www.treasurydirect.gov/instit/annceresult/annceresult.htm from where I would like to scrape data single row of data ..."
+   },
+   {
+    "pos": 9,
+    "title": "Intro to Web Scraping: Build Your First Scraper in 5 Minutes",
+    "url": "https://medium.com/@joerosborne/intro-to-web-scraping-build-your-first-scraper-in-5-minutes-1c36b5c4b110",
+    "snippet": "Step 1. Create a new folder on your machine and a new .js or .py file inside the folder. Let's name them scraper-python."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k04",
+  "q": "web scraping api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

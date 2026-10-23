@@ -1,0 +1,73 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:21:02+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=how+to+tie+a+tie&gl=us&hl=en&brd_mobile=1&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 6.71,
+ "bytes": 384857,
+ "seconds": 7.64,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 29,
+    "title": "How To Tie A Necktie | Different Ways Of Tying A Tie",
+    "url": "https://www.google.com/goto?url=CAESoQEB6zswFWSHocimR1qicRoOmaLWt7G63noaVEPGJOjknnUbbg7ABZBogFd758OxRKFNnPoPhXeE8aSSWkqB1koariX19dKVlA-lPSVHqX_nNh842erg3D1oH7YlZenBRmJzI1LY6o1rHp6kBWnnu-7NMlxfuSQpXKiPF_2d6JH8a0GjY0TRu-jXMzA1Fn27ce-NN5iW3NrbBjHX9PXUtNmhIw",
+    "snippet": "A comprehensive step by step guide on the different ways to tie a tie. Windsor, 4 in hand, Eldredge, Trinity, bow tie, and other simple knots from Ties.com."
+   },
+   {
+    "pos": 31,
+    "title": "Quickest way to tie a tie Wes & Alison share a helpful tip for tying a suit tie. This original video was produced by Network Media, Wes and Alison.",
+    "url": "https://www.facebook.com/lifewithwesandalison/videos/quickest-way-to-tie-a-tie/7247470708699432/",
+    "snippet": null
+   },
+   {
+    "pos": 32,
+    "title": "How to Tie a Tie",
+    "url": "https://www.google.com/goto?url=CAESgwEB6zswFbKi1BufTOAJoEGbeWtY4ki787bnr-P5MzkKyg0YwUtvpo4gZJJY593YQ6duLZXwLjrZSwYL1vnIfk1dRRN7yedz0aJyjvYkJTcaGD_JJeCp6yZieslYUPEv2KcWeVlrlIiUc8GyB1krMpHnBCQILCVS1aW3VK_G0DncE1MZrg",
+    "snippet": "How to tie a tie in 10 seconds. Half Windsor Knot Mirrored. How to Tie a Bow Tie like tying a shoe tiehole. How to tie a tie 1 minute tutorial (Mirrored)"
+   },
+   {
+    "pos": 33,
+    "title": "How to Tie a Tie Easily",
+    "url": "https://www.google.com/goto?url=CAESZgHrOzAV5a9Lq6N3OQiLdtj4gRGBoZ5aKPM9UQEwv54nUVAQ01NsnKS1RyODON_hh4viY3npnzAdZ6zQQEu01Pb6f_xJciCEGn8pLMd2lYJeCHyuFWUnD5c0iARK4kdgZ4oJI_7gsg",
+    "snippet": null
+   },
+   {
+    "pos": 34,
+    "title": "Tie-a-Tie.net",
+    "url": "https://www.google.com/goto?url=CAESVQHrOzAVdJCoxa2W-LmXEK5qXGCPiNIQkCZpqVw8efvUZuGot6kmmrLxCsJ5AxhNTqL8ebkTjrru4brAN23FiCpMvs7xBDMXSukk6PXBSFXu4ppJSSU",
+    "snippet": "Learn how to tie a tie with the Windsor, Half Windsor, Four in Hand and Pratt necktie knots by following step-by-step video instructions"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "images",
+   "organic",
+   "perspectives",
+   "related",
+   "short_videos",
+   "videos"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k18",
+  "q": "how to tie a tie",
+  "intent": "informational, video",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

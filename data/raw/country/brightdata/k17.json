@@ -1,0 +1,95 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T13:04:20+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=home+depot+hours&gl=us&hl=en&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 22.13,
+ "bytes": 99266,
+ "seconds": 22.39,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 8,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Mon-Sat: 7:00am - 9:00pm Sun: 8:00am - 8:00pm Store … calling 1-888-266-7228. store pickup daily until 6 p.m."
+   },
+   {
+    "pos": 9,
+    "title": "East San Jose #6672",
+    "url": "https://www.homedepot.com/l/East-San-Jose/CA/San-Jose/95127/6672",
+    "snippet": "Home Depot in San Jose, CA, 95127 | Hours, Directions & Curbside Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber & ..."
+   },
+   {
+    "pos": 10,
+    "title": "Mira Mesa #6679 - San Diego",
+    "url": "https://www.homedepot.com/l/Mira-Mesa/CA/San-Diego/92126/6679",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 7:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 10604 Westview Pky San Diego, CA 92126"
+   },
+   {
+    "pos": 11,
+    "title": "Brooklyn Park #2804",
+    "url": "https://www.homedepot.com/l/Brooklyn-Park/MN/Brooklyn-Park/55428/2804",
+    "snippet": "The Brooklyn Park Home Depot in Brooklyn Park, MN, 55428 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using our ...Read more"
+   },
+   {
+    "pos": 12,
+    "title": "The Milford Home Depot in Milford, OH, 45150",
+    "url": "https://www.homedepot.com/l/Milford/OH/Milford/45150/3844",
+    "snippet": "Home Depot in Milford, OH, 45150 | Hours, Directions & Curbside. You can find us northeast of the intersection of I-275 and Route 28, next to Meijer. 4 p.m. ..."
+   },
+   {
+    "pos": 13,
+    "title": "The Home Depot - 3902 N High School Rd, Indianapolis ...",
+    "url": "https://www.yelp.com/biz/the-home-depot-indianapolis",
+    "snippet": "The Home Depot opens at 6:00 AM on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday.The Home Depot opens at 8 Mon-Sat 6:00 AM - 10:00 PMSun 8:00 AM - ..."
+   },
+   {
+    "pos": 14,
+    "title": "Highlands Ranch #1540",
+    "url": "https://www.homedepot.com/l/Highlands-Ranch/CO/Highlands-Ranch/80129/1540",
+    "snippet": "Home Depot in Highlands Ranch, CO, 80129 | Hours, Directions & Curbside Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber ..."
+   },
+   {
+    "pos": 15,
+    "title": "Home Improvement at The Home Depot in Tucson, AZ",
+    "url": "https://www.homedepot.com/l/AZ/Tucson/AZtlnnR9",
+    "snippet": "Get directions, hours, and services and plan your visit today! 7:00am - 8:00pm. We proudly serve Tucson, Arizona, for all things home improvement."
+   },
+   {
+    "pos": 16,
+    "title": "The Lakewood Home Depot in Lakewood, CA, 90712",
+    "url": "https://www.homedepot.com/l/Lakewood/CA/Lakewood/90712/6614",
+    "snippet": "The Lakewood Home Depot in Lakewood, CA, 90712 | Hours, Directions & Curbside ... (562)408-3400. Store Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 7:00am - 8:00pm.Read more"
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related",
+   "snack_pack",
+   "snack_pack_map"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

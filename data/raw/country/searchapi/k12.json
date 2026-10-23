@@ -1,0 +1,98 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:58:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.01,
+ "bytes": 155784,
+ "seconds": 2.14,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Find a dentist",
+    "url": "https://www.deltadental.com/member/find-a-dentist/",
+    "snippet": "Find in-network dentists in your area by using your current location or entering a ZIP code manually. Delta Dental Patient Direct coverage are not available ..."
+   },
+   {
+    "pos": 2,
+    "title": "Find A Dentist",
+    "url": "https://smilecalifornia.org/find-a-dentist/",
+    "snippet": "If you have a dental emergency during COVID-19 restrictions, we can help you find a dentist. Call the Telephone Service Center at 1-800-322-6384 for ..."
+   },
+   {
+    "pos": 3,
+    "title": "Dentist of Long Beach",
+    "url": "https://dentistlongbeach.com/",
+    "snippet": "Looking for a dentist in Long Beach, CA? Dentist of Long Beach offers personalized dental and orthodontic care for all ages. Request your appointment today."
+   },
+   {
+    "pos": 4,
+    "title": "Groveland Dental: Dentist St Paul MN",
+    "url": "https://grovelanddental.com/",
+    "snippet": "When you need the best cosmetic and family dentist St Paul, MN offers, there's no better option than Groveland Dental. Book appointment today!"
+   },
+   {
+    "pos": 5,
+    "title": "American Dental Association: Search for ADA Member ...",
+    "url": "https://findadentist.ada.org/",
+    "snippet": "Find an ADA member dentist in your area. Enter your street address and ZIP code for a list of ADA member dentists near you."
+   },
+   {
+    "pos": 6,
+    "title": "Dentists of Davis: Local Dentist Office in Davis CA",
+    "url": "https://www.dentistsofdavis.com/",
+    "snippet": "Dentist in Davis,CA. If you need family dentistry, oral surgery, or a dental emergency, contact us to make a dental appointment."
+   },
+   {
+    "pos": 7,
+    "title": "Delta Dental Find a Dentist",
+    "url": "https://www.deltadentalaz.com/forms/find-dentist/",
+    "snippet": "Use the Delta Dental provider search to find in-network dentists near you. Search by location or specialty to find a dentist covered by your plan."
+   },
+   {
+    "pos": 8,
+    "title": "LifeSmiles of Sidney | Sidney Dentist",
+    "url": "https://www.sidneynedentist.com/",
+    "snippet": "Welcome to LifeSmiles of Sidney in Sidney, Nebraska! Dr. Leasa Dornbier is a Sidney, NE dentist who provides family oriented dental care to patients of all ..."
+   },
+   {
+    "pos": 9,
+    "title": "Find a Dentist",
+    "url": "https://www.dentaquest.com/en/find-a-dentist",
+    "snippet": "Find a dentist within the DentaQuest provider network. Search by address, city, county or zip code to find a dentist near you. Use our advanced search to ..."
+   }
+  ],
+  "features": [
+   "ads",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

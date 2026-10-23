@@ -1,0 +1,89 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:26+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "symptoms of flu",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.31,
+ "bytes": 79215,
+ "seconds": 2.43,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Influenza (Flu)",
+    "url": "https://www.lvhn.org/conditions/influenza-flu",
+    "snippet": "Flu symptoms · High fever · Headache · Runny or stuffy nose · Sneezing at times · Cough, often becoming severe · Chills · Severe aches and pains · Fatigue for several ..."
+   },
+   {
+    "pos": 2,
+    "title": "Do I Have a Cold or the Flu? Learn the Difference",
+    "url": "https://www.tylenol.com/adult-relief/cold-flu/cold-or-flu",
+    "snippet": "The most common influenza symptoms include: Headache Fever Chills Cough Body or muscle aches Fatigue Chest congestion Less frequent symptoms of the flu include ..."
+   },
+   {
+    "pos": 3,
+    "title": "When to Get Medical Help for Flu Symptoms",
+    "url": "https://www.health.state.mn.us/diseases/flu/basics/flumedhelp.html",
+    "snippet": "You may have influenza (flu) if you have some or all of these symptoms: Fever. Cough. Sore throat. Runny or stuffy nose. Body aches. Headache. ..."
+   },
+   {
+    "pos": 4,
+    "title": "What are the main symptoms of the flu?",
+    "url": "https://centennialmedical.com/what-are-the-main-symptoms-of-the-flu/",
+    "snippet": "Immediate flu symptoms include sneezing, coughing, congestion, and sore throat among others. When the flu has fully spread throughout your body, then you'll ..."
+   },
+   {
+    "pos": 5,
+    "title": "Diagnosis for Flu | Influenza (Flu)",
+    "url": "https://www.cdc.gov/flu/testing/index.html",
+    "snippet": "Flu is a contagious respiratory illness that can cause fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills and/or ..."
+   },
+   {
+    "pos": 6,
+    "title": "Learn flu symptoms, treatment, and prevention methods | Stanford",
+    "url": "https://www.youtube.com/watch?v=_w_CpiuwtNw",
+    "snippet": "Dr. Marisa Holubar explains what happens to your body when you get the flu. She discusses how the flu spreads, flu symptoms, and who is most at ..."
+   },
+   {
+    "pos": 7,
+    "title": "Warning Signs of the Flu",
+    "url": "https://resources.healthgrades.com/right-care/cold-and-flu/warning-signs-of-the-flu",
+    "snippet": "chills and shakes, Extreme fatigue stomach-pain-man-on-couch. Headaches and sore throats are common symptoms of influenza too. Cough, congestion and a high ..."
+   },
+   {
+    "pos": 8,
+    "title": "5 Early Flu Symptoms That Often Get Ignored — and When to Visit ...",
+    "url": "https://carestationmedical.com/2025/11/28/5-early-flu-symptoms-that-often-get-ignored-and-when-to-visit-care-station-urgent-care/",
+    "snippet": "Sudden Body Aches and Joint Pain Another off is sudden, unexplained body aches. Mild Fever or Chills That Come and Go. Headache and Eye ..."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "inline_images",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k19",
+  "q": "symptoms of flu",
+  "intent": "health",
+  "device": "mobile"
+ }
+}

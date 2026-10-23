@@ -1,0 +1,95 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T12:58:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.52,
+ "bytes": 25297,
+ "seconds": 2.78,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Best Dentists Near Me in Los Angeles, California",
+    "url": "https://www.deltadental.com/member/find-a-dentist/california/los-angeles-dentists/",
+    "snippet": "See the list of Los Angeles, CA dentists in the Delta Dental network. We have the largest network of dentists nationwide. Find the one that's right for you."
+   },
+   {
+    "pos": 2,
+    "title": "Dentist of Long Beach",
+    "url": "https://dentistlongbeach.com/",
+    "snippet": "Dentist of Long Beach offers personalized dental and orthodontic care for all ages. Us (562) 373-0026 Your Trusted Dentist in Long Beach, CA"
+   },
+   {
+    "pos": 3,
+    "title": "TOP 10 BEST General Dentistry in Los Angeles, CA",
+    "url": "https://www.yelp.com/search?find_desc=General+Dentistry&find_loc=Los+Angeles%2C+CA",
+    "snippet": "Fuller Smiles - Venice (764 reviews). Healthy Smiles Dental Office (695 reviews). New Smile Dental (546 reviews). Cal Dental Group (536 reviews).Read more"
+   },
+   {
+    "pos": 4,
+    "title": "SoCal Dental Care - Los Angeles",
+    "url": "https://www.socaldentalcare.com/",
+    "snippet": "Our dentists include Dr. Aframian, Dr. Solouki, and Dr. Shamoeil. Book an appointment today by calling 818-821-8308 to discover what makes us dentists of choice ...Read more"
+   },
+   {
+    "pos": 5,
+    "title": "Find A Dentist",
+    "url": "https://smilecalifornia.org/find-a-dentist/",
+    "snippet": "If you have a dental emergency during COVID-19 restrictions, we can help you find a dentist. Call the Telephone Service Center at 1-800-322-6384 for assistance."
+   },
+   {
+    "pos": 6,
+    "title": "Dentists of South Bay: Local Dentist Office in Torrance CA",
+    "url": "https://www.dentistsofsouthbay.com/",
+    "snippet": "Dentist in Torrance,CA. If you need family dentistry, oral surgery, or a dental emergency, contact us to make a dental appointment."
+   },
+   {
+    "pos": 7,
+    "title": "Book 100+ of the best Dentists near me in Los Angeles, CA",
+    "url": "https://www.zocdoc.com/dentists/los-angeles-13122pm",
+    "snippet": "The best dentists in Los Angeles, CA, are usually board-certified, have positive patient reviews, and work with reputable hospitals. Zocdoc makes it easy to ...Read more"
+   },
+   {
+    "pos": 8,
+    "title": "Find A Dentist - Members - Medi-Cal Dental - CA.gov",
+    "url": "https://dental.dhcs.ca.gov/Members/Medi_Cal_Dental/Find_A_Dentist/FindADentist",
+    "snippet": "Dental Provider Directory Search Teledentistry Providers Dental Clinics Serving Medi-Cal Members Registered Dental Hygienists in Alternative"
+   },
+   {
+    "pos": 9,
+    "title": "Dental Office Locations in Los Angeles, CA",
+    "url": "https://www.westerndental.com/en-us/find-a-location/california/los-angeles/",
+    "snippet": "Browse Western Dental locations in Los Angeles and book an appointment online today. Get affordable, high-quality dental care for the whole family."
+   }
+  ],
+  "features": [
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

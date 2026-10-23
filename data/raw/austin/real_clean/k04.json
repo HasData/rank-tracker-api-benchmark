@@ -1,0 +1,33 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T14:01:05+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "web scraping api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 429,
+ "seconds": 6.9,
+ "error": "blocked: challenge page, all loads stopped",
+ "norm": {
+  "organic": [],
+  "features": [],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k04",
+  "q": "web scraping api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:44+00:00",
+ "status": null,
+ "error": "blocked: all loads stopped after a challenge at 2026-10-15T14:01:05+00:00",
+ "norm": {
+  "organic": [],
+  "features": [],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k15",
+  "q": "tesla stock",
+  "intent": "finance",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

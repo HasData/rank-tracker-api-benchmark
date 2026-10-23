@@ -1,0 +1,99 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:23:58+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "iphone 17 pro price",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 7.96,
+ "bytes": 8156,
+ "seconds": 7.96,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Buy iPhone - Apple",
+    "url": "https://www.apple.com/shop/buy-iphone",
+    "snippet": "iPhone 17. Take a closer look. Buy from $899. Buy ... Get up to $175–$885 in credit toward iPhone Duo or iPhone 18 Pro when you trade in iPhone 13 or higher."
+   },
+   {
+    "pos": 2,
+    "title": "iPhone 17 Pro - Best Buy",
+    "url": "https://www.bestbuy.com/site/all-iphone/iphone-17-pro/pcmcat1757084508699.c?id=pcmcat1757084508699",
+    "snippet": "Front. Apple - iPhone 17 Pro 256GB 6.3\" 5G Fully Unlocked, Silver - · iPhone 17 Pro 256GB 6.3\" 5G Fully Unlocked, - Silver · $1,040.00 ; Front. Apple - iPhone 17 ..."
+   },
+   {
+    "pos": 3,
+    "title": "Buy iPhone 17 Pro | Price, Colors and Plans - AT&T",
+    "url": "https://www.att.com/buy/phones/apple-iphone-17-pro.html",
+    "snippet": "The full retail price is $1,099.99 for the entry storage configuration. The installment price is $9.99/month for 36 months after bill credits, ..."
+   },
+   {
+    "pos": 4,
+    "title": "Apple iPhone 17 Pro: Price, Colors, Specs, Reviews - Verizon",
+    "url": "https://www.verizon.com/smartphones/apple-iphone-17-pro/",
+    "snippet": "Apple iPhone 17 Pro Starts at $30.55. Pro Battery life Typical use: Up to 24 hours. DR display | 6.3‐inch (diagonal) all‐screen"
+   },
+   {
+    "pos": 5,
+    "title": "Apple iPhone 17 Pro: Deals, Features, Specs & Prices - T-Mobile",
+    "url": "https://www.t-mobile.com/cell-phone/apple-iphone-17-pro",
+    "snippet": "Shop the Apple iPhone 17 Pro. Starting at $0 Shop for SIM cards for as low as $0 today. All 48MP Fusion rear 18MP Center Stage front camera."
+   },
+   {
+    "pos": 6,
+    "title": "iPhone - Apple",
+    "url": "https://www.apple.com/iphone/",
+    "snippet": "iPhone 17, and iPhone 17e. Save on a new iPhone with a trade‐in. Get $175–$885 in credit toward iPhone Duo or iPhone 18 Pro when you trade in iPhone 13 or ..."
+   },
+   {
+    "pos": 7,
+    "title": "The iPhone 17 Pro Isn't Meant For Everyone, But You'll Still Buy One ...",
+    "url": "https://www.youtube.com/watch?v=XlBNBfFegsw&vl=en",
+    "snippet": "iphone17pro Aura Layers Wallpaper Pack: https://mtgproductions.gumroad.com/l/auralayers Pitaka Harvard iPhone 17 Pro Case: ..."
+   },
+   {
+    "pos": 8,
+    "title": "Apple iPhone 17 Pro, US Version, 512GB, eSIM, Deep Blue ...",
+    "url": "https://www.amazon.com/Apple-iPhone-Version-Unlocked-Renewed/dp/B0FSBST5KN",
+    "snippet": "Speed 3.7 GHz Memory Storage Capacity 512 GB This phone is unlocked and compatible with any carrier of choice on GSM and CDMA networks. This phone is unlocked ..."
+   },
+   {
+    "pos": 9,
+    "title": "iPhone 17 Pro Hands-On: Higher Price and Newish Design - CNET",
+    "url": "https://www.cnet.com/videos/iphone-17-pro-hands-on-a-higher-price-and-newish-design/",
+    "snippet": "CNET's Patrick Holland goes hands-on with the new iPhone 17 Pro and Pro Max, breaking down everything you need to know about the new design, ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "answer_box",
+   "dmca_message",
+   "organic_results",
+   "people_also_asked_for",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

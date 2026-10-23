@@ -1,0 +1,102 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:23:10+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "web scraping api",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.46,
+ "bytes": 7152,
+ "seconds": 2.46,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "ScrapingBee – The Best Web Scraping API",
+    "url": "https://www.scrapingbee.com/",
+    "snippet": "A web scraping API is a tool that collects data from websites through an API request. You send a URL and get the page HTML, rendered content, or structured data ..."
+   },
+   {
+    "pos": 2,
+    "title": "Firecrawl | Web Data API for AI Agents",
+    "url": "https://www.firecrawl.dev/",
+    "snippet": "Give your AI agents web data and beyond. The web data API to search and scrape with access to more sources through Alexandria.It's also open source."
+   },
+   {
+    "pos": 3,
+    "title": "ScraperAPI: Scale Data Collection with a Simple Web Scraping API",
+    "url": "https://www.scraperapi.com/",
+    "snippet": "Amazon Search Scraper · Amazon Product Scraper · Amazon Offers Scraper"
+   },
+   {
+    "pos": 4,
+    "title": "Best web scraping api's at the moment? : r/webscraping - Reddit",
+    "url": "https://www.reddit.com/r/webscraping/comments/1016j3l/best_web_scraping_apis_at_the_moment/",
+    "snippet": "ScrapeOps is a great service with low prices, we are its happy users. Our average request success rate is 99.8%, their support is very ..."
+   },
+   {
+    "pos": 5,
+    "title": "API scraping | Academy - Apify Documentation",
+    "url": "https://docs.apify.com/academy/api-scraping",
+    "snippet": "API scraping is locating a website's API endpoints, and fetching the desired data directly from their API, as opposed to parsing the data from their rendered ..."
+   },
+   {
+    "pos": 6,
+    "title": "Web Scraping API – Free Plan, 100+ Templates - Decodo",
+    "url": "https://decodo.com/scraping/web",
+    "snippet": "Web Scraping API extracts structured data from websites at scale, combining 100+ pre-built templates with per-request control. Built for developers shipping AI ..."
+   },
+   {
+    "pos": 7,
+    "title": "Scraper APIs Make Your Life Easier... - YouTube",
+    "url": "https://www.youtube.com/watch?v=mGERI9hpW6k",
+    "snippet": "In this video we explore the modern way of Web Scraping, which is using Scraper APIs. No proxies or custom scrapers. No manual maintenance."
+   },
+   {
+    "pos": 8,
+    "title": "Web Scraping API: 5,000 Free Requests, Plans from $19",
+    "url": "https://www.webscrapingapi.com/",
+    "snippet": "Web access APIs · Explore products · Proxy infrastructure · Search engines"
+   },
+   {
+    "pos": 9,
+    "title": "The 9 Best Web Scraping APIs & Tools in 2026 - Bright Data",
+    "url": "https://brightdata.com/blog/web-data/best-web-scraping-apis",
+    "snippet": "The Best Web Scraping APIs, Ranked · 1. Bright Data — Best Overall Web Scraping API · 2. Scrape.do: Best for Speed-Sensitive Workloads · 3. Zyte ..."
+   },
+   {
+    "pos": 10,
+    "title": "Web Scraping API: The Scraper API With a 98% Success Rate",
+    "url": "https://scrapfly.io/products/web-scraping-api",
+    "snippet": "Scrapfly is a production-grade web scraping API, a scraper API that collects public web data at scale with a 98% success rate on the hardest pages. No proxies, ..."
+   }
+  ],
+  "features": [
+   "dmca_message",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k04",
+  "q": "web scraping api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

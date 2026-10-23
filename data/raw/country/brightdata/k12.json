@@ -1,0 +1,95 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T12:58:38+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=dentist&gl=us&hl=en&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 3.54,
+ "bytes": 186904,
+ "seconds": 4.06,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 8,
+    "title": "Find a dentist",
+    "url": "https://www.deltadental.com/member/find-a-dentist/",
+    "snippet": "Find in-network dentists in your area by using your current location or entering a ZIP code manually."
+   },
+   {
+    "pos": 9,
+    "title": "Find A Dentist",
+    "url": "https://smilecalifornia.org/find-a-dentist/",
+    "snippet": "we can help you find a dentist. Call the Telephone Service Center at 1-800-322-6384 for assistance. .m. to 5:00 p.m., Monday through Friday."
+   },
+   {
+    "pos": 10,
+    "title": "Groveland Dental: Dentist St Paul MN",
+    "url": "https://grovelanddental.com/",
+    "snippet": "Call us today at 651-298-0024 to learn more about our services and schedule an appointment. Call us today at 651-298-0024 to schedule your appointment"
+   },
+   {
+    "pos": 11,
+    "title": "Dentist of Long Beach",
+    "url": "https://dentistlongbeach.com/",
+    "snippet": "Dentist of Long Beach offers personalized dental and orthodontic care for all ages. (562) 373-0026. Call (562) 373-0026"
+   },
+   {
+    "pos": 12,
+    "title": "Dentists of Davis: Local Dentist Office in Davis CA",
+    "url": "https://www.dentistsofdavis.com/",
+    "snippet": "If you need family dentistry, oral surgery, or a dental emergency, contact us to make a dental appointment. 4625 Second St Ste 100 Davis, CA 95618 BOOK ..."
+   },
+   {
+    "pos": 13,
+    "title": "American Dental Association: Search for ADA Member ...",
+    "url": "https://findadentist.ada.org/",
+    "snippet": "Find an ADA member dentist in your area. Enter your street address and ZIP code for a list of ADA member dentists near you."
+   },
+   {
+    "pos": 14,
+    "title": "Delta Dental Find a Dentist",
+    "url": "https://www.deltadentalaz.com/forms/find-dentist/",
+    "snippet": "Use the Delta Dental provider search to find in-network dentists near you. Search by location or specialty to find a dentist covered by your plan."
+   },
+   {
+    "pos": 15,
+    "title": "Discover Dentistry",
+    "url": "https://www.adea.org/godental/discover-dentistry",
+    "snippet": "A dentist is a doctor, scientist and clinician dedicated to the highest standards of health through prevention, diagnosis and treatment of oral diseases and ..."
+   },
+   {
+    "pos": 16,
+    "title": "Find a Dentist",
+    "url": "https://www.dentaquest.com/en/find-a-dentist",
+    "snippet": "Find a dentist within the DentaQuest provider network. Search by address, city, county or zip code to find a dentist near you. Use our advanced search to ..."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related",
+   "snack_pack",
+   "snack_pack_map"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

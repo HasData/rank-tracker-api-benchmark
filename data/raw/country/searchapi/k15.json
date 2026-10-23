@@ -1,0 +1,88 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:02:05+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "tesla stock",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 7.12,
+ "bytes": 60688,
+ "seconds": 7.25,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Tesla, Inc. (TSLA)",
+    "url": "https://finance.yahoo.com/quote/TSLA/",
+    "snippet": "Tesla enters Oct. 21. The stock is under pressure, with Yahoo Finance showing a 2.15% regular-session decline as of 2026-10-15. TSLA -2.15% US stock trading is ..."
+   },
+   {
+    "pos": 2,
+    "title": "Tesla: TSLA Stock Price Quote & News",
+    "url": "https://robinhood.com/us/en/stocks/TSLA/",
+    "snippet": "Tesla(TSLA) stock is priced at $377.30, At a current price of $377.30, the stock is +3.8% higher than the low and still +0.4% under the high."
+   },
+   {
+    "pos": 3,
+    "title": "TSLA Stock Price - Tesla, Inc.",
+    "url": "https://www.tradingview.com/symbols/NASDAQ-TSLA/",
+    "snippet": "The current price of TSLA is 367.16 USD — it has decreased by −0.74% in the past 24 hours. TSLA stock has fallen by −1.77% TSLA price has a max estimate of 550 ..."
+   },
+   {
+    "pos": 4,
+    "title": "TSLA - TESLA INC | Stock Quotes from Fidelity Investments",
+    "url": "https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=TSLA",
+    "snippet": "Tesla (TSLA) is trading at 367.16 Open Price 371.16 Previous close 367.16 Previous close 367.16 P/E Ratio 367.4724. Index NASDAQ100,R1000,R3000,SP500"
+   },
+   {
+    "pos": 5,
+    "title": "TSLA: Tesla Inc - Stock Price, Quote and News",
+    "url": "https://www.cnbc.com/quotes/TSLA",
+    "snippet": "Tesla Inc TSLA:NASDAQ EXPORT. Week Low297.38 52. Market Cap1.45T Shares Out3.95B 10 Day … and Financial News, Stock Quotes, and Market Data and Analysis."
+   },
+   {
+    "pos": 6,
+    "title": "Tesla Inc. (TSLA) Stock Price Today - The Wall Street Journal",
+    "url": "https://www.wsj.com/market-data/stock/tsla",
+    "snippet": "Tesla Inc. TSLA • U.S.: Nasdaq $361.36-5.80-1.58% PRE-MARKET|Vol. Designs, manufactures, sells and leases electric vehicles & solar energy generation and ..."
+   },
+   {
+    "pos": 7,
+    "title": "TSLA Stock Price | Tesla Inc. Stock Quote (U.S.: Nasdaq)",
+    "url": "https://www.marketwatch.com/investing/stock/tsla",
+    "snippet": "Nasdaq Tesla Inc. Delayed quote $ 361.30 -5.86 -1.60% Open $371.16 Day Range Volume 37.24M Performance 5 Day -2.09% % Analyst Ratings Sell ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "answer_box",
+   "knowledge_graph",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches",
+   "top_stories"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k15",
+  "q": "tesla stock",
+  "intent": "finance",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:03:14+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "world series",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 38.31,
+ "bytes": 32395,
+ "seconds": 38.44,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "MLB Postseason Digital Publications",
+    "url": "https://www.google.com/goto?url=CAESZgHrOzAVUD58HzzDoN8qL40_IqyK2hRfR-lvladVSpVK0HBkj6BUqbjSiz4vnInt2ZgiwmWr-q0jB_iqQagGXvan9FGgE7_O6ktxbpzOLY6g4B88gLM1fdug_5YFdhlECBo2psPMuw",
+    "snippet": "3 days ago — The 2025 Official MLB World Series Program digital edition is here. Read the stories, view the team sections, print the scorecards at home!",
+    "host": "www.mlb.com"
+   },
+   {
+    "pos": 2,
+    "title": "MLB Events: Draft, All-Star Game, World Series",
+    "url": "https://www.google.com/goto?url=CAESVQHrOzAVXNhyE97F-JPkAKa6f_csfnJtK0xQUApUoH8cGZXvZtADBmMKdnjuGbm4M0ikBe5asatT6n8f-5IyF0WfE7rGr5ReGoz_5uEQsIkd_WOfP_4",
+    "snippet": "The best-of-seven World Series presented by Capital One will air live on FOX and FOX One from October 23-31. March 5-17, 2026.",
+    "host": "www.mlb.com"
+   },
+   {
+    "pos": 3,
+    "title": "2023 World Series",
+    "url": "https://www.google.com/goto?url=CAESagHrOzAV2MHFmcZvT-gvJGIdL-eAtbrNsQ7udMUB_NinksRP2LYfFTEFeFz9_XnSpWo1Uqz7k0LaXmHliFA-CUGgpDi_CrrZUsuFP85O6eiDIvbFxNdNAG0JtU20rk5KT62ZLwWPbUrl5Y0",
+    "snippet": "The 2023 World Series was the championship series of Major League Baseball's (MLB) 2023 season, and the 119th edition of the World Series.",
+    "host": "en.wikipedia.org"
+   },
+   {
+    "pos": 4,
+    "title": "2026 World Series - Major League Baseball",
+    "url": "https://www.google.com/goto?url=CAESZgHrOzAVxxvMd3zZTGsMP3dLtAjbuKJHn0VXMvOZxbK_NHZ_-7tqoBGy1KEsHsrywo-89FFyWqbBnSNFuFgdFxCQCxA3owOr5tgvPh0ToxarslBJ7VL5mnmgJ1NjwLZirPKTnhu62w",
+    "snippet": "Get the latest news, live coverage, scores and information for the 2026 World Series on CBSSports.com.",
+    "host": "www.cbssports.com"
+   },
+   {
+    "pos": 5,
+    "title": "ELI5: MLB Getting to the World Series : r/explainlikeimfive",
+    "url": "https://www.google.com/goto?url=CAESnAEB6zswFQ2ND1MA17C7lzLUnR4-3Ml3Os6RdBQxRGQWa7eQB-o8xaVzgkqtnC9PTNIfx5UEmJaoqC-qvjBey7bv8nC22XSvBJ1kjn5Gn4vZy86tr4H0sMfG7lz8nDYNnsD-xoKmADnBHDD6ou0dEJJLdnFUOPnOvikgVrdFO1V6MQxxRsRB-CP0HO-gR86PeZFJrJvqP0AKs6eW_sM",
+    "snippet": "The winner of the championship series then makes the World Series. It is a bracket, currently of 12 teams. There are two leagues, American ...",
+    "host": "10+ comments  ·  3 years ago"
+   },
+   {
+    "pos": 6,
+    "title": "2018 World Series",
+    "url": "https://www.google.com/goto?url=CAESagHrOzAVKkK8zF_Ou0MOE_XyImhDsjjC1JWJLSGjmGgy5P8BKwy9AqKvX813FUeEsVoCZHDHDQdOlKfwVx-3wDD84FvT6kpC6AgXY_v3uwAfKKB9l5tHEqwBNlHhYq2cbQuefT9G8djARFc",
+    "snippet": "The Red Sox defeated the Dodgers in five games to win their fourth World Series title in 15 years dating back to 2004, and their ninth in franchise history.",
+    "host": "en.wikipedia.org"
+   },
+   {
+    "pos": 7,
+    "title": "MLB Scores: Scoreboard, Results and Highlights",
+    "url": "https://www.google.com/goto?url=CAESVQHrOzAV9WjwWgWsOJfSqBykqDODztawKSOOyj8R2wr9vGhJ_xvzbFw1Nw-hzsKEiLI8fOM4j8vP7ay4UHCNrJOQUxXz7Ys_xvkaqqKR4OHD7_SsnhM",
+    "snippet": "Get up-to-date MLB scores from today's games, as well as scores from all the 2026 MLB season games.",
+    "host": "www.mlb.com"
+   }
+  ],
+  "features": [
+   "knowledge_graph",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k16",
+  "q": "world series",
+  "intent": "news, sports",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

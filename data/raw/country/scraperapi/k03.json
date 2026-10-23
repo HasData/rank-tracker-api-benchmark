@@ -1,0 +1,96 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:46:33+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "google search api",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 26.67,
+ "bytes": 11158,
+ "seconds": 26.78,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Custom Search JSON API | Google for Developers",
+    "url": "https://developers.google.com/custom-search/v1/overview",
+    "snippet": "Feb 18, 2026 — The Custom Search JSON API lets you develop websites and applications to retrieve and display search results from Programmable Search Engine ...Read more"
+   },
+   {
+    "pos": 2,
+    "title": "Google Custom Search API is closing. Need affordable ...",
+    "url": "https://www.google.com/goto?url=CAESmgEB6zswFeweaEgXIecBpltbySX0nuYPb2x10M0NjuHzQOco5USWe7rHd6wD3RlQrxyZkkykibzO0JsGoFVz2WiTVRT8m1lbQNyyziWK9TQr_a0eyCpUPGAraF2aYTCBN3AP_wSItNqPeWxf2tY9YYRu0-eTgw_6ZnztfqadEjyQx6JqAITOslkGjAMr3IzpirmZg7dvbiD3iCbx",
+    "snippet": "Google Custom Search API is closing. Google's overview page says the Custom Search JSON API is closed to new customers, and existing customers ...",
+    "host": "20+ comments  ·  8 months ago"
+   },
+   {
+    "pos": 3,
+    "title": "SerpApi: Google Search API",
+    "url": "https://www.google.com/goto?url=CAESTwHrOzAVghb_U3QOXGpLwk0QGx-wDnG6tl2H5M58Aw-ee1XI5dKHXaK6RiP7TmRWOYYKUivAtMEeDQAc37jK_xYw29cM8Y5a92T17rKXw8E",
+    "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you.",
+    "host": "serpapi.com"
+   },
+   {
+    "pos": 4,
+    "title": "Google Search API for real-time SERP scraping",
+    "url": "https://www.google.com/goto?url=CAESVAHrOzAVW0y3t18_YAx1_FyQdz4NUYFtUBrGL0QQIcLdtRHrjgboFDLymKSsD_iJzUvX8OYPq7k5kdokvyqsyTZn6QPZBmlPOjhNV2wyfgNKEx_HyQ",
+    "snippet": "Our Google Search API provides a wealth of data including organic search results, paid search results, knowledge graph entries, local map listings,",
+    "host": "www.searchapi.io"
+   },
+   {
+    "pos": 5,
+    "title": "Google Search Console API – APIs & Services",
+    "url": "https://console.cloud.google.com/apis/library/searchconsole.googleapis.com",
+    "snippet": "The Search Console API provides access to both Search Console data (verified users only) and to public information on an URL basis (anyone)"
+   },
+   {
+    "pos": 6,
+    "title": "All You Need to Know About the Official Google Search API ...",
+    "url": "https://www.google.com/goto?url=CAESwwEB6zswFQLH3awyL0dgL8w_m-25XLFBe5KJ17i8xWdWzke9adZAhpMdaIUKWdRGmcYkjDhNqq9LPCZFIjghplN7dKCmQkQcHhhWCA67kU7G5ywbM0QbEIKCGO2KdPV68fyN9sAC6L4_q35cKCOqaFn6Yp48-k9lepp8flK_b_GmFQl0ll3E6EfV-Fa6oRRftHetlem8xTbpdPIrdgqL8ZF96pm5AU55bxOiLjJlUs39CZqNyp8adaw8ZDabN4zsPMvm1r0",
+    "snippet": "Google Search API is the official API for retrieving search results in a structured format. It lets you send a search query. It is meant for ...",
+    "host": "1 like  ·  9 months ago"
+   },
+   {
+    "pos": 7,
+    "title": "Programmable Search Engine by Google",
+    "url": "https://programmablesearchengine.google.com/about/",
+    "snippet": "Help people find what they need on your website. Add a customizable search box to your web pages and show fast, relevant results powered by Google."
+   },
+   {
+    "pos": 8,
+    "title": "How do I get web search results using an api?",
+    "url": "https://support.google.com/websearch/thread/135474043/how-do-i-get-web-search-results-using-an-api?hl=en",
+    "snippet": "Nov 15, 2021 — What we need is a method to do a Google Search with a term and then get the results back in a format that can be read e.g. XML or JSON.Read more"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k03",
+  "q": "google search api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

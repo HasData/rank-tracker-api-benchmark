@@ -1,0 +1,99 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:21:02+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 0.93,
+ "bytes": 59491,
+ "seconds": 0.93,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "The Pittsburg Home Depot in Pittsburg, KS, 66762 | Hours, Directions & Curbside",
+    "url": "https://www.homedepot.com/l/Pittsburg/KS/Pittsburg/66762/2220",
+    "snippet": "Save time on your trip to the Home Depot by scheduling your order with buy online pick up in store or schedule a delivery directly from your Pittsburg store ..."
+   },
+   {
+    "pos": 2,
+    "title": "Home Improvement at The Home Depot in Pittsburg, KS",
+    "url": "https://www.homedepot.com/l/KS/Pittsburg/KS1yHAa9",
+    "snippet": "Get directions, hours, and services -Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm. We proudly serve Pittsburg, Kansas, for all things home improvement!"
+   },
+   {
+    "pos": 3,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm … calling 1-888-266-7228."
+   },
+   {
+    "pos": 4,
+    "title": "The Lawrence Home Depot in Lawrence, KS, 66046 | Rentals, Garden, Home Services & More",
+    "url": "https://www.homedepot.com/l/Lawrence/KS/Lawrence/66046/2211",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 1910 West 31st St Lawrence, KS 66046"
+   },
+   {
+    "pos": 5,
+    "title": "Home Improvement at The Home Depot in Kansas City, MO",
+    "url": "https://www.homedepot.com/l/MO/Kansas-City/MOKR0Psh",
+    "snippet": "Get directions, hours, and services. Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm. Kansas City, Missouri,"
+   },
+   {
+    "pos": 6,
+    "title": "The Topeka Home Depot in Topeka, KS 66604",
+    "url": "https://www.homedepot.com/l/Topeka/KS/Topeka/66604/2207",
+    "snippet": "(785)228-4490. Store Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 8:00am - 8:00pm. Curbside: 09:00am - 6:00pm. Location. 5900 Sw Huntoon St. Topeka, KS 66604."
+   },
+   {
+    "pos": 7,
+    "title": "Find Everything You Need at The Home Depot - Frankfort, KS",
+    "url": "https://www.homedepot.com/l/KS/Frankfort/KSykrlPZ",
+    "snippet": "Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm View Garden Center"
+   },
+   {
+    "pos": 8,
+    "title": "Home Services at The Home Depot, 3001 N Broadway, Pittsburg, KS 66762, US",
+    "url": "https://www.mapquest.com/us/kansas/home-services-at-the-home-depot-425057331",
+    "snippet": "Hours Open until 9 pm Sun 8 am - 8 pm Mon 6 am - 9 pm Tue 6 am - 9 pm Wed 6 am - 9 pm Thu 6 am - 9 pm Fri 6 am - 9 pm Sat 6 am - 9 pm"
+   },
+   {
+    "pos": 9,
+    "title": "Home Improvement at The Home Depot in Tulsa, OK",
+    "url": "https://www.homedepot.com/l/OK/Tulsa/OKei9vi7",
+    "snippet": "Get directions, hours, and services and plan your visit today! Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

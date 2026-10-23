@@ -1,0 +1,95 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:12:50+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "amazon scraper api",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.06,
+ "bytes": 24652,
+ "seconds": 2.19,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "How to scrape Amazon product data using Python (+ no-code)",
+    "url": "https://blog.apify.com/scrape-amazon-product-data/",
+    "snippet": "Learn how to use Amazon Product Scraper to retrieve product data from Amazon in a Python script via API integration."
+   },
+   {
+    "pos": 2,
+    "title": "Amazon Scraper - Web Scraping Amazon Product Data",
+    "url": "https://www.realdataapi.com/amazon-product-data-scraper.php",
+    "snippet": "Use the Amazon Product Data Scraper to extract detailed product information, including pricing, customer reviews, ratings, product descriptions, and ASINs,"
+   },
+   {
+    "pos": 3,
+    "title": "scrapeless-ai/amazon-scraper: Scrape Amazon product, search, ...",
+    "url": "https://github.com/scrapeless-ai/amazon-scraper",
+    "snippet": "Scrape Amazon product, search, price, rating, and review data through the Scrapeless Scraper API for ecommerce research, price monitoring, and marketplace ..."
+   },
+   {
+    "pos": 4,
+    "title": "Free Amazon Scraping API Recommendation: The Ultimate ...",
+    "url": "https://www.pangolinfo.com/free-amazon-scrape-api-2/",
+    "snippet": "The Free Amazon Scrape API is an essential tool for small and medium-sized e-commerce sellers and developers. This guide explains how to use Pangolin API"
+   },
+   {
+    "pos": 5,
+    "title": "Best Amazon Scraper APIs for 2026",
+    "url": "https://iproyal.com/blog/best-amazon-scraper-apis/",
+    "snippet": "Apify, ZenRows, ScraperAPI, and ScrapingBee offer some of the best Amazon scraper APIs. A good rule of thumb for choosing Amazon data extraction ..."
+   },
+   {
+    "pos": 6,
+    "title": "drawrowfly/amazon-product-api: Amazon Scraper. Scrape ...",
+    "url": "https://github.com/drawrowfly/amazon-product-api",
+    "snippet": "Scrape products from the amazon search result or reviews from the specific product. Very useful tool that is able to extract almost same amount of data as the ..."
+   },
+   {
+    "pos": 7,
+    "title": "5 Best Amazon Scraping API: Feature, Price, and Reliability",
+    "url": "https://www.scrapeless.com/en/blog/amazon-scraping-api",
+    "snippet": "The Scrapeless Amazon Scraping API is designed to extract data such as product prices, inventory status, rankings, and reviews from Amazon."
+   },
+   {
+    "pos": 8,
+    "title": "Amazon Product Scraper — Prices, Reviews and Ratings",
+    "url": "https://apify.com/automation-lab/amazon-scraper",
+    "snippet": "Scrape Amazon listings across 10 marketplaces. Extract prices, ratings, reviews, Prime status, and availability. No API key needed."
+   },
+   {
+    "pos": 9,
+    "title": "Amazon Product Details Scraper API",
+    "url": "https://apify.com/axesso_data/amazon-product-details-scraper/api",
+    "snippet": "Extract product information without using the Amazon API, including reviews, prices, descriptions, and Amazon Standard Identification Numbers (ASINs). Download ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k08",
+  "q": "amazon scraper api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

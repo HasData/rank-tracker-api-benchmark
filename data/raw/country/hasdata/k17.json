@@ -1,0 +1,96 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T13:04:20+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.83,
+ "bytes": 34869,
+ "seconds": 3.18,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "East Delray Beach #6315",
+    "url": "https://www.homedepot.com/l/East-Delray-Beach/FL/Delray-Beach/33444/6315",
+    "snippet": "Hours Mon-Sat: 6:00am - 11:00pm Sun: 7:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 1400 Waterford Place Delray Beach, FL 33444"
+   },
+   {
+    "pos": 2,
+    "title": "The West Delray Home Depot in Delray Beach, FL 33446",
+    "url": "https://www.homedepot.com/l/West-Delray/FL/Delray-Beach/33446/6325",
+    "snippet": "Hours Mon-Sat: 6:00am - 11:00pm Sun: 7:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 15050 Jog Rd Delray Beach, FL 33446"
+   },
+   {
+    "pos": 3,
+    "title": "The Boca Raton Home Depot in Boca Raton, FL 33434",
+    "url": "https://www.homedepot.com/l/Boca-Raton/FL/Boca-Raton/33434/204",
+    "snippet": "Hours Mon-Sat: 6:00am - 11:00pm Sun: 7:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 9820 Glades Rd Boca Raton, FL 33434"
+   },
+   {
+    "pos": 4,
+    "title": "The Home Depot - 15050 Jog Rd, Delray Beach, Florida",
+    "url": "https://www.yelp.com/biz/the-home-depot-delray-beach",
+    "snippet": "The Home Depot opens at 6:00 AM on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday.The Home Depot opens at 7:00 AM on Sunday. - 11:00 PMSun 7:00 AM - ..."
+   },
+   {
+    "pos": 5,
+    "title": "Home Improvement at The Home Depot in W Delray Bch, FL",
+    "url": "https://www.homedepot.com/l/FL/W-Delray-Bch/FLqf9s2t",
+    "snippet": "Mon-Sat: 6:00am - 11:00pm Sun: 7:00am - 8:00pm"
+   },
+   {
+    "pos": 6,
+    "title": "Home Improvement at The Home Depot in Delray Beach, FL",
+    "url": "https://www.homedepot.com/l/FL/Delray-Beach/FLk6aUKU",
+    "snippet": "Mon-Sat: 6:00am - 11:00pm Sun: 7:00am - 8:00pm"
+   },
+   {
+    "pos": 7,
+    "title": "The Home Depot | Delray Beach FL",
+    "url": "https://www.facebook.com/Home.Depot.West.Del.Ray.Fl/",
+    "snippet": "Open now 15050 Jog Rd, Delray Beach, FL, United States, 33446 (561) 498-1251"
+   },
+   {
+    "pos": 8,
+    "title": "Home Improvement at The Home Depot in Boca Raton, FL",
+    "url": "https://www.homedepot.com/l/FL/Boca-Raton/FLIWOWEe",
+    "snippet": "Check out the nearest 6 Home Depot locations in Boca Raton, FL. View hours, services, and directions to Deerfield Beach, Boca Raton, & more."
+   },
+   {
+    "pos": 9,
+    "title": "The Home Depot - 1400 Waterford Pl, Delray Beach, Florida",
+    "url": "https://www.yelp.com/biz/the-home-depot-delray-beach-6",
+    "snippet": "THE HOME DEPOT, 1400 Waterford Pl, Delray Beach, FL 33444, 39 Photos, (954) 978-6100, Mon - 6:00 am - 11:00 pm, Tue - 6:00 am - 11:00 pm, ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

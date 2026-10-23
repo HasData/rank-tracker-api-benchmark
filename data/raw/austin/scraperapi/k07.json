@@ -1,0 +1,100 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:26+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "google maps scraper",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 9.58,
+ "bytes": 11471,
+ "seconds": 9.6,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Google Maps Scraper - Free Tier",
+    "url": "https://www.google.com/goto?url=CAESZgHrOzAV-7Yx-qACCMlVYYdDAruc8iaDBw_rIQBwmgnORowGPzIcUFRPR438FDVbkpTIbj_Dbmq6d9m7rfGdrq0INGDt-X-bYa2_bJoTG9WefeVEU8kM1WtsgKqPufChslpjhQOLyA",
+    "snippet": "Scrape Google Maps data in seconds. Outscraper's Google Maps Scraper lets you extract business names, emails, phone numbers, reviews & ratings.",
+    "host": "outscraper.com"
+   },
+   {
+    "pos": 2,
+    "title": "Google Maps Scraper",
+    "url": "https://www.google.com/goto?url=CAESagHrOzAVV2eKYAEY_lBVYJz0h-NiVt5DRm71NlAjbCOPjf8zjt3LrNk9BFdiZJIwqYRGoMiD51Mz25ejYlP7IgJcUFKxFIIV3BlN-0XHaSJyIyG8_YS1olqp0FwqJnhabdAf3sFbvSfI_tk",
+    "snippet": "Google Maps Scraper lets you extract business data from Google Maps, helping you generate leads, analyze competitors, and fuel growth with just a few clicks.Read more",
+    "host": "apify.com"
+   },
+   {
+    "pos": 3,
+    "title": "gosom/google-maps-scraper: scrape data ...",
+    "url": "https://www.google.com/goto?url=CAESZwHrOzAV5fkyeezGgqssMQnBZQv5m6Xn0XfT0Mz-JIZL8MY-WEWqIlsYSe9iqGWaPD7g4nTsXQNl4Jgk7pyPqlZfJVtIViczXfZ58vT2aixjweVErOQDu9CuYaQ9W85U6HEYgD_-UWk",
+    "snippet": "The easiest way to use Google Maps Scraper is with an AI coding agent such as Claude Code, Codex, Cursor, GitHub Copilot, or any Agent Skills-compatible tool.Read more",
+    "host": "github.com"
+   },
+   {
+    "pos": 4,
+    "title": "Maps Scraper & Map data extractor - Chrome Web Store",
+    "url": "https://chromewebstore.google.com/detail/maps-scraper-map-data-ext/ofbhiclojhjkggpnapcnjjjdjlgcikdf?hl=en-US",
+    "snippet": "A scraping tool for map business leads, one click to extract data from Bing Maps, includes phone number, email, social media."
+   },
+   {
+    "pos": 5,
+    "title": "Best Google Maps scraping tools for local business leads?",
+    "url": "https://www.google.com/goto?url=CAESkwEB6zswFf7WcxeozyydqL6XFB-NNAllMjIIDlkqwzhrMvx7oT_gwbqJQVzR9DWmMl0mX6XpnqiXpZHz2QQcv7yYiTunLlXCXZ4d_h1iGCYIFC3i5E1gwWsd1fltakxM8M953ijYM7Nyvy4nVXXFENL1o5ObZin7ATxSmEtBpWAU7Han-OvZ4QWCP9qug5jevApfT4c",
+    "snippet": "I’m trying to help my sister grow her small business and reach more local customers. I came across the idea of using Google Maps scraper to build a ...",
+    "host": "70+ comments  ·  5 months ago"
+   },
+   {
+    "pos": 6,
+    "title": "Scrap.io: Google Maps Scraper - Local Lead Generation",
+    "url": "https://www.google.com/goto?url=CAESTAHrOzAVH4XD9GMjxWl2yQHA28DtCqOFZisTwNKJLIpPXzsGLzHSZy4mXDpCH5gKn5ngAbDAXXFu7qE_oB8bYP5xo8p_VFVtUwTWbvs",
+    "snippet": "Scraper Google Maps, Apple Maps and Bing Maps. Extract business data, emails, phone numbers and more from 195 countries. Try free for 7 days.",
+    "host": "scrap.io"
+   },
+   {
+    "pos": 7,
+    "title": "Google Maps Scraper: Free & Easy to Use | G Maps Extractor",
+    "url": "https://www.google.com/goto?url=CAESVgHrOzAVoGV7_fYLLmVkrWBBWLaw_v_lHGsaVXyl99ZxNhX6853IE_G2ArWyNnmdmdsHcIq4z3qk6U_y5JNQCe-rtV20YGjN_hadtU9RLVEiGtMdgiL9",
+    "snippet": "Google Maps Scraper extracts business data from Google Maps and exports CSV files with reviews, photos, phone numbers, emails, and social profiles.",
+    "host": "gmapsextractor.com"
+   },
+   {
+    "pos": 8,
+    "title": "Google Maps Scraper | Octoparse Templates",
+    "url": "https://www.google.com/goto?url=CAESewHrOzAVwzcwCCI-eL8e7TeCNKiLpNq95E12evUBHZaODJjrzBuHFTQJMLSHzl639teplHiozco4WnvA8fv-T-KfpEssGSC8rqLUY9yBzVICdJsEqxUrqqHDpoXMFyOGbi00BpsqVYilVcERMJaz7dMV1xNQ7Lx9R9r99g",
+    "snippet": "Octoparse Google Maps Reviews Scraper allows you to scrape reviews, ratings, and reviewers' names, URLs, times, etc. Just enter the Google Maps place detailed ...Read more",
+    "host": "www.octoparse.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k07",
+  "q": "google maps scraper",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

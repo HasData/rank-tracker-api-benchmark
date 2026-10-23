@@ -1,0 +1,100 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:11+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.53,
+ "bytes": 51376,
+ "seconds": 3.77,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Affordable Dentist in , | Midwest Dental",
+    "url": "https://midwest-dental.com/dental-office/union-",
+    "snippet": "My goal is to provide ethical, high-quality and safe treatment in a caring, comfortable and non-judgmental manner."
+   },
+   {
+    "pos": 2,
+    "title": "Top 10 Best Dentist Near San Luis Obispo, California (Updated 2026)",
+    "url": "https://m.yelp.com/search?find_desc=Dentist&find_loc=San+Luis+Obispo%2C+CA",
+    "snippet": "These are some highly rated dentists in San Luis Obispo, CA: Krueckel Jeffrey S Dnst (5/5) SLO Endodontics (5/5) Coast Periodontics (5/5) Frank J Daniel, DDS ( ..."
+   },
+   {
+    "pos": 3,
+    "title": "California Dentist Directory - Browse Dentists in California, Maryland",
+    "url": "https://www.patientconnect365.com/DirectorySearch?DirectorySearch.DentalNeeds=-1&DirectorySearch.ZipCode=20619&DirectorySearch.Insurance=-1&DirectorySearch.PageIndex=1",
+    "snippet": "Gentle Green Dental Care LLC46400 Lexington Village Way Suite 101, Lexington Park, Maryland, 20653. 5.0. •40 reviews."
+   },
+   {
+    "pos": 4,
+    "title": "Request an Appointment | Easy Scheduling - The Dental Team",
+    "url": "https://www.thedentalteam.com/consultation/",
+    "snippet": "Schedule your dental visit with The Dental Team. Request an appointment online or call us for same-day, emergency, and routine care. (303) 659-1064"
+   },
+   {
+    "pos": 5,
+    "title": "TOP 10 BEST Dentists in Klamath Falls, OR - Updated 2026",
+    "url": "https://m.yelp.com/search?find_desc=Dentists&find_loc=Klamath+Falls%2C+OR",
+    "snippet": "These are some highly rated dentists in Klamath Falls, OR: Smith Andrew /5) Timothy J. Moore, DDS & Dr. Marisa S. Fox, DMD (5/5) Foothills Dental (5/5) McAtee ..."
+   },
+   {
+    "pos": 6,
+    "title": "Find the Best Dentists Near Me in Kettering, OH",
+    "url": "https://www.opencare.com/dentists/kettering-oh/",
+    "snippet": "Featured Dentists in Kettering · Gamber Family Dental · Dr. Matthew A. Kowaleski, DMD · Dr. Gerald D. Brown, DDS · Dr. Erickson C. Callejo, DDS · Dr. Jonathan W ..."
+   },
+   {
+    "pos": 7,
+    "title": "Find the Best Dentists Near Me in Evansville, IN – Book Instantly",
+    "url": "https://www.tebra.com/care/dentists/evansville-in/",
+    "snippet": "Find & compare top-rated Dentists near you in Evansville, IN, and make an appointment instantly. Learn which providers take your insurance."
+   },
+   {
+    "pos": 8,
+    "title": "White Dental Studio",
+    "url": "https://bookit.dentrixascend.com/v1/view/organization/4760/index.html?amp;mode=externalLink",
+    "snippet": "1414 W. Chicago Ave Chicago, IL 60642-5407. info@whitedentalstudio.com · Website. (773) 609-4483. Book Appointment. Providers. I. Ivana B. Hygienist."
+   },
+   {
+    "pos": 9,
+    "title": "TOP 10 BEST Dentists near Racine, OH - Updated 2026",
+    "url": "https://m.yelp.com/search?find_desc=Dentists&find_loc=Racine%2C+OH",
+    "snippet": "Best Dentists near Racine, OH · Margie Lawson J · Kayanna M Sayre-Poe, DDS · Lawson J Margie DDS · Lawson J Margie · Hairston Family Dentistry · Smith Randy ..."
+   },
+   {
+    "pos": 10,
+    "title": "Patient Special",
+    "url": "https://www.mint32dental.com/patient-special",
+    "snippet": "Your Family Dentist In Oviedo. Dr. Riano has a passion for oral health and happy smiles and is proud to serve the community of Oviedo."
+   }
+  ],
+  "features": [
+   "ads",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "device": "mobile"
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:11:27+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=seo+api&gl=us&hl=en&brd_mobile=1&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 1.33,
+ "bytes": 209,
+ "seconds": 1.34,
+ "error": null,
+ "norm": {
+  "organic": null,
+  "features": null,
+  "aio_present": null
+ },
+ "item": {
+  "id": "k06",
+  "q": "seo api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

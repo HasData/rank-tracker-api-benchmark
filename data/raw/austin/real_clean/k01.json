@@ -1,0 +1,114 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T13:57:48+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "keyword ranking api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 28.93,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Keyword.com Rank Tracker API – Build dashboards, ...",
+    "url": "https://keyword.com/",
+    "host": "keyword.com",
+    "crumb": "https://keyword.com › rank-tracker-api",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "SerpApi: SEO",
+    "url": "https://serpapi.com/",
+    "host": "serpapi.com",
+    "crumb": "https://serpapi.com › use-cases › seo",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "6 Best Rank Tracker APIs Tested in 2026 (Speed, Pricing & ...",
+    "url": "https://www.scrapingdog.com/",
+    "host": "www.scrapingdog.com",
+    "crumb": "https://www.scrapingdog.com › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "What's the best API provider to get the keyword any ...",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/SEO",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Rank Tracking API - 5K requests/Month for Free",
+    "url": "https://brightdata.com/",
+    "host": "brightdata.com",
+    "crumb": "https://brightdata.com › Products › SERP API",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Keyword Research API: Access Keyword Data for Search ...",
+    "url": "https://seranking.com/",
+    "host": "seranking.com",
+    "crumb": "https://seranking.com › keyword-research-api",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "9 Best Rank Tracking APIs for Accurate Keyword ...",
+    "url": "https://www.link-assistant.com/",
+    "host": "www.link-assistant.com",
+    "crumb": "https://www.link-assistant.com › SEO Blog › Google SEO",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Rank Tracking API",
+    "url": "https://www.seoclarity.net/",
+    "host": "www.seoclarity.net",
+    "crumb": "https://www.seoclarity.net › ranking-data-api",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "Rank Tracking API: Monitor All Your Keyword Rankings",
+    "url": "https://mangools.com/",
+    "host": "mangools.com",
+    "crumb": "https://mangools.com › api › rank-tracking-api",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "Sponsored result",
+   "SerpApi: SEO Rank Tracking API",
+   "My Ad Center",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k01",
+  "q": "keyword ranking api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

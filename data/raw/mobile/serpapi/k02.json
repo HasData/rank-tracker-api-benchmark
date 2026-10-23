@@ -1,0 +1,92 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:09:37+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "best serp api",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 0.92,
+ "bytes": 60714,
+ "seconds": 1.0,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "10 Best SERP APIs in 2026 to Scale Data Extraction from Google Search",
+    "url": "https://www.scrapingdog.com/blog/best-serp-apis/",
+    "snippet": "Scrapingdog – Best overall SERP API with the fastest response time (1.83s), high scalability, and low cost at scale. Serper – Performance- ..."
+   },
+   {
+    "pos": 2,
+    "title": "The 5 Best SERP APIs for 2026",
+    "url": "https://proxyway.com/best/serp-api",
+    "snippet": "The Best SERP APIs · 1. Oxylabs · 2. ScrapingBee · 3. Decodo (formerly Smartproxy) · 4. ScraperAPI · 5. Zyte API · 6. Apify · 7. NetNut."
+   },
+   {
+    "pos": 3,
+    "title": "Best SERP APIs 2026: 9 Tested on Cost, AI and Tracking",
+    "url": "https://cloro.dev/blog/best-serp-apis/",
+    "snippet": "SerpApi is among the best SERP APIs for raw engine breadth, covering a long tail of vertical and regional engines at the same parsing depth."
+   },
+   {
+    "pos": 4,
+    "title": "7 Best Google SERP Scrapers in 2026 (Tested & Ranked)",
+    "url": "https://chat4data.ai/blog/google-serp-scrapers",
+    "snippet": "Looking for the best Google SERP scraper in 2026? We tested 7 tools: Chat4Data, SerpAPI, Oxylabs, and more, and ranked them by accuracy, ..."
+   },
+   {
+    "pos": 5,
+    "title": "Best SERP API: Top Picks for SEO, AI and Tracking",
+    "url": "https://www.olostep.com/blog/best-serp-api",
+    "snippet": "Best SERP API compared for SEO, AI, and rank tracking. See the 10-query test to spot bad data, lower costs, and choose the right tool."
+   },
+   {
+    "pos": 6,
+    "title": "The 16 Best SERP and Web Search APIs of 2026",
+    "url": "https://brightdata.com/blog/web-data/best-serp-apis",
+    "snippet": "Compare the 16 best SERP and web search APIs of 2026 on pricing, features, search engines, and AI integration to find the right tool for your needs."
+   },
+   {
+    "pos": 7,
+    "title": "Best SERP APIs in 2026: Official Google Alternatives & Third-Party Providers",
+    "url": "https://scrapfly.io/blog/posts/google-serp-api-and-alternatives",
+    "snippet": "Scrapfly is the best SerpApi alternative when cost per request matters at volume. SerpApi's Searcher plan bills $725/month for 100,000 searches; the same ..."
+   },
+   {
+    "pos": 8,
+    "title": "SerpApi Alternatives: Best Web Search APIs in 2026",
+    "url": "https://serpapi.com/blog/serpapi-alternatives-best-web-search-apis/",
+    "snippet": "Best Web Search API Options · 1. SerpApi · 2. Brave Search API · 3. Exa · 4. Tavily. Tavily takes a different approach. It aggregates content ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "discussions_and_forums",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k02",
+  "q": "best serp api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

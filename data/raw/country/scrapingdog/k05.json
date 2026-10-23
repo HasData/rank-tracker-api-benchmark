@@ -1,0 +1,102 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:23:12+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "rank tracker api",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.68,
+ "bytes": 7302,
+ "seconds": 3.7,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Keyword.com Rank Tracker API – Build dashboards, automate ...",
+    "url": "https://keyword.com/rank-tracker-api/",
+    "snippet": "Keyword.com's Rank Tracker API gives agencies programmatic access to Google keyword ranking data. Pull position data, SERP history, and CPC metrics directly ..."
+   },
+   {
+    "pos": 2,
+    "title": "Rank Tracking API - 5K requests/Month for Free - Bright Data",
+    "url": "https://brightdata.com/products/serp-api/rank-tracking",
+    "snippet": "Rank tracker API retrieves real-time keyword ranks from any major search engine and with city level targeting. Free trial."
+   },
+   {
+    "pos": 3,
+    "title": "Introduction - the Similarweb API Documentation",
+    "url": "https://developers.similarweb.com/docs/rank-tracking-api-introduction",
+    "snippet": "The Daily Rank Tracking API provides access to daily website ranking data based on specified parameters. Monitor daily website ranking performance."
+   },
+   {
+    "pos": 4,
+    "title": "Rank Tracking App - DataForSEO",
+    "url": "https://dataforseo.com/solutions/rank-tracking-app",
+    "snippet": "Rank Tracker is the primary tool used by website owners and SEO professionals to monitor search engine rankings of website pages for specific keywords."
+   },
+   {
+    "pos": 5,
+    "title": "Best Rank Tracker API in 2026: Tested & Compared (Speed + Pricing)",
+    "url": "https://www.scrapingdog.com/blog/rank-tracker-api/",
+    "snippet": "How We Will Test Each Rank... · Testing the API · Which Rank Tracker API..."
+   },
+   {
+    "pos": 6,
+    "title": "Rank Tracking API: Google Positions + SERP Monitoring JSON - cloro",
+    "url": "https://cloro.dev/use-cases/rank-tracking/",
+    "snippet": "cloro's rank tracking API returns Google SERP positions, AI Overview, and SERP-change data as JSON — one call, every feature. Rank tracker API from $30/mo."
+   },
+   {
+    "pos": 7,
+    "title": "GitHub - hilmanski/rank-tracker-api: Find the ranking position of your ...",
+    "url": "https://github.com/hilmanski/rank-tracker-api",
+    "snippet": "Track your website rankings accross different search engines. How to build a Rank Tracker API. Find the ranking position of your website across different ..."
+   },
+   {
+    "pos": 8,
+    "title": "9 Best Rank Tracking APIs for Accurate Keyword Tracking in 2026",
+    "url": "https://www.link-assistant.com/news/best-rank-tracking-apis.html",
+    "snippet": "8 best rank tracking APIs in 2026 · 1. SE Ranking · 2. HasData · 3. SerpAPI · 4. DataForSEO · 5. Zenserp · 6. ScaleSERP · 7. SerpWow · 8. ScrapingDog."
+   },
+   {
+    "pos": 9,
+    "title": "Best Rank Tracking APIs for Developers & Agencies - ScrapingBee",
+    "url": "https://www.scrapingbee.com/blog/best-rank-tracker-apis/",
+    "snippet": "Shortlist: Top Rank Tracker... · Compare the Best Rank... · Food for Thought"
+   },
+   {
+    "pos": 10,
+    "title": "Rank Tracker | Ahrefs for Developers",
+    "url": "https://docs.ahrefs.com/en/api/reference/rank-tracker",
+    "snippet": "API/. Rank Tracker. Rank tracker. Base URL https://api.ahrefs.com/v3/rank-tracker. Version3.0.0. Endpoints6. Overview. Data from overview. GETOverview/overview ..."
+   }
+  ],
+  "features": [
+   "dmca_message",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k05",
+  "q": "rank tracker api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

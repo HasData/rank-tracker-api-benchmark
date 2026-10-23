@@ -1,0 +1,97 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:57:04+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "pizza near me",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.97,
+ "bytes": 166404,
+ "seconds": 4.23,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "THE 10 BEST Pizza Places in Sarasota (Updated 2026)",
+    "url": "https://www.tripadvisor.ca/Restaurants-g34618-c31-Sarasota_Florida.html",
+    "snippet": "Pizza in Sarasota · 1. Eleni's Pizza Works. 4.7. 4.7 of 5 bubbles · 2. Solorzano's Pizza Express Gulf Gate. 4.5. 4.5 of 5 bubbles · 3. Flavio's."
+   },
+   {
+    "pos": 2,
+    "title": "THE BEST 10 PIZZA PLACES NEAR SARASOTA, FL 34237",
+    "url": "https://www.yelp.com/search?cflt=pizza&find_loc=Sarasota%2C+FL+34237",
+    "snippet": "The Best 10 Pizza Places near Sarasota, FL 34237 · 1. Atmosphere · 2. DAN APIZZ' MAN New Haven Style · 3. Solorzano's Pizza - Webber Street · 4. Fat Daddio's Pizza."
+   },
+   {
+    "pos": 3,
+    "title": "TOP 10 BEST Pizza near Greater Arlington, Jacksonville, FL",
+    "url": "https://www.yelp.com/search?find_desc=Pizza&find_loc=Greater+Arlington%2C+Jacksonville%2C+FL",
+    "snippet": "Best Pizza near Greater Arlington, Jacksonville, FL ; 1. Vito's Pizza and Restaurant · (240 reviews). 0.6 mi ; 2. Pizzaro Italian Cuisine · (50 reviews). 4.8 mi ; 3."
+   },
+   {
+    "pos": 4,
+    "title": "Best Pizza Places in Hutchinson 2026",
+    "url": "https://slicelife.com/pizza-delivery/ks-hutchinson",
+    "snippet": "Find the best pizza places for delivery in Hutchinson 2026. 4.3 216 N Main St, Hutchinson, KS 67501. Free Pizza Delivery Near You (844) 880-2346 (844) 880-2346 ..."
+   },
+   {
+    "pos": 5,
+    "title": "THE BEST 10 PIZZA PLACES NEAR OCILLA, GA",
+    "url": "https://m.yelp.com/search?cflt=pizza&find_loc=Ocilla%2C+GA",
+    "snippet": "The Best 10 Pizza Places near Ocilla, GA ; 1. Cirillo's Pizzeria · 7.8 mi. 113 S Main St, Fitzgerald, GA 31750. (229) 622-0044 · Pizza ; 2. Johnny's New York Style ..."
+   },
+   {
+    "pos": 6,
+    "title": "THE BEST 10 PIZZA PLACES NEAR WELLS, VT",
+    "url": "https://m.yelp.com/search?cflt=pizza&find_loc=wells%2C+VT",
+    "snippet": "Best Pizza in Wells, VT - Last Updated October 2026 - Sam's Wood Fired Pizza, Mach's Market, Poultney House of Pizza, Miley E's Pizza, Mach's Brick Oven ..."
+   },
+   {
+    "pos": 7,
+    "title": "THE BEST 10 PIZZA PLACES NEAR PETAL, MS 39465",
+    "url": "https://www.yelp.com/search?cflt=pizza&find_loc=Petal%2C+MS+39465",
+    "snippet": "Pizza Hut 0.4 mi 1140 Evelyn Gandy Pkwy, Ste. 70 Petal, MS 39465 … 5202 US Highway 49, Hattiesburg, MS 39401 (601) 583-9908. Domino's Pizza - starting at $14. ..."
+   },
+   {
+    "pos": 8,
+    "title": "THE BEST 10 PIZZA PLACES NEAR SALVISA, KY 40372",
+    "url": "https://www.yelp.com/search?cflt=pizza&find_loc=Salvisa%2C+KY+40372",
+    "snippet": "Best Pizza in Salvisa, KY - Last Updated October 2026 - Giovanni's Pizza, Downtown Pizza Pub, Craft House Pizza - Lawrenceburg, The Woodford Club, ..."
+   },
+   {
+    "pos": 9,
+    "title": "THE BEST 10 PIZZA PLACES NEAR STEELE, AL 35987",
+    "url": "https://www.yelp.com/search?cflt=pizza&find_loc=Steele%2C+AL+35987",
+    "snippet": "The Best 10 Pizza Places near Steele, AL 35987 ; 1. Louie's · (9 reviews). 7.9 mi. 417 Fourth St, Attalla, AL 35954. (205) 753-7158 · Pizza ; 2. Lala's · (1 review)."
+   }
+  ],
+  "features": [
+   "ads",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:09:56+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=web+scraping+api&gl=us&hl=en&brd_mobile=1&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 21.25,
+ "bytes": 22539,
+ "seconds": 21.25,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "ScrapingBee – The Best Web Scraping API",
+    "url": "https://www.scrapingbee.com/",
+    "snippet": "A web scraping API is a tool that collects data from websites through an API request. You send a URL and get the page HTML, rendered content, or structured data ..."
+   },
+   {
+    "pos": 2,
+    "title": "Firecrawl | Web Data API for AI Agents",
+    "url": "https://www.firecrawl.dev/",
+    "snippet": "Give your AI agents web data and beyond. The web data API to search and scrape with access to more sources through Alexandria.It's also open source."
+   },
+   {
+    "pos": 7,
+    "title": "ScraperAPI: Scale Data Collection with a Simple Web Scraping API",
+    "url": "https://www.scraperapi.com/",
+    "snippet": "ScraperAPI is a web scraping API that lets you collect data from any public website without worrying about proxies, browsers, or CAPTCHAs."
+   },
+   {
+    "pos": 8,
+    "title": "Web Scraping API – Free Plan, 100+ Templates",
+    "url": "https://decodo.com/scraping/web",
+    "snippet": "Web Scraping API extracts structured data from websites at scale, combining 100+ pre-built templates with per-request control. Built for developers shipping AI ..."
+   },
+   {
+    "pos": 9,
+    "title": "API scraping | Academy",
+    "url": "https://docs.apify.com/academy/api-scraping",
+    "snippet": "API scraping is locating a website's API endpoints, and fetching the desired data directly from their API, as opposed to parsing the data from their rendered ..."
+   },
+   {
+    "pos": 10,
+    "title": "The 9 Best Web Scraping APIs & Tools in 2026",
+    "url": "https://brightdata.com/blog/web-data/best-web-scraping-apis",
+    "snippet": "The Best Web Scraping APIs, Ranked · 1. Bright Data — Best Overall Web Scraping API · 2. Scrape.do: Best for Speed-Sensitive Workloads · 3. Zyte ..."
+   },
+   {
+    "pos": 11,
+    "title": "Web Scraping API: The Scraper API With a 98% Success Rate",
+    "url": "https://scrapfly.io/products/web-scraping-api",
+    "snippet": "Scrapfly is a production-grade web scraping API, a scraper API that collects public web data at scale with a 98% success rate on the hardest pages. No proxies, ..."
+   }
+  ],
+  "features": [
+   "forums",
+   "organic",
+   "people_also_ask",
+   "perspectives",
+   "related"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k04",
+  "q": "web scraping api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

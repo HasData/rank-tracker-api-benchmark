@@ -1,0 +1,86 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:31:45+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "pizza near me",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 5.14,
+ "bytes": 253720,
+ "seconds": 5.63,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Austin's Pizza | Fresh, Local Pizza in Austin, TX Since 1999",
+    "url": "https://austinspizza.com/",
+    "snippet": "So go ahead and order a pizza. We've got four locations and frozen pizza in H-E-B and Walmart all across Texas. Welcome To Austin's Pizza. View Menu. Explore ..."
+   },
+   {
+    "pos": 2,
+    "title": "TOP 10 BEST Pizza in Austin, TX - Updated 2026",
+    "url": "https://www.yelp.com/search?find_desc=Pizza&find_loc=Austin%2C+TX",
+    "snippet": "Near You: Top 10 Best Pizza in Austin, Texas · 1. Pedroso's Pizza. 4.7 (301 reviews) · 2. Home Slice Pizza. 4.4 (5k reviews) · 3. Pedroso's Pizza. 4.8 (24 reviews)."
+   },
+   {
+    "pos": 3,
+    "title": "Pizza in Austin, TX | Papa Johns Brodie Ln",
+    "url": "https://locations.papajohns.com/united-states/tx/78745/austin/8106-brodie-ln/pizza-near-me",
+    "snippet": "For pizza delivery in Austin, call us at (512) 282-3662 to order, or stop by 8106 BRODIE LN in Austin, TX for carryout."
+   },
+   {
+    "pos": 4,
+    "title": "THE 10 BEST Pizza Places in Austin (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g30196-c31-Austin_Texas.html",
+    "snippet": "1. Home Slice Pizza 4.5 ・ 3. Pinthouse Pizza 4.5 ・ 4. DeSano Pizzeria Napoletana. Very close to downtown Austin"
+   },
+   {
+    "pos": 5,
+    "title": "Pizzeria Near Me - Austin, TX - 8400 Brodie Lane",
+    "url": "https://locations.pizzahut.com/tx/austin/8400-brodie-lane/pizzeria",
+    "snippet": "We're your local pizzeria in Austin, TX. 8400 Brodie Lane Suite 105 Austin, TX 78745 … call us at (512) 292-6444."
+   },
+   {
+    "pos": 6,
+    "title": "Pizza Restaurant In Austin - Visit Our Pizzeria Today!",
+    "url": "https://thepizzapress.com/location/austin-tx/",
+    "snippet": "Visit our pizzeria in Austin … 404 W. 26th St. Austin, TX 78705 512-808-0474 Business Hours Everyday 11:00am – 12:00am Store #: 0201"
+   },
+   {
+    "pos": 7,
+    "title": "Best Pizza in Austin",
+    "url": "https://austin.eater.com/maps/best-pizza-austin-pizzerias-restaurants",
+    "snippet": "Where to find the best pizza in Austin at pizzerias, like Neapolitan at Bufalina Due, thin crust at Oddwood Brewing, and cool pizza from the Side Eye Pies."
+   }
+  ],
+  "features": [
+   "ads",
+   "inline_images",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "location": "Austin,Texas,United States"
+ }
+}

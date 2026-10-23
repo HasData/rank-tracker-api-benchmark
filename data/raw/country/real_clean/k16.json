@@ -1,0 +1,124 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T13:03:14+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "world series",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.24,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "MLB Postseason 2026: Playoff Bracket and World Series ...",
+    "url": "https://www.mlb.com/",
+    "host": "www.mlb.com",
+    "crumb": "https://www.mlb.com › postseason",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "World Series",
+    "url": "https://en.wikipedia.org/",
+    "host": "en.wikipedia.org",
+    "crumb": "https://en.wikipedia.org › wiki › World_Series",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "MLB World Series Winners",
+    "url": "https://www.espn.com/",
+    "host": "www.espn.com",
+    "crumb": "https://www.espn.com › mlb › worldseries › history › wi...",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "List of World Series champions",
+    "url": "https://en.wikipedia.org/",
+    "host": "en.wikipedia.org",
+    "crumb": "https://en.wikipedia.org › wiki › List_of_World_Series_...",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "World Series Winners",
+    "url": "https://www.baseball-reference.com/",
+    "host": "www.baseball-reference.com",
+    "crumb": "https://www.baseball-reference.com › postseason › world-...",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Little League® World Series",
+    "url": "https://www.littleleague.org/",
+    "host": "www.littleleague.org",
+    "crumb": "https://www.littleleague.org › world-series",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Postseason History: World Series",
+    "url": "https://www.mlb.com/",
+    "host": "www.mlb.com",
+    "crumb": "https://www.mlb.com › postseason › history › world-series",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "NBC World Series | Schedule, Tickets, History - National ...",
+    "url": "https://nbcbaseball.com/",
+    "host": "nbcbaseball.com",
+    "crumb": "https://nbcbaseball.com",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "A History of the World Series",
+    "url": "https://www.baseball-almanac.com/",
+    "host": "www.baseball-almanac.com",
+    "crumb": "https://www.baseball-almanac.com › wsmenu",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Sports Results",
+   "MLBMLB",
+   "World SeriesWorld Series",
+   "vs",
+   "Web results",
+   "People also ask",
+   "Choose what you’re giving feedback on",
+   "World Series",
+   "Share",
+   "People also search for",
+   "Super Bowl",
+   "UEFA Champions League",
+   "Olympic Games",
+   "FIFA World Cup",
+   "Videos",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k16",
+  "q": "world series",
+  "intent": "news, sports",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

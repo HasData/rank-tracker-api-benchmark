@@ -1,0 +1,99 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T13:04:20+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en"
+  }
+ },
+ "status": 200,
+ "ttfb": 2.61,
+ "bytes": 3573,
+ "seconds": 2.62,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Bowling Green #3864",
+    "url": "https://www.homedepot.com/l/Bowling-Green/OH/Bowling-Green/43402/3864",
+    "snippet": "(419)373-7504 Store Hours Mon-Sat: 6:00am - 9:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm"
+   },
+   {
+    "pos": 2,
+    "title": "Rossford #3858",
+    "url": "https://www.homedepot.com/l/Rossford/OH/Rossford/43460/3858",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 9570 Olde Us 20 Rossford, OH 43460 … pick up Curbside Orders"
+   },
+   {
+    "pos": 3,
+    "title": "The Orange Township Home Depot in Powell, OH, 43065",
+    "url": "https://www.homedepot.com/l/Orange-Township/OH/Powell/43065/3836",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 8704 Owenfield Dr Powell, OH 43065 1/14"
+   },
+   {
+    "pos": 4,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm … calling 1-888-266-7228."
+   },
+   {
+    "pos": 5,
+    "title": "The Avon Home Depot in Avon, OH, 44011",
+    "url": "https://www.homedepot.com/l/Avon/OH/Avon/44011/3835",
+    "snippet": "Home Depot in Avon, OH, 44011 | Hours, Directions & Curbside. You can find us southeast of the I-90 and OH-83 intersection, by the Pier 1 in Avon Commons."
+   },
+   {
+    "pos": 6,
+    "title": "Find Everything You Need at The Home Depot - Carey, OH",
+    "url": "https://www.homedepot.com/l/OH/Carey/OHepYWap",
+    "snippet": "Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm"
+   },
+   {
+    "pos": 7,
+    "title": "The Home Depot - 3902 N High School Rd, Indianapolis ...",
+    "url": "https://www.yelp.com/biz/the-home-depot-indianapolis",
+    "snippet": "The Home Depot opens at 6:00 AM on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday.The Home Depot opens at 8 Mon-Sat 6:00 AM - 10:00 PMSun 8:00 AM - ..."
+   },
+   {
+    "pos": 8,
+    "title": "The Centerville Home Depot in Centerville, OH 45459",
+    "url": "https://www.homedepot.com/l/Centerville/OH/Centerville/45459/3854",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 5860 Wilmington Pike Rd Centerville, OH 45459"
+   },
+   {
+    "pos": 9,
+    "title": "The Home Depot",
+    "url": "https://www.homedepot.com/",
+    "snippet": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, ..."
+   },
+   {
+    "pos": 10,
+    "title": "Maple Heights #3804",
+    "url": "https://www.homedepot.com/l/Maple-Heights/OH/Maple-Heights/44137/3804",
+    "snippet": "You can buy online with free pickup in store in two hours using our product locator app. ... It took us almost 3 hours to walk out our first go around with ..."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

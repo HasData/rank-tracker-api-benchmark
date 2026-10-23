@@ -1,0 +1,115 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T12:59:16+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "dentist",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.38,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Find a dentist",
+    "url": "https://www.deltadental.com/",
+    "host": "www.deltadental.com",
+    "crumb": "https://www.deltadental.com › member › find-a-dentist",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Dentist",
+    "url": "https://en.wikipedia.org/",
+    "host": "en.wikipedia.org",
+    "crumb": "https://en.wikipedia.org › wiki › Dentist",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Best Dentists Near Me",
+    "url": "https://www.zocdoc.com/",
+    "host": "www.zocdoc.com",
+    "crumb": "https://www.zocdoc.com › dentists",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "American Dental Association: Search for ADA Member ...",
+    "url": "https://findadentist.ada.org/",
+    "host": "findadentist.ada.org",
+    "crumb": "https://findadentist.ada.org",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Find a Dentist",
+    "url": "https://www.dentaquest.com/",
+    "host": "www.dentaquest.com",
+    "crumb": "https://www.dentaquest.com › find-a-dentist",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Dentists : Occupational Outlook Handbook",
+    "url": "https://www.bls.gov/",
+    "host": "www.bls.gov",
+    "crumb": "https://www.bls.gov › ooh › healthcare › dentists",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Discover Dentistry",
+    "url": "https://www.adea.org/",
+    "host": "www.adea.org",
+    "crumb": "https://www.adea.org › godental › discover-dentistry",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Find a Dentist",
+    "url": "https://www.insurekidsnow.gov/",
+    "host": "www.insurekidsnow.gov",
+    "crumb": "https://www.insurekidsnow.gov › find-a-dentist",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "Find a Dentist",
+    "url": "https://www.principal.com/",
+    "host": "www.principal.com",
+    "crumb": "https://www.principal.com › find-dentist",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "People also ask",
+   "Web results",
+   "Things to know",
+   "Choose what you’re giving feedback on",
+   "Types. What are the different types of dentists?",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

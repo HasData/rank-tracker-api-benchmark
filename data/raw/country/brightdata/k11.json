@@ -1,0 +1,95 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T12:57:04+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=pizza+near+me&gl=us&hl=en&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 3.2,
+ "bytes": 299130,
+ "seconds": 4.2,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 4,
+    "title": "Pizza in Orlando, FL | Papa Johns Central Florida Parkway",
+    "url": "https://locations.papajohns.com/united-states/fl/32821/orlando/5336-central-florida-parkway/pizza-near-me",
+    "snippet": "For pizza delivery in Orlando, call us at (407) 477-2287 to order, or stop by 5336 CENTRAL FLORIDA PARKWAY in Orlando, FL for carryout."
+   },
+   {
+    "pos": 9,
+    "title": "Best Pizza in Tamarac, FL | Pizza near me",
+    "url": "https://nypizzaplace.com/tamarac",
+    "snippet": "Address: 8275 NW 88th South Florida's Top Spot for Real New York Pizza … authentic NY-style pizza in the area. open for dine-in, takeout, or quick pick-up."
+   },
+   {
+    "pos": 10,
+    "title": "Pizzeria Near Me - Winston-salem, NC - 5952 University ...",
+    "url": "https://locations.pizzahut.com/nc/winston-salem/5952-university-pkwy/pizzeria",
+    "snippet": "We're your local pizzeria in Winston-salem, NC. Order online today from Pizza Hut at 5952 University Pkwy. call us at (336) 377-2747. call 800-948-8488 for ..."
+   },
+   {
+    "pos": 11,
+    "title": "Pizza Parlors Torrance, CA - Last Updated October 2026",
+    "url": "https://www.yelp.com/search?find_desc=Pizza+Parlors&find_loc=Torrance%2C+CA",
+    "snippet": "1. Pizza Parlor. 4.6 (259 reviews). 12.6 mi. 2936 Clark Ave, Long Beach, CA 90815-1040 · 2. Bonello's New York Pizza. 4.4 (569 reviews). 1.2 mi. 20120 Anza Ave, ...Read more"
+   },
+   {
+    "pos": 12,
+    "title": "Pizza in San Antonio, TX | Papa Johns Jones Maltsberger Rd",
+    "url": "https://locations.papajohns.com/united-states/tx/78247/san-antonio/15050-jones-maltsberger-rd/pizza-near-me",
+    "snippet": "For pizza delivery in San Antonio, call us at (210) 495-7272 to order, or stop by 15050 JONES MALTSBERGER RD in San Antonio, TX for carryout."
+   },
+   {
+    "pos": 13,
+    "title": "Pizzeria Near Me - Buckeye, AZ - 1300 S Watson Road",
+    "url": "https://locations.pizzahut.com/az/buckeye/1300-s-watson-road/pizzeria",
+    "snippet": "We're your local pizzeria in Buckeye, AZ. Order online today from Pizza Hut at 1300 S Watson Road. call us at (623) 386-0214. Open Now- Closes at 10:00PM"
+   },
+   {
+    "pos": 14,
+    "title": "Best Pizza Near Me - Order Pizza on DoorDash",
+    "url": "https://www.doordash.com/cuisine/pizza-near-me/?srsltid=AU7gw4WEBq3_VkkxRr0TDRqbSybit4MFmQ9LD5E5tStcF3cNrqLYAgWg",
+    "snippet": "Little Caesars · (3k+) · 0.5 mi ; Papa Johns Pizza · (10k+) · 1.2 mi ; Bellissimo Pizza · (8k+) · 1.2 mi ; Pizza Hut · (4k+) · 11.8 mi ; Pizza Zone \"N\" Grill · (3k+) · 0.7 mi.Read more"
+   },
+   {
+    "pos": 15,
+    "title": "Best Pizza Places in Mission Viejo 2026",
+    "url": "https://slicelife.com/pizza-delivery/ca-mission_viejo",
+    "snippet": "Top Pizza Restaurants in Mission Viejo, CA in 2026 Near You ; Cosentino's Pizza · $2.50 Delivery ; Ameci Pizza & Pasta · $1.99 - $6.99 Delivery ; Terra Mia Pizzeria.Read more"
+   },
+   {
+    "pos": 16,
+    "title": "THE 10 BEST Pizza Places in Garden Grove (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g32420-c31-Garden_Grove_California.html",
+    "snippet": "Pizza in Garden Grove · 1. Oggi's. 4.0. 4 of 5 bubbles · 2. Vegan Pizza. 4.6. 4.6 of 5 bubbles · 3. Carolina's Italian Restaurant. 4.2. 4.2 of ...Read more"
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related",
+   "snack_pack",
+   "snack_pack_map"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

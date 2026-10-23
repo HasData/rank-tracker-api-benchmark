@@ -1,0 +1,96 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:09:24+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "keyword ranking api",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.0,
+ "bytes": 48382,
+ "seconds": 2.12,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Keyword.com Rank Tracker API – Build dashboards, automate reporting & connect to Claude",
+    "url": "https://keyword.com/rank-tracker-api/",
+    "snippet": "Keyword.com's Rank Tracker API gives agencies programmatic access to Google keyword ranking data. Pull position data, SERP history, and CPC metrics directly ..."
+   },
+   {
+    "pos": 2,
+    "title": "Best Rank Tracker API in 2026: Tested & Compared (Speed + Pricing)",
+    "url": "https://www.scrapingdog.com/blog/rank-tracker-api/",
+    "snippet": "A rank tracker API is a programmatic interface that lets you query Google (or other search engines) and retrieve keyword ranking data in ..."
+   },
+   {
+    "pos": 3,
+    "title": "Rank Tracking API - 5K requests/Month for Free",
+    "url": "https://brightdata.com/products/serp-api/rank-tracking",
+    "snippet": "Rank tracker API retrieves real-time keyword ranks from any major search engine and with city level targeting. Free trial."
+   },
+   {
+    "pos": 4,
+    "title": "SerpApi: SEO",
+    "url": "https://serpapi.com/use-cases/seo",
+    "snippet": "SerpApi provides rankings, organic search results and paid ad results. Use any keyword, any country, and any language across various search engines."
+   },
+   {
+    "pos": 5,
+    "title": "What's the best API provider to get the keyword any website is ranking for? : r/SEO",
+    "url": "https://www.reddit.com/r/SEO/comments/1grp0ld/whats_the_best_api_provider_to_get_the_keyword/",
+    "snippet": "I am building an AI agent to automate my AI Tools directory which finds top ranking AI tools via various search queries on google then scrapes the content ..."
+   },
+   {
+    "pos": 6,
+    "title": "Keyword Research API: Access Keyword Data for Search Insights",
+    "url": "https://seranking.com/keyword-research-api.html",
+    "snippet": "A SE Ranking's Keyword Analysis API provides all core keyword metrics, including search volume, CPC (cost-per-click), competition levels, keyword difficulty ..."
+   },
+   {
+    "pos": 7,
+    "title": "9 Best Rank Tracking APIs for Accurate Keyword Tracking in 2026",
+    "url": "https://www.link-assistant.com/news/best-rank-tracking-apis.html",
+    "snippet": "A rank tracking API is a service that delivers keyword ranking data programmatically — usually in formats like JSON or CSV — so you can access and use it"
+   },
+   {
+    "pos": 8,
+    "title": "Rank Tracking API",
+    "url": "https://www.seoclarity.net/technology/ranking-data-api",
+    "snippet": "Rank Tracking API gives you full access to your rank-tracking data. It starts at $0.15 per keyword for daily ranking data, but there is a significant savings ..."
+   },
+   {
+    "pos": 9,
+    "title": "Rank Tracking API: Monitor All Your Keyword Rankings",
+    "url": "https://mangools.com/api/rank-tracking-api",
+    "snippet": "A rank tracking API lets you programmatically create, manage, and retrieve keyword ranking data. Instead of checking rankings manually, you can pull ranking ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k01",
+  "q": "keyword ranking api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

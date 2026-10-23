@@ -1,0 +1,99 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:23:56+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "best running shoes",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.17,
+ "bytes": 9608,
+ "seconds": 2.18,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "7 Best Running Shoes in 2026 - RunRepeat",
+    "url": "https://runrepeat.com/guides/best-running-shoes",
+    "snippet": "How we test running shoes · Trail running shoes · Daily running shoes (also best..."
+   },
+   {
+    "pos": 2,
+    "title": "The 15 Best Running Shoes of 2026, Tested by Runner's World",
+    "url": "https://www.runnersworld.com/gear/a19663621/best-running-shoes/",
+    "snippet": "For new runners we recommend a shoe like the Brooks Ghost or Nike Pegasus as a starting point. These shoes are moderately cushioned and offer ..."
+   },
+   {
+    "pos": 3,
+    "title": "What are the best running shoes that you'd actually buy again?",
+    "url": "https://www.reddit.com/r/runninglifestyle/comments/1u5x7mx/what_are_the_best_running_shoes_that_youd/",
+    "snippet": "More results from www.reddit.com"
+   },
+   {
+    "pos": 4,
+    "title": "Best of Road Running Shoes | Believe in the Run",
+    "url": "https://believeintherun.com/shoe-reviews/type/best-of-road/",
+    "snippet": "Independent, run-tested reviews of running shoes, Popular Brands New Balance Nike Asics Hoka Saucony Puma Adidas. These are the Best On Running Shoes Right Now ..."
+   },
+   {
+    "pos": 5,
+    "title": "The Best Running Shoe From Every Brand in 2026! - YouTube",
+    "url": "https://www.youtube.com/watch?v=9qv6rh34rXU",
+    "snippet": "If you get a shoe from Adidas, ASICS, Brooks, Hoka, Kiprun, Li Ning, Mizuno, New Balance, Nike, Puma, Salomon, Saucony - you're probably ..."
+   },
+   {
+    "pos": 6,
+    "title": "Mens Best Sellers Running Shoes. Nike.com",
+    "url": "https://www.nike.com/w/mens-best-running-shoes-37v7jz76m50znik1zy7ok",
+    "snippet": "Find Mens Best Sellers Running Shoes at Nike.com. Nike Pegasus 42 Men's Road Running Shoes $145 Nike. Vomero 18 Men's Road Running Shoes $128.97 $155"
+   },
+   {
+    "pos": 7,
+    "title": "Best Running Shoes of the Year: 6 Top-Shelf Models - Six Minute Mile",
+    "url": "https://sixminutemile.com/post/six-of-the-best-running-shoes-of-the-year/",
+    "snippet": "Six of the Very Best Running Shoes of the Year · ASICS Megablast · Adidas Adizero Evo SL · FAST-R Nitro Elite 3 · Mount to Coast H1 · Norda 005."
+   },
+   {
+    "pos": 8,
+    "title": "The 6 Best Running Shoes For Men of 2026 - RTINGS.com",
+    "url": "https://www.rtings.com/running-shoes/reviews/best/for-men",
+    "snippet": "Saucony Hurricane 26 our top overall pick, the Brooks Ghost Amp the 'Best For Beginners,' the New Balance 1080v15 the 'Best For Wide Feet,' and ..."
+   },
+   {
+    "pos": 9,
+    "title": "Top Rated Running Shoes | REI Co-op",
+    "url": "https://www.rei.com/s/top-rated-running-shoes",
+    "snippet": "Shop for Top Rated Running Shoes at REI - Browse our extensive selection of trusted outdoor brands and high-quality recreation gear."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "answer_box",
+   "dmca_message",
+   "organic_results",
+   "people_also_asked_for",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k13",
+  "q": "best running shoes",
+  "intent": "commercial",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

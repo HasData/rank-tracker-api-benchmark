@@ -1,0 +1,95 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:22+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.51,
+ "bytes": 45271,
+ "seconds": 3.57,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Mon-Sat: 6:00am - 10:00pm Sun: 7:00am - 8:00pm … calling 1-888-266-7228."
+   },
+   {
+    "pos": 2,
+    "title": "Aspen Hill #2558",
+    "url": "https://www.homedepot.com/l/Aspen-Hill/MD/Aspen-Hill/20906/2558",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 7:00am - 8:00pm Curbside: 09:00am - 6:"
+   },
+   {
+    "pos": 3,
+    "title": "Home Improvement at The Home Depot in Providence, RI",
+    "url": "https://www.homedepot.com/l/RI/Providence/RI4XnmEY",
+    "snippet": "Get directions, hours, and services. Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Sun: 8:00am - 8:00pm"
+   },
+   {
+    "pos": 4,
+    "title": "Stamford #6242",
+    "url": "https://www.homedepot.com/l/Stamford/CT/Stamford/06902/6242",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 1/14 … pick up Curbside Orders from 9 a.m. to 6 p.m."
+   },
+   {
+    "pos": 5,
+    "title": "Monterey Park #2304",
+    "url": "https://www.homedepot.com/l/Monterey-Park/CA/Monterey-Park/91755/2304",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 7:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 3500 Market Place Monterey Park,"
+   },
+   {
+    "pos": 6,
+    "title": "Meridian #1804",
+    "url": "https://www.homedepot.com/l/Meridian/ID/Meridian/83642/1804",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm for All Level of Doers"
+   },
+   {
+    "pos": 7,
+    "title": "Powder Springs #6940",
+    "url": "https://www.homedepot.com/l/Powder-Springs/GA/Powder-Springs/30127/6940",
+    "snippet": "Home Depot in Powder Springs, GA, 30127 | Hours, Directions & Curbside Specials & Offers. We offer free pickup within two hours. TWO HOURS OF OUR PRECIOUS TIME ..."
+   },
+   {
+    "pos": 8,
+    "title": "THE HOME DEPOT - Updated October 2026 - 55 Reviews - 17 Photos",
+    "url": "https://m.yelp.com/biz/the-home-depot-madison-9",
+    "snippet": "THE HOME DEPOT, 2425 E Springs Dr, Madison, WI 53704, 17 Photos, (608) 242-8680, Mon - 6:00 am - 10:00 pm, Tue - 6:00 am - 10:00 pm, Wed - 6:00 am - 10:00 ..."
+   },
+   {
+    "pos": 9,
+    "title": "Vancouver #4718",
+    "url": "https://www.homedepot.com/l/Vancouver/WA/Vancouver/98665/4718",
+    "snippet": "The Vancouver Home Depot in Vancouver, WA, 98665 | Hours, Directions & Curbside. Specials & Offers Appliances Bath Blinds & Window Treatments Building ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "device": "mobile"
+ }
+}

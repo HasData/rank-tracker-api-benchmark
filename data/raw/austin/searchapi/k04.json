@@ -1,0 +1,88 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:01:05+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "web scraping api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.19,
+ "bytes": 33846,
+ "seconds": 4.32,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "5 Best Web Scraping APIs in 2026 (Fast, Scalable & Easy ...",
+    "url": "https://www.scrapingdog.com/blog/best-web-scraping-apis/",
+    "snippet": "The top APIs include Scrapingdog, ScraperAPI, ZenRows, ScrapingAnt, and ScrapingBee. They differ in speed, reliability, and pricing."
+   },
+   {
+    "pos": 2,
+    "title": "AI Web Scraper API for Structured Data",
+    "url": "https://www.scrapingbee.com/features/ai-web-scraping-api/",
+    "snippet": "Use ScrapingBee's AI web scraper API to extract structured data with natural-language instructions. Render JavaScript pages and start with 1000 free API ..."
+   },
+   {
+    "pos": 3,
+    "title": "Top Web Scraping APIs",
+    "url": "https://rapidapi.com/collection/top-scraper-api-tools",
+    "snippet": "Web scraping APIs, sometimes known as web crawler APIs, are used to \"scrape\" data from the publicly available data on the Internet."
+   },
+   {
+    "pos": 4,
+    "title": "ParseHub | Free web scraping - The most powerful web scraper",
+    "url": "https://www.parsehub.com/",
+    "snippet": "ParseHub is a free web scraping tool. Turn any site into a spreadsheet or API. Access data via JSON, Excel and API. API results into Google Sheets and Tableau. ..."
+   },
+   {
+    "pos": 5,
+    "title": "Best Web Scraping APIs: Compared by Use Case, Cost ...",
+    "url": "https://www.olostep.com/blog/best-web-scraping-apis",
+    "snippet": "A web scraping API retrieves webpage content and handles infrastructure like headless browsers, residential proxy rotation, and CAPTCHA-solving ..."
+   },
+   {
+    "pos": 6,
+    "title": "What's a good / best est API for web scraping? : r/aiagents",
+    "url": "https://www.reddit.com/r/aiagents/comments/1or97ko/whats_a_good_best_est_api_for_web_scraping/",
+    "snippet": "Scraping dynamic websites using Scraper API and Python ago. Web Scraping Tools for AI Agents. Which Web Scraping API is Best for News Articles? ..."
+   },
+   {
+    "pos": 7,
+    "title": "ScrapingAPI.ai: Web Scraping API That Scale",
+    "url": "https://scrapingapi.ai/",
+    "snippet": "ScrapingAPI.ai offers efficient, reliable, and scalable web scraping tools tailored to meet your business needs powered by AI. Begin extracting HTML, JSON, XML ..."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "discussions_and_forums",
+   "inline_videos",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k04",
+  "q": "web scraping api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

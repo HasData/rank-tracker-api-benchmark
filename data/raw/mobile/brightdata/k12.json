@@ -1,0 +1,81 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:17:50+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=dentist&gl=us&hl=en&brd_mobile=1&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 5.84,
+ "bytes": 15119,
+ "seconds": 5.85,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 5,
+    "title": "Find a dentist",
+    "url": "https://www.deltadental.com/member/find-a-dentist/",
+    "snippet": "Find in-network dentists in your area by using your current location or entering a ZIP code manually."
+   },
+   {
+    "pos": 12,
+    "title": "Find A Dentist",
+    "url": "https://smilecalifornia.org/find-a-dentist/",
+    "snippet": "we can help you find a dentist. Call the Telephone Service Center at 1-800-322-6384 for assistance. .m. to 5:00 p.m., Monday through Friday."
+   },
+   {
+    "pos": 13,
+    "title": "Groveland Dental: Dentist St Paul MN",
+    "url": "https://grovelanddental.com/",
+    "snippet": "Call us today at 651-298-0024 to learn more about our services and schedule an appointment. Call us today at 651-298-0024 to schedule your appointment"
+   },
+   {
+    "pos": 14,
+    "title": "Dentist Glendale, NY 11385 | Dentistry Office in Glendale, New York",
+    "url": "https://www.atlasparkdental.com/",
+    "snippet": "New Patients are Welcome · Call Now (718) 894-2110 · Online Booking Schedule Appointment. Doctors welcoming new patients. Virtual Office Tour. Modern Dental ..."
+   },
+   {
+    "pos": 15,
+    "title": "American Dental Association: Search for ADA Member Dentists – Find a ...",
+    "url": "https://findadentist.ada.org/",
+    "snippet": "Find an ADA member dentist in your area. Enter your street address and ZIP code. Search our network of 100,000+ dentists. 312.440.2500"
+   },
+   {
+    "pos": 16,
+    "title": "Dentists of Davis: Local Dentist Office in Davis CA",
+    "url": "https://www.dentistsofdavis.com/",
+    "snippet": "If you need family dentistry, oral surgery, or a dental emergency, contact us to make a dental appointment. 4625 Second St Ste 100 Davis, CA 95618 BOOK ..."
+   },
+   {
+    "pos": 17,
+    "title": "Delta Dental Find a Dentist",
+    "url": "https://www.deltadentalaz.com/forms/find-dentist/",
+    "snippet": "Use the Delta Dental provider search to find in-network dentists near you. Search by location or specialty to find a dentist covered by your plan."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

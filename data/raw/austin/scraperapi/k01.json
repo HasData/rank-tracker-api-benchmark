@@ -1,0 +1,107 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:17+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "keyword ranking api",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.42,
+ "bytes": 11416,
+ "seconds": 3.51,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Keyword.com Rank Tracker API – Build dashboards, ...",
+    "url": "https://www.google.com/goto?url=CAESYAHrOzAVcGYcVtlPaR1wRJqeWuWDxUurltLO4PAy7gEz_G5P1cVX0oGB0MRmkWPv01DSra9HyyLu_33w3t5hcTQc43sKq9i0m-XpoZ5qkmYdmGf_ReFInHlFFta20cIgwA",
+    "snippet": "Keyword.com's Rank Tracker API gives agencies programmatic access to Google keyword ranking data. Pull position data, SERP history, and CPC metrics directly ...Read more",
+    "host": "keyword.com"
+   },
+   {
+    "pos": 2,
+    "title": "6 Best Rank Tracker APIs Tested in 2026 (Speed, Pricing & ...",
+    "url": "https://www.google.com/goto?url=CAESbQHrOzAVRBx1eCrv-sbn2VEs_iHFE1vGVU4-otXXaMO7i9pnsuuhlMoOwccWJ1lTY70SJ9m26YSkljfEpPWUGMq_BBgUxeXBHcI8YI1K6U1_hDWbozY-8KT4qAVNTTNCBZzpKoUQTi4-MqMHVmg",
+    "snippet": "Mar 9, 2026 — Looking for the best rank tracker API? We tested 6 APIs on speed, pricing & accuracy. Scrapingdog tops the list at 1.31s avg response time.",
+    "host": "www.scrapingdog.com"
+   },
+   {
+    "pos": 3,
+    "title": "SerpApi: SEO",
+    "url": "https://www.google.com/goto?url=CAESXAHrOzAVZe6k2feoZziJwymafm2Z8iewPSi6zEtKs_UY3PbFz3cgbc6M8qoY1qpjPC4OoMndjpvTzjj2mTUYm0Z0kU2aofybueJ1Wchgda11GvTZSRt77BFlPasv",
+    "snippet": "SerpApi provides rankings, organic search results and paid ad results. Use any keyword, any country, and any language across various search engines.",
+    "host": "serpapi.com"
+   },
+   {
+    "pos": 4,
+    "title": "What's the best API provider to get the keyword any ...",
+    "url": "https://www.google.com/goto?url=CAESmAEB6zswFZ3Q9c9eOlGMhdLdc4YszvoONdIZ4a3DS8jvSBLzzA12EuzXASlibJF7UaFJGJsxbjRGy1uC-18IAUh3YL9kfU7p9oGNEIQwWUPtDuWDGxFTuy3ydUY_psEqC8Fh9XIRu8Vk9PDqOD89YR5wwdsZN-rnNaxnlFCl7YfHeHTUL8EbKai6bXj0gp5mS9aojSaCl_W2Vw",
+    "snippet": "I am building an AI agent to automate my AI Tools directory which finds top ranking AI tools via various search queries on google then scrapes the content ...",
+    "host": "6 comments  ·  1 year ago"
+   },
+   {
+    "pos": 5,
+    "title": "Rank Tracking API - 5K requests/Month for Free",
+    "url": "https://www.google.com/goto?url=CAEScQHrOzAVqrJYTyAfje_sQVIQCJ142c0MQZL0mblBu3Y44DjLDiyyi9U8NwBX7ufuho08O48FQ5iM7xEaePMXTegE2hV38rgHkubrxc8njLN39eOaOrklS9v3jUT_rtIp9nFgb0jpixVMJ5GEcnMeclwA",
+    "snippet": "Rank tracker API retrieves real-time keyword ranks from any major search engine and with city level targeting. Free trial.",
+    "host": "brightdata.com"
+   },
+   {
+    "pos": 6,
+    "title": "Keyword Research API: Access Keyword Data for Search ...",
+    "url": "https://www.google.com/goto?url=CAESagHrOzAVX-KxY-RhAiYjZG-pnxvJoynQb2R9IOj51Wjl26ZN25-ZmSygmQ7asmOwAahU1tx-K7QiWeNJcZ6hZbv3y_h1AZXIELILaJhwz74XeFCMrqwOTYcHLD6oqNka4HC3xXQCx6Mglog",
+    "snippet": "SE Ranking's Keyword Analysis API provides all core keyword metrics, including search volume, CPC (cost-per-click), competition levels, keyword difficulty ...Read more",
+    "host": "seranking.com"
+   },
+   {
+    "pos": 7,
+    "title": "9 Best Rank Tracking APIs for Accurate Keyword ...",
+    "url": "https://www.google.com/goto?url=CAESewHrOzAVOvKjoOp2r2W6HGMDPMMbg21A3QmCZcxjZqZ0AzaTRrHwvRSwbGudW8cqLgoiMPzNGIDly-jjqstUf_0k9vzwzS9Skb9RToB301DYaivPOKINrPvZDJ9GPMKafaBuMGU1XwGoU1D74yxqtsDgzWPsL8nRjeBFqg",
+    "snippet": "Discover the best rank tracking APIs to monitor keyword positions in real time. Compare keyword ranking APIs, Google keyword rank checker APIs, and keyword ...",
+    "host": "www.link-assistant.com"
+   },
+   {
+    "pos": 8,
+    "title": "Rank Tracking API",
+    "url": "https://www.google.com/goto?url=CAEScQHrOzAVWub65qcEDFqc47bZtmwcCiuoRXpzc2olH5phSeYG-zyWY9OSYS9-nsQ8_rPqExyLEYtTPisAK3eDx-FMRcaAYZ2MO6nTwY3wh5gCn8Fm0pLdcku66VvtrkzkU4YpV_hjwx06ixeam6CfPS9I",
+    "snippet": "seoClarity's Rank Tracking API gives you full access to your rank-tracking data. Connect it to your marketing stack for centralized reporting and analysis.",
+    "host": "www.seoclarity.net"
+   },
+   {
+    "pos": 9,
+    "title": "Rank Tracking API: Monitor All Your Keyword Rankings",
+    "url": "https://www.google.com/goto?url=CAESZQHrOzAVDOo8VCUpgAYqSMB2q-FERldRw7CJkp_FSXBi5ghBXUZGB4Q82NApZglDy7hC6Btm2aDVeGRveV1QUhXfKfQerxZMmaedH2Maev8OY2CYvFp9IDhHKlPh76152IGCkyco",
+    "snippet": "A rank tracking API lets you programmatically create, manage, and retrieve keyword ranking data. Instead of checking rankings manually, you can pull ranking ...Read more",
+    "host": "mangools.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k01",
+  "q": "keyword ranking api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

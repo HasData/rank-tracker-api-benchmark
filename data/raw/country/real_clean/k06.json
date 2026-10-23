@@ -1,0 +1,104 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:50:32+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "seo api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 7.63,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "DataForSEO: Powerful API Stack For Data-Driven SEO Tools",
+    "url": "https://dataforseo.com/",
+    "host": "dataforseo.com",
+    "crumb": "https://dataforseo.com",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "API recommendations : r/SEO",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/SEO",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "3 APIs for SEO pros - get a free API key | Authoritas",
+    "url": "https://www.authoritas.com/",
+    "host": "www.authoritas.com",
+    "crumb": "https://www.authoritas.com › apis",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "SEO API: Automate your SEO and AEO workflows",
+    "url": "https://seranking.com/",
+    "host": "seranking.com",
+    "crumb": "https://seranking.com › api",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "oguzhan18/seo-tools-api",
+    "url": "https://github.com/",
+    "host": "github.com",
+    "crumb": "https://github.com › oguzhan18 › seo-tools-api",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Overview | Semrush API",
+    "url": "https://developer.semrush.com/",
+    "host": "developer.semrush.com",
+    "crumb": "https://developer.semrush.com › api › seo › overview",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "SerpApi: SEO",
+    "url": "https://serpapi.com/",
+    "host": "serpapi.com",
+    "crumb": "https://serpapi.com › use-cases › seo",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web Result with Site Links",
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Find related products & services",
+   "About the source",
+   "Sponsored results",
+   "Reach shoppers on TikTok - Reach your business goals",
+   "My Ad Center",
+   "DataForSEO",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k06",
+  "q": "seo api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

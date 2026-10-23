@@ -1,0 +1,97 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:57:48+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "keyword ranking api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 5.27,
+ "bytes": 25120,
+ "seconds": 5.35,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "If I want to identify ranking keywords for a domain or URL ...",
+    "url": "https://www.reddit.com/r/bigseo/comments/1fyki5o/if_i_want_to_identify_ranking_keywords_for_a/",
+    "snippet": "Don't really want to drop $14K to have access to the ahrefs API, so I'm hoping there are other, high-quality options at a reasonable price."
+   },
+   {
+    "pos": 2,
+    "title": "Keyword & Prompt Rank Tracker",
+    "url": "https://seranking.com/position-tracking.html",
+    "snippet": "Track real-time keyword and AI prompt rankings with our high-precision rank tracker - Google, Bing, YouTube, ChatGPT and AI Overviews, on desktop and ..."
+   },
+   {
+    "pos": 3,
+    "title": "What's the Best SERP API for Tracking Keyword Rankings?",
+    "url": "https://plainenglish.io/seo/best-serp-api-for-tracking-keyword-rankings",
+    "snippet": "A practical comparison of SERP APIs for keyword rank tracking—DataForSEO, SerpApi, Bright Data, and budget options—with decision criteria, ..."
+   },
+   {
+    "pos": 4,
+    "title": "Best SEO APIs for Marketers [Compact Guide]",
+    "url": "https://keyword.com/blog/best-seo-api-marketers/",
+    "snippet": "Keyword.com API is a keyword rank tracking tool that pulls unlimited data from your account to track the performance of your keywords on SERPs."
+   },
+   {
+    "pos": 5,
+    "title": "Google Rank Checker API - Live SERP Positions",
+    "url": "https://hasdata.com/apis/google-rank-checker-api",
+    "snippet": "Build with Google Rank Checker API. Use Google ranking data for keyword tracking, competitive research, landing page monitoring, and localized SEO reporting."
+   },
+   {
+    "pos": 6,
+    "title": "SERP Rank Checker API",
+    "url": "https://apyhub.com/apyhub/service/serp-rankings-for-keyword",
+    "snippet": "The SERP Rank Checker API shows where pages rank on Google for any keyword. Send a keyword, and optionally the country, language, and number of ..."
+   },
+   {
+    "pos": 7,
+    "title": "The Guide to SEO Ranking APIs",
+    "url": "https://getairefs.com/blog/seo-ranking-api-guide/",
+    "snippet": "An SEO ranking API fires automated search queries and returns structured results — position, title, URL, snippet, and SERP features — for any ..."
+   },
+   {
+    "pos": 8,
+    "title": "Best Google Ranking Checker API for SEO Automation",
+    "url": "https://www.trysight.ai/blog/google-ranking-checker-api",
+    "snippet": "Keyword Rank Tracking: Monitor keyword positions with trend visualization data accessible through the API. Keyword Clustering Endpoints ..."
+   },
+   {
+    "pos": 9,
+    "title": "Google Search Ranking API: Features, Benefits, and Use ...",
+    "url": "https://www.serphouse.com/blog/features-of-google-search-ranking-api/",
+    "snippet": "Struggling to keep up with keyword rankings? Google Search Ranking API helps you monitor real-time positions and refine your SEO."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k01",
+  "q": "keyword ranking api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:17+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "best serp api",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.29,
+ "bytes": 11443,
+ "seconds": 4.3,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "7 Best Google SERP Scrapers in 2026 (Tested & Ranked)",
+    "url": "https://www.google.com/goto?url=CAESaQHrOzAVJYWwEH0fkSR8DjhJN3X8-d2UHQFKzREptuyCDP6S1Jf8KeZf_wopDgC1mcawM4P-9iG7EIaDP3y0875dKLvUSJmjqjHxNByK0be1QrTfjnGZbosmIw9MT4MLPUrTjaLjK6Ymkg",
+    "snippet": "Apr 13, 2026 — Looking for the best Google SERP scraper in 2026? We tested 7 tools: Chat4Data, SerpAPI, Oxylabs, and more, and ranked them by accuracy, ...",
+    "host": "chat4data.ai"
+   },
+   {
+    "pos": 2,
+    "title": "5+ Best Google Rank Tracking and SERP APIs of 2026",
+    "url": "https://www.google.com/goto?url=CAESbgHrOzAVwQW_MtV_BTtqFWxi-GAZbXLLL21y77m_9TNKpvxpIGNZgBG6yYtetnYVe8Yivo8CS9zMBSkoyJwQx2_Vb85c_1GhNcq9ZCaINgqxPAnnRYuLcD_XsXuM0hCWA8phsaMkqvnl9Q_shI3l",
+    "snippet": "Jan 5, 2026 — Top picks include SerpApi, Bright Data, Zenrows, DataForSEO, and Zenserp. API, Speed (seconds), Price/1k requests, Is scalable, Is accurate, Is ...Read more",
+    "host": "www.lobstr.io"
+   },
+   {
+    "pos": 3,
+    "title": "Serper - The World's Fastest and Cheapest Google Search API",
+    "url": "https://www.google.com/goto?url=CAESTgHrOzAVpkArITJCwDr3QqUnRUpoAS3UGS9TWHIdwvfw5JVfG56f0a4rCpHqtkriRgc0gx3Dqcn_Z3LR7cyLmHsWbVqfPl78p9neU9aX5g",
+    "snippet": "Industry-leading SERP API, delivering lightning-fast Google search results in 1-2 seconds, at an unbeatable price starting at $0.30 per 1000 queries.",
+    "host": "serper.dev"
+   },
+   {
+    "pos": 4,
+    "title": "What's the best SERP scraping API that can scale easily",
+    "url": "https://www.google.com/goto?url=CAESngEB6zswFYWEv4NSrufscp93uddxFL9Cj61PSxSIwRUQTZBylnhUnCkT0sHMcFRMYuSL87p7FANvoqPyx0wNXk8HPRD-Qmm0Ow8arEo43EZddPch48wzlBskgmJIbTVaiv6HR6wcCeuc9wT4io3mWMqFK6dW37G-P5C612BMTJ8_Xfe0psRmHwQMqVnIVXDZKYca_e2WkmndtR3gserHpA",
+    "snippet": "Anybrowse – MCP-native web scraping and search API for AI agents. Converts any URL to clean Markdown with 90% success rate, including Cloudflare ...Read more",
+    "host": "10+ comments  ·  1 year ago"
+   },
+   {
+    "pos": 5,
+    "title": "SerpAPI Alternative 2026 – Best Replacement: ScraperAPI",
+    "url": "https://www.google.com/goto?url=CAESdgHrOzAVBx8QxBPg4YhFhQJ9xdBSUkTN2yP0kLVIwYcwxaKsuNVYptSAkSf-v-UnxWXNSZlgWMDGjRMilyf4oMWrEUBMthqsE32MHrCmWVQqZzF6BIBs5ay-b_IIJGFnaGLko9rnNviK9IUR7JjYSgcNF69fdkA",
+    "snippet": "Looking for a SerpAPI alternative? ScraperAPI offers more flexible pricing, advanced bypassing mechanisms, JS rendering and more.",
+    "host": "www.scraperapi.com"
+   },
+   {
+    "pos": 6,
+    "title": "SERP APIs That Can Beat Google at Their Own Game",
+    "url": "https://www.google.com/goto?url=CAESmwEB6zswFdb70zyWET0MxVa0kIsZcXFDNgUitJG_sisBeK1vluLC7NZh0EH8t7yeZ3Tc4m9ksLFcTIkS7nQ-ae3zr6Pd0Y63Wse7BnUiW1XcSIkV0tWNdW2g9vOUOaCQByhkTAjrlgXmUc_PqrK-wzp5hDNOFF8HAj3N4fbHSOzeUWaCyjNxx7WZc7TnAkd3CE5QSRS5mlHIZTGACw",
+    "snippet": "In this blog post, I'll introduce you to five different APIs and SERP scrapers that can help you scrape huge amounts of data from Google faster ...",
+    "host": "4 years ago"
+   },
+   {
+    "pos": 7,
+    "title": "Best Web Search APIs: Compare Top Search API Tools",
+    "url": "https://www.google.com/goto?url=CAESbAHrOzAVRpYI42fADRuoBZkrTmTiRT-EerXzwjlqXm_4zbftNblYEUodJKO2cyABxqkjf5OZP1_svHtDzvmrGfeXBKUyUnCu5BM41aLJ7sy2B-9pArv9YDi_OlyKQM3rMebZIYv8o-9dBgWmPw",
+    "snippet": "May 27, 2026 — Explore top web search APIs for AI agents, SEO tools, RAG pipelines and structured extraction, with key comparisons on pricing, ...",
+    "host": "www.olostep.com"
+   },
+   {
+    "pos": 8,
+    "title": "Best SERP APIs in 2026: Comparison & How to Buy",
+    "url": "https://www.google.com/goto?url=CAESYQHrOzAVDDZhItho7iw4CxPIj6ciw4eGPrLqF7-9LwINyPM2NWuc77KfbhgkYQw_wDm65PWSviJvr1hb_QZYlrwDIrFwP3EKS6u69Ssp69-OdmCj5FKV1CJok-O6HGh8vvY",
+    "snippet": "Aug 26, 2026 — Compare the best SERP APIs in 2026 by features, pricing, accuracy, geo-targeting, and more, plus check if you should DIY a SERP API.",
+    "host": "byteful.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k02",
+  "q": "best serp api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

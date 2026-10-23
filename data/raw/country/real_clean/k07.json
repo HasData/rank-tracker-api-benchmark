@@ -1,0 +1,108 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:51:56+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "google maps scraper",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 8.03,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Google Maps Scraper",
+    "url": "https://apify.com/",
+    "host": "apify.com",
+    "crumb": "https://apify.com › Store › Compass",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Google Maps Scraper - Free Tier",
+    "url": "https://outscraper.com/",
+    "host": "outscraper.com",
+    "crumb": "https://outscraper.com › google-maps-scraper",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "gosom/google-maps-scraper: scrape data ...",
+    "url": "https://github.com/",
+    "host": "github.com",
+    "crumb": "https://github.com › gosom › google-maps-scraper",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Best Google Maps scraping tools for local business leads?",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/CRM",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Scrap.io: Google Maps Scraper - Local Lead Generation",
+    "url": "https://scrap.io/",
+    "host": "scrap.io",
+    "crumb": "https://scrap.io",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Google Maps Scraper | Octoparse Templates",
+    "url": "https://www.octoparse.com/",
+    "host": "www.octoparse.com",
+    "crumb": "https://www.octoparse.com › scraping-templates › goog...",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Google Maps Scraper: Free & Easy to Use | G Maps Extractor",
+    "url": "https://gmapsextractor.com/",
+    "host": "gmapsextractor.com",
+    "crumb": "https://gmapsextractor.com",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "How I Scrape UNLIMITED Leads From Google Maps For FREE",
+    "url": "https://www.youtube.com/",
+    "host": "www.youtube.com",
+    "crumb": "YouTube · Mike Powers",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Sponsored results",
+   "Google Maps Scraper",
+   "My Ad Center",
+   "Web results",
+   "People also ask",
+   "Google Maps Scraper | Google Maps Data Extraction",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k07",
+  "q": "google maps scraper",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

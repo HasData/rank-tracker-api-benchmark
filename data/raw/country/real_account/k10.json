@@ -1,0 +1,86 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T12:56:22+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "what is a serp api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.6,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "host": "serpapi.com",
+    "crumb": "https://serpapi.com",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "What Is a SERP API? How It Works and When to Switch",
+    "url": "https://you.com/",
+    "host": "you.com",
+    "crumb": "https://you.com › resources › what-is-a-serp-api",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Google SERP API: Everything You Need To Know",
+    "url": "https://medium.com/",
+    "host": "medium.com",
+    "crumb": "Medium · Darshan Khandelwal",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "What is a SERP API? Definition & How It Works",
+    "url": "https://www.openwebninja.com/",
+    "host": "www.openwebninja.com",
+    "crumb": "https://www.openwebninja.com › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "What Is SERP API? Complete Guide for Developers (2026)",
+    "url": "https://searlo.tech/",
+    "host": "searlo.tech",
+    "crumb": "https://searlo.tech › what-is-serp-api",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web Result with Site Links",
+   "People also ask",
+   "Videos",
+   "Web Search API: A Quick Tour of SerpApi",
+   "What is SerpApi n8nYouTube · Pableke ReviewAug 8, 2025",
+   "What is SerpApi n8n",
+   "What is SerpApi and How Does it REALLY Work",
+   "Web results",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

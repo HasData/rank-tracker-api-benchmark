@@ -1,0 +1,99 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:15+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "best running shoes",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 16.19,
+ "bytes": 128481,
+ "seconds": 16.31,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "The Best Running Shoes I Tested in 2025",
+    "url": "https://www.runnersworld.com/gear/a69801110/amanda-furrer-best-running-shoes-i-tested-in-2025/",
+    "snippet": "My favorite super shoe this year is the Metaspeed Edge Tokyo. This new layer of foam paired with the FF Turbo Plus bottom layer, sandwiches a ..."
+   },
+   {
+    "pos": 2,
+    "title": "Best Road Running Shoes for Men of 2026",
+    "url": "https://www.treelinereview.com/gearreviews/best-road-running-shoes-men",
+    "snippet": "We like the HOKA Mach 6, Salomon Aero Glide 4, and On Cloudeclipse for speed workouts and intervals. These are the three lightest shoes in our ..."
+   },
+   {
+    "pos": 3,
+    "title": "What are some good running shoes. : r/runninglifestyle",
+    "url": "https://www.reddit.com/r/runninglifestyle/comments/1kewifs/what_are_some_good_running_shoes/",
+    "snippet": "I’m looking for good running shoes for training the one I got for training hurt my calf when running for long distances there the Nike downshifter 11 ..."
+   },
+   {
+    "pos": 4,
+    "title": "The Best Beginner Running Shoes 2026",
+    "url": "https://theruntesters.com/the-best-running-shoes-for-beginners/",
+    "snippet": "The Puma Velocity Nitro 4 is one of our favourite shoes for runners of all levels, and one of the best value shoes on the market as well. It's light, ..."
+   },
+   {
+    "pos": 5,
+    "title": "Best Long Distance Running Shoes",
+    "url": "https://weartesters.com/best-long-distance-running-shoes/",
+    "snippet": "Best Long Distance Running Shoes for Everyday Use: · adidas Evo SL · Puma MagMax Nitro · Asics Superblast 2 · Asics Megablast · adidas Boston 13."
+   },
+   {
+    "pos": 6,
+    "title": "The Best Running Shoes for Men 2026",
+    "url": "https://www.runnersworld.com/uk/gear/shoes/a64779699/running-shoes-for-men/",
+    "snippet": "From freaky fast racers to rock-solid stability shoes, these are the most-loved and highest-rated options for male runners in 2025."
+   },
+   {
+    "pos": 7,
+    "title": "Best running shoes of 2026, tested by real runners and ...",
+    "url": "https://health.yahoo.com/wellness/fitness/article/best-running-shoes-170030928.html",
+    "snippet": "Nike Pegasus 42: Miller named this shoe the best option for beginners thanks to its construction that works for a wide range of foot types. It ..."
+   },
+   {
+    "pos": 8,
+    "title": "7 Best Road Running Shoes in 2026",
+    "url": "https://runrepeat.com/guides/best-road-running-shoes",
+    "snippet": "The ASICS Gel Kayano 33, our top pick for the best stability road-running shoe, achieves the sweet spot between comfort and support. Featuring ..."
+   },
+   {
+    "pos": 9,
+    "title": "The Best Running Shoes of 2024 Running Shoe Reviews",
+    "url": "https://www.autoweek.com/finds/a44534912/best-running-shoes/",
+    "snippet": "From cushioned and lightweight to comfy and stable, these are the 17 running shoes we're loving right now for the road, trail, and race day."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "discussions_and_forums",
+   "immersive_products",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k13",
+  "q": "best running shoes",
+  "intent": "commercial",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

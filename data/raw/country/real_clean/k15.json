@@ -1,0 +1,105 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T13:02:05+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "tesla stock",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 10.15,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+    "url": "https://finance.yahoo.com/",
+    "host": "finance.yahoo.com",
+    "crumb": "https://finance.yahoo.com › quote › TSLA",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Tesla: TSLA Stock Price Quote & News",
+    "url": "https://robinhood.com/",
+    "host": "robinhood.com",
+    "crumb": "https://robinhood.com › Stocks",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "TSLA Stock Price - Tesla, Inc.",
+    "url": "https://www.tradingview.com/",
+    "host": "www.tradingview.com",
+    "crumb": "https://www.tradingview.com › ... › Motor Vehicles",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "TSLA - TESLA INC | Stock Quotes from Fidelity Investments",
+    "url": "https://digital.fidelity.com/",
+    "host": "digital.fidelity.com",
+    "crumb": "https://digital.fidelity.com › dashboard › summary",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "TSLA: Tesla Inc - Stock Price, Quote and News",
+    "url": "https://www.cnbc.com/",
+    "host": "www.cnbc.com",
+    "crumb": "https://www.cnbc.com › quotes › TSLA",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Tesla Inc. (TSLA) Stock Price Today - The Wall Street Journal",
+    "url": "https://www.wsj.com/",
+    "host": "www.wsj.com",
+    "crumb": "https://www.wsj.com › Market Data › Stock",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Tesla (TSLA) Stock price today - quote & chart",
+    "url": "https://www.kraken.com/",
+    "host": "www.kraken.com",
+    "crumb": "https://www.kraken.com › Stocks",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "News",
+   "AI Overview",
+   "Key Stock Statistics",
+   "Recent Market Context",
+   "Share public link",
+   "My Ad Center",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Web results",
+   "Related markets",
+   "Overview",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k15",
+  "q": "tesla stock",
+  "intent": "finance",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

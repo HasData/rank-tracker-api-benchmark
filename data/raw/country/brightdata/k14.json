@@ -1,0 +1,91 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T13:00:49+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=iphone+17+pro+price&gl=us&hl=en&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 36.01,
+ "bytes": 417314,
+ "seconds": 36.73,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 2,
+    "title": "Buy iPhone 17 - Education",
+    "url": "https://www.apple.com/us-edu/shop/buy-iphone/iphone-17",
+    "snippet": "Buy iPhone 17 From $899 or $37.45/mo. 128GB 256GB 1TB iPhone 17 Pro Max iPhone 17 Pro iPhone. BuyFrom $899.00 Footnote ‡ , Dual Fusion camera From $899 or $37. ..."
+   },
+   {
+    "pos": 13,
+    "title": "Best Deals on iPhone 17 Pro, 512GB, Deep Blue | AppleInsider",
+    "url": "https://prices.appleinsider.com/group/8145",
+    "snippet": "iPhone 17 Pro, 512GB, Deep Blue ; $1299, $0.00 ; from $5.56/mo, $0.00 ...Read more"
+   },
+   {
+    "pos": 14,
+    "title": "Buy Apple iPhone 17 Pro Silver 512GB",
+    "url": "https://www.puretalk.com/buy-cell-phones-online/PT-AP-17PRO-512GB-SILVER",
+    "snippet": "Pay Monthly*. $27.75/mo ; Pay in Full. $999.00 ; Description. iPhone 17 Pro. The most powerful iPhone ever. Brilliant 6.3-inch display,: aluminum unibody design, ...Read more"
+   },
+   {
+    "pos": 15,
+    "title": "iPhone 17 Pro Reportedly Will Get Higher Price Tag, but ...",
+    "url": "https://www.cnet.com/tech/mobile/iphone-17-pro-will-reportedly-get-higher-price-tag-but-also-more-storage/",
+    "snippet": "The iPhone 17 Pro, set to launch in September, reportedly will be priced $50 more, at $1,050 in the US before taxes, according to Chinese leaker ...Read more"
+   },
+   {
+    "pos": 16,
+    "title": "iPhone 17 Pro Max: Release Date, Price, Colors",
+    "url": "https://www.verizon.com/smartphones/apple-iphone-17-pro-max/",
+    "snippet": "Apple iPhone 17 $99.99/mo 24 months $49.99/mo$49.99/mo. Pay in full today $1,199.99. Full retail price $1,199.99. Apple iPhone 17 Pro Max Starts at $33.33/mo ..."
+   },
+   {
+    "pos": 17,
+    "title": "Apple iPhone 17 Pro Max, US Version, 256GB, eSIM ...",
+    "url": "https://www.amazon.com/Apple-Version-Orange-Unlocked-Renewed/dp/B0FTC2PRVZ",
+    "snippet": "Apple iPhone 17 Pro Max, US Version, 256GB, Accept your estimated trade-in value, buy your new device at the current price, and receive your delivery."
+   },
+   {
+    "pos": 18,
+    "title": "Where to Buy the New iPhone 17 for the Best Price in 2025",
+    "url": "https://www.google.com/goto?url=CAESkQEB6zswFZdIrq8lS1xHZsaIKAa7da-cMlz6KyRGUEud-RgbcQyNYh9Y1rxn1ERr-G6ihQfGiOxOYHJZr_KWgT4y3P8-eCF0WTS1PmglWSxOWyxdNsQHAaTE0HPA1mSSL6J1Lb1tt_Nrb8VEan3J6ulyYd48q-NaY3LyLC_RWYWo7Vpx6C0PnPqKMQoJoZzXYQ2a",
+    "snippet": "iPhone 17 (Unlocked). 7. $799.00 at Apple ; iPhone 17 Pro (Unlocked). 9. $1,099.00 at Apple ; iPhone Air (Unlocked). 5. $999.00 at Apple ; iPhone ...Read more"
+   },
+   {
+    "pos": 20,
+    "title": "Apple iPhone 17 Pro: Price, Specs, and Cheapest Plans",
+    "url": "https://www.google.com/goto?url=CAESegHrOzAVzvaiYhJXI0f_03m0APLPGoYn8Vx1DrzJZmHe-kTSHakq6kusTpvjrR-vEI30N31toGn34YzhDQUqvCxcJGE7cKntUbsLbmH8wsAh1wm7tAQvbPUPV8tqqqKI1HcQfKOIwCJydK59UyhbsFyk1yKQwjeHAr4R",
+    "snippet": "36-month plan. Here's a look at plans for the 256GB Apple iPhone 17 Pro. Here's a look at plans for the 512GB Apple iPhone 17 Pro. 1TB Apple iPhone 17 Pro. 256 ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "jackpot_pla",
+   "organic",
+   "people_also_ask",
+   "perspectives",
+   "popular_products",
+   "related"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

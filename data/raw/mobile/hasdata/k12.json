@@ -1,0 +1,77 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:17:50+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.95,
+ "bytes": 23219,
+ "seconds": 2.03,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Edgewater Dental Clinic for Quality Family Dentistry",
+    "url": "https://www.universalsmilesdentistry.com/Edgewater",
+    "snippet": "professional dentists Edgewater, Florida. 386-423-3652 ・ 2102 S. Ridgewood Ave Suite 11 Edgewater, FL 32141 Phone: 386-423-3652 ・ +1 (386) 736-7309 240 E New ..."
+   },
+   {
+    "pos": 2,
+    "title": "THE BEST 10 DENTISTS IN EDGEWATER, FL",
+    "url": "https://m.yelp.com/search?cflt=dentists&find_loc=Edgewater%2C+FL",
+    "snippet": "Top 10 Best Dentists Near Edgewater, Florida. Ben Adams DDS Cosmetic & Family Dentistry (5/5) Precision Cosmetic and Family Dentistry (5/5) Miranda and Ortega ..."
+   },
+   {
+    "pos": 3,
+    "title": "Best Dentists Near Me in Daytona Beach, Florida",
+    "url": "https://www.deltadental.com/member/find-a-dentist/florida/daytona-beach-dentists/",
+    "snippet": "Call 1-800-431-7201 Dentists in Daytona Beach, Florida There are more than 50 dentists around the area of Daytona Beach, FL. 208 S BEACH STDAYTONA BEACH, FL ..."
+   },
+   {
+    "pos": 4,
+    "title": "Dental Creations of Daytona Beach | Dentist Daytona Beach FL",
+    "url": "https://www.dentalcreationsofdaytona.com/",
+    "snippet": "Dental Creations of Daytona Beach provides quality dental care, cosmetic dentistry, and dental sleep medicine ・ 1659 N Clyde Morris Blvd, Daytona Beach, FL ..."
+   },
+   {
+    "pos": 5,
+    "title": "Adult Dentistry",
+    "url": "https://www.myfhs.org/dental/",
+    "snippet": "Exams & X-rays Cleaning & deep cleaning. Call us at 386-202-6025 to schedule an appointment or with questions. make an appointment. 386-202-6025."
+   },
+   {
+    "pos": 6,
+    "title": "Sage Dental of Daytona at Beach Street",
+    "url": "https://mysagedental.com/daytona-at-beach-street/",
+    "snippet": "Our services range from generic dental cleanings, orthodontics, periodontics, restorative dentistry, and cosmetic dentistry care. We also offer a full range of ..."
+   }
+  ],
+  "features": [
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

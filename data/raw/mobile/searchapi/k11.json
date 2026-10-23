@@ -1,0 +1,99 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:11+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "pizza near me",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.33,
+ "bytes": 29602,
+ "seconds": 2.42,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Extreme Pizza | Freshly Made Gourmet Pizza | Pizza Delivery",
+    "url": "https://www.extremepizza.com/",
+    "snippet": "Extreme Pizza is your go-to store for fresh gourmet pizzas that will satisfy your cravings. Explore our menu for our exciting flavors. Visit us or order ..."
+   },
+   {
+    "pos": 2,
+    "title": "Ledo Pizza: Pizza, Wings, Subs, and Salads",
+    "url": "https://ledopizza.com/",
+    "snippet": "Fresh made Pizza, Wings, Subs, and Calzones! A favorite for pizza near me! Ledo Pizza $9.99 SQUARE. Find a nearby location, explore our menu, or order online ..."
+   },
+   {
+    "pos": 3,
+    "title": "Welcome to Pizza Boli's | Pizza, Wings, Pasta, Subs, Salads",
+    "url": "https://www.pizzabolis.com/",
+    "snippet": "At Pizza Boli's, we deliver more taste. Order delicious food for delivery like pizza, wings, pasta, subs, salads and more. Find a location near you."
+   },
+   {
+    "pos": 4,
+    "title": "Marcos Pizza Locations – Find Pizza Near You",
+    "url": "https://www.marcos.com/our-locations/restaurants/",
+    "snippet": "Discover Marcos Pizza locations across various states. Find your nearest pizza spot for delicious options and quick service. We offer Delivery, hot2go. Dine-in."
+   },
+   {
+    "pos": 5,
+    "title": "Pizza Hut Jobs & Careers | Pizza Hut",
+    "url": "https://jobs.pizzahut.com/",
+    "snippet": "What Makes You, You… Whatever you bring to the table is 100% welcome, except bad pizza. What do you say? Wanna get paid to be yourself? LET'S CELEBRATE IT."
+   },
+   {
+    "pos": 6,
+    "title": "Marco's Pizza Online Ordering",
+    "url": "https://www.marcos.com/",
+    "snippet": "Marco's Pizza Online Ordering is designed for ease-of-use. It's quick and easy to create an order, purchase, and schedule for delivery. Create an order now!"
+   },
+   {
+    "pos": 7,
+    "title": "Ian's Pizza Pizza by the Slice • Home of Mac n' Cheese Pizza • Delivery ...",
+    "url": "https://ianspizza.com/",
+    "snippet": "Ian's Pizza brings craft-quality pizza to the people. We use the finest local ingredients to make the best NY style thin crust pizza to hit your tastebuds."
+   },
+   {
+    "pos": 8,
+    "title": "Papa's Pizza & BBQ — Born in Fire & Smoke",
+    "url": "https://eatpapas.com/",
+    "snippet": "Michigan's best pizza and BBQ. Hand-tossed pies blistered in a blazing oven and St. Louis ribs smoked low and slow. 18 locations across Michigan."
+   },
+   {
+    "pos": 9,
+    "title": "Sammy's Pizza",
+    "url": "https://www.ordersammys.com/",
+    "snippet": "A DETROIT FAVORITE · BUILD YOUR OWN. Save time & order online. order from any device fast. and easy in just minutes. · WE CATER. No matter the size of your event ..."
+   },
+   {
+    "pos": 10,
+    "title": "Snappy Tomato Pizza",
+    "url": "https://www.snappytomato.com/",
+    "snippet": "Stuffed Crust is Here! Now available in Medium size for just $14.99. ORDER NOW ; Join Snappy Rewards. Earn free pizza and enjoy exclusive discounts. SNAPPY ..."
+   }
+  ],
+  "features": [
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "device": "mobile"
+ }
+}

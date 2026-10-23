@@ -1,0 +1,112 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T12:57:49+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "pizza near me",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 5.2,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Domino's: Pizza Delivery & Carryout, Pasta, Wings & More",
+    "url": "https://www.dominos.com/",
+    "host": "www.dominos.com",
+    "crumb": "http://www.dominos.com",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Best Pizza Restaurants Near Me - October 2026",
+    "url": "https://www.yelp.com/",
+    "host": "www.yelp.com",
+    "crumb": "https://www.yelp.com › nearme › pizza-restaurants",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Order Pizza Near Me",
+    "url": "https://www.pizzahut.com/",
+    "host": "www.pizzahut.com",
+    "crumb": "https://www.pizzahut.com › menu › pizza",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "HotBox Pizza | Order Pizza Online | Pizza Delivery | Indiana",
+    "url": "https://www.hotboxpizza.com/",
+    "host": "www.hotboxpizza.com",
+    "crumb": "https://www.hotboxpizza.com › ...",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Any legit pizza places around Bradenton?",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/bradenton",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "What's the best cheesy pizza in worcester? (Bonus if they ...",
+    "url": "https://www.facebook.com/",
+    "host": "www.facebook.com",
+    "crumb": "Facebook · Worcester Eats",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Barro's Pizza | Fresh Pizza, Delivery & Locations",
+    "url": "https://barrospizza.com/",
+    "host": "barrospizza.com",
+    "crumb": "https://barrospizza.com",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Where is the best pizza in San Antonio, TX?",
+    "url": "https://50+ answers/",
+    "host": "50+ answers",
+    "crumb": "50+ answers · 7 years ago",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "Best pizza in mobile?",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/MobileAL",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "People also ask",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

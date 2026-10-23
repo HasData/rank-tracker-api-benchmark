@@ -1,0 +1,98 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:02:34+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "what is a serp api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.79,
+ "bytes": 68960,
+ "seconds": 2.92,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you."
+   },
+   {
+    "pos": 2,
+    "title": "Plans and Pricing",
+    "url": "https://serpapi.com/pricing",
+    "snippet": "Start for free, upgrade as you grow, or contact our team about an enterprise plan tailored to your volume, performance, and compliance needs. View all ..."
+   },
+   {
+    "pos": 3,
+    "title": "What is a SERP?",
+    "url": "https://serpapi.com/blog/what-is-a-serp/",
+    "snippet": "A Search Engine Results Page (SERP) is a web page that appears in response to a search engine query. It typically contains a list of web pages, ..."
+   },
+   {
+    "pos": 4,
+    "title": "What Is a SERP API? How It Works and When to Switch",
+    "url": "https://you.com/resources/what-is-a-serp-api",
+    "snippet": "A SERP API is a managed service that retrieves, renders, and parses those pages into structured data your application can consume."
+   },
+   {
+    "pos": 5,
+    "title": "SERP API - 5K Requests/Month for Free",
+    "url": "https://brightdata.com/products/serp-api",
+    "snippet": "SERP API A comprehensive solution for easy, real-time search engine scraping, handling proxy management, unblocking, and parsing with ease."
+   },
+   {
+    "pos": 6,
+    "title": "Google SERP API: Everything You Need To Know",
+    "url": "https://medium.com/@darshankhandelwal12/google-serp-api-everything-you-need-to-know-e9ae28fd86ef",
+    "snippet": "you can use a Google SERP API to supply up-to-date facts, examples, or Q&A to a chatbot or language model."
+   },
+   {
+    "pos": 7,
+    "title": "Google Search Engine Results API",
+    "url": "https://serpapi.com/search-api",
+    "snippet": "Scrape Google search results in JSON format automatically using custom parameters. Search for keywords by location, date and more ..."
+   },
+   {
+    "pos": 8,
+    "title": "Web Search API: A Quick Tour of SerpApi",
+    "url": "https://www.youtube.com/watch?v=ViZ5WvDbzKY",
+    "snippet": "SerpApi provides APIs that help developers scrape real-time public data from search engine results such as Google, Bing, and Amazon. All ..."
+   },
+   {
+    "pos": 9,
+    "title": "Getting started with SerpApi: The Web Search API",
+    "url": "https://serpapi.com/blog/getting-started-with-serpapi-the-web-search-api/",
+    "snippet": "Hi there! Welcome to SerpApi. We provide an API that helps developers scrape real-time public data from search engine results such as Google ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

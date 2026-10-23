@@ -1,0 +1,97 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:07:45+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "cheap flights to paris",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.57,
+ "bytes": 30799,
+ "seconds": 2.67,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "$237 Cheap Flights to Paris in 2026/27",
+    "url": "https://www.momondo.com/flights/paris",
+    "snippet": "Find Flights to Paris PAR from $234. Fly from the United States on Delta, Air France, and more. New York from $582; Newark from $583 | momondo."
+   },
+   {
+    "pos": 2,
+    "title": "$275 Cheap Flights from New York (JFK) to Paris (CDG)",
+    "url": "https://www.expedia.com/lp/flights/jfk/cdg/new-york-to-paris",
+    "snippet": "Cheap Flights from New York (JFK) to Paris (CDG) start at $275 for one-way and $630 for round trip. Earn your airline miles on top of our rewards!"
+   },
+   {
+    "pos": 3,
+    "title": "$361 CHEAP FLIGHTS from Los Angeles to Paris (LAX",
+    "url": "https://www.kayak.com/flight-routes/Los-Angeles-LAX/Paris-PAR",
+    "snippet": "February is the cheapest month to fly from Los Angeles to Paris at $710 round-trip. •December ($1,178) and July ($1,154) are the most expensive months. •The ..."
+   },
+   {
+    "pos": 4,
+    "title": "Cheap flights to France",
+    "url": "https://www.momondo.com/flights/france",
+    "snippet": "If you are looking to fly to France for less, look to airlines like Ryanair, Transavia France, and easyJet, with prices starting at $17, $18, and $23 ..."
+   },
+   {
+    "pos": 5,
+    "title": "$198 Flights from United States (US) to Paris (PARI)",
+    "url": "https://www.skyscanner.com/routes/xmb/pari/m-bahiakro-to-paris.html",
+    "snippet": "Compare United States to Paris flight deals · Find the cheapest month or even day of the year to fly to Paris · Book the best Paris fare with no extra fees."
+   },
+   {
+    "pos": 6,
+    "title": "How to Book Cheap Flights to Paris from USA in ...",
+    "url": "https://vocal.media/01/how-to-book-cheap-flights-to-paris-from-usa-in-2025",
+    "snippet": "Budget-Friendly Options: Norwegian Air, French Bee, and PLAY Airlines offer lower-cost flights. Major Airlines with Frequent Deals: Delta, American Airlines ..."
+   },
+   {
+    "pos": 7,
+    "title": "Cheap flights from the United States to Paris ...",
+    "url": "https://www.momondo.com/flights/united-states/paris-orly-airport-ory",
+    "snippet": "The month of January is, on average, the cheapest month to fly to Paris Orly Airport from United States, with most prices found around $493."
+   },
+   {
+    "pos": 8,
+    "title": "Cheapest Flights to Paris From US",
+    "url": "https://www.facebook.com/fb-answers/cheapest-flights-to-paris-from-us/",
+    "snippet": "You can fly to Paris from the US for as low as $779 roundtrip from Charlotte on American Airlines, or even $0 using Chase Sapphire points transferred to..."
+   },
+   {
+    "pos": 9,
+    "title": "Cheap flights to France",
+    "url": "https://wwws.airfrance.us/en-us/flights-to-france",
+    "snippet": "Find your Air France flight for France at the best price from $716. Discover our selection of cheap round-trip flights to France."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k20",
+  "q": "cheap flights to paris",
+  "intent": "travel",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

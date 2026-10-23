@@ -1,0 +1,66 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:25+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "how to tie a tie",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.19,
+ "bytes": 70392,
+ "seconds": 3.27,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "How To Tie A Necktie | Different Ways Of Tying A Tie",
+    "url": "https://www.ties.com/how-to-tie-a-tie?srsltid=AYCX9vJXFjZIn2JAUKzE6Ac4OCed9CTPBMNJbTlkLgdExraNpcg8uuXC",
+    "snippet": "A comprehensive step by step guide on the different ways to tie a tie. Windsor, 4 in hand, Eldredge, Trinity, bow tie, and other simple knots from Ties.com."
+   },
+   {
+    "pos": 2,
+    "title": "You found the easiest way to tie a tie - #fashion - #wardrobeessentials",
+    "url": "https://www.facebook.com/linanooryhost/videos/pov-you-found-the-easiest-way-to-tie-a-tie-fashion-wardrobeessentials-stylinghac/1418571386781732/",
+    "snippet": "You found the easiest way to tie a tie. Tom Shook Tie a double windsor. The knot is crooked. Terry Butchart That will always come to short that ..."
+   },
+   {
+    "pos": 3,
+    "title": "Tie-a-Tie.net",
+    "url": "https://www.tie-a-tie.net/",
+    "snippet": "Learn how to tie a tie with the Windsor, Half Windsor, Four in Hand and Pratt necktie knots by following step-by-step video instructions"
+   },
+   {
+    "pos": 4,
+    "title": "Quickest way to tie a tie Wes & Alison share a helpful tip for tying a suit tie. ...",
+    "url": "https://www.facebook.com/lifewithwesandalison/videos/quickest-way-to-tie-a-tie/7247470708699432/",
+    "snippet": "The tip of the point should be right at the top of your belt buckle. One break in the lower leg of your pants (otherwise have them hemmed)."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "inline_images",
+   "inline_shorts",
+   "inline_videos",
+   "organic_results",
+   "perspectives",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k18",
+  "q": "how to tie a tie",
+  "intent": "informational, video",
+  "device": "mobile"
+ }
+}

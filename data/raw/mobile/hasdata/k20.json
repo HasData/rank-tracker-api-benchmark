@@ -1,0 +1,101 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:21:50+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "cheap flights to paris",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.92,
+ "bytes": 30192,
+ "seconds": 1.96,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Flights to Paris",
+    "url": "https://www.google.com/travel/flights?sca_esv=a5849753dad976a5&hl=en&gl=us&prmd=snvi&sxsrf=APpeQnvlGhKaAEs61WYIGMnBs_KOLcUl6A:1792074111465&source=flun&uitype=cuAA&curr=USD&ep=CAE&tfs=CAEQAhonEgoyMDI2LTEyLTA2MgJCNmoHCAESA0FUTHIMCAISCC9tLzA1cXRqGicSCjIwMjYtMTItMjIyAkI2agwIAhIIL20vMDVxdGpyBwgBEgNBVEx6aENqUklWMUZmYUhoYVFWZGtYMWxCUlhSWVRtZENSeTB0TFMwdExTMHRMWFowWldneU1VRkJRVUZCUjNKUk5GZzRTa294UzJkQkVnTmpRallhQ3dpOGp3VVFBaG9EVlZORU9EQnd2SThG&ved=1t:2773&ictx=111",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "$214 Cheap Flights to Paris Charles de Gaulle - Skyscanner",
+    "url": "https://www.skyscanner.com/flights-to/cdg/cheap-flights-to-paris-charles-de-gaulle-airport.html",
+    "snippet": "The lowest price currently available for a one-way flight to Paris Charles de Gaulle Airport is $214. A round-trip plane ticket to CDG right now is $398."
+   },
+   {
+    "pos": 3,
+    "title": "Flights to Paris",
+    "url": "https://www.aa.com/en-us/flights-to-paris",
+    "snippet": "You can often find lower fares by booking in advance and traveling during off-peak times. Midweek flights and flexible dates may help you find better prices."
+   },
+   {
+    "pos": 4,
+    "title": "Find Cheap Flights from Atlanta to Paris (ATL - PAR)",
+    "url": "https://www.google.com/travel/flights/flights-from-atlanta-to-paris.html?gl=US&hl=en-US",
+    "snippet": "The cheapest month to fly from Atlanta to Paris is typically February. January Prices in January are usually between $550 and $830."
+   },
+   {
+    "pos": 5,
+    "title": "Cheap flights to Paris - Flight from United States to Paris",
+    "url": "https://wwws.airfrance.us/en-us/flights-to-paris",
+    "snippet": "Find your cheap flight to Paris with Air France from $716. Discover our selection of return flights at the best price to Paris PAR."
+   },
+   {
+    "pos": 6,
+    "title": "Cheap flights from the United States to Paris ...",
+    "url": "https://www.momondo.com/flights/united-states/paris",
+    "snippet": "The cheapest day to depart from United States to Paris is on a Sunday when prices can be found for as low as $801. Be sure to avoid booking ..."
+   },
+   {
+    "pos": 7,
+    "title": "Book cheap flights to Paris (PAR)",
+    "url": "https://www.booking.com/flights/destination/city/fr/paris.html",
+    "snippet": "Compare deals on one-way and round-trip flights to Paris book cheap tickets online with ease. takes 7 hours 22 minutes and costs $1,205 round-trip."
+   },
+   {
+    "pos": 8,
+    "title": "Cheap Flights from Atlanta (ATL) to Paris (CDG)",
+    "url": "https://www.expedia.com/lp/flights/atl/cdg/atlanta-to-paris",
+    "snippet": "You can find cheap one-way flights from $329 and cheap return flights $675. One-way flights typically cost between $601 and $7163, and return flights often ..."
+   },
+   {
+    "pos": 9,
+    "title": "$222 CHEAP FLIGHTS to Paris in 2026/27",
+    "url": "https://www.kayak.com/flight-routes/United-States-US0/Paris-PAR",
+    "snippet": "Monday is the cheapest day to fly to Paris at $946 round-trip on average over the past 12 months on KAYAK. Saturday is the most expensive at $1,020."
+   },
+   {
+    "pos": 10,
+    "title": "Flights to Paris + CDG Flight Deals | Delta Air Lines",
+    "url": "https://www.delta.com/us/en/flight-deals/europe-flights/flights-to-paris",
+    "snippet": "Shop Delta's best fares for flights to Paris, France (CDG), with direct flights available from 9 U.S. cities for your next European getaway."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k20",
+  "q": "cheap flights to paris",
+  "intent": "travel",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

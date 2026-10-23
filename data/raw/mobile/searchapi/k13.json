@@ -1,0 +1,88 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:14+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "best running shoes",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 5.24,
+ "bytes": 88620,
+ "seconds": 5.47,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "The Best Running Shoes I Tested in 2025",
+    "url": "https://www.runnersworld.com/gear/a69801110/amanda-furrer-best-running-shoes-i-tested-in-2025/",
+    "snippet": "Here are my top four trainers of 2025. Nike Vomero Premium: Asics Metaspeed Edge Tokyo: My Top Pick for Racing. Best Marathon Shoe Asics ..."
+   },
+   {
+    "pos": 2,
+    "title": "The Best Running Shoes for Men 2026",
+    "url": "https://www.runnersworld.com/uk/gear/shoes/a64779699/running-shoes-for-men/",
+    "snippet": "The best running shoes for men Nike Pegasus 42 Nike. The Megablast is easily one of the best super trainers on the market. The Adizero Evo SL ' ..."
+   },
+   {
+    "pos": 3,
+    "title": "What are some good running shoes. : r/runninglifestyle",
+    "url": "https://www.reddit.com/r/runninglifestyle/comments/1kewifs/what_are_some_good_running_shoes/",
+    "snippet": "I’m looking for good running shoes for training the one I got for training hurt my calf when running for long distances there the Nike downshifter 11 ..."
+   },
+   {
+    "pos": 4,
+    "title": "Best Running Shoes of 2024 (So Far)",
+    "url": "https://believeintherun.com/shoe-reviews/best-running-shoes-of-2024-so-far/",
+    "snippet": "What You Need To Know · Nike Alphafly 3 · Asics Metaspeed Edge/Sky Paris · Hoka Cielo X1 · Salomon S/Lab Spectur · Brooks Ghost 16 · Hoka Mach 6."
+   },
+   {
+    "pos": 5,
+    "title": "The Best Beginner Running Shoes 2026",
+    "url": "https://theruntesters.com/the-best-running-shoes-for-beginners/",
+    "snippet": "The Asics Novablast 6 is great for runners of all levels of experience, but ticks every box in being the perfect beginners' shoe. Salomon Aero Glide 4"
+   },
+   {
+    "pos": 6,
+    "title": "Best Running Shoe Brands for Men and Women (2026)",
+    "url": "https://www.roadrunnersports.com/blog/best-running-shoe-brands-for-men-and-women/?srsltid=AYCX9vKqM2bJ8lned8AjahP_Lopc5Z9pkjH7OJCX5_whVRvV_WlTuQ4e",
+    "snippet": "There is no single best running shoe brand. The best brand is the one whose fit matches your foot. Brooks, HOKA, ASICS, Saucony, New Balance, ..."
+   },
+   {
+    "pos": 7,
+    "title": "Best Running Shoes for Women | Tested & Ranked",
+    "url": "https://www.outdoorgearlab.com/topics/shoes-and-boots/best-running-shoes-womens",
+    "snippet": "The best shoe for most runners is the Asics Novablast 5. Our favorite budget pick is the Asics Gel-Contend 9. The Brooks Glycerin 23 is another top performer ..."
+   },
+   {
+    "pos": 8,
+    "title": "Team Picks: Our Favourite Running Shoes in Each Category 2026",
+    "url": "https://www.rundna.com.au/blog/RunDNA-staff-picks?srsltid=AYCX9vL-cM0nupl69PRDBV-PNUZ4NdiG60IaPlR9qtHGVd5XpOxIWr4s",
+    "snippet": "Our team shares their top picks for the best running shoes across daily trainers, super trainers, workout shoes, and race-day favourites."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "discussions_and_forums",
+   "inline_shopping",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k13",
+  "q": "best running shoes",
+  "intent": "commercial",
+  "device": "mobile"
+ }
+}

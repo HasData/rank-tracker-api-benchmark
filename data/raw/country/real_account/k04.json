@@ -1,0 +1,109 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T12:48:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "web scraping api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.56,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Best web scraping api's at the moment? : r/webscraping",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/webscraping",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "What is a web scraping API?",
+    "url": "https://www.firecrawl.dev/",
+    "host": "www.firecrawl.dev",
+    "crumb": "https://www.firecrawl.dev › web-extraction-apis › what-...",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "ScraperAPI: Scale Data Collection with a Simple Web ...",
+    "url": "https://www.scraperapi.com/",
+    "host": "www.scraperapi.com",
+    "crumb": "https://www.scraperapi.com",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "ScrapingBee – The Best Web Scraping API",
+    "url": "https://www.scrapingbee.com/",
+    "host": "www.scrapingbee.com",
+    "crumb": "https://www.scrapingbee.com",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Web Scraping API – Free Plan, 100+ Templates",
+    "url": "https://decodo.com/",
+    "host": "decodo.com",
+    "crumb": "https://decodo.com › Data Scraping",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "The 9 Best Web Scraping APIs & Tools in 2026",
+    "url": "https://brightdata.com/",
+    "host": "brightdata.com",
+    "crumb": "https://brightdata.com › Blog › Web Data",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "16 Best Web Scraping APIs of 2026 (In-Depth Review)",
+    "url": "https://scrape.do/",
+    "host": "scrape.do",
+    "crumb": "https://scrape.do › blog › best-web-scraping-api",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "API scraping | Academy",
+    "url": "https://docs.apify.com/",
+    "host": "docs.apify.com",
+    "crumb": "https://docs.apify.com › academy › api-scraping",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "Videos",
+   "Scraper APIs Make Your Life Easier...",
+   "Web Scraping for Beginners – Extract Data with an API",
+   "In this video",
+   "How To Build a Web Scraping API for Large-Scale Data ...",
+   "People also ask",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k04",
+  "q": "web scraping api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:31+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "iphone 17 pro price",
+   "gl": "us",
+   "hl": "en",
+   "location": "Austin,Texas,United States"
+  }
+ },
+ "status": 200,
+ "ttfb": 1.82,
+ "bytes": 3434,
+ "seconds": 1.88,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Buy iPhone",
+    "url": "https://www.apple.com/shop/buy-iphone",
+    "snippet": "Buy from $1099 or $45.79/mo. Get up to $175–$885 in credit toward. Special pricing is available for state, local, and federal agencies."
+   },
+   {
+    "pos": 2,
+    "title": "iPhone 17 Pro",
+    "url": "https://www.bestbuy.com/site/all-iphone/iphone-17-pro/pcmcat1757084508699.c?id=pcmcat1757084508699",
+    "snippet": "iPhone 17 Pro 512GB - Deep Blue (Verizon) $36.11 per month$3611/mo. - Silver $1,040.00$1,04000. Deep - Blue $1,199.97$1,19997 Save $59.09"
+   },
+   {
+    "pos": 3,
+    "title": "Buy Apple iPhone 17 Pro Cosmic Orange 256GB",
+    "url": "https://www.puretalk.com/buy-cell-phones-online/PT-AP-17PRO-256GB-COSMICORANGE",
+    "snippet": "Retail Price: $1,099.00 Pay Monthly* $22.19/mo + Taxes & Fees Pay in Full $799.00 + Taxes & Fees … agreement required at checkout. Discounts can be up to $300 ..."
+   },
+   {
+    "pos": 4,
+    "title": "Apple iPhone 17 Pro: Price, Colors, Specs, Reviews",
+    "url": "https://www.verizon.com/smartphones/apple-iphone-17-pro/",
+    "snippet": "Apple iPhone 17 Pro Starts at $30.55 Apple iPhone 18 Pro Apple iPhone 18 Pro Max Apple iPhone 17 Pro Max Apple iPhone 18 Pro Battery life Typical use: Up to 24 ..."
+   },
+   {
+    "pos": 5,
+    "title": "Buy iPhone 17 Pro | Price, Colors and Plans",
+    "url": "https://www.att.com/buy/phones/apple-iphone-17-pro.html",
+    "snippet": "What is the iPhone 17 Pro's price on this page? The full retail price is $1,099.99 for the entry storage configuration. The installment price is ..."
+   },
+   {
+    "pos": 6,
+    "title": "I'll Save You Time: Buy the iPhone 17 Pro",
+    "url": "https://www.youtube.com/watch?v=rvWRDTsdbrI&xstg=CAMSBhUDze3xHw%3D%3D",
+    "snippet": "Buy the iPhone 17 Pro. A $1099 phone sounds expensive until you start treating longevity as part of what you're buying, not just the hardware ..."
+   },
+   {
+    "pos": 7,
+    "title": "iPhone",
+    "url": "https://www.apple.com/iphone/",
+    "snippet": "iPhone 17, and iPhone 17e. a new iPhone with a trade‐in. Get $175–$885 in credit toward iPhone Duo or iPhone 18 Pro"
+   },
+   {
+    "pos": 8,
+    "title": "Apple iPhone 17 Pro: Deals, Features, Specs & Prices",
+    "url": "https://www.t-mobile.com/cell-phone/apple-iphone-17-pro",
+    "snippet": "Shop the Apple iPhone 17 Pro. Starting at $0 Shop for SIM cards for as low as $0 today. 6.3” iPhone 17 Pro. All 48MP Fusion rear 18MP Center Stage front camera."
+   },
+   {
+    "pos": 9,
+    "title": "iPhone 17 Pro Hands-On: Higher Price and Newish Design",
+    "url": "https://www.cnet.com/videos/iphone-17-pro-hands-on-a-higher-price-and-newish-design/",
+    "snippet": "CNET's Patrick Holland goes hands-on with the new iPhone 17 Pro and Pro Max, breaking down everything you need to know about the new design, ..."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

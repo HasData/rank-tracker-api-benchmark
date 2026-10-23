@@ -1,0 +1,101 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:00:49+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "iphone 17 pro price",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.79,
+ "bytes": 99174,
+ "seconds": 4.27,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Buy Apple iPhone 17 Pro Silver 512GB",
+    "url": "https://www.google.com/goto?url=CAESgwEB6zswFSEpsccyEDHHRky3KGBIMmDoqadyQBK7agEJe3T9pN3_zRyVftc_bmvN6iIUTaTgAAhG_MU9cd0Ci0mEEAGfJCJCr4kgA2BkYuyv9BZvnQ2AG7dtQGt52kHcGBdi9HJbvP9bQggf2m_BQyRiyQMt87u1g_07nHLJrbDew9pJXw",
+    "snippet": "Pay Monthly*. $27.75/mo ; Pay in Full. $999.00 ; Description. iPhone 17 Pro. The most powerful iPhone ever. Brilliant 6.3-inch display,: aluminum unibody design, ...Read more",
+    "host": "www.puretalk.com"
+   },
+   {
+    "pos": 2,
+    "title": "Apple iPhone 17 Pro",
+    "url": "https://www.google.com/goto?url=CAESfwHrOzAVyr0S4o439luHlNkrBlvQJVfZ8sU8fNjOViZ2glPcSO48-ynCwLRb_roDwZtADgdvEgMfJojns_H50Y_TPQJiMg1VGjl4xHcZn3C6_YI1mK5yNhs9qHNh8SNhZqGPKpID_AWguLZZUNZe6HRzM6_w6oXyKVNasAPVcv8",
+    "snippet": "Apple iPhone 17 Pro Free shipping! Ready to run on Visible 5G $1299 Color: Cosmic Orange Capacity: 512 GB. Brilliant 6.3-inch. A19 Pro chip, all 48MP rear ...",
+    "host": "www.visible.com"
+   },
+   {
+    "pos": 3,
+    "title": "iPhone 17: Release Date, Price, Colors",
+    "url": "https://www.google.com/goto?url=CAESbwHrOzAVuT4EMP6FJLjNvYo5yN5665eD7nqn5s543EdnTa4f8nl5qZfH1M2QnJkaXkMSRee272DLK87ZeRrWV5-tSI02QVugFKGZyv7j1p64ajr5mDEtTa5rt_N1gY-HvvUn3PQ3woqxcGScA5okbw",
+    "snippet": "Apple iPhone 17 Starts at $25.83/mo for 36 months, Apple iPhone 17 Pro Starts at $30.55/mo for 36 months, 0% APR at $19.44/mo for 36 months,",
+    "host": "www.verizon.com"
+   },
+   {
+    "pos": 4,
+    "title": "Buy iPhone 17 256GB Black",
+    "url": "https://www.google.com/goto?url=CAESkAEB6zswFTBBmY6hB2JHczGz1PlQazZ3vi-_i2bZCctC0XuI5Pi7h8t_ujrANHK52IrWzSxD256tTlNJA29u9cJU89ux_Z2uG-mrL5Gj7nmN52AzwBy_dgVjs5KDq6ezVMNeqTlm5Lb9bqzDHIYO41jz-3R3xzDuUatGkVekQARQhcH15XHMnvlQ_7M6BkpIYJ0",
+    "snippet": "Get $35 - $885 off a new iPhone 17 when. Cover this product only$12.99/mo. per month or $129.99/yr.Per Year. $12.99/mo. per month Annual coverage",
+    "host": "www.apple.com"
+   },
+   {
+    "pos": 5,
+    "title": "Where to Buy the New iPhone 17 for the Best Price in 2025",
+    "url": "https://www.google.com/goto?url=CAESkQEB6zswFXlhZE5nYyfXP4D43gyiF54dKr609Z_FWlQDfvogciOGWmZl5HBtqyR5p0Kc7ggl_ZxFEIC-raA1JYjbaK8PF5J0u9OwNxJj1f5r9Fw4V8OjfZb4d7s6Rv6guqtygzhnOjU8aSYpqTJmaW1KWMDVydkUzCxahTouDA7T8bEhm0EZ3aRW65RaQdouZObT",
+    "snippet": "Sep 12, 2025 — iPhone 17 (Unlocked). 7. $799.00 at Apple ; iPhone 17 Pro (Unlocked). 9. $1,099.00 at Apple ; iPhone Air (Unlocked). 5. $999.00 at Apple ; iPhone ...Read more",
+    "host": "www.ign.com"
+   },
+   {
+    "pos": 6,
+    "title": "Learn About Apple iPhone 17 Pro and iPhone 17 Pro Max",
+    "url": "https://www.google.com/goto?url=CAESpQEB6zswFT4lV7WWTLEcz8G3Qz2EUvSa1MTRRGi0PcOBYeIny_3k5fkmI5aIoFO5_nuD5Ip1YIQJOcTEhTReWNyF2Ln5KvoYiMsZvURn5lvYR1wQsM6RSFzlEeHf0oGDObE-qW_yM8pXY6Ho6QUFFwO4Y-0GF4i0bxpDDHt511TufiFxKldXUTP5Y9XHU2yDYRFiJq68pmBbJwajytfjxgcu1N2kAEE",
+    "snippet": "6.3” iPhone 17 Pro * In-store pricing may vary. Prices and offers are subject to change.",
+    "host": "www.bestbuy.com"
+   },
+   {
+    "pos": 7,
+    "title": "Best Deals on iPhone 17 Pro, 512GB, Deep Blue | AppleInsider",
+    "url": "https://www.google.com/goto?url=CAESZQHrOzAVwvBKW0OcP8qkpPauxYcppASsJyth30g-oDKayMDeKX7jpLjkncfzIJcg1QP8HtgXlrxCmO0n_Tu-4dmfRQX99z9SUffCJwav6194EmXS9X43TSigyHZrbyhkg5I1KmFn",
+    "snippet": "iPhone 17 Pro, 512GB, Deep Blue ; $1299, $0.00 ; from $5.56/mo, $0.00 ...Read more",
+    "host": "prices.appleinsider.com"
+   },
+   {
+    "pos": 8,
+    "title": "These are the best iPhone 17 and iPhone Air deals",
+    "url": "https://www.google.com/goto?url=CAEScAHrOzAVBSNJedPZXC_n9Rhe0pqcoeqekBPQBuFKgovRCbN6HY0bqA6NJ3vEy_iOemoAvgMpMyUIIonzXEN-NN5JCvltzv4ZUSM9yoqmgr-4qiXjf35ZJUbtMuNypMOpkphSU88gLvg-1hZJ8wESVUw",
+    "snippet": "Sep 12, 2025 — This means it offers exceptional value for money at the $799 price tag, and it's also available at no cost with a qualifying trade-in, or when ...Read more",
+    "host": "www.digitaltrends.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches",
+   "shopping_items"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

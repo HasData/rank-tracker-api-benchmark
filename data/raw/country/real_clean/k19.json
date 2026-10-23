@@ -1,0 +1,106 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T13:06:20+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "symptoms of flu",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 7.41,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Signs and Symptoms of Flu | Influenza (Flu)",
+    "url": "https://www.cdc.gov/",
+    "host": "www.cdc.gov",
+    "crumb": "https://www.cdc.gov › flu › signs-symptoms",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Influenza (flu) - Symptoms and causes",
+    "url": "https://www.mayoclinic.org/",
+    "host": "www.mayoclinic.org",
+    "crumb": "https://www.mayoclinic.org › Diseases & Conditions",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Flu Symptoms, Treatment & Prevention",
+    "url": "https://www.osfhealthcare.org/",
+    "host": "www.osfhealthcare.org",
+    "crumb": "https://www.osfhealthcare.org › primary-care › vaccines",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "8 Common Flu Symptoms in Adults",
+    "url": "https://www.goodrx.com/",
+    "host": "www.goodrx.com",
+    "crumb": "https://www.goodrx.com › conditions › flu-symptoms-in...",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Flu Basics",
+    "url": "https://www.michigan.gov/",
+    "host": "www.michigan.gov",
+    "crumb": "https://www.michigan.gov › flu › basics",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Flu | Flu Symptoms | Stomach Flu | Influenza",
+    "url": "https://medlineplus.gov/",
+    "host": "medlineplus.gov",
+    "crumb": "https://medlineplus.gov › Health Topics",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Do I Have a Cold or the Flu? Learn the Difference",
+    "url": "https://www.tylenol.com/",
+    "host": "www.tylenol.com",
+    "crumb": "https://www.tylenol.com › adult-relief › cold-or-flu",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "7 Signs of the Flu to Look Out For - Nutrition News",
+    "url": "https://www.nutritionnews.abbott/",
+    "host": "www.nutritionnews.abbott",
+    "crumb": "https://www.nutritionnews.abbott › ... › ILLNESS",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Images",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k19",
+  "q": "symptoms of flu",
+  "intent": "health",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

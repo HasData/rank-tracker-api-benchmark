@@ -1,0 +1,91 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:31:53+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "iphone 17 pro price",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.93,
+ "bytes": 198115,
+ "seconds": 3.24,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Apple iPhone 17 Pro for Business",
+    "url": "https://www.verizon.com/business/shop/products/devices/smartphones/apple-iphone-17-pro",
+    "snippet": "Apple iPhone 17 Pro. Starts at. $30.55. for 36 months, 0% APR. Retail Price : $1099.99 ; Apple iPhone 18 Pro. Starts at. $33.33. for 36 months, 0% APR. Retail ..."
+   },
+   {
+    "pos": 2,
+    "title": "iPhone 17 Pro 256GB (Unlocked)",
+    "url": "https://buy.gazelle.com/products/iphone-17-pro-256gb-unlocked",
+    "snippet": "iPhone 17 Pro 256GB (Unlocked). 12 reviews. $1099 new. Regular price $999.99. Sale price $999.99. Unit price / per. Sale Sold out."
+   },
+   {
+    "pos": 3,
+    "title": "Apple iPhone 17 Pro, US Version, 256GB, eSIM, Cosmic ...",
+    "url": "https://www.amazon.com/Apple-Version-Orange-Unlocked-Renewed/dp/B0G45NX4ZD",
+    "snippet": "Amazon.com: Apple iPhone 17 Pro, US Version, 256GB, eSIM, Cosmic Orange- Unlocked (Renewed Premium) : Cell Phones & Accessories."
+   },
+   {
+    "pos": 4,
+    "title": "Buy iPhone 17 Pro 512GB Deep Blue - T-Mobile - Education",
+    "url": "https://www.apple.com/us-edu/shop/buy-iphone/iphone-17-pro/6.3-inch-display-512gb-deep-blue-t-mobile",
+    "snippet": "Get $40 - $720 off iPhone 17 Pro or iPhone 17 Pro Max when you trade in an iPhone 8 or newer. 0% financing available. Buy now with free shipping."
+   },
+   {
+    "pos": 5,
+    "title": "How much does the iPhone 17 cost? Here's the pricing for ...",
+    "url": "https://mashable.com/article/iphone-17-price-confirmed",
+    "snippet": "iPhone 17 Pro (256GB) - $1,099 · iPhone 17 Pro (512GB) - $1,299 · iPhone 17 Pro (1TB) - $1,499 · iPhone 17 Pro Max (256GB) - $1,199 · iPhone 17 Pro Max (512GB) - ..."
+   },
+   {
+    "pos": 6,
+    "title": "Apple iPhone 17 Pro Prices, October 2026",
+    "url": "https://swappa.com/prices/apple-iphone-17-pro?srsltid=AYCX9vLFjpHAPgOConFfwkEE4EDZ-3coM9kO-GBHpGkX8GoOLrlXovGm",
+    "snippet": "iPhone 17 Pro Storage Prices · 256 GB · 512 GB · 1 TB, $1351, $1188. Product Comparisons. See how iPhone 17 Pro prices compare to other products. iPhone 17 Pro ..."
+   },
+   {
+    "pos": 7,
+    "title": "iPhone 17 Pro 512GB Prices, Plans, and Specs",
+    "url": "https://www.whistleout.com/CellPhones/Phones/Apple/Apple-iPhone-17-Pro-512GB",
+    "snippet": "Compare 106+ iPhone 17 Pro 512GB cell phone plans from 39 carriers. Find the best Apple plans and deals starting from $0!"
+   },
+   {
+    "pos": 8,
+    "title": "iPhone 17 Pro Max Review: Worth the $1199 Price Tag?",
+    "url": "https://www.youtube.com/watch?v=b-KxskcWfIE",
+    "snippet": "iPhone 17 Pro Max Review: Worth the $1,199 Price Tag? · Comments."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "inline_shopping",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "location": "Austin,Texas,United States"
+ }
+}

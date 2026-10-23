@@ -1,0 +1,96 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:50:32+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "seo api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 5.5,
+ "bytes": 68493,
+ "seconds": 5.57,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SEO pros: Which APIs would you include in your dream ...",
+    "url": "https://www.reddit.com/r/SEO/comments/1jd9p6j/seo_pros_which_apis_would_you_include_in_your/",
+    "snippet": "I'm building a Chrome extension that combines Ahrefs, SimilarWeb, Semrush and Google Keyword Planning APIs into one tool for SEO metrics, keyword data, ..."
+   },
+   {
+    "pos": 2,
+    "title": "The 10 Best SEO Data API Options for Technical Teams",
+    "url": "https://seoprofy.com/blog/seo-data-api/",
+    "snippet": "Compare the top 10 SEO data API providers. We analyze real-time scrapers, database endpoints, credit rollover rules, and pricing."
+   },
+   {
+    "pos": 3,
+    "title": "10 of the Best SEO APIs for Enterprises",
+    "url": "https://www.seoclarity.net/blog/best-seo-apis-enterprises",
+    "snippet": "Discover the top APIs for enterprise SEO that streamline complex tasks, synchronize data, and provide valuable performance insights."
+   },
+   {
+    "pos": 4,
+    "title": "The Role of APIs in Technical SEO",
+    "url": "https://www.jasminedirectory.com/blog/the-role-of-apis-in-technical-seo/",
+    "snippet": "Using the Google Search Console API, you can pull page-level performance data, identify trends, and spot opportunities. Set up alerts for pages ..."
+   },
+   {
+    "pos": 5,
+    "title": "What is an API in SEO?",
+    "url": "https://www.clickrank.ai/seo-glossary/a/what-is-an-api-in-seo/",
+    "snippet": "In SEO, APIs are used to fetch data from platforms like Google Search Console, Ahrefs, or SEMrush for deeper analysis."
+   },
+   {
+    "pos": 6,
+    "title": "Steal Our SEO API Stack For Easy SEO Automation",
+    "url": "https://ahrefs.com/blog/seo-apis/",
+    "snippet": "Ahrefs' API gives you access to all kinds of useful, industry-leading SEO metrics and data, like: Keyword data: Pull metrics like search volume"
+   },
+   {
+    "pos": 7,
+    "title": "The Best SEO API Providers - Robert Goldenowl",
+    "url": "https://robertgoldenowl.com/marketing/the-best-seo-api-providers",
+    "snippet": "Top 10 SEO API Providers · 1. DataForSEO · 2. SE Ranking · 3. Semrush · 4. Ahrefs · 5. Moz (Mozscape API) · 6. Majestic · 7. Serpstat · 8."
+   },
+   {
+    "pos": 8,
+    "title": "SEO Data Collection: DIY or API?",
+    "url": "https://dataforseo.com/blog/seo-data-collection-diy-or-api",
+    "snippet": "Getting data through API (application programming interface) is one of the most convenient ways widely used in SEO and digital marketing ..."
+   },
+   {
+    "pos": 9,
+    "title": "Domain Analytics API",
+    "url": "https://dataforseo.com/apis/domain-analytics-api",
+    "snippet": "DataForSEO Domain Analytics API is a domain intelligence service composed of two sub-APIs: Domain Whois and Domain Technologies. The Whois API returns ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k06",
+  "q": "seo api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

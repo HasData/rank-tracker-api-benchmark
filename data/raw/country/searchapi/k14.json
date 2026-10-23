@@ -1,0 +1,94 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:00:49+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "iphone 17 pro price",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.44,
+ "bytes": 231832,
+ "seconds": 4.58,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Buy iPhone",
+    "url": "https://www.apple.com/shop/buy-iphone",
+    "snippet": "Buy from $1099 or $45.79/mo. Get up to $175–$885 in credit toward. Special pricing is available for state, local, and federal agencies."
+   },
+   {
+    "pos": 2,
+    "title": "iPhone 17 Pro",
+    "url": "https://www.bestbuy.com/site/all-iphone/iphone-17-pro/pcmcat1757084508699.c?id=pcmcat1757084508699",
+    "snippet": "iPhone 17 Pro 512GB - Deep Blue (Verizon) $36.11 per month$3611/mo. - Silver $1,040.00$1,04000. Deep - Blue $1,199.97$1,19997 Save $59.09"
+   },
+   {
+    "pos": 3,
+    "title": "Buy iPhone 17 Pro | Price, Colors and Plans",
+    "url": "https://www.att.com/buy/phones/apple-iphone-17-pro.html",
+    "snippet": "What is the iPhone 17 Pro's price on this page? The full retail price is $1,099.99 for the entry storage configuration. The installment price is ..."
+   },
+   {
+    "pos": 4,
+    "title": "Apple iPhone 17 Pro: Price, Colors, Specs, Reviews",
+    "url": "https://www.verizon.com/smartphones/apple-iphone-17-pro/",
+    "snippet": "Apple iPhone 17 Pro Starts at $30.55 Apple iPhone 18 Pro Apple iPhone 18 Pro Max Apple iPhone 17 Pro Max Apple iPhone 18 Pro Battery life Typical use: Up to 24 ..."
+   },
+   {
+    "pos": 5,
+    "title": "Apple iPhone 17 Pro: Deals, Features, Specs & Prices",
+    "url": "https://www.t-mobile.com/cell-phone/apple-iphone-17-pro",
+    "snippet": "Shop the Apple iPhone 17 Pro. Starting at $0 Shop for SIM cards for as low as $0 today. 6.3” iPhone 17 Pro. All 48MP Fusion rear 18MP Center Stage front camera."
+   },
+   {
+    "pos": 6,
+    "title": "iPhone",
+    "url": "https://www.apple.com/iphone/",
+    "snippet": "iPhone 17, and iPhone 17e. a new iPhone with a trade‐in. Get $175–$885 in credit toward iPhone Duo or iPhone 18 Pro"
+   },
+   {
+    "pos": 7,
+    "title": "iPhone 17 Pro Hands-On: A Higher Price and Newish Design",
+    "url": "https://www.youtube.com/watch?v=pPImc3TXg6I",
+    "snippet": "CNET's Patrick Holland goes hands-on with the new iPhone 17 Pro and Pro Max, breaking down everything you need to know about the new design, ..."
+   },
+   {
+    "pos": 8,
+    "title": "Apple iPhone 17 Pro, US Version, 256GB, eSIM, Deep ...",
+    "url": "https://www.amazon.com/Apple-iPhone-Version-Unlocked-Renewed/dp/B0FSB8V9NK",
+    "snippet": "Brand. Apple · Operating System. iOS 19 · Ram Memory Installed Size. 256 GB · CPU Model. A-Series · CPU Speed. 3.7 GHz · Memory Storage Capacity. 256 GB."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "inline_shopping",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches",
+   "shopping_ads"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

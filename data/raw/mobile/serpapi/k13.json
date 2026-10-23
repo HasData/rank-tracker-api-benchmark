@@ -1,0 +1,100 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:18:00+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "best running shoes",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.39,
+ "bytes": 210687,
+ "seconds": 1.48,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "7 Best Running Shoes in 2026",
+    "url": "https://runrepeat.com/guides/best-running-shoes",
+    "snippet": "The New Balance 1080 v15 stands out in the all-rounder game, bringing a whole new level of comfort while sustaining lightness and responsiveness ..."
+   },
+   {
+    "pos": 2,
+    "title": "The 15 Best Running Shoes of 2026",
+    "url": "https://www.runnersworld.com/gear/a19663621/best-running-shoes/",
+    "snippet": "For new runners we recommend a shoe like the Brooks Ghost or Nike Pegasus as a starting point. These shoes are moderately cushioned and offer ..."
+   },
+   {
+    "pos": 3,
+    "title": "What are the best running shoes that you'd actually buy again? : r/runninglifestyle",
+    "url": "https://www.reddit.com/r/runninglifestyle/comments/1u5x7mx/what_are_the_best_running_shoes_that_youd/",
+    "snippet": "I’m finally replacing my running shoes and I forgot how overwhelming this category is. Every list says something different and everyone seems to ..."
+   },
+   {
+    "pos": 4,
+    "title": "Best of Road Running Shoes",
+    "url": "https://believeintherun.com/shoe-reviews/type/best-of-road/",
+    "snippet": "Independent, run-tested reviews of running shoes, gear, and race-day everything. Find your next shoe with our Shoe Finder and the pigeon."
+   },
+   {
+    "pos": 5,
+    "title": "Best Running Shoes of the Year: 6 Top-Shelf Models",
+    "url": "https://sixminutemile.com/post/six-of-the-best-running-shoes-of-the-year/",
+    "snippet": "Six of the Very Best Running Shoes of the Year · ASICS Megablast · Adidas Adizero Evo SL · FAST-R Nitro Elite 3 · Mount to Coast H1 · Norda 005."
+   },
+   {
+    "pos": 6,
+    "title": "Men's Best Sellers Running Shoes",
+    "url": "https://www.nike.com/w/mens-best-running-shoes-37v7jz76m50znik1zy7ok",
+    "snippet": "Mens Best Sellers Running Shoes ; Nike Pegasus 42 · Nike Pegasus 42 Men's Road Running Shoes · $145 ; Nike Pegasus Premium · Nike Pegasus Premium Men's Road ..."
+   },
+   {
+    "pos": 7,
+    "title": "Best Running Shoes For Men | On United States",
+    "url": "https://www.on.com/en-us/shop/o/best-running-shoes-for-men?srsltid=AU7gw4WIFdXYtSO7sa0hkG_di8iq-7gjyaGihpETtnWGU7g32j6yGt0H",
+    "snippet": "Best Running Shoes For Men · Cloudflow 5 Road Running Shoe in Alloy/Rock · Cloudnova Form 2 Lifestyle Shoe in Black/Ivory · Cloudboom Strike Road Running Shoe ..."
+   },
+   {
+    "pos": 8,
+    "title": "Top Rated Running Shoes | REI Co-op",
+    "url": "https://www.rei.com/s/top-rated-running-shoes",
+    "snippet": "Shop for Top Rated Running Shoes at REI - Browse our extensive selection of trusted outdoor brands and high-quality recreation gear."
+   },
+   {
+    "pos": 9,
+    "title": "The 6 Best Running Shoes For Men of 2026",
+    "url": "https://www.rtings.com/running-shoes/reviews/best/for-men",
+    "snippet": "The best running shoe for men we've tested for beginners is the ASICS NOVABLAST 6. You get more stability than with the ASICS MEGABLAST or ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "discussions_and_forums",
+   "immersive_products",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k13",
+  "q": "best running shoes",
+  "intent": "commercial",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

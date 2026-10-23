@@ -1,0 +1,119 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:53:04+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "amazon scraper api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 7.59,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "2026's Top Amazon Scraper APIs (In-Depth Comparison)",
+    "url": "https://scrape.do/",
+    "host": "scrape.do",
+    "crumb": "https://scrape.do › blog › best-amazon-scraper-api",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "4 Best Amazon Scraping APIs in 2026 (Tested on Speed, ...",
+    "url": "https://www.scrapingdog.com/",
+    "host": "www.scrapingdog.com",
+    "crumb": "https://www.scrapingdog.com › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Amazon Scraper API",
+    "url": "https://www.scraperapi.com/",
+    "host": "www.scraperapi.com",
+    "crumb": "https://www.scraperapi.com › ecommerce-data-collection",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "The Best Amazon Scraping APIs for 2026",
+    "url": "https://proxyway.com/",
+    "host": "proxyway.com",
+    "crumb": "https://proxyway.com › Best",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "amazon-scraper",
+    "url": "https://github.com/",
+    "host": "github.com",
+    "crumb": "https://github.com › topics › amazon-scraper",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Amazon Scraper API for Product Data - Free Trial",
+    "url": "https://oxylabs.io/",
+    "host": "oxylabs.io",
+    "crumb": "https://oxylabs.io › ... › Web Api › Scrape › Ecommerce",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Amazon Scraper - 5K records/Month for Free",
+    "url": "https://brightdata.com/",
+    "host": "brightdata.com",
+    "crumb": "https://brightdata.com › products › web-scraper › amazon",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Amazon Scraper",
+    "url": "https://apify.com/",
+    "host": "apify.com",
+    "crumb": "https://apify.com › Store › Junglee",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "Amazon Scraper API – Try for Free",
+    "url": "https://decodo.com/",
+    "host": "decodo.com",
+    "crumb": "https://decodo.com › ... › eCommerce Scraping API",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Sponsored results",
+   "Amazon Data Scraper API",
+   "My Ad Center",
+   "Real-time Amazon Data API",
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Amazon Data Scraper API | Oxylabs Web Scraping Tool",
+   "Crawling API for Agents",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k08",
+  "q": "amazon scraper api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

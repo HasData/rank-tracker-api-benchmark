@@ -1,0 +1,84 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:19+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "tesla stock",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.86,
+ "bytes": 47768,
+ "seconds": 2.98,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Tesla (TSLA) Stock Price, News, Quotes, Financial Reports",
+    "url": "https://www.moomoo.com/stock/TSLA-US",
+    "snippet": "View Tesla (TSLA) stock price, news, historical charts, analyst ratings, financial reports and quotes on moomoo. Trade commission-free* with the moomoo ..."
+   },
+   {
+    "pos": 2,
+    "title": "Tesla (TSLA) Stock Forecast & Price Target",
+    "url": "https://www.investing.com/equities/tesla-motors-consensus-estimates",
+    "snippet": "According to projections from 38 analysts, the average 12-month price target for Tesla is 397.83 USD, with a high estimate of 600 USD and a low estimate of ..."
+   },
+   {
+    "pos": 3,
+    "title": "Tesla (TSLA) Stock Price Today, News, Chart, Earnings",
+    "url": "https://www.coinbase.com/stock/TSLA",
+    "snippet": "Tesla (TSLA) stock price today is $368.90 - $394.97. See Tesla news, earnings, and stock charts on Coinbase."
+   },
+   {
+    "pos": 4,
+    "title": "TESLA, INC. (TSLA) Stock, Price, News, Quotes, Forecast and Insights",
+    "url": "https://www.msn.com/en-us/money/stockdetails/tsla-us-stock/fi-a24kar",
+    "snippet": "TSLA is rated \"Buy\" with a 12-month target price of $401.40, a 3.86% upside from the current price of $386.47."
+   },
+   {
+    "pos": 5,
+    "title": "Tesla (TSLA) Stock Price, News & Analysis",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/TSLA/",
+    "snippet": "Tesla's stock was trading at $449.72 at the beginning of 2026. Since then, TSLA stock has decreased by 14.1% and is now trading at $386.47."
+   },
+   {
+    "pos": 6,
+    "title": "Tesla Inc (TSLA) - Stock",
+    "url": "https://www.morningstar.com/stocks/xsgo/tsla/quote",
+    "snippet": "See the latest Tesla Inc stock price (TSLA:XSGO), related news, valuation, dividends and more … 20.23 Price/Book Value 18.15 3.31. Current Ratio 1.94 2.10 0.87 ..."
+   },
+   {
+    "pos": 7,
+    "title": "Tesla (TSLA): Bullish Trade, Will The Stock Reach $270 After Earnings?",
+    "url": "https://www.youtube.com/watch?v=pPWnOvER__s",
+    "snippet": "Is the Tesla (TSLA) stock price consolidating? Joe Tigay discusses ... Tesla (TSLA): Bullish Trade, Will The Stock Reach $270 After Earnings?"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "answer_box",
+   "knowledge_graph",
+   "organic_results",
+   "perspectives",
+   "related_searches",
+   "top_stories"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k15",
+  "q": "tesla stock",
+  "intent": "finance",
+  "device": "mobile"
+ }
+}

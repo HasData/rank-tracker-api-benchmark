@@ -1,0 +1,88 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:14:57+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "home depot hours",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM"
+  }
+ },
+ "status": 200,
+ "bytes": 11934,
+ "seconds": 2.9,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Find The Home Depot location closest to you with our store locator. You'll save time and money at The Home Depot near you."
+   },
+   {
+    "pos": 2,
+    "title": "Meridian #1804",
+    "url": "https://www.homedepot.com/l/Meridian/ID/Meridian/83642/1804",
+    "snippet": "The Meridian Home Depot in Meridian, ID, 83642 | Hours, Directions & Curbside ... (208)288-5412. Store Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 8:00am - 8:00pm.Read more"
+   },
+   {
+    "pos": 3,
+    "title": "The Dale City Home Depot in Woodbridge, VA, 22192",
+    "url": "https://www.homedepot.com/l/Dale-City/VA/Woodbridge/22192/4604",
+    "snippet": "The Dale City Home Depot in Woodbridge, VA, 22192 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using The Home ...Read more"
+   },
+   {
+    "pos": 4,
+    "title": "Ewing #976 - NJ",
+    "url": "https://www.homedepot.com/l/Ewing/NJ/Ewing/08638/976",
+    "snippet": "The Ewing Home Depot in Ewing, NJ, 08638 | Hours, Directions & Curbside ... You can buy online with free pickup in store in two hours using our product locator ...Read more"
+   },
+   {
+    "pos": 5,
+    "title": "Mira Mesa #6679 - San Diego",
+    "url": "https://www.homedepot.com/l/Mira-Mesa/CA/San-Diego/92126/6679",
+    "snippet": "... Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 7:00am - 8:00pm. Curbside: 09:00am - 6 ... We offer free pickup within two hours for millions of items using The Home Depot ...Read more"
+   },
+   {
+    "pos": 6,
+    "title": "The Home Depot - Waukesha",
+    "url": "https://www.mapquest.com/us/wisconsin/the-home-depot-6878690",
+    "snippet": "... 717-0344 today. Let's get started on your next project! More. Hours. Closed until Tue 6 am. Sun. 8 am - 8 pm. Mon. 6 am - 10 pm. Tue. 6 am - 10 pm. Wed. 6 am - ...Read more"
+   },
+   {
+    "pos": 7,
+    "title": "THE HOME DEPOT - Updated October 2026 - 23 Reviews",
+    "url": "https://www.yelp.com/biz/the-home-depot-waukesha",
+    "snippet": "The Home Depot opens at 6:00 AM on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday.The Home Depot opens at 8:00 AM on Sunday. ; The Home Depot closes ...Read more"
+   },
+   {
+    "pos": 8,
+    "title": "Vancouver #4718",
+    "url": "https://www.homedepot.com/l/Vancouver/WA/Vancouver/98665/4718",
+    "snippet": "The Vancouver Home Depot in Vancouver, WA, 98665 | Hours, Directions & Curbside. Specials & Offers Appliances Bath Blinds & Window Treatments Building ...Read more"
+   },
+   {
+    "pos": 9,
+    "title": "Home Improvement at The Home Depot in Baltimore, MD",
+    "url": "https://www.homedepot.com/l/MD/Baltimore/MDqOjj4j",
+    "snippet": "Get directions, hours, and services and plan your visit today! Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber ...Read more"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "local_packs",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ }
+}

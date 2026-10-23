@@ -1,0 +1,90 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:09:56+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "web scraping api",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.62,
+ "bytes": 30149,
+ "seconds": 1.91,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "ScrapingBee – The Best Web Scraping API",
+    "url": "https://www.scrapingbee.com/",
+    "snippet": "A web scraping API is a tool that collects data from websites through an API request. You send a URL and get the page HTML, rendered content, or structured data ..."
+   },
+   {
+    "pos": 2,
+    "title": "ScraperAPI: Scale Data Collection with a Simple Web Scraping API",
+    "url": "https://www.scraperapi.com/",
+    "snippet": "ScraperAPI is a web scraping API that lets you collect data from any public website without worrying about proxies, browsers, or CAPTCHAs."
+   },
+   {
+    "pos": 3,
+    "title": "8 Best Web Scraping APIs in 2026",
+    "url": "https://www.firecrawl.dev/blog/best-web-scraping-api",
+    "snippet": "Aug 11, 2026 — Firecrawl is the web scraping API built specifically for AI-powered workflows. You send a URL, it returns clean markdown that's ready to feed ..."
+   },
+   {
+    "pos": 4,
+    "title": "What scraping APIs are you actually using (and trusting) in production?",
+    "url": "https://www.reddit.com/r/WebScrapingInsider/comments/1rdcafp/what_scraping_apis_are_you_actually_using_and/",
+    "snippet": "What scraping APIs do you have in your toolkit (Firecrawl / browse.ai API / scrapegraph API / mrscraper / ScrapingBee / etc.) and what do you ..."
+   },
+   {
+    "pos": 5,
+    "title": "Web Scraping API – Free Plan, 100+ Templates",
+    "url": "https://decodo.com/scraping/web",
+    "snippet": "Web Scraping API extracts structured data from websites at scale, combining 100+ pre-built templates with per-request control. Built for developers shipping AI ..."
+   },
+   {
+    "pos": 6,
+    "title": "The 9 Best Web Scraping APIs & Tools in 2026",
+    "url": "https://brightdata.com/blog/web-data/best-web-scraping-apis",
+    "snippet": "15 hours ago — The Best Web Scraping APIs, Ranked · 1. Bright Data — Best Overall Web Scraping API · 2. Scrape.do: Best for Speed-Sensitive Workloads · 3. Zyte ..."
+   },
+   {
+    "pos": 7,
+    "title": "16 Best Web Scraping APIs of 2026 (In-Depth Review)",
+    "url": "https://scrape.do/blog/best-web-scraping-api/",
+    "snippet": "Sep 15, 2026 — We tested 16 web scraping APIs on 7 anti-bot domains. Compare success rates, speed, and cost per 1K requests to pick the best scraper API ..."
+   },
+   {
+    "pos": 8,
+    "title": "11 Best Web Scraping APIs, Libraries, and Crawlers for Developers in 2026",
+    "url": "https://scrapfly.io/blog/posts/best-web-scraping-apis",
+    "snippet": "Oct 5, 2026 — Web Scraping API is a single HTTP endpoint for collecting web data at scale, with a 98% success rate on the hardest public targets, measured ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "discussions_and_forums",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k04",
+  "q": "web scraping api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

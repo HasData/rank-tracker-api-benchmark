@@ -1,0 +1,93 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:17+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "google search api",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.21,
+ "bytes": 10962,
+ "seconds": 3.3,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Introduction | Programmable Search Engine",
+    "url": "https://developers.google.com/custom-search/docs/tutorial/introduction",
+    "snippet": "Aug 21, 2024 — This tutorial explains how to implement a simple Programmable Search Engine using a predefined javascript widget."
+   },
+   {
+    "pos": 2,
+    "title": "Custom Google Search API - Medium",
+    "url": "https://www.google.com/goto?url=CAESewHrOzAVStFiODYQeT3boHjc8tm6dH9BVWmVfuSJUuWPC3ffmP91n-1zbNctSk5yTmZ7zogl7NFhnoNqKp8skCTtxeu8DMXJhI3rMTSKzpcNnYvfXqVDkxKLukfjcfLWQfYOZURxv7R-b8iQ8KArEmtA2mYJ4J2jh7xbDQ",
+    "snippet": "Custom Google Search API If you want to get results of Google search results programmatically with the API, follow this tutorial.",
+    "host": "5 years ago"
+   },
+   {
+    "pos": 3,
+    "title": "Does Google provide a search API [closed]",
+    "url": "https://www.google.com/goto?url=CAESiAEB6zswFTi4umvtgBMgb6V1lESxh9ERf0sYDDig7ANMhxuUDc67TJ3sqJrbeW41Kd_jFQJ2BC_D0LKgfHcRd0P6dO7r9EELuprcq2ZeVagM6reabG6w4hZ1HCS2wvz94d3lu7Oqj8nDCuIXtCRT3rEYKgU8wWR6dTjBfDgxTV0XUL5IMAaTRUpd",
+    "snippet": "Closed. This question is seeking recommendations for software libraries, tutorials, tools, books, or other off-site resources. It does not meet Stack ...",
+    "host": "2 answers  ·  12 years ago"
+   },
+   {
+    "pos": 4,
+    "title": "Google Custom Search JSON API Pricing: Costs, Limits & ...",
+    "url": "https://www.google.com/goto?url=CAESfwHrOzAVsxKY7bu4TC6O54vKDl-aBzu8i6tNfod6VAnMGfAT9ET8HXfJG4Wb8k1N5A9bq3i36AEis6iEEJxr2VleuzsmTMsRbMPRWACgGqN3HoKWBRvL04XmxUurLdutq9jMwD10mqHYI4u_yCaSaArC6O5e7NGTIwtCmBFDNXo",
+    "snippet": "Google officially closed the Custom Search JSON API to new signups in 2025. API is now closed to new customers.",
+    "host": "blog.expertrec.com"
+   },
+   {
+    "pos": 5,
+    "title": "Google Search APIs",
+    "url": "https://www.google.com/goto?url=CAESbAHrOzAV-U-GF9KlIZ6ie0Y1FrbU8HZZxWE6pKsYhg9XkyMh9GzJXPxBL6XhZ0ludAZRbDU7RiMzpR6j6brBKO_ZbWfHtO4iqb-5evXDtZmLyby9Cm9J-M6IBHUnBA21IzxWJHuKLz8ei-AtAQ",
+    "snippet": "Google search APs is a platform that offers a fast and straightforward opportunity to perform Google searches. Results include relevant titles and links.",
+    "host": "rapidapi.com"
+   },
+   {
+    "pos": 6,
+    "title": "How to get started with Google Custom Search API?",
+    "url": "https://www.google.com/goto?url=CAESmAEB6zswFdO7vdnpCb7QPwH2zCQOUz5D2RR-4WCteh-39t7asQTqcXhyWm1EAukrFNQjIIPIyeYMNaR8LxAdQbW80qvlxsKgR0Bt1nNbpGEg4CCrPt8wpAFtkWAIi7JuZPHYWzTW7kg2mkWRWuiS8jx9bzank2RGNhBBYEezw48fNxBnSiutF_Cg_HzH0LAI2mVLco_w9GRlow",
+    "snippet": "I'm trying to write a Java program that uses Google's Custom Search API to retrieve search results. As a first-time user of API's, though, the documentation ...",
+    "host": "1 answer  ·  13 years ago"
+   },
+   {
+    "pos": 7,
+    "title": "Programmable Search Engine and Custom Search API",
+    "url": "https://www.google.com/goto?url=CAESrgEB6zswFc7rv5eEk9MZLdiysutESDBYAjfRXY2kdrISBGGgMBoIPN-fwJYicAXUN3oe6vgTXFB_bI_3WgN29tiTBunYgbS2ekTIIgOjqgZMnajsHgorC_HR4S5YDW5O-CP6T18ar0QUOjWvRpxEsRD6Kv-eFI_xJUJ6cyz1YoXf1TNI7rsS3QWLapgWI76RmAs1cGjWNCkOpvwxzH1zc1Pq96hoaWM5-HDMeI2HYEQ",
+    "snippet": "May 7, 2024 — The Programmable Search Engine (or Custom Search Engine) is a free search engine service that anyone can set up on their website and is ...Read more",
+    "host": "meta.discourse.org"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k03",
+  "q": "google search api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

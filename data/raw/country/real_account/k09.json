@@ -1,0 +1,109 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T12:55:12+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "how to scrape google search results",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 5.83,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "How to Scrape Google Search Results in 2026",
+    "url": "https://scrapfly.io/",
+    "host": "scrapfly.io",
+    "crumb": "https://scrapfly.io › Blog › python",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Scraping Google Search results (on a small scale)",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/webscraping",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "🕷️ The Ultimate Guide to Web Scraping Google Search ...",
+    "url": "https://9 months ago/",
+    "host": "9 months ago",
+    "crumb": "9 months ago",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Google Search scraper and SERP API",
+    "url": "https://apify.com/",
+    "host": "apify.com",
+    "crumb": "https://apify.com › Store › Apify",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "How do I scrape Google Search results (on a big scale ...",
+    "url": "https://2 answers/",
+    "host": "2 answers",
+    "crumb": "2 answers · 5 years ago",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "How to Scrape Google Search Results: 2026 Python Tutorial",
+    "url": "https://oxylabs.io/",
+    "host": "oxylabs.io",
+    "crumb": "https://oxylabs.io › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Google Search Scraper - Free Tier",
+    "url": "https://outscraper.com/",
+    "host": "outscraper.com",
+    "crumb": "https://outscraper.com › google-search-scraper",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "How to Scrape Google Search Results: Python Tutorial",
+    "url": "https://github.com/",
+    "host": "github.com",
+    "crumb": "https://github.com › oxylabs › scrape-google-python",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "Videos",
+   "How to Scrape Google Search Results: A Step-by-Step Guide",
+   "In this video",
+   "Learn to Scrape Google Search in Under 3 Minutes",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k09",
+  "q": "how to scrape google search results",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

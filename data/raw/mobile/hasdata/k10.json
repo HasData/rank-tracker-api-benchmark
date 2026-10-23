@@ -1,0 +1,79 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:15:55+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "what is a serp api",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.91,
+ "bytes": 31126,
+ "seconds": 3.25,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SerpApi",
+    "url": "https://serpapi.com/",
+    "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you."
+   },
+   {
+    "pos": 2,
+    "title": "What Is a SERP API? How It Works and When to Switch",
+    "url": "https://you.com/resources/what-is-a-serp-api",
+    "snippet": "Apr 30, 2026 — A SERP API is a managed service that retrieves, renders, and parses those pages into structured data your application can consume."
+   },
+   {
+    "pos": 3,
+    "title": "Google SERP API: Everything You Need To Know",
+    "url": "https://medium.com/@darshankhandelwal12/google-serp-api-everything-you-need-to-know-e9ae28fd86ef",
+    "snippet": "Having a Google search API allows you to access the large dataset that this massive search engine holds."
+   },
+   {
+    "pos": 4,
+    "title": "Introduction to SERP API",
+    "url": "https://docs.brightdata.com/products/serp-api/introduction",
+    "snippet": "Use the Bright Data SERP API to collect structured search results from Google, Bing and other engines in under 1 second per request, with no proxy setup."
+   },
+   {
+    "pos": 5,
+    "title": "What Is SERP API? Complete Guide for Developers (2026)",
+    "url": "https://searlo.tech/what-is-serp-api",
+    "snippet": "A SERP API provides structured search engine results via HTTP requests. It returns machine-readable result objects instead of raw HTML pages."
+   },
+   {
+    "pos": 6,
+    "title": "20+ SERP APIs to Try Today [Updated List]",
+    "url": "https://www.lupagedigital.com/blog/serp-api/",
+    "snippet": "SERP API stands for 'search engine results page application programming interface'. These APIs scrape the search results page and then turn them into raw data,"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "inline_videos",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

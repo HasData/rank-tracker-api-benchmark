@@ -1,0 +1,108 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:01:20+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "home depot hours",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.62,
+ "bytes": 13602,
+ "seconds": 2.72,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Southeast Baton Rouge #370",
+    "url": "https://www.google.com/goto?url=CAEShQEB6zswFYLk6I8y7lMX4BqhHSRIfeWnpG90JS1X-mfmomsExXunat6Ot8UCA_pucs2UahI20dJwOT4xN6gsn-4__GDmLSyrTKpPsJzQhKI2vnEwp34uZFotTXFNKqRZUMqzTYAYmoo9Gn5a45ruo7Xp1IUA4zQef4njGwUvwAq5_1Hb31QH",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm 14 Store. Orders must be placed by 4 p.m. local time",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 2,
+    "title": "Denham Springs #375",
+    "url": "https://www.google.com/goto?url=CAESgQEB6zswFWYL3C5yPPADClyCNYrev3u3dbz0jvfny4VuRgQMuJ6L3izQ6qd66gzsVhHJWWBiwh1jjCtoIT6McqQA_IpzcchQhxwt97Bct19HJikSZkqqJxLEtXwWKQeO82D0_xEE9fjKhOh3zJZbhC5MAD75_xzFJ5gJ-w8zcgjB8qs",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 2255 Home Depot Dr Denham Springs, LA 70726 … off South Range Avenue ...",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 3,
+    "title": "Baton Rouge #357",
+    "url": "https://www.google.com/goto?url=CAESewHrOzAVk6LnJrGu7UDdg5o9nW0l3gBN_NVtJbocbTF-JrV-PVRSgq7bjKwlCU98_8iTbXhclG5AhA2tIhj3hVeoDEStrpOpNygTWt_kHUwEDCjQ_ewBBILKcL2278fPUmCsLTfwZMCVRxooJF8dy95lBVy2YtyhoaUUqQ",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 10300 Coursey Blvd Baton Rouge, LA 70816",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 4,
+    "title": "Hammond #347",
+    "url": "https://www.google.com/goto?url=CAEScwHrOzAVeoTqpVvgENNAobQJxH2IcMSnoXrxX_NfVayPJYvVKwVMZXSp7-e6HAlQn4VCD7DaaSUrocMDu0rS3985ZyPjplXqBOI81Ma19UyU3iNXT2iDvUr-roWALukIT1OmoJzP7lN2cLd1Jg0c120nQ-0",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 400 W Minnesota Park Road Hammond, LA 70403",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 5,
+    "title": "THE HOME DEPOT - Updated October 2026 - 33 Reviews",
+    "url": "https://www.google.com/goto?url=CAESbgHrOzAVuOfP9lJG4VoPXIt_dmibhFhzFnSyc3WpvDTmHTmmI-1ENstkf-rhxBf2d7YB1mplwIrkcg7jW9bL0cBeTpx_lh-I7hF187Rwim0qMCWnmO8xBdepvbw6DwIg7yQEZ7gxjYnUK5J6-XC5",
+    "snippet": "The Home Depot opens at 6:00 AM on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday.The Home Depot opens at 8:00 AM on Sunday. closes at 10:00 PM",
+    "host": "www.yelp.com"
+   },
+   {
+    "pos": 6,
+    "title": "North Baton Rouge #367",
+    "url": "https://www.google.com/goto?url=CAESgQEB6zswFV0oeyqxThY1VZxhRoxV-n_y6zGHN0s7HPonrWDdOQXn8tsvEsKBJPknJwkqq5YjLYhwVBcpwdMzq2-eL2dCprGsXyUDUyh-0M7cTXNed8UKPq5T2lq6R9Ov04XqC4TPe9HL63KAcZ--J_ZWYiDbvriBCQmPhIdb0eQje-A",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 8181 Airline Hwy Baton Rouge, LA 70815",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 7,
+    "title": "The Covington Home Depot in Covington, LA, 70433",
+    "url": "https://www.google.com/goto?url=CAESdwHrOzAV0zbZLPLKfowoDTMTDN3S6O7HWWw4Qn4EWaOdTsz4dKXZfTCJPlKHoabN4eWXEUdNigD4a8-XZXqDveUPFj089LJMB58cQ0tpUFdDpHMPTg1q8xv092KhWZsNwC1bSPClPeEQ7Lz2HVy0cWJZd69IFtaW",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 40 Park Place Drive Covington, LA 70433 .98",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 8,
+    "title": "The home depot in Central, LA",
+    "url": "https://www.google.com/goto?url=CAEScAHrOzAVqjDF-UJfhHH02X6rpROlVyhQcLE9dJCzsQLSCaXiSrsL0jFPCK7SBLOqlAA-1iZw6XFC0iRHOu2ZfnpRyUbxWcjk8x2BGiH2myVNO7x7fp2TFqJbwIDUustreQaOXqcDrWqraOA7C4Wz3u4",
+    "snippet": "The home depot in Central, LA · 1.The Home Depot. 8181 Airline Hwy · 2.The Home Depot. 2255 Home Depot Dr · 3.Garden Center at The Home Depot.Read more",
+    "host": "www.yellowpages.com"
+   },
+   {
+    "pos": 9,
+    "title": "Store Locator",
+    "url": "https://www.google.com/goto?url=CAESZAHrOzAVR2J9WlFXOFnXMSF7JZ5_iXDMqVvXGE57MPLI535aqcRDd_PxSpw4Tfff0o3VP0xZPFApVRvnqqKP5zDPwWvgNo4dknzHlGd2nZZO43e9M-SJ0SPWPsZYjnEoRj-i8s4",
+    "snippet": "Order online for convenient store pickup daily until 6 p.m.. Learn More. Search By Image Or Voice. Let our app find it ...Read more",
+    "host": "www.homedepot.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "local_packs",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T12:49:57+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "rank tracker api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 7.27,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Rank Tracking API - 5K requests/Month for Free",
+    "url": "https://brightdata.com/",
+    "host": "brightdata.com",
+    "crumb": "https://brightdata.com › Products › SERP API",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "6 Best Rank Tracker APIs Tested in 2026 (Speed, Pricing & ...",
+    "url": "https://www.scrapingdog.com/",
+    "host": "www.scrapingdog.com",
+    "crumb": "https://www.scrapingdog.com › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Rank Tracking API: Track Keyword Rankings at Scale",
+    "url": "https://seranking.com/",
+    "host": "seranking.com",
+    "crumb": "https://seranking.com › rank-tracker-api",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Ranktracker API — Top 100 Rank Tracking & SERP Data ...",
+    "url": "https://developers.ranktracker.com/",
+    "host": "developers.ranktracker.com",
+    "crumb": "https://developers.ranktracker.com",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Best rank trackers with API for 2026",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/ProxySellerOfficial",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Best Rank Tracking APIs: Cost, AI Visibility, Architecture",
+    "url": "https://www.olostep.com/",
+    "host": "www.olostep.com",
+    "crumb": "https://www.olostep.com › blog › best-rank-tracking-api",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "8 Best Rank Tracker APIs for Accurate SEO Reporting",
+    "url": "https://proranktracker.com/",
+    "host": "proranktracker.com",
+    "crumb": "https://proranktracker.com › Home › Articles",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Rank Tracker | Ahrefs for Developers",
+    "url": "https://docs.ahrefs.com/",
+    "host": "docs.ahrefs.com",
+    "crumb": "https://docs.ahrefs.com › REST API",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "Videos",
+   "Building a Rank Tracker with APIs | FREE TUTORIAL",
+   "In this video",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k05",
+  "q": "rank tracker api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

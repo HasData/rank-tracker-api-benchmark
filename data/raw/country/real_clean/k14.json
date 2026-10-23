@@ -1,0 +1,114 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T13:00:49+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "iphone 17 pro price",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 7.6,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Buy iPhone",
+    "url": "https://www.apple.com/",
+    "host": "www.apple.com",
+    "crumb": "https://www.apple.com › shop › buy-iphone",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "iPhone 17 Pro",
+    "url": "https://www.bestbuy.com/",
+    "host": "www.bestbuy.com",
+    "crumb": "https://www.bestbuy.com › ... › iPhone › All iPhone",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Buy iPhone 17 Pro | Price, Colors and Plans",
+    "url": "https://www.att.com/",
+    "host": "www.att.com",
+    "crumb": "https://www.att.com › Wireless › Cell Phones › Apple",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Apple iPhone 17 Pro: Price, Colors, Specs, Reviews",
+    "url": "https://www.verizon.com/",
+    "host": "www.verizon.com",
+    "crumb": "https://www.verizon.com › smartphones › apple-iphone-...",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Apple iPhone 17 Pro: Deals, Features, Specs & Prices",
+    "url": "https://www.t-mobile.com/",
+    "host": "www.t-mobile.com",
+    "crumb": "https://www.t-mobile.com › Phones › Apple",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "iPhone",
+    "url": "https://www.apple.com/",
+    "host": "www.apple.com",
+    "crumb": "https://www.apple.com › iphone",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "The iPhone 17 Pro Isn't Meant For Everyone, But You'll Still Buy ...",
+    "url": "https://6.1k+ views/",
+    "host": "6.1k+ views",
+    "crumb": "6.1K+ views · 5 months ago",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Apple iPhone 17 Pro, US Version, 256GB, eSIM, Deep ...",
+    "url": "https://www.amazon.com/",
+    "host": "www.amazon.com",
+    "crumb": "https://www.amazon.com › Apple-iPhone-Version-Unloc...",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "iPhone 17 Pro Hands-On: Higher Price and Newish Design",
+    "url": "https://www.cnet.com/",
+    "host": "www.cnet.com",
+    "crumb": "https://www.cnet.com · Sep 9, 2025",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "More products",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k14",
+  "q": "iphone 17 pro price",
+  "intent": "shopping",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

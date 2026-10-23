@@ -1,0 +1,96 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:31:59+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.77,
+ "bytes": 79779,
+ "seconds": 4.91,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Home Depot San Antonio, TX - Last Updated October 2026",
+    "url": "https://www.yelp.com/search?find_desc=Home+Depot&find_loc=San+Antonio%2C+TX",
+    "snippet": "Hours may change, contact us first please before heading out. Fall sale happening now! Call or text GIANI now 210-219-"
+   },
+   {
+    "pos": 2,
+    "title": "The Home Depot - Corpus Christi",
+    "url": "https://www.mapquest.com/us/texas/the-home-depot-262945384",
+    "snippet": "Hours Closed Sun 8 am - 8 pm Mon 6 am - 10 pm Tue 6 am - 10 pm Wed 6 am - 10 pm Thu 6 am - 10 pm Fri 6 am - 10 pm Sat 6 am - 10 pm"
+   },
+   {
+    "pos": 3,
+    "title": "The Home Depot - Memphis",
+    "url": "https://www.mapquest.com/us/tennessee/the-home-depot-5207912",
+    "snippet": "Hours Open until 10 pm Sun 8 am - 8 pm Mon 6 am - 10 pm Tue 6 am - 10 pm Wed 6 am - 10 pm Thu 6 am - 10 pm Fri 6 am - 10 pm Sat 6 am - 10 pm"
+   },
+   {
+    "pos": 4,
+    "title": "The home depot in Central, LA",
+    "url": "https://www.yellowpages.com/central-la/the-home-depot",
+    "snippet": "The home depot in Central, LA · 1.The Home Depot. 8181 Airline Hwy · 2.The Home Depot. 2255 Home Depot Dr · 3.Garden Center at The Home Depot."
+   },
+   {
+    "pos": 5,
+    "title": "The Home Depot - Memphis",
+    "url": "https://www.mapquest.com/us/tennessee/the-home-depot-262945558",
+    "snippet": "Hours Open until 10 pm Sun 8 am - 8 pm Mon 6 am - 10 pm Tue 6 am - 10 pm Wed 6 am - 10 pm Thu 6 am - 10 pm Fri 6 am - 10 pm Sat 6 am - 10 pm"
+   },
+   {
+    "pos": 6,
+    "title": "THE HOME DEPOT - Updated October 2026 - 37 Reviews",
+    "url": "https://www.yelp.com/biz/the-home-depot-omaha-6",
+    "snippet": "THE HOME DEPOT, 12710 L St, Omaha, NE 68137, 22 Photos, (505) 899-1290, Mon - 6:00 am - 10:00 pm, Tue - 6:00 am - 10:00 pm, Wed - 6:00 am - 10:00 pm, ..."
+   },
+   {
+    "pos": 7,
+    "title": "The Home Depot - Corpus Christi, TX 78415",
+    "url": "https://www.yellowpages.com/corpus-christi-tx/mip/the-home-depot-473807128",
+    "snippet": "open now Today: 6:00 am - 10:00 pm. Regular Hours Mon - Sat: 6:00 am - 10:00 pm Sun: 8:00 am - 8:00 pm … call (361) 853-9173 today."
+   },
+   {
+    "pos": 8,
+    "title": "Home depot in Northport, AL",
+    "url": "https://www.yellowpages.com/northport-al/home-depot",
+    "snippet": "Find 18 listings related to Home Depot in Northport on YP.com. See reviews, photos, directions, phone numbers and more for Home Depot ..."
+   },
+   {
+    "pos": 9,
+    "title": "Home depot in Oakland, TN",
+    "url": "https://www.yellowpages.com/oakland-tn/home-depot",
+    "snippet": "Find 61 listings related to Home Depot in Oakland on YP.com. See reviews, photos, directions, phone numbers and more for Home Depot ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "location": "Austin,Texas,United States"
+ }
+}

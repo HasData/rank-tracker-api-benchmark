@@ -1,0 +1,95 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:04+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "cheap flights to paris",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.32,
+ "bytes": 53309,
+ "seconds": 2.36,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Flights to Paris + CDG Flight Deals | Delta Air Lines",
+    "url": "https://www.delta.com/us/en/flight-deals/europe-flights/flights-to-paris",
+    "snippet": "Shop Delta's best fares for flights to Paris, France (CDG), with direct flights available from 9 U.S. cities for your next European getaway."
+   },
+   {
+    "pos": 2,
+    "title": "Cheap Flights To Paris (CDG)",
+    "url": "https://www.orbitz.com/Cheap-Flights-To-Paris.d179898.Travel-Guide-Flights",
+    "snippet": "Cheap Flights to Paris from $17 One Way, $52 Round Trip. Prices found within past 7 days. Prices and availability subject to change. Additional terms may apply."
+   },
+   {
+    "pos": 3,
+    "title": "Cheap flights to France",
+    "url": "https://www.momondo.com/flights/france",
+    "snippet": "If you are looking to fly to France for less, look to airlines like Ryanair, Transavia France, and easyJet, with prices starting at $17, $18, and $23 ..."
+   },
+   {
+    "pos": 4,
+    "title": "$254 Find Cheap Flights to Paris Charles de Gaulle Airport",
+    "url": "https://www.kayak.com/flight-routes/United-States-US0/Paris-Charles-de-Gaulle-CDG",
+    "snippet": "Morning flights to Paris Charles de Gaulle Airport are the cheapest at $969 round-trip on average. Afternoon flights are the most expensive at $1,028. Bar chart ..."
+   },
+   {
+    "pos": 5,
+    "title": "Cheap flights from United States to France - Skyscanner",
+    "url": "https://www.skyscanner.com/routes/us/fr/united-states-to-france.html",
+    "snippet": "The cheapest flight deals from United States to France ; Paris.$426 per passenger.Departing Wed, Feb 10, returning Wed, Feb 17. ; Nice.$446 per passenger."
+   },
+   {
+    "pos": 6,
+    "title": "Book United Cheap Flights to France from ...",
+    "url": "https://www.united.com/en/us/deals/flights-to-france",
+    "snippet": "United flights to popular destinations in France ; Flights to Paris (CDG). Chicago (ORD) to. Paris (CDG) · from. $1,561*. As of 11 hours ago. Roundtrip | Economy."
+   },
+   {
+    "pos": 7,
+    "title": "Cheap flights from the United States to France ...",
+    "url": "https://www.momondo.com/flights/united-states/france",
+    "snippet": "In general, you can expect to find flights to France for around $746 when searching weeks out. However, flight prices might be lower outside ..."
+   },
+   {
+    "pos": 8,
+    "title": "Flights Los Angeles – Paris (LAX-PAR ...",
+    "url": "https://wwws.airfrance.us/en-us/flights-from-los-angeles-to-paris",
+    "snippet": "Find your cheap round-trip flight Los Angeles Paris with Air France at $1014. Discover our selection of cheapest return flights to Paris from Los Angeles."
+   },
+   {
+    "pos": 9,
+    "title": "How to Find Cheap Flights to Paris: A Budget Traveler's ...",
+    "url": "https://www.catterfly.com/blog-detail/how-to-find-cheap-flights-to-paris-a-budget-travelers-guide",
+    "snippet": "The Mid-Week Rule: Statistically, Tuesdays and Wednesdays are the cheapest days to fly. Avoiding the Friday to Sunday rush can save you upwards ..."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k20",
+  "q": "cheap flights to paris",
+  "intent": "travel",
+  "location": "Austin,Texas,United States"
+ }
+}

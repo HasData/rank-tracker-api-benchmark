@@ -1,0 +1,99 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T12:44:18+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "keyword ranking api",
+   "gl": "us",
+   "hl": "en"
+  }
+ },
+ "status": 200,
+ "ttfb": 1.85,
+ "bytes": 3712,
+ "seconds": 1.91,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Keyword.com Rank Tracker API – Build dashboards, ...",
+    "url": "https://keyword.com/rank-tracker-api/",
+    "snippet": "Keyword.com's Rank Tracker API gives agencies programmatic access to Google keyword ranking data. Pull position data, SERP history, and CPC metrics directly ..."
+   },
+   {
+    "pos": 2,
+    "title": "SerpApi: SEO",
+    "url": "https://serpapi.com/use-cases/seo",
+    "snippet": "SerpApi provides rankings, organic search results and paid ad results. Use any keyword, any country, and any language across various search engines."
+   },
+   {
+    "pos": 3,
+    "title": "6 Best Rank Tracker APIs Tested in 2026 (Speed, Pricing & ...",
+    "url": "https://www.scrapingdog.com/blog/rank-tracker-api/",
+    "snippet": "Looking for the best rank tracker API? We tested 6 APIs on speed, pricing & accuracy. Scrapingdog tops the list at 1.31s avg response time."
+   },
+   {
+    "pos": 4,
+    "title": "What's the best API provider to get the keyword any ...",
+    "url": "https://www.reddit.com/r/SEO/comments/1grp0ld/whats_the_best_api_provider_to_get_the_keyword/",
+    "snippet": "I am building an AI agent to automate my AI Tools directory which finds top ranking AI tools via various search queries on google then scrapes the content ..."
+   },
+   {
+    "pos": 5,
+    "title": "Rank Tracking API",
+    "url": "https://www.seoclarity.net/technology/ranking-data-api",
+    "snippet": "seoClarity's Rank Tracking API gives you full access to your rank-tracking data. Connect it to your marketing stack for centralized reporting and analysis."
+   },
+   {
+    "pos": 6,
+    "title": "Rank Tracking API - 5K requests/Month for Free",
+    "url": "https://brightdata.com/products/serp-api/rank-tracking",
+    "snippet": "Rank tracker API retrieves real-time keyword ranks from any major search engine and with city level targeting. Free trial."
+   },
+   {
+    "pos": 7,
+    "title": "SEO API: Automate your SEO and AEO workflows",
+    "url": "https://seranking.com/api.html",
+    "snippet": "The Project API lets you manage and automate SEO and AEO/GEO workflows within the platform, including rank tracking, keyword grouping, competitor monitoring, ..."
+   },
+   {
+    "pos": 8,
+    "title": "9 Best Rank Tracking APIs for Accurate Keyword ...",
+    "url": "https://www.link-assistant.com/news/best-rank-tracking-apis.html",
+    "snippet": "8 best rank tracking APIs in 2026 · 1. SE Ranking · 2. HasData · 3. SerpAPI · 4. DataForSEO · 5. Zenserp · 6. ScaleSERP · 7. SerpWow · 8. ScrapingDog."
+   },
+   {
+    "pos": 9,
+    "title": "Rank Tracking API: Monitor All Your Keyword Rankings",
+    "url": "https://mangools.com/api/rank-tracking-api",
+    "snippet": "A rank tracking API lets you programmatically create, manage, and retrieve keyword ranking data. Instead of checking rankings manually, you can pull ranking ..."
+   },
+   {
+    "pos": 10,
+    "title": "Best Rank Tracking APIs for Developers & Agencies",
+    "url": "https://www.scrapingbee.com/blog/best-rank-tracker-apis/",
+    "snippet": "A rank tracker API is a programmatic interface that lets you automatically check keyword rankings across search engines, eliminating manual ..."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k01",
+  "q": "keyword ranking api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

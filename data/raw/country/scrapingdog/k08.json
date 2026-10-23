@@ -1,0 +1,99 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:23:30+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "amazon scraper api",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.34,
+ "bytes": 11663,
+ "seconds": 2.41,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "2026's Top Amazon Scraper APIs (In-Depth Comparison) | Scrape.do",
+    "url": "https://scrape.do/blog/best-amazon-scraper-api/",
+    "snippet": "Why Choose Scrape.do... · ScraperAPI · Why Choose ScraperAPI... · Decodo"
+   },
+   {
+    "pos": 2,
+    "title": "4 Best Amazon Scraping APIs in 2026 (Tested on Speed ...",
+    "url": "https://www.scrapingdog.com/blog/best-amazon-scraping-apis/",
+    "snippet": "Criteria to Test Amazon... · Scrapingdog · ScraperAPI · Brightdata"
+   },
+   {
+    "pos": 3,
+    "title": "Amazon Scraper API",
+    "url": "https://www.scraperapi.com/solutions/ecommerce-data-collection/amazon-scraper/",
+    "snippet": "Our Amazon scraper endpoint allows you to retrieve product details, reviews, offers, product searches, and product pricing in JSON format with a simple Amazon ..."
+   },
+   {
+    "pos": 4,
+    "title": "Amazon Scraper API for Product Data - Free Trial - Oxylabs",
+    "url": "https://oxylabs.io/products/web-api/scrape/ecommerce/amazon",
+    "snippet": "Scrape Amazon real-time product data, including listings, prices, ASINs, seller details, and bestseller data with our Amazon Scraper API"
+   },
+   {
+    "pos": 5,
+    "title": "amazon-scraper · GitHub Topics",
+    "url": "https://github.com/topics/amazon-scraper",
+    "snippet": "Amazon Scraper API for extracting search, product, offer listing, reviews, question and answers, best sellers and sellers data."
+   },
+   {
+    "pos": 6,
+    "title": "Amazon Scraper - 5K records/Month for Free - Bright Data",
+    "url": "https://brightdata.com/products/web-scraper/amazon",
+    "snippet": "The Amazon Scraper API works by sending automated requests to targeted website, extracting the necessary data points, and delivering them in a structured format ..."
+   },
+   {
+    "pos": 7,
+    "title": "Amazon Scraper API – Try for Free - Decodo",
+    "url": "https://decodo.com/scraping/ecommerce/amazon",
+    "snippet": "With our Amazon Scraping API, you can send a single API request and receive the data you need in HTML or structured JSON format."
+   },
+   {
+    "pos": 8,
+    "title": "The Best Amazon Scraping APIs for 2026 - Proxyway",
+    "url": "https://proxyway.com/best/best-amazon-scrapers",
+    "snippet": "Decodo (formerly Smartproxy) · Oxylabs · Zyte · ZenRows"
+   },
+   {
+    "pos": 9,
+    "title": "Scrape Amazon Product Data (complete 2026 tutorial) - SerpApi",
+    "url": "https://serpapi.com/blog/scrape-amazon-product-data-tutorial/",
+    "snippet": "DIY Version: Step-by-Step... · Step 2: Making the First... · API: Amazon Search API..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "answer_box",
+   "dmca_message",
+   "organic_results",
+   "people_also_asked_for",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k08",
+  "q": "amazon scraper api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

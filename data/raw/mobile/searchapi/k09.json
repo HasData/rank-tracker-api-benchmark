@@ -1,0 +1,91 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:14:31+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "how to scrape google search results",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.72,
+ "bytes": 51937,
+ "seconds": 3.92,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "google-search-scraper",
+    "url": "https://github.com/topics/google-search-scraper",
+    "snippet": "This Python-based tool scrapes Google search results and presents the top 10 results along with their URLs. Useful for SEO optimization and content writing."
+   },
+   {
+    "pos": 2,
+    "title": "How to Scrape All of the Google Search Results? : r/TechSEO",
+    "url": "https://www.reddit.com/r/TechSEO/comments/oe4z6j/how_to_scrape_all_of_the_google_search_results/",
+    "snippet": "It's better to use existing tools like AHREF, Semrush, How to retrieve the search result using google search engine programmatically. How To ..."
+   },
+   {
+    "pos": 3,
+    "title": "Scraping Google Search Results Using R",
+    "url": "https://dev.to/darshan_sd/scraping-google-search-results-using-r-5gn8",
+    "snippet": "The first step towards scraping Google Search Results with R would be fetching the HTML data from Google webpage by passing appropriate headers ..."
+   },
+   {
+    "pos": 4,
+    "title": "How to Scrape Google Search Results: Unlimited Keywords, No Code",
+    "url": "https://www.lobstr.io/blog/scrape-google-search-no-code",
+    "snippet": "This guide shows you how to scrape Google search results. Create a Squid Launch. Type it in the Keyword field and click Add +. Check SEO ranks by city."
+   },
+   {
+    "pos": 5,
+    "title": "How to Scrape Google Search Results with Python in 2026",
+    "url": "https://www.scraperapi.com/web-scraping/scrape-google-search-results/",
+    "snippet": "Learn how to scrape Google search results using Python. Discover the best tools and techniques to extract SERP data without getting blocked."
+   },
+   {
+    "pos": 6,
+    "title": "How to Scrape Google SEO Keyword Data and Rankings",
+    "url": "https://scrapfly.io/blog/posts/web-scraping-google-seo-keywords",
+    "snippet": "Google search results can be scraped using Parsing HTML with Xpath and CSS selectors like we did in the SEO rankings scraper."
+   },
+   {
+    "pos": 7,
+    "title": "Google Search Results Scraping 3 Simple Methods",
+    "url": "https://zenserp.com/google-search-results-scraping-3-simple-methods/",
+    "snippet": "It is quite easy to scrape Google Search Results with the Zenserp API. It is enough to register with Zenserp API & obtain an API key. Click now."
+   },
+   {
+    "pos": 8,
+    "title": "Google Scraper: Boost Your Business Strategies",
+    "url": "https://datamam.com/how-to-scrape-google-results/",
+    "snippet": "The easiest way to scrape Google search results is by using SERP APIs. These APIs provide a simple and reliable way to get structured search result data"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "inline_videos",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k09",
+  "q": "how to scrape google search results",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

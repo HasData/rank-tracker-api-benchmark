@@ -1,0 +1,95 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:47+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "world series",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.93,
+ "bytes": 68255,
+ "seconds": 2.09,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "MLB Postseason 2026: Playoff Bracket and World Series ...",
+    "url": "https://www.google.com/goto?url=CAESWQHrOzAVkQYfSPTkRB5Skk4ou9E6Kb2VGFMGUDN2jSgcscdd7SaFjrhH8gVjf7E8cJllsi4Cau_wrNf2_EVFgQdUDw-WSryA9r8vRe8oBUmbpxx28c8FLGNP",
+    "snippet": "2 hours ago — The official home of the Major League Baseball Postseason including playoff news, schedule, bracket, and video.",
+    "host": "www.mlb.com"
+   },
+   {
+    "pos": 2,
+    "title": "World Series",
+    "url": "https://www.google.com/goto?url=CAESZQHrOzAVPJPH1iUdXzbGyA4aUipBfBgnBCC-7fV7BhEJq-J8k_OZKqgjx6EF8MPMrz_jYiGiTI-r2kW9zt5Abz06_3g1QUTGMuvvxtGMnA0s9rGj5MTbB16tUYgq5rWPRn7kQh75",
+    "snippet": "The World Series is the annual championship series of Major League Baseball (MLB), a professional baseball league operating in the United States and Canada, ...Read more",
+    "host": "en.wikipedia.org"
+   },
+   {
+    "pos": 3,
+    "title": "List of World Series champions",
+    "url": "https://www.google.com/goto?url=CAESdwHrOzAVRdijOo_JKZoOscAOFCTMEcy-eaHBPZzQ2wI6EQeuRq5fumnePKsfzA1pFi8S5I4smLAqlmEiJfQevWrS2_IWrD6dOcx2dzui78AcrOpH16JVQqS8aulqZLywGx4p8Oz6daaXdU5cpHw0uNv923UTliJ0",
+    "snippet": "A total of 121 World Series have been contested through 2025, with the AL champion winning 68 and the NL champion winning 53. The New York Yankees of the AL ...Read more",
+    "host": "en.wikipedia.org"
+   },
+   {
+    "pos": 4,
+    "title": "MLB World Series Winners",
+    "url": "https://www.google.com/goto?url=CAESbwHrOzAVCY5eeut1RGjWKB1TIXSBGN6kDldrg-rn9nsqFIo5-lNvtIpis3YNn1_BFwN7rjq83IsijiTbYd5q3TRtx0hcigreYWtY4lOVrSONy4R7auFannnhrfr7oZz995RIw9Or7CgqbyiG5GMSRQ",
+    "snippet": "MLB World Series Winners ; 2024, Los Angeles Dodgers · New York Yankees ; 2023, Texas Rangers · Arizona Diamondbacks ; 2022, Houston Astros · Philadelphia Phillies ...Read more",
+    "host": "www.espn.com"
+   },
+   {
+    "pos": 5,
+    "title": "World Series Winners",
+    "url": "https://www.google.com/goto?url=CAESewHrOzAVjE_Ez0euli-64wIKZZ78tYDiVPSULPxIolJk7tgRTv8QI_lDNJ_N9gzBu9SMP6Ts1WyqU6jDMurQeMGIHHBZeZQyhhw5h9ZxhIULAfKvCAIb5gMrqC_l-PM181EoRvQvu28iD_lYzEe_t-ijfK7p6pVU_rgTeg",
+    "snippet": "World Series Winners. A list of World Series winners, losers, and MVPs throughout major-league history. Winning team is listed in bold.",
+    "host": "www.baseball-reference.com"
+   },
+   {
+    "pos": 6,
+    "title": "Postseason History: World Series",
+    "url": "https://www.google.com/goto?url=CAESbgHrOzAVBgg99jbR_c2ujrucrJvXEc1FrE9hAIjLbp-_jwVO7sDrQjTWRmLGyFCBj8yLIBIJ4KsEKfZ2-mnZNuENLEGQV_Ma9ulJzzu7tKsr6B-1RTNOzoY-OKhgT3BsYG86-vyB1IS3vHiURMIP",
+    "snippet": "A guide to all World Series winners by year, from World Series 2023 to the inception of the postseason championship in 1903.",
+    "host": "www.mlb.com"
+   },
+   {
+    "pos": 7,
+    "title": "A History of the World Series",
+    "url": "https://www.google.com/goto?url=CAESawHrOzAVtGAxhQ7ROplu1HSQQ-83q1ez1WuuXaIfn_gcJwInuhXNv-ecsN2cU9hoGef-rBeD8teArO2qbeEs4D6qIsIA6h6PrUkIZxc7wU9UGzXy_UfkFvz1tn4-SCKnsWO4o0rcth-FGm3A",
+    "snippet": "There have been three tie games, one-hundred nineteen shutouts, one perfect game and eleven instances where a team lost the first two games yet rallied to win ...Read more",
+    "host": "www.baseball-almanac.com"
+   }
+  ],
+  "features": [
+   "knowledge_graph",
+   "organic_results",
+   "related_questions",
+   "related_searches",
+   "top_stories"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k16",
+  "q": "world series",
+  "intent": "news, sports",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

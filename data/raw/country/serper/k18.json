@@ -1,0 +1,80 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T13:05:00+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "how to tie a tie",
+   "gl": "us",
+   "hl": "en"
+  }
+ },
+ "status": 200,
+ "ttfb": 1.19,
+ "bytes": 2664,
+ "seconds": 1.26,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "How to Tie a Tie",
+    "url": "https://www.youtube.com/shorts/ufEzBcn8yQY?xstg=CAMSBhUDzO3xHw%3D%3D",
+    "snippet": "@ParkerYorkSmith. Subscribe. How to Tie a Tie. 198K. 1,917. Share. Video unavailable. This content isn't available. Skip video."
+   },
+   {
+    "pos": 2,
+    "title": "How To Tie A Necktie | Different Ways Of Tying A Tie",
+    "url": "https://www.ties.com/how-to-tie-a-tie?srsltid=AU7gw4UOBgmqMMu7cOqP1rFd0WJCv05JRppm1YZjWfq1ktLYld6rMC8j",
+    "snippet": "A comprehensive step by step guide on the different ways to tie a tie. Windsor, 4 in hand, Eldredge, Trinity, bow tie, and other simple knots from Ties.com."
+   },
+   {
+    "pos": 3,
+    "title": "How to Tie a Tie: The Windsor Knot (Easy Step-by-Step)",
+    "url": "https://www.youtube.com/watch?v=zpe1-BWJqz8&xstg=CAMSBhUDzO3xHw%3D%3D",
+    "snippet": "Learn how to tie a tie with the classic Windsor Knot in this easy, step-by-step tutorial. I'll show you how to tie the Full Windsor (or ..."
+   },
+   {
+    "pos": 4,
+    "title": "Quickest way to tie a tie Wes & Alison share a helpful tip for ...",
+    "url": "https://www.facebook.com/lifewithwesandalison/videos/quickest-way-to-tie-a-tie/7247470708699432/",
+    "snippet": "The tip of the point should be right at the top of your belt buckle. One break in the lower leg of your pants (otherwise have them hemmed)."
+   },
+   {
+    "pos": 5,
+    "title": "How To Tie A Tie",
+    "url": "https://www.youtube.com/playlist?list=PLFcwRAXdt7ebgIApTupKt7QhFeNLmT6zz",
+    "snippet": "How to Tie a Perfect Simple Knot · How to Tie A Perfect Eldredge Necktie Knot · How to Tie A Perfect Windsor Knot · How To Tie a Perfect Half Windsor Knot · How to ..."
+   },
+   {
+    "pos": 6,
+    "title": "How to Tie a Tie Easily",
+    "url": "https://www.youtube.com/watch?v=TATblk1LUQI&xstg=CAMSBhUDzO3xHw%3D%3D",
+    "snippet": "Learn how to tie a tie properly with this quick step-by-step guide—get the perfect knot and the right length every time. How to tie a tie."
+   },
+   {
+    "pos": 7,
+    "title": "Tie-a-Tie.net",
+    "url": "https://www.tie-a-tie.net/",
+    "snippet": "Learn how to tie a tie with the Windsor, Half Windsor, Four in Hand and Pratt necktie knots by following step-by-step video instructions and colored ..."
+   }
+  ],
+  "features": [
+   "organic",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k18",
+  "q": "how to tie a tie",
+  "intent": "informational, video",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:00+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.23,
+ "bytes": 79653,
+ "seconds": 1.23,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Dentist in Austin, TX | High Quality Dental Experience - Dr. Jaros",
+    "url": "https://www.austindentalworks.com/",
+    "snippet": "At Austin Dental Works, we utilize a state-of-the-art facility and modern practices to ensure the highest quality dental care in a comfortable and relaxed ..."
+   },
+   {
+    "pos": 2,
+    "title": "Best Dentists Near Me in Austin, Texas",
+    "url": "https://www.deltadental.com/member/find-a-dentist/texas/austin-dentists/",
+    "snippet": "There are more than 50 dentists around the area of Austin, TX. Delta Dental has the largest network of dentists nationwide. we have identified 50 Delta Dental ..."
+   },
+   {
+    "pos": 3,
+    "title": "Walden Dental: Dentist Austin, TX | Comprehensive General ...",
+    "url": "https://www.waldendentaltx.com/",
+    "snippet": "Discover skilled dental care in Austin, TX, at Walden Dental. Dr. Frank & the team offer comprehensive services, including same-day crowns & cosmetic ..."
+   },
+   {
+    "pos": 4,
+    "title": "Book 100+ of the best Dentists near me in Austin, TX",
+    "url": "https://www.zocdoc.com/dentists/austin-221873pm",
+    "snippet": "There are currently 39 Dentists in Austin available for booking on Zocdoc. Filter by insurance, language, or appointment time to find your best match. Are there ..."
+   },
+   {
+    "pos": 5,
+    "title": "Austin Dentist | North Austin Dentistry, Open Saturdays",
+    "url": "https://northaustindentist.com/",
+    "snippet": "Logan Miller, DDS is a Family and Cosmetic Dentist in Austin TX. Comfortable, caring Dental for the whole Family. 512-458-3111... Schedule with Dr. Miller!"
+   },
+   {
+    "pos": 6,
+    "title": "Dentists Near Me in Austin, TX",
+    "url": "https://healthcare.ascension.org/find-care/specialty/dentists/austin--texas",
+    "snippet": "Dentists in Austin, Texas. (512) 396-2266 Call for appointment Asha (512) 804-5999 Call for appointment Steven J Hernandez, DDS"
+   },
+   {
+    "pos": 7,
+    "title": "Dentists in Georgetown, Austin, and Pflugerville, TX Smile ...",
+    "url": "https://smilehausdental.com/locations/austin-dentist/",
+    "snippet": "At Smile Haus Austin, we provide quality dental care for patients of all ages. Our Austin, TX, dentists provide customized dental bridges to optimize your oral ..."
+   },
+   {
+    "pos": 8,
+    "title": "THE BEST 10 DENTISTS IN AUSTIN, TX",
+    "url": "https://www.yelp.com/search?cflt=dentists&find_loc=Austin%2C+TX",
+    "snippet": "highly rated dentists in Austin, TX: Park Family Dental - Cosmetic, Oral Surgery & Implant Center (5/5) 512ooth Family Dentistry (5/5) Moossy General and ..."
+   },
+   {
+    "pos": 9,
+    "title": "Dental Smiles | Austin, TX: Dentist in Mueller",
+    "url": "https://mydentalsmiles.com/",
+    "snippet": "Welcome to Dental Smiles in Austin, TX. We're your locally owned, family-friendly dentist office that provides quality dental care for patients of all ages."
+   }
+  ],
+  "features": [
+   "filters",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches",
+   "things_to_know"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

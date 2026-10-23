@@ -1,0 +1,89 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:32:28+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "cheap flights to paris",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.09,
+ "bytes": 50293,
+ "seconds": 2.15,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Book United Cheap Flights to France from ...",
+    "url": "https://www.united.com/en/us/deals/flights-to-france",
+    "snippet": "United flights to popular destinations in France ; Flights to Paris (CDG). Chicago (ORD) to. Paris (CDG) · from. $1,561*. As of 11 hours ago. Roundtrip | Economy."
+   },
+   {
+    "pos": 2,
+    "title": "Cheap flights to France",
+    "url": "https://www.momondo.com/flights/france",
+    "snippet": "If you are looking to fly to France for less, look to airlines like Ryanair, Transavia France, and easyJet, with prices starting at $17, $18, and $23 ..."
+   },
+   {
+    "pos": 3,
+    "title": "Find Cheap Flights from Dallas to Paris (DFW - PAR)",
+    "url": "https://www.google.com/travel/flights/flights-from-dallas-to-paris.html?gl=US&hl=en-US",
+    "snippet": "The cheapest month to fly from Dallas to Paris is typically February. usually between $540 and $850. from $846 Typical price: $710–1,700 Air France Nonstop ..."
+   },
+   {
+    "pos": 4,
+    "title": "Cheap flights to France | Air France flights from United States to France",
+    "url": "https://wwws.airfrance.us/en-us/flights-to-france",
+    "snippet": "Find your Air France flight for France at the best price from $573. Discover our selection of cheap round-trip flights to France. ed within the last 48hrs"
+   },
+   {
+    "pos": 5,
+    "title": "Cheap flights to Île-de-France - Skyscanner",
+    "url": "https://www.skyscanner.com/flights/flights-to-region/44293395/cheap-flights-to-ile-de-france.html",
+    "snippet": "roundtrip fares start from $426. Find the lowest prices on one-way and roundtrip tickets right here. 1 stop from $398 Paris.$485 per passenger.Departing. The ..."
+   },
+   {
+    "pos": 6,
+    "title": "Cheap flights from the United States to France ...",
+    "url": "https://www.momondo.com/flights/united-states/france",
+    "snippet": "In general, you can expect to find flights to France for around $746 when searching weeks out. However, flight prices might be lower outside ..."
+   },
+   {
+    "pos": 7,
+    "title": "How to Book Cheap Flights to Paris from USA in ...",
+    "url": "https://vocal.media/01/how-to-book-cheap-flights-to-paris-from-usa-in-2025",
+    "snippet": "Fly on Weekdays: Tuesdays and Wednesdays are often the cheapest days to fly. Budget-Friendly Options: Norwegian Air, French Bee, and PLAY Airlines offer lower- ..."
+   },
+   {
+    "pos": 8,
+    "title": "$298 Flights from Washington, D.C. (WASA) to Paris (PARI) - Skyscanner",
+    "url": "https://www.skyscanner.com/routes/wasa/pari/washington%2C-d-c--to-paris.html",
+    "snippet": "round-trip fares start from $534. Find the lowest prices on one-way and round-trip tickets right here. The cheapest airline that flies to Paris is Scandinavian ..."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k20",
+  "q": "cheap flights to paris",
+  "intent": "travel",
+  "device": "mobile"
+ }
+}

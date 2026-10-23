@@ -1,0 +1,90 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:01:49+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=seo+api&gl=us&hl=en&uule=Austin%2CTexas%2CUnited+States&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 10.27,
+ "bytes": 48196,
+ "seconds": 10.28,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 6,
+    "title": "DataForSEO: Powerful API Stack For Data-Driven SEO Tools",
+    "url": "https://dataforseo.com/",
+    "snippet": "We provide comprehensive data solutions for SEO and SEM analytics via API. DataForSEO is a trusted partner for 750+ SEO software companies and agencies."
+   },
+   {
+    "pos": 7,
+    "title": "API recommendations : r/SEO",
+    "url": "https://www.reddit.com/r/SEO/comments/1bt4r59/api_recommendations/",
+    "snippet": "Top 10 SEO TOOLS APIs & Scrapers — I built an advanced SEO data API for AI writers. How I actually use an API for SEO software day-to-day. ..."
+   },
+   {
+    "pos": 12,
+    "title": "3 APIs for SEO pros - get a free API key | Authoritas",
+    "url": "https://www.google.com/goto?url=CAESWgHrOzAVKzS478WVa-dlAy3ojUowtjDv9r3jPvA8wF7Q5yu8-Kqix-USiJx6_ZFLyk7lYcDi-Ly3t_dlfyxpN7zI_FyV3ElyxJpZbmwKyhFDepxqnpAT9wZZLA",
+    "snippet": "The SEO Platform API is free with Advanced and Expert level business packages and all agency packages. The SERPs API and Page Structure API are charged per ...Read more"
+   },
+   {
+    "pos": 13,
+    "title": "SEO API: Automate your SEO and AEO workflows",
+    "url": "https://seranking.com/api.html",
+    "snippet": "The Project API lets you manage and automate SEO and AEO/GEO workflows within the platform, including rank tracking, keyword grouping, competitor monitoring,"
+   },
+   {
+    "pos": 14,
+    "title": "Search Console API",
+    "url": "https://developers.google.com/webmaster-tools",
+    "snippet": "The Search Console API provides programmatic access to the most popular reports and actions in your Search Console account. Query your search analytics, list ..."
+   },
+   {
+    "pos": 15,
+    "title": "SerpApi: SEO",
+    "url": "https://serpapi.com/use-cases/seo",
+    "snippet": "SerpApi provides rankings, organic search results and paid ad results. Use any keyword, any country, and any language across various search engines."
+   },
+   {
+    "pos": 16,
+    "title": "SEO API Tool",
+    "url": "https://moz.com/products/api",
+    "snippet": "Moz API gives you the power to quickly create custom SEO tools, dashboards, and integrations — affordably and at scale."
+   },
+   {
+    "pos": 17,
+    "title": "Top 14 SEO Analysis APIs for 2026 by Use Case - Nimble Way",
+    "url": "https://www.nimbleway.com/blog/top-seo-analysis-apis",
+    "snippet": "An SEO analysis API is a programmatic interface that returns structured search intelligence, such as rankings, backlinks, SERP features, content ...Read more"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "perspectives",
+   "related",
+   "top_ads"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k06",
+  "q": "seo api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

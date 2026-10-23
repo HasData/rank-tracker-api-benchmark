@@ -1,0 +1,102 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:23:01+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "google search api",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 8.62,
+ "bytes": 8422,
+ "seconds": 8.65,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Custom Search JSON API - Google for Developers",
+    "url": "https://developers.google.com/custom-search/v1/overview",
+    "snippet": "The Custom Search JSON API lets you develop websites and applications to retrieve and display search results from Programmable Search Engine ..."
+   },
+   {
+    "pos": 2,
+    "title": "Google Search API for real-time SERP scraping",
+    "url": "https://www.searchapi.io/",
+    "snippet": "Our Google Search API provides a wealth of data including organic search results, paid search results, knowledge graph entries, local map listings,"
+   },
+   {
+    "pos": 3,
+    "title": "All You Need to Know About the Official Google Search API and an ...",
+    "url": "https://medium.com/@darshankhandelwal12/all-you-need-to-know-about-the-official-google-search-api-and-an-alternative-to-it-261e139182d8",
+    "snippet": "Google Search API is the official API for retrieving search results in a structured format. It lets you send a search query. It is meant for ..."
+   },
+   {
+    "pos": 4,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you."
+   },
+   {
+    "pos": 5,
+    "title": "Google Search Console API – APIs & Services",
+    "url": "https://console.cloud.google.com/apis/library/searchconsole.googleapis.com",
+    "snippet": "The Search Console API provides access to both Search Console data (verified users only) and to public information on an URL basis (anyone)"
+   },
+   {
+    "pos": 6,
+    "title": "Google Custom Search API is closing. Need affordable Open Web ...",
+    "url": "https://www.reddit.com/r/googlecloud/comments/1qp4mlz/google_custom_search_api_is_closing_need/",
+    "snippet": "More results from www.reddit.com"
+   },
+   {
+    "pos": 7,
+    "title": "Programmable Search Engine by Google",
+    "url": "https://programmablesearchengine.google.com/about/",
+    "snippet": "Help people find what they need on your website. Add a customizable search box to your web pages and show fast, relevant results powered by Google."
+   },
+   {
+    "pos": 8,
+    "title": "How do I get web search results using an api? - Google Help",
+    "url": "https://support.google.com/websearch/thread/135474043/how-do-i-get-web-search-results-using-an-api?hl=en",
+    "snippet": "What we need is a method to do a Google Search with a term and then get the results back in a format that can be read e.g. XML or JSON."
+   },
+   {
+    "pos": 9,
+    "title": "Search Console API - Google for Developers",
+    "url": "https://developers.google.com/webmaster-tools",
+    "snippet": "The Search Console API provides programmatic access to the most popular reports and actions in your Search Console account. Query your search analytics, ..."
+   },
+   {
+    "pos": 10,
+    "title": "How To Setup Custom Search API For Google - YouTube",
+    "url": "https://www.youtube.com/watch?v=ogxvP-lyhQU",
+    "snippet": "Learn how to setup Custom Search API for Google step-by-step — from creating your API key to configuring your search engine and connecting ..."
+   }
+  ],
+  "features": [
+   "dmca_message",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k03",
+  "q": "google search api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

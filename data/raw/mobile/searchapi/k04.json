@@ -1,0 +1,87 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:09:56+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "web scraping api",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.36,
+ "bytes": 34559,
+ "seconds": 2.55,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "5 Best Web Scraping APIs in 2026 (Fast, Scalable & Easy to Use)",
+    "url": "https://www.scrapingdog.com/blog/best-web-scraping-apis/",
+    "snippet": "The top APIs include Scrapingdog, ScraperAPI, ZenRows, ScrapingAnt, and ScrapingBee. They differ in speed, reliability, and pricing. 2. Can I ..."
+   },
+   {
+    "pos": 2,
+    "title": "AI Web Scraper API for Structured Data",
+    "url": "https://www.scrapingbee.com/features/ai-web-scraping-api/",
+    "snippet": "Use ScrapingBee's AI web scraper API to extract structured data with natural-language instructions. Render JavaScript pages and start with 1000 free API ..."
+   },
+   {
+    "pos": 3,
+    "title": "Top Web Scraping APIs",
+    "url": "https://rapidapi.com/collection/top-scraper-api-tools",
+    "snippet": "Web scraping APIs, sometimes known as web crawler APIs, are used to \"scrape\" data from the publicly available data on the Internet. The most famous example of ..."
+   },
+   {
+    "pos": 4,
+    "title": "Understanding the Scraping API Process : r/learnpython",
+    "url": "https://www.reddit.com/r/learnpython/comments/goqgjm/understanding_the_scraping_api_process/",
+    "snippet": "Understanding the Scraping API Process · I started off by locating their API and I was able to locate curl/tines (no idea what those are really) ..."
+   },
+   {
+    "pos": 5,
+    "title": "Best Web Scraping APIs: Compared by Use Case, Cost and AI Readiness",
+    "url": "https://www.olostep.com/blog/best-web-scraping-apis",
+    "snippet": "Compare the best web scraping APIs, including Firecrawl, Olostep, ScraperAPI, ScrapingBee, Zyte, Bright Data, Oxylabs and Apify by use case, ..."
+   },
+   {
+    "pos": 6,
+    "title": "ParseHub | Free web scraping - The most powerful web scraper",
+    "url": "https://www.parsehub.com/",
+    "snippet": "ParseHub is a free web scraping tool. Turn any site into a spreadsheet or API. As easy as clicking on the data you want to extract."
+   },
+   {
+    "pos": 7,
+    "title": "What is API scraping?",
+    "url": "https://www.quora.com/What-is-API-scraping",
+    "snippet": "API scraping is basically sending requests to an API, receiving the data (usually JSON), and extracting the fields you need. You can use tools ..."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "discussions_and_forums",
+   "inline_videos",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k04",
+  "q": "web scraping api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

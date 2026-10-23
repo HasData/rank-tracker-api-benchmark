@@ -1,0 +1,78 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:04:24+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=how+to+tie+a+tie&gl=us&hl=en&uule=Austin%2CTexas%2CUnited+States&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 15.9,
+ "bytes": 149060,
+ "seconds": 16.15,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 4,
+    "title": "How to Tie a Tie",
+    "url": "https://www.youtube.com/shorts/ufEzBcn8yQY?xstg=CAMSBhUDzO3xHw%3D%3D",
+    "snippet": "How to Tie a Tie - YouTube. Learn more @ParkerYorkSmith Subscribe How to Tie a Tie 198K 1,917 Share Video unavailable This content isn't ..."
+   },
+   {
+    "pos": 5,
+    "title": "How To Tie A Necktie | Different Ways Of Tying A Tie",
+    "url": "https://www.ties.com/how-to-tie-a-tie?srsltid=AU7gw4UKU19nzG64H-sBQqmUyXDspJU-FUFpDuNXn4_hDD0YJEEB6DKp",
+    "snippet": "A comprehensive step by step guide on the different ways to tie a tie. Windsor, 4 in hand, Eldredge, Trinity, bow tie, and other simple knots from Ties.com."
+   },
+   {
+    "pos": 10,
+    "title": "How to Tie a Tie: The Windsor Knot (Easy Step-by-Step)",
+    "url": "https://www.youtube.com/watch?v=zpe1-BWJqz8&xstg=CAMSBhUDzO3xHw%3D%3D",
+    "snippet": "Step 1: Draping the Tie Over Your Collar. Step 2: The First Loop. Step 3: The Second Loop. Step 4: The Final Pass-Through 5: How to Create the ..."
+   },
+   {
+    "pos": 12,
+    "title": "POV: You found the easiest way to tie a tie - #fashion",
+    "url": "https://www.facebook.com/linanooryhost/videos/pov-you-found-the-easiest-way-to-tie-a-tie-fashion-wardrobeessentials-stylinghac/1418571386781732/",
+    "snippet": "Windsor made simple knot, This is a single knot. Tie a double windsor. Windsor knot is the best knot. The smart tie will not have any folds in ..."
+   },
+   {
+    "pos": 13,
+    "title": "How to Tie a Tie Easily",
+    "url": "https://www.youtube.com/watch?v=TATblk1LUQI&xstg=CAMSBhUDzO3xHw%3D%3D",
+    "snippet": "Learn how to tie a tie properly with this quick step-by-step guide—get the perfect knot and the right length every time."
+   },
+   {
+    "pos": 14,
+    "title": "Ways to tie a tie : r/howto",
+    "url": "https://www.reddit.com/r/howto/comments/bdeuyz/ways_to_tie_a_tie/",
+    "snippet": "This page from ties.com shows. Unless you're going to a black tie event, go with the Four in Hand. You can adjust the length after it's tied, ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "images",
+   "organic",
+   "perspectives",
+   "related",
+   "short_videos"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k18",
+  "q": "how to tie a tie",
+  "intent": "informational, video",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

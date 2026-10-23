@@ -1,0 +1,91 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:50:32+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "seo api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 6.47,
+ "bytes": 51097,
+ "seconds": 6.49,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "DataForSEO: Powerful API Stack For Data-Driven SEO Tools",
+    "url": "https://dataforseo.com/",
+    "snippet": "We provide comprehensive data solutions for SEO and SEM analytics via API. DataForSEO is a trusted partner for 750+ SEO software companies and agencies."
+   },
+   {
+    "pos": 2,
+    "title": "Overview | Semrush API",
+    "url": "https://developer.semrush.com/api/v4/seo/overview/",
+    "snippet": "The Semrush SEO API lets you retrieve SEO data programmatically, including keyword metrics, backlink data, and competitor insights. Use it to build custom SEO ..."
+   },
+   {
+    "pos": 3,
+    "title": "SEOs, what's the best API for SEO you've actually ...",
+    "url": "https://www.reddit.com/r/SEO_LLM/comments/1szt6vo/seos_whats_the_best_api_for_seo_youve_actually/",
+    "snippet": "So far I've looked at Ahrefs, Semrush, SE Ranking, and Majestic, but I can't tell from the marketing which one actually holds up at scale ..."
+   },
+   {
+    "pos": 4,
+    "title": "SEO API: Automate your SEO and AEO workflows",
+    "url": "https://seranking.com/api.html",
+    "snippet": "The Project API lets you manage and automate SEO and AEO/GEO workflows within the platform, including rank tracking, keyword grouping, competitor monitoring,"
+   },
+   {
+    "pos": 5,
+    "title": "Best SEO API Providers in 2026 (My Honest Reviews)",
+    "url": "https://www.position.digital/blog/best-seo-geo-api/",
+    "snippet": "An SEO API lets you request ranking, keyword, backlink and AI visibility data in code, so it lands in your scripts, reports or AI agent instead ..."
+   },
+   {
+    "pos": 6,
+    "title": "3 APIs for SEO pros - get a free API key | Authoritas",
+    "url": "https://www.authoritas.com/apis",
+    "snippet": "The SEO Platform API is free with Advanced and Expert level business packages and all agency packages. The SERPs API and Page Structure API are charged per ..."
+   },
+   {
+    "pos": 7,
+    "title": "Top 14 SEO Analysis APIs for 2026 by Use Case - Nimble Way",
+    "url": "https://www.nimbleway.com/blog/top-seo-analysis-apis",
+    "snippet": "An SEO analysis API is a programmatic interface that returns structured search intelligence, such as rankings, backlinks, SERP features, content ..."
+   },
+   {
+    "pos": 8,
+    "title": "SerpApi: SEO",
+    "url": "https://serpapi.com/use-cases/seo",
+    "snippet": "SerpApi provides rankings, organic search results and paid ad results. Use any keyword, any country, and any language across various search engines."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k06",
+  "q": "seo api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

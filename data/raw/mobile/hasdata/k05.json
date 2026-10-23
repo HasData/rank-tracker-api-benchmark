@@ -1,0 +1,94 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:10:36+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "rank tracker api",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.46,
+ "bytes": 16014,
+ "seconds": 1.68,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Rank Tracking API - 5K requests/Month for Free",
+    "url": "https://brightdata.com/products/serp-api/rank-tracking",
+    "snippet": "Rank tracker API retrieves real-time keyword ranks from any major search engine and with city level targeting. Free trial."
+   },
+   {
+    "pos": 2,
+    "title": "Keyword.com Rank Tracker API – Build dashboards, automate ...",
+    "url": "https://keyword.com/rank-tracker-api/",
+    "snippet": "Keyword.com's Rank Tracker API gives agencies programmatic access to Google keyword ranking data. Pull position data, SERP history, and CPC metrics directly ..."
+   },
+   {
+    "pos": 3,
+    "title": "Ranktracker API — Top 100 Rank Tracking & SERP Data ...",
+    "url": "https://developers.ranktracker.com/",
+    "snippet": "Top 100 Google rank tracking API with all 10 pages of results by default, SERP features and AI Overview detection across 107000+ locations."
+   },
+   {
+    "pos": 4,
+    "title": "Rank Tracking API: Track Keyword Rankings at Scale",
+    "url": "https://seranking.com/rank-tracker-api.html",
+    "snippet": "Pull daily keyword rankings via API: positions, movement, and history across Google, Bing, and more. A rank tracker API built for reporting at scale."
+   },
+   {
+    "pos": 5,
+    "title": "Best Rank Tracker API in 2026: Tested & Compared (Speed + Pricing)",
+    "url": "https://www.scrapingdog.com/blog/rank-tracker-api/",
+    "snippet": "Mar 9, 2026 — Looking for the best rank tracker API? We tested 6 APIs on speed, pricing & accuracy. Scrapingdog tops the list at 1.31s avg response time."
+   },
+   {
+    "pos": 6,
+    "title": "Rank Tracker APIs",
+    "url": "https://rapidapi.com/collection/rank-tracker-api",
+    "snippet": "Rank tracking APIs provide end-users with a variety of valuable SEO data, allowing marketing professionals to determine a website's rank on Google, Yahoo, Bing"
+   },
+   {
+    "pos": 7,
+    "title": "Rank Tracker | Ahrefs for Developers",
+    "url": "https://docs.ahrefs.com/en/api/reference/rank-tracker",
+    "snippet": "Public API/ Rank Tracker Rank tracker. Base URL https://api.ahrefs.com/v3/rank-tracker Version3.0.0 Endpoints6 Overview Data from overview. Competitors ..."
+   },
+   {
+    "pos": 8,
+    "title": "Rank Tracking API & SERP API | ProRankTracker",
+    "url": "https://proranktracker.com/serp-api",
+    "snippet": "The PRT API lets you integrate ProRankTracker's rank tracking directly into your internal system, dashboard or SaaS product. Manage tracked terms and retrieve ..."
+   },
+   {
+    "pos": 9,
+    "title": "Best Rank Tracking APIs for Developers & Agencies",
+    "url": "https://www.scrapingbee.com/blog/best-rank-tracker-apis/",
+    "snippet": "Jan 21, 2026 — A rank tracker API is a programmatic interface that lets you automatically check keyword rankings across search engines, eliminating manual ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k05",
+  "q": "rank tracker api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

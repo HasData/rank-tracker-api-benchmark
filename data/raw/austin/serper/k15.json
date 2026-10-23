@@ -1,0 +1,94 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:44+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "tesla stock",
+   "gl": "us",
+   "hl": "en",
+   "location": "Austin,Texas,United States"
+  }
+ },
+ "status": 200,
+ "ttfb": 1.26,
+ "bytes": 3281,
+ "seconds": 1.36,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+    "url": "https://finance.yahoo.com/quote/TSLA/",
+    "snippet": "What's happening with TSLA? · Previous Close 367.16 · Open 360.58 · Bid 357.00 x 100 · Ask 368.30 x 100 · Day's Range 357.31 - 360.58 · 52 Week Range 297.38 - ..."
+   },
+   {
+    "pos": 2,
+    "title": "TSLA - TESLA INC | Stock Quotes from Fidelity Investments",
+    "url": "https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=TSLA",
+    "snippet": "(TSLA - TESLA INC) · company profile · Tesla (TSLA) is trading at 367.16 · Menu. Important Information. Welcome to the Fidelity Assistant! Start typing and we' ..."
+   },
+   {
+    "pos": 3,
+    "title": "Tesla: TSLA Stock Price Quote & News",
+    "url": "https://robinhood.com/us/en/stocks/TSLA/",
+    "snippet": "Tesla(TSLA) stock is priced at $374.67, giving the company a market capitalization of 1.45T. It carries a P/E multiple of 348.63."
+   },
+   {
+    "pos": 4,
+    "title": "TSLA: Tesla Inc - Stock Price, Quote and News",
+    "url": "https://www.cnbc.com/quotes/TSLA",
+    "snippet": "Key Stats · Market Cap1.45T · Shares Out3.95B · 10 Day Average Volume31.90M · Dividend- · Dividend Yield- · Beta1.76. Show Ratios / Profitability & Events ..."
+   },
+   {
+    "pos": 5,
+    "title": "TSLA Stock Price - Tesla, Inc.",
+    "url": "https://www.tradingview.com/symbols/NASDAQ-TSLA/",
+    "snippet": "The current price of TSLA is 367.16 USD — it has decreased by −2.15% in the past 24 hours. Watch Tesla, Inc. stock price performance more closely on the chart."
+   },
+   {
+    "pos": 6,
+    "title": "Tesla: Electric Cars, Solar & Clean Energy",
+    "url": "https://www.tesla.com/",
+    "snippet": "Current Offers. Explore limited-time offers on Tesla vehicles. Learn More. Tesla vehicle. Inventory. Find new and Certified Pre-Owned Tesla vehicles available ..."
+   },
+   {
+    "pos": 7,
+    "title": "Tesla Investor Relations",
+    "url": "https://ir.tesla.com/",
+    "snippet": "Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..."
+   },
+   {
+    "pos": 8,
+    "title": "Tesla Inc. (TSLA) Stock Price Today - The Wall Street Journal",
+    "url": "https://www.wsj.com/market-data/stock/tsla?eafs_enabled=false",
+    "snippet": "Tesla Inc. TSLA • U.S.: Nasdaq. $361.36-5.80-1.58%. PRE-MARKET|Vol. 259,898|Oct 15, 2026 6:35 ..."
+   },
+   {
+    "pos": 9,
+    "title": "Tesla (TSLA) Stock Price Quote, Value & News",
+    "url": "https://www.morningstar.com/stocks/xnas/tsla/quote",
+    "snippet": "See the latest Tesla Inc stock price (NASDAQ:TSLA), related news, valuation, dividends and more to help you make your investing decisions."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k15",
+  "q": "tesla stock",
+  "intent": "finance",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

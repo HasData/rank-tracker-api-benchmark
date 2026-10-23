@@ -1,0 +1,91 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:02:48+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "pizza near me",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.2,
+ "bytes": 32819,
+ "seconds": 2.34,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Pizza in Austin, TX | Papa Johns Brodie Ln",
+    "url": "https://locations.papajohns.com/united-states/tx/78745/austin/8106-brodie-ln/pizza-near-me",
+    "snippet": "For pizza delivery in Austin, call us at (512) 282-3662 to order, or stop by 8106 BRODIE LN in Austin, TX for carryout."
+   },
+   {
+    "pos": 2,
+    "title": "TOP 10 BEST Pizza in Austin, TX - Updated 2026",
+    "url": "https://www.yelp.com/search?find_desc=Pizza&find_loc=Austin%2C+TX",
+    "snippet": "Near You: Top 10 Best Pizza in Austin, Texas · 1. Pedroso's Pizza. 4.7 (300 reviews). 3.0 mi. 2207 Justin Ln, Ste D Austin, TX 78757. (737) 600-1107. This is a ...Read more"
+   },
+   {
+    "pos": 3,
+    "title": "Austin's Pizza | Fresh, Local Pizza in Austin, TX Since 1999",
+    "url": "https://austinspizza.com/",
+    "snippet": "So go ahead and order a pizza. We've got four locations and frozen pizza in H-E-B and Walmart all across Texas. Welcome To Austin's Pizza. View Menu. Explore ...Read more"
+   },
+   {
+    "pos": 4,
+    "title": "THE 10 BEST Pizza Places in Austin (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g30196-c31-Austin_Texas.html",
+    "snippet": "1. Home Slice Pizza 4.5 ・ 3. Pinthouse Pizza 4.5 ・ 4. DeSano Pizzeria Napoletana. Very close to downtown Austin"
+   },
+   {
+    "pos": 5,
+    "title": "Pizza Delivery in Austin, TX",
+    "url": "https://locations.pizzahut.com/tx/austin/pizza-delivery",
+    "snippet": "Order Delivery in Austin, TX for hot and fresh pizza, pasta, wings, pasta and more. Start your delivery order today!"
+   },
+   {
+    "pos": 6,
+    "title": "Pizza Restaurant In Austin - Visit Our Pizzeria Today!",
+    "url": "https://thepizzapress.com/location/austin-tx/",
+    "snippet": "Visit our pizzeria in Austin … 404 W. 26th St. Austin, TX 78705 512-808-0474 Business Hours Everyday 11:00am – 12:00am Store #: 0201"
+   },
+   {
+    "pos": 7,
+    "title": "THE 10 BEST PIZZA DELIVERY in Austin 2026",
+    "url": "https://www.ubereats.com/category/austin-tx/pizza?srsltid=AU7gw4VoliXyZhlHGTq4Yj9jKYzP-EI4514kdIGrTMISXZwtYxrtQw1L",
+    "snippet": "Enjoy Pizza delivery and takeaway with Uber Eats near you in Austin. New Mangieri's Pizza Cafe (South Austin) Randalls (2727 Exposition Blvd) Randalls (9911 ..."
+   },
+   {
+    "pos": 8,
+    "title": "Review of Moderna Bar & Pizzeria in Austin, TX",
+    "url": "https://www.facebook.com/groups/742034912983989/posts/2668893526964775/",
+    "snippet": "Moderna Bar & Pizzeria, Austin, TX Contemporary Neapolitan style pizza. Maestro Leo Spizzirri has outdone himself. The lasagna was also amazing, they ..."
+   }
+  ],
+  "features": [
+   "local_results",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

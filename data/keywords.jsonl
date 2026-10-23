@@ -1,0 +1,20 @@
+{"id": "k01", "q": "keyword ranking api", "intent": "commercial, topic"}
+{"id": "k02", "q": "best serp api", "intent": "commercial, topic"}
+{"id": "k03", "q": "google search api", "intent": "commercial, topic"}
+{"id": "k04", "q": "web scraping api", "intent": "commercial, topic"}
+{"id": "k05", "q": "rank tracker api", "intent": "commercial, topic"}
+{"id": "k06", "q": "seo api", "intent": "commercial, topic"}
+{"id": "k07", "q": "google maps scraper", "intent": "commercial, topic"}
+{"id": "k08", "q": "amazon scraper api", "intent": "commercial, topic"}
+{"id": "k09", "q": "how to scrape google search results", "intent": "informational, topic"}
+{"id": "k10", "q": "what is a serp api", "intent": "informational, topic"}
+{"id": "k11", "q": "pizza near me", "intent": "local"}
+{"id": "k12", "q": "dentist", "intent": "local"}
+{"id": "k13", "q": "best running shoes", "intent": "commercial"}
+{"id": "k14", "q": "iphone 17 pro price", "intent": "shopping"}
+{"id": "k15", "q": "tesla stock", "intent": "finance"}
+{"id": "k16", "q": "world series", "intent": "news, sports"}
+{"id": "k17", "q": "home depot hours", "intent": "navigational, local"}
+{"id": "k18", "q": "how to tie a tie", "intent": "informational, video"}
+{"id": "k19", "q": "symptoms of flu", "intent": "health"}
+{"id": "k20", "q": "cheap flights to paris", "intent": "travel"}

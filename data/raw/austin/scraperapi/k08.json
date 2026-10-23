@@ -1,0 +1,100 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:33+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "amazon scraper api",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.53,
+ "bytes": 11528,
+ "seconds": 3.54,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "How to scrape Amazon product data with Python (+ no-code)",
+    "url": "https://www.google.com/goto?url=CAESbQHrOzAVIhaMSaZw50gScEz9n71bsI-Nt_dsEWhdA1m42whUDlE98K6oOx31qZkczPs1LzlcNjNzjQzMO3xx3TWY7BkB3SNfBEYHie0LAQFuRz1lH8yElX1bTF7IKuYHTZD5H1XNc2NWoXn2ep0",
+    "snippet": "Sep 24, 2025 — Learn how to use Amazon Product Scraper to retrieve product data from Amazon in a Python script via API integration.",
+    "host": "blog.apify.com"
+   },
+   {
+    "pos": 2,
+    "title": "Amazon Scraper - Web Scraping Amazon Product Data",
+    "url": "https://www.google.com/goto?url=CAESdgHrOzAV1XPsEQAr7R_7Rou9iJmpc5lLeUCx0ejbXqGN165mB393Pk0haYRZEbsn2kiLAoFZYTtTyH0mU8Xn3JWQpJA-0oqHG9Hai2bT-e3dVfxzZI9DrxyvcfaRbwSlWp9siHM2vd6dJCwBOUJ0QuJAaAmZKUE",
+    "snippet": "Use the Amazon Product Data Scraper to extract detailed product information, including pricing, customer reviews, ratings, product descriptions, and ASINs,",
+    "host": "www.realdataapi.com"
+   },
+   {
+    "pos": 3,
+    "title": "scrapeless-ai/amazon-scraper: Scrape ...",
+    "url": "https://www.google.com/goto?url=CAESagHrOzAVEjuBIoY6w41ZLrgcY2T_2eyKyuUHGy9eiPq5kM8iakcFn_sLxAnyOH4HJ4t2gbcRzq3o5UaVh3UlZ9RDmNWq08Md_kAjOJEWx0P5awCi0qiAR4TYIR146vxyrDNYzHzmnIyvt9g",
+    "snippet": "Scrape Amazon product, search, price, rating, and review data through the Scrapeless Scraper API for ecommerce research, price monitoring, and marketplace ...",
+    "host": "github.com"
+   },
+   {
+    "pos": 4,
+    "title": "Free Amazon Scraping API Recommendation",
+    "url": "https://www.google.com/goto?url=CAESbwHrOzAVWdoH7JfTDqwwLsz6XMlW5Iy5iPj0y6_h4Qy-HoCAKftOliy4w3Cgou0JtLWXNwf0rAZcv9gL9kVf-61s5LMBMReM0Yj8_8hI_Tl1FDjBNMk81Bs_9vMWCevfLqnaJlhO02FvBBQ4zesyZQ",
+    "snippet": "The Free Amazon Scrape API is an essential tool for small and medium-sized e-commerce sellers and developers. This guide explains how to use Pangolin API",
+    "host": "www.pangolinfo.com"
+   },
+   {
+    "pos": 5,
+    "title": "Best Amazon Scraper APIs for 2026",
+    "url": "https://www.google.com/goto?url=CAESbQHrOzAVU_g4eywmz3aIpOdE3zIzTP34W2EtsXE-b41qwqFodXuYVaZ74kGvLo5b7GH-q4bDmQFuQfld9e8R5DCyyzMLqY5BP1sEqtfKZpxc-sfMGB2i0jSIMVkDzUVnGlNAw53myPVDZSmFyRU",
+    "snippet": "Jul 10, 2026 — Apify, ZenRows, ScraperAPI, and ScrapingBee offer some of the best Amazon scraper APIs. A good rule of thumb for choosing Amazon data extraction ...Read more",
+    "host": "iproyal.com"
+   },
+   {
+    "pos": 6,
+    "title": "drawrowfly/amazon-product-api: Amazon Scraper. Scrape ...",
+    "url": "https://www.google.com/goto?url=CAESawHrOzAVDl5L2NUkJH0_v9wmo270hM3eU_P02WEAdnwJ_hSvoo7UWZ9M_xFjzH2h8fnefsf8lXEoZ9cOh0C5kT9_cSivklHfmm2AyrJnfplok6jizcdCpCt2d2A3DgvVvEk5hrbEOoNGTfHV",
+    "snippet": "Scrape products from the amazon search result or reviews from the specific product. Very useful tool that is able to extract almost same amount of data as the ...",
+    "host": "github.com"
+   },
+   {
+    "pos": 7,
+    "title": "Amazon Product Scraper — Prices, Reviews and Ratings",
+    "url": "https://www.google.com/goto?url=CAESagHrOzAVZeyeJBh5tRog0_GPRXpw-A_SuAf88PLK6gy4UeeAk1bZfalQGeLoNHWZjZgwpnQg0STFZ06z7XMU7x_ISYSQ6NgfI_a5Jp21UibR2F9Nzn2FAmnMnMxBj3LAzqYRZAy5pfEtGlQ",
+    "snippet": "Mar 2, 2026 — Scrape Amazon listings across 10 marketplaces. Extract prices, ratings, reviews, Prime status, and availability. No API key needed.",
+    "host": "apify.com"
+   },
+   {
+    "pos": 8,
+    "title": "Amazon Product Details Scraper API",
+    "url": "https://www.google.com/goto?url=CAESewHrOzAVkU80I2BFNo9aiHXSJ7tth7e_jukXgevRxSqdiaSQtpJ06DI8KepDRgCaKg0Q2StQaKqAX0qUenCzdjLcjKsPxqdjkSHGOZFv7tYuU0ANBXgWadOAVTTgCakaWmx0Razw_IERONA-RyYPg8BkFWXiBDEgxYpaAA",
+    "snippet": "Extract product information without using the Amazon API, including reviews, prices, descriptions, and Amazon Standard Identification Numbers (ASINs). Download ...Read more",
+    "host": "apify.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k08",
+  "q": "amazon scraper api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

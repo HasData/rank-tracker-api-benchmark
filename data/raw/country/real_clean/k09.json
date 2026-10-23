@@ -1,0 +1,107 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:54:25+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "how to scrape google search results",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.9,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Scraping Google Search results (on a small scale)",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/webscraping",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "How to Scrape Google Search Results in 2026",
+    "url": "https://scrapfly.io/",
+    "host": "scrapfly.io",
+    "crumb": "https://scrapfly.io › Blog › python",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "🕷️ The Ultimate Guide to Web Scraping Google Search ...",
+    "url": "https://9 months ago/",
+    "host": "9 months ago",
+    "crumb": "9 months ago",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Google Search Scraper - Free Tier",
+    "url": "https://outscraper.com/",
+    "host": "outscraper.com",
+    "crumb": "https://outscraper.com › google-search-scraper",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "How to Scrape Google Search Results: 2026 Python Tutorial",
+    "url": "https://oxylabs.io/",
+    "host": "oxylabs.io",
+    "crumb": "https://oxylabs.io › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Google Search scraper and SERP API",
+    "url": "https://apify.com/",
+    "host": "apify.com",
+    "crumb": "https://apify.com › Store › Apify",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Is it ok to scrape data from Google results? [closed]",
+    "url": "https://3 answers/",
+    "host": "3 answers",
+    "crumb": "3 answers · 12 years ago",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "How To Scrape Google Search Results With Python",
+    "url": "https://www.browserless.io/",
+    "host": "www.browserless.io",
+    "crumb": "https://www.browserless.io › Blog",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Videos",
+   "Web results",
+   "Sponsored result",
+   "Scrape Google Search Results",
+   "My Ad Center",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k09",
+  "q": "how to scrape google search results",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

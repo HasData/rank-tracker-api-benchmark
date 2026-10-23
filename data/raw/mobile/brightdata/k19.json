@@ -1,0 +1,84 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:21:30+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=symptoms+of+flu&gl=us&hl=en&brd_mobile=1&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 5.36,
+ "bytes": 28164,
+ "seconds": 5.37,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 2,
+    "title": "Signs and Symptoms of Flu | Influenza (Flu)",
+    "url": "https://www.cdc.gov/flu/signs-symptoms/index.html",
+    "snippet": "Symptoms · fever* or feeling feverish/chills · cough · sore throat · runny or stuffy nose · muscle or body aches · headaches · fatigue (tiredness) · some people ..."
+   },
+   {
+    "pos": 17,
+    "title": "Influenza (flu) - Symptoms and causes",
+    "url": "https://www.mayoclinic.org/diseases-conditions/flu/symptoms-causes/syc-20351719",
+    "snippet": "Flu symptoms often include: Fever, but not always. Chills. Headache. Muscle pain. No appetite. Painful or watery eyes. Other flu symptoms ..."
+   },
+   {
+    "pos": 18,
+    "title": "Flu Symptoms, Treatment & Prevention",
+    "url": "https://www.osfhealthcare.org/services/specialties/primary-care/vaccines/flu",
+    "snippet": "Common flu symptoms include: Fever Muscle or body aches Extreme exhaustion or fatigue Headache Cough Runny or stuffy nose Sneezing Sometimes a sore throat ..."
+   },
+   {
+    "pos": 19,
+    "title": "Flu Basics",
+    "url": "https://www.michigan.gov/flu/basics",
+    "snippet": "Flu Symptoms · fever* or feeling feverish/chills · cough · sore throat · runny or stuffy nose · muscle or body aches · headaches · fatigue (tiredness) · some people may ..."
+   },
+   {
+    "pos": 20,
+    "title": "Do I Have a Cold or the Flu? Learn the Difference",
+    "url": "https://www.tylenol.com/adult-relief/cold-flu/cold-or-flu",
+    "snippet": "The most common influenza symptoms include: Headache Fever Chills Cough Body or muscle aches Fatigue Chest congestion Less frequent symptoms of the flu include ..."
+   },
+   {
+    "pos": 24,
+    "title": "How to Recognize Flu Symptoms Early",
+    "url": "https://carrborofamilymedicine.net/recognize-flu-symptoms",
+    "snippet": "Some of the first signs include general weakness, sensitivity to cold, and muscle soreness, followed by respiratory symptoms such as cough or congestion. The ..."
+   },
+   {
+    "pos": 25,
+    "title": "8 Common Flu Symptoms in Adults",
+    "url": "https://www.goodrx.com/conditions/flu/flu-symptoms-in-adults?srsltid=AU7gw4XXbtPU1z-N_pkEc0f20bIvjXNkdCXcIerWLbFw7iQrkKCISxzA",
+    "snippet": "Body aches, cough, and runny nose are the most common flu symptoms in adults. Fever, headache, and weakness are also common symptoms."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "images",
+   "organic",
+   "people_also_ask",
+   "related",
+   "videos"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k19",
+  "q": "symptoms of flu",
+  "intent": "health",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

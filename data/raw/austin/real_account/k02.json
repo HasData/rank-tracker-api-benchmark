@@ -1,0 +1,113 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T13:59:02+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "best serp api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 5.51,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "What is the best API for google search api if I do not want to ...",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/scrapingtheweb",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "10 Best SERP APIs in 2026 to Scale Data Extraction from ...",
+    "url": "https://www.scrapingdog.com/",
+    "host": "www.scrapingdog.com",
+    "crumb": "https://www.scrapingdog.com › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "The 5 Best SERP APIs for 2026",
+    "url": "https://proxyway.com/",
+    "host": "proxyway.com",
+    "crumb": "https://proxyway.com › Best",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "What is your favorite tool for SERP scraping and why?",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/SEO_tools_reviews",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Best SERP APIs 2026: 9 Tested on Cost, AI and Tracking",
+    "url": "https://cloro.dev/",
+    "host": "cloro.dev",
+    "crumb": "https://cloro.dev › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Best SERP API: Top Picks for SEO, AI and Tracking",
+    "url": "https://www.olostep.com/",
+    "host": "www.olostep.com",
+    "crumb": "https://www.olostep.com › blog › best-serp-api",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "The 16 Best SERP and Web Search APIs of 2026",
+    "url": "https://brightdata.com/",
+    "host": "brightdata.com",
+    "crumb": "https://brightdata.com › blog › web-data › best-serp-apis",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Best SerpApi Alternatives in 2026: 7 Cheaper SERP APIs ...",
+    "url": "https://scrape.do/",
+    "host": "scrape.do",
+    "crumb": "https://scrape.do › blog › serpapi-alternatives",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "Top 7 Google SERP APIs in 2026",
+    "url": "https://www.scraperapi.com/",
+    "host": "www.scraperapi.com",
+    "crumb": "https://www.scraperapi.com › ... › Best APIs List",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k02",
+  "q": "best serp api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

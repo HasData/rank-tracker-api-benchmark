@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these findings, please cite the HasData comparison as below."
+type: dataset
+title: "Rank Tracker API Benchmark (Dataset)"
+authors:
+  - name: "HasData"
+url: "https://hasdata.com/blog/rank-tracking-apis"
+repository-code: "https://github.com/HasData/rank-tracker-api-benchmark"
+license: CC-BY-4.0
+keywords:
+  - "rank tracking"
+  - "SERP API"
+  - "Google search results"
+  - "SEO"
+  - "benchmark"
+preferred-citation:
+  type: blog
+  title: "Best Rank Tracker APIs Tested on 20 Keywords"
+  authors:
+    - name: "HasData"
+  publisher:
+    name: "HasData"
+  year: 2026
+  url: "https://hasdata.com/blog/rank-tracking-apis"

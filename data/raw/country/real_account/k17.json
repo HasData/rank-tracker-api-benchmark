@@ -1,0 +1,113 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T13:04:50+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "home depot hours",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 5.61,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › store-locator",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "The Home Depot",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Store Holiday Hours at The Home Depot",
+    "url": "https://corporate.homedepot.com/",
+    "host": "corporate.homedepot.com",
+    "crumb": "https://corporate.homedepot.com › news › company › st...",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Home Depot, where from 6am to 5pm, the question was \" ...",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/HomeDepot",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "THE HOME DEPOT - Updated October 2026 - 58 Reviews",
+    "url": "https://www.yelp.com/",
+    "host": "www.yelp.com",
+    "crumb": "https://www.yelp.com › ... › Hardware Stores",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "East San Jose #6672",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › ... › Store Directory › CA",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Pinecrest, FL 33156 - Dixie Hwy",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › ... › Store Directory › FL",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "The Home Depot in Huntsville, AL United States",
+    "url": "https://maps.apple.com/",
+    "host": "maps.apple.com",
+    "crumb": "https://maps.apple.com › place",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "The Home Depot, 1803 North I-35, Waco, TX 76705, US",
+    "url": "https://www.mapquest.com/",
+    "host": "www.mapquest.com",
+    "crumb": "https://www.mapquest.com › ... › Waco › 76705",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

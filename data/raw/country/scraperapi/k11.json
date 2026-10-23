@@ -1,0 +1,100 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:57:04+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "pizza near me",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.38,
+ "bytes": 12550,
+ "seconds": 4.53,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Klamath Falls/Washburn Way",
+    "url": "https://www.google.com/goto?url=CAESeQHrOzAVjZL2l_wmOs1v7uecbmhCbRRn_p4jI3MmMWADbqHnRbXDnyDq7GXEG9n8WeexOVxyt3pdYbS26tr4NDzAySnIz3R0rOqOj9Xw43HGs3i6w4ZOx7TV8xVKF9Md2Jlw9E1vq3icKgMbVCdkWbeyAidISn_EDOQ",
+    "snippet": "We are located on 3430 Washburn Way in Klamath Falls, OR. Mountain Mike's is also home of the legendary crispy, curly pepperoni, which uses natural casing so ...Read more",
+    "host": "www.mountainmikespizza.com"
+   },
+   {
+    "pos": 2,
+    "title": "THE 10 BEST Pizza Places in Klamath Falls (Updated 2026)",
+    "url": "https://www.google.com/goto?url=CAEShwEB6zswFY0AglMsbYWaoZfvuz5H-75X_N2zfyJib5VoRTddwtBJj7G0OwmVjCvgMuuiW9tXaK_YRrPMUWlyKoeUCVllG93fGc9C1a8VhjXADD3wdeeihqtEQ_Ad3qxzUOhny5spTbJLIUVdcl5n885YRbSEQfYFmGpF00Ak6zy6uO-2grFOBLk",
+    "snippet": "Best Pizza in Klamath Falls, Oregon: 1. Rodeos Pizza & Saladeria 4.5 … 2. Mia & Pia's Pizzeria & Brewhouse 4.0. The Godfather 3. Sidelines  ...",
+    "host": "www.tripadvisor.com"
+   },
+   {
+    "pos": 3,
+    "title": "Pizza & Wings - Delivery & Take Out From 1826 Austin St",
+    "url": "https://www.google.com/goto?url=CAESeQHrOzAVLaGEf7C7U2zANygrg6xIwQUvxQee1ryYSEldG814zQZsXBly_HBObEalCUa5wcVZfStk9KCk9YBXDt2VqT0V664B3ERVQXRfoH5tJtmXUhux5o5dlHSQZVIT5OcGmZfSZT827DOzB4vCs21vU9DwkqlDzUs",
+    "snippet": "Visit your local Pizza Hut at in 1826 Austin St Klamath Falls, OR to find hot and fresh pizza, wings, pasta and more! Order carryout or delivery for quick ...",
+    "host": "locations.pizzahut.com"
+   },
+   {
+    "pos": 4,
+    "title": "Pizza Near You in KLAMATH FALLS, OR",
+    "url": "https://www.google.com/goto?url=CAESYAHrOzAVq26QzLPDlU04wGIG4fbKvVdnKw1hy08yFN_zNAMSrN8YajyiN4R4Gm7DyXhNYObdW6Z3f77ifcbvwUIz-hA8mSYtcPUoG5a2x0dSjJhj78BewVe4sQNWogRHdw",
+    "snippet": "5538 SOUTH 6TH STREET, KLAMATH FALLS, OR 97603S.SIXTH (541) 884-8888 Delivery. Closed NowOpens at 10:00 AM. Order carryout or delivery today",
+    "host": "littlecaesars.com"
+   },
+   {
+    "pos": 5,
+    "title": "TOP 10 BEST Pizza Delivery in Klamath Falls, OR",
+    "url": "https://www.google.com/goto?url=CAESjAEB6zswFZgb2ffnBivQR_O-xyKCyjbXXm9lwiPE0hWlMjtorUWRs0qUh0W2e7Y9OyuO7idbaROrNdbS5oV1jsz2aaZ70Cg1yJDzk6SAf1vUa1Kl59wED-e49VB7imuVfKU98t9dsEQVVxpyi74KbVd5fgeSlu42WqOWPRJRm7FWakv09RKxL0OWbGrvaA",
+    "snippet": "Gourmet Peddlers - Pizza Delivery near me - Klamath Falls, Oregon · The Waffle Hut - Pizza Delivery near me - Klamath Falls, Oregon · Little Caesars Pizza - Pizza ...Read more",
+    "host": "www.yelp.com"
+   },
+   {
+    "pos": 6,
+    "title": "Rodeos Pizza & Saladeria - Klamath Falls",
+    "url": "https://www.google.com/goto?url=CAESVwHrOzAVdU-MlVfqxMjX4g0gkahewf7wCjyQbpOW1eBnoV3fG1HZzP4k6AWLygkqu9Vy6u4iSclQPIhmwWWi7rU--VJ8wOdDK0wQWmH_eN4tyqEaUW_FGA",
+    "snippet": "Fast, delicious pizza, salads and beverages in Klamath Falls, OR. Open 11a-9p Closed Mondays. Phone (541) 205-3464 Location 1215 Main Street Klamath Falls, OR ...",
+    "host": "www.rodeos-pizza.com"
+   },
+   {
+    "pos": 7,
+    "title": "Stagecoach Pizza. Best pizza in town!: Klamath Falls Pizza",
+    "url": "https://www.google.com/goto?url=CAESVwHrOzAVuLNX9bOprGVpF1DKv5qAtdeAPjw_FJnuHsgsbOgszFmIwbT24HLfAJ6dEwOUCKPQLdDmlMmoHP1gAaymQtvUqkgKywhK67Z9u16QWTrzzbPL7w",
+    "snippet": "Best pizza in town! (541) 884-6525 5235 South 6th Street. Location 5235 South 6th Street, Klamath Falls, Oregon Open Hours Tue. - Sat.: 11am-10pm Sunday: 11am- ...",
+    "host": "stagecoachpizza.com"
+   },
+   {
+    "pos": 8,
+    "title": "THE 10 BEST PIZZA DELIVERY in Klamath Falls 2026",
+    "url": "https://www.google.com/goto?url=CAEStAEB6zswFQoCi9hlY40cAYOo659NGRm_1MDDLf_a_RY75qu6P1Vthjku5vArUIzpFEwCeKtbBO1srqCDV_d3NwRRCwedoV0Lmx5AulAQwiHqXN-PwajidqxIK2gJx_ExU2vSgnBzQ30V1LsPM-E03DDwtPeG2ZD_Ltyz1EAVn19BPpGAl1j-NGOoarlRQskTXK9ACJ1STZSIcaZQO_noQUWZGFCOZ_F3JFNSDphqIldK6hjPuuk",
+    "snippet": "Browse Klamath Falls restaurants serving Pizza nearby, place your order and enjoy! Your order will be delivered in minutes and you can track its ETA while you ...Read more",
+    "host": "www.ubereats.com"
+   }
+  ],
+  "features": [
+   "local_packs",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T13:59:27+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "google search api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 7.4,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Google Search API for real-time SERP scraping",
+    "url": "https://www.searchapi.io/",
+    "host": "www.searchapi.io",
+    "crumb": "https://www.searchapi.io",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "All You Need to Know About the Official Google Search API ...",
+    "url": "https://medium.com/",
+    "host": "medium.com",
+    "crumb": "Medium · Darshan Khandelwal",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "host": "serpapi.com",
+    "crumb": "https://serpapi.com",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Google Custom Search API is closing. Need affordable ...",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/googlecloud",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Sponsored result",
+   "Google Search API Alt",
+   "My Ad Center",
+   "Web results",
+   "ThinkingSearchingThinking a little longer",
+   "AI Overview",
+   "People also ask",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k03",
+  "q": "google search api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

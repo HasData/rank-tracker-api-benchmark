@@ -1,0 +1,97 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:09:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "google search api",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.23,
+ "bytes": 51602,
+ "seconds": 2.36,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Search The Web With Google Custom Search API In Python",
+    "url": "https://www.youtube.com/watch?v=4YhxXRPKI0c",
+    "snippet": "In this video, we will dive into how to use Google Custom Search API to run web searches programmatically using Python. Enable Custom Search API"
+   },
+   {
+    "pos": 2,
+    "title": "Introduction | Programmable Search Engine",
+    "url": "https://developers.google.com/custom-search/docs/tutorial/introduction",
+    "snippet": "This tutorial explains how to implement a simple Programmable Search Engine using a predefined javascript widget."
+   },
+   {
+    "pos": 3,
+    "title": "Custom Google Search API - Medium",
+    "url": "https://joeyism.medium.com/custom-google-search-api-fbbafe4711eb",
+    "snippet": "Custom Google Search API If you want to get results of Google search results programmatically with the API, follow this tutorial."
+   },
+   {
+    "pos": 4,
+    "title": "Does Google provide a search API [closed]",
+    "url": "https://stackoverflow.com/questions/21753451/does-google-provide-a-search-api",
+    "snippet": "Closed. This question is seeking recommendations for software libraries, tutorials, tools, books, or other off-site resources. It does not meet Stack ..."
+   },
+   {
+    "pos": 5,
+    "title": "Google Custom Search JSON API Pricing: Costs, Limits & 2026 Guide",
+    "url": "https://blog.expertrec.com/google-custom-search-json-api-simplified/",
+    "snippet": "Google officially closed the Custom Search JSON API to new signups in 2025. API is now closed to new customers."
+   },
+   {
+    "pos": 6,
+    "title": "Google Search APIs",
+    "url": "https://rapidapi.com/collection/google-search-api",
+    "snippet": "Google search APs is a platform that offers a fast and straightforward opportunity to perform Google searches. Results include relevant titles and links."
+   },
+   {
+    "pos": 7,
+    "title": "Google Custom Search API - Search Results",
+    "url": "https://stackoverflow.com/questions/37379511/google-custom-search-api-search-results",
+    "snippet": "I have somewhat lost touch with custom search engines ever since Google switched from its more legacy search engine api in favor of the google custom ..."
+   },
+   {
+    "pos": 8,
+    "title": "Google Cloud, Programmable Search Engine and Custom Search API",
+    "url": "https://meta.discourse.org/t/google-search-for-discourse-ai-programmable-search-engine-and-custom-search-api/307107",
+    "snippet": "A Custom Search API key is used to make API requests to the search engine, and API keys are managed from the Google Cloud console."
+   },
+   {
+    "pos": 9,
+    "title": "Google Search",
+    "url": "https://rapidapi.com/neoscrap-net/api/google-search72",
+    "snippet": "This API serves as a tool to fetch data directly from Google's search engine, allowing you to access the most up-to-date information available in web and image ..."
+   }
+  ],
+  "features": [
+   "ads",
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k03",
+  "q": "google search api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

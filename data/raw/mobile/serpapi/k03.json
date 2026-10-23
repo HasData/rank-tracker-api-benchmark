@@ -1,0 +1,97 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:09:54+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "google search api",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.3,
+ "bytes": 55929,
+ "seconds": 2.48,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Custom Search JSON API | Google for Developers",
+    "url": "https://developers.google.com/custom-search/v1/overview",
+    "snippet": "The Custom Search JSON API lets you develop websites and applications to retrieve and display search results from Programmable Search Engine ..."
+   },
+   {
+    "pos": 2,
+    "title": "Google Search API for real-time SERP scraping",
+    "url": "https://www.searchapi.io/",
+    "snippet": "Scrape organic results, ads, related searches, inline questions and more. Receive structured results in JSON format. Sign up for a free plan today!"
+   },
+   {
+    "pos": 3,
+    "title": "Google Search Console API – APIs & Services",
+    "url": "https://console.cloud.google.com/apis/library/searchconsole.googleapis.com",
+    "snippet": "REST API to manage Google Ads accounts, campaigns, and reports. Equivalent command line. Equivalent REST. Your page may be loading slowly because you're ..."
+   },
+   {
+    "pos": 4,
+    "title": "Google Custom Search API is closing. Need affordable Open Web ...",
+    "url": "https://www.reddit.com/r/googlecloud/comments/1qp4mlz/google_custom_search_api_is_closing_need/",
+    "snippet": "For anyone landing here now: Google's overview page says the Custom Search JSON API is closed to new customers, and existing customers have ..."
+   },
+   {
+    "pos": 5,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you."
+   },
+   {
+    "pos": 6,
+    "title": "All You Need to Know About the Official Google Search API and an ...",
+    "url": "https://medium.com/@darshankhandelwal12/all-you-need-to-know-about-the-official-google-search-api-and-an-alternative-to-it-261e139182d8",
+    "snippet": "Google Custom Search JSON API or Google Search API is the official API for retrieving search results in a structured format."
+   },
+   {
+    "pos": 7,
+    "title": "Programmable Search Engine by Google",
+    "url": "https://programmablesearchengine.google.com/about/",
+    "snippet": "Help people find what they need on your website. Add a customizable search box to your web pages and show fast, relevant results powered by Google."
+   },
+   {
+    "pos": 8,
+    "title": "Search Console API",
+    "url": "https://developers.google.com/webmaster-tools",
+    "snippet": "The Search Console API provides programmatic access to the most popular reports and actions in your Search Console account. Query your search analytics, ..."
+   },
+   {
+    "pos": 9,
+    "title": "Google Search API - luminati-io",
+    "url": "https://github.com/luminati-io/google-search-api",
+    "snippet": "Bright Data's Google Search API provides real-user search results from Google using customizable search parameters. Built on the same advanced ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k03",
+  "q": "google search api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

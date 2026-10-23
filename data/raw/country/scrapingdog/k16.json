@@ -1,0 +1,96 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:24:12+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "world series",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 3.23,
+ "bytes": 6178,
+ "seconds": 3.23,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "World Series - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/World_Series",
+    "snippet": "Precursors to the modern... · Modern World Series (1903... · 1990s · 2000s"
+   },
+   {
+    "pos": 2,
+    "title": "MLB Postseason 2026: Playoff Bracket and World Series Schedule",
+    "url": "https://www.mlb.com/postseason",
+    "snippet": "The official home of the Major League Baseball Postseason including playoff news, schedule, bracket, and video."
+   },
+   {
+    "pos": 3,
+    "title": "List of World Series champions - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/List_of_World_Series_champions",
+    "snippet": "A total of 121 World Series have been contested through 2025, with the AL champion winning 68 and the NL champion winning 53. The New York Yankees of the AL ..."
+   },
+   {
+    "pos": 4,
+    "title": "MLB World Series Winners - ESPN",
+    "url": "https://www.espn.com/mlb/worldseries/history/winners",
+    "snippet": "MLB World Series Winners ; 2024, Los Angeles Dodgers · New York Yankees ; 2023, Texas Rangers · Arizona Diamondbacks ; 2022, Houston Astros · Philadelphia Phillies ..."
+   },
+   {
+    "pos": 5,
+    "title": "World Series Winners | Baseball-Reference.com",
+    "url": "https://www.baseball-reference.com/postseason/world-series.shtml",
+    "snippet": "World Series Winners. A list of World Series winners, losers, and MVPs throughout major-league history. Winning team is listed in bold."
+   },
+   {
+    "pos": 6,
+    "title": "MLB World Series: Historical winners and highlights",
+    "url": "https://www.mlb.com/postseason/history/world-series",
+    "snippet": "A guide to all World Series winners by year, from World Series 2023 to the inception of the postseason championship in 1903."
+   },
+   {
+    "pos": 7,
+    "title": "Brewers hold off Dodgers, move 1 win away from World Series",
+    "url": "https://www.youtube.com/watch?v=Jkef6e5-MYE",
+    "snippet": "David Samson and Will Middlebrooks join CBS Sports HQ to recap Game 3 of the National League Championship Series between the Milwaukee ..."
+   },
+   {
+    "pos": 8,
+    "title": "Little League® World Series",
+    "url": "https://www.littleleague.org/world-series/",
+    "snippet": "Over the course of 30 days, the Little League World Series tournaments will be held from July 27 to August 25, 2019. Approximately 935 Little Leaguers® ages ..."
+   },
+   {
+    "pos": 9,
+    "title": "NBC World Series | Schedule, Tickets, History - National Baseball ...",
+    "url": "https://nbcbaseball.com/",
+    "snippet": "See the NBC World Series schedule, buy tickets, find history, news, merch & team forms, get live scoring & stream games all in one place!"
+   }
+  ],
+  "features": [
+   "dmca_message",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k16",
+  "q": "world series",
+  "intent": "news, sports",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:21+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "seo api",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.93,
+ "bytes": 9176,
+ "seconds": 5.01,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SEO API: Automate your SEO and AEO workflows",
+    "url": "https://www.google.com/goto?url=CAESWQHrOzAVJ33s-ULDScwSeMRzFmfaH7F-lO4CKSYn1S6TTMEq99aNrfCJkelCOaGFOj708VAT4e2TAKYbU7BnkIs5XtGbhTs9Miem-n6M5CPn9fsoAzDmLVpS",
+    "snippet": "The Project API lets you manage and automate SEO and AEO/GEO workflows within the platform, including rank tracking, keyword grouping, competitor monitoring, ...Read more",
+    "host": "seranking.com"
+   },
+   {
+    "pos": 2,
+    "title": "SEO API - Create SEO Reports, Dashboards & Tools",
+    "url": "https://www.google.com/goto?url=CAESYgHrOzAVPoX467Vkxn0k2hXUMTC6pJPm9ghp4CKFQ_tKIlX3vhp9ahrwVePhjac228Mvrklnjo8VT8Rj7EJP5A0bFI_9nskkgRNSxF4rq_fT8ZBw8rzLN2pQYP1JBKWjWSuH",
+    "snippet": "Create agentic workflows, custom reports, and automated SEO tasks such as keyword research, backlink audits, content optimization, and more with the SEO Review ...Read more",
+    "host": "www.seoreviewtools.com"
+   },
+   {
+    "pos": 3,
+    "title": "SEO API Tool",
+    "url": "https://www.google.com/goto?url=CAESVwHrOzAVRLRlbVfL3hIrBivWGiptzJe89G0Byp_XneeE3kdn4oh_PkEDv8jPLF9LW5UbCugqJvNR6-4yjQmVhxTgixjaaqDhUp3GckdPSPE6oA9YhatxRA",
+    "snippet": "Moz API gives you the power to quickly create custom SEO tools, dashboards, and integrations — affordably and at scale.",
+    "host": "moz.com"
+   },
+   {
+    "pos": 4,
+    "title": "Top Picks for Best SEO APIs",
+    "url": "https://www.google.com/goto?url=CAESYgHrOzAVZvZig2dpaxLAW8npP0sJF05sd2OfXzLRC7Fz71Ky52ErenD6Nvb8IV-DMjYPtw6M0d0AiaeQcyMDmufxe_8V7uFTax3Vz-gf0AXw8Vef24sU7cFVTWxv1Kq-ldi9",
+    "snippet": "APIs for SEO are important tools because they help improve web page performance, brand visibility, and page rankings. In addition to keyword data, developers ...Read more",
+    "host": "rapidapi.com"
+   },
+   {
+    "pos": 5,
+    "title": "Best SEO API Providers in 2026 (My Honest Reviews)",
+    "url": "https://www.google.com/goto?url=CAESbgHrOzAVCDFiQHCf0p9jazA2HwXgF6mnDbwhGR9W4qd5lNxUbX_dLw1ztnZhTJ9R8bRdysaE_a71ogQuRHHGWJ2YU4RdxN8Db6wuadhL_W0DF97SgUBhIwrJhs5AWIEN0qeIVtknXmpEZTGzxHOt",
+    "snippet": "13 hours ago — An SEO API lets you request ranking, keyword, backlink and AI visibility data in code, so it lands in your scripts, reports or AI agent instead ...Read more",
+    "host": "www.position.digital"
+   },
+   {
+    "pos": 6,
+    "title": "Best SEO APIs in 2026: Top SEO API Tools Compared",
+    "url": "https://www.google.com/goto?url=CAESZwHrOzAVXO_cV5mYd2AbF9oOk31d6DJbCNEPP3P-uK4SMjkqMjjENVIW5gOtAxfHXa_PArB91ClhiZmeDM_BuRWgtTSf42kQYEWizmFPn-26Jlz_rF4NQ_9dapZoDwR9526tlxJpIxI",
+    "snippet": "May 20, 2026 — Looking for the best SEO API? In this post we compare the top SEO APIs for website audits, SEO ranking data, backlinks, SERP tracking, ...",
+    "host": "www.seoptimer.com"
+   },
+   {
+    "pos": 7,
+    "title": "The Best SEO API Providers - Robert Goldenowl",
+    "url": "https://www.google.com/goto?url=CAESewHrOzAVGDIBx05rq5NPQRmMsV_ezmW47YNy-OLEw0b4ClYjw9fxlFny53j6vW5-dAD23CMC1TqAPYY0sq7WYfvqXmezbr7Pfd5nRG5MsCiOxqvf6J5SPmFyOLZ9wgISQcqp_nFTh3e_MmfumfgGISRY-bx1C_pfc4bbpw",
+    "snippet": "Oct 20, 2025 — Top 10 SEO API Providers · 1. DataForSEO · 2. SE Ranking · 3. Semrush · 4. Ahrefs · 5. Moz (Mozscape API) · 6. Majestic · 7. Serpstat · 8.Read more",
+    "host": "robertgoldenowl.com"
+   },
+   {
+    "pos": 8,
+    "title": "SEO Data API - Industry-leading SERP API and Keywords ...",
+    "url": "https://www.google.com/goto?url=CAESWAHrOzAVZHSwXq0Kk-Q9z2emVbDvaHcRP87s7G7tjsFdrAl_DkZmf6AOaB-k3Zc2fkACh-7vct0n7zPyW59YBXFVBSibgm-6UkHVz-ojhWY7xMAcv8qlvus",
+    "snippet": "Get all the SEO data you need via our industry-leading API - Check our rank tracking API, SERP API and our Keywords data API. Free trial.",
+    "host": "www.georanker.com"
+   }
+  ],
+  "features": [
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k06",
+  "q": "seo api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

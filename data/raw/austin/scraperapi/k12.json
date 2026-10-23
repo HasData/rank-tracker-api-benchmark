@@ -1,0 +1,108 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "dentist",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 11.67,
+ "bytes": 13574,
+ "seconds": 11.75,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Beardstown Family Dental: Dentist in Beardstown, Illinois",
+    "url": "https://www.google.com/goto?url=CAESXgHrOzAVPuw2esvBEzXwynXic947J_Zq0ELFkEaeyEnZDIsU34dSNYfjM2Jl2tzUxo8R-a0sJlRB9y8ZRZI_Phh-apBeaqUjhy3ejob279hY5_67DQrXcQ5SoU9o4wY",
+    "snippet": "We can diagnose issues, alleviate pain, and preserve the health of your affected teeth as much as possible, leaving you with a healthy smile. Endodontics ...Read more",
+    "host": "beardstownfamilydental.com"
+   },
+   {
+    "pos": 2,
+    "title": "Best Dentists Near Me in Beardstown, Illinois",
+    "url": "https://www.google.com/goto?url=CAESigEB6zswFQmLlUktVPyZuRtUhQEPSW4UJv3ux20RLZ87ir4I9rouvSJH_twVFAhi-5ayh0XfA-QMUYhuxazASkllrOf9_3VqnT4ORF3zCQzjcF88shxVmJ2N2iDU2nKgopTHJGs7FdbO93gWdDjT0CwAJaA-4E-eVG4XpH-YO6gCJAl6FR8C0bxi8CI",
+    "snippet": "See the list of Beardstown, IL dentists in the Delta Dental network. We have the largest network of dentists nationwide. Find the one that's right for you.",
+    "host": "www.deltadental.com"
+   },
+   {
+    "pos": 3,
+    "title": "TOP 10 BEST Affordable Dentist near Beardstown, IL",
+    "url": "https://www.google.com/goto?url=CAESjQEB6zswFXdKFyFMFKd9I-BeDzW2pyRhYYlQYM6Htl44g7mwb3jo52V6ZUC6XT7r3BbBfWZ_Q0b5XSk9Dhruzm7nsNiJZmzJ6mlxwDTuDSIszVJ69qahqbL84mMQdbI6sFQu4sd6aGPKvx4S1_mTa6S7dDOVoOzr06w2MlqEISBpFnvDGSNGF1yNfdN64sQ",
+    "snippet": "Best Affordable Dentist near Beardstown, IL · Beardstown Family Dental · Jackson Canter, DMD · Dylan Pate, PA-C · Davidsmeyer James Dr DDS · Merrihew John Gauer ...Read more",
+    "host": "www.yelp.com"
+   },
+   {
+    "pos": 4,
+    "title": "Dentist",
+    "url": "https://www.google.com/goto?url=CAESYAHrOzAVcr0snxw0VjXf5vngLC2NnUWPb__xt6wq0iPQzS8Omv7xcwnwVUzRiyHB3nGZoUHJRdYWl0ZX3JCNUqHv014_0GJG_sJ1AjbVl_qYFidvf7cQ-_Twg27jFr-zNA",
+    "snippet": "A dentist, also known as a dental doctor, dental physician, dental surgeon, is a health care professional who specializes in dentistry, the branch of ...Read more",
+    "host": "en.wikipedia.org"
+   },
+   {
+    "pos": 5,
+    "title": "Find an Illinois Dentist",
+    "url": "https://www.google.com/goto?url=CAEScAHrOzAVAVNulgCJSnPic98Bhulb4q4YjdVVIhAEiielkAVVaq4SfcgYjnmY4S9ItFwheselyQaafHQ0-tPMpwS2o0HbTjzTG8KzD1xxWfWIifIks7RuLecRo0fpxC5S130WNFRBvP-cjwGu9tkhJX8",
+    "snippet": "By visiting a Delta Dental PPO dentist, you will have the lowest out-of-pocket expenses. Use the provider search to find an Illinois dentist near you.",
+    "host": "www.deltadentalil.com"
+   },
+   {
+    "pos": 6,
+    "title": "20 Best Dentists Near Beardstown, IL",
+    "url": "https://www.google.com/goto?url=CAESigEB6zswFYvN6EVA7Mpnh-eMhDej9FE5yTPTfAzFGHp1KxUoU1thG1wdAc5cb9yUjjGdfamk938qNW_ZrJWw8qTpKcvo1xjmJbmIA13j5aMBDgHC9Kg312Vz6xLR19vrNLkQgM2_iFGqiSxL97Ukjof8fFoO7x1L80VALLxQZffoI_RVvf4Jxtj6cmI",
+    "snippet": "Find out how Healthgrades can help you find and compare Dentists near you. By weighing reviews and other important factors, we can help you find the right ...",
+    "host": "www.healthgrades.com"
+   },
+   {
+    "pos": 7,
+    "title": "American Dental Association: Search for ADA Member ...",
+    "url": "https://www.google.com/goto?url=CAESWAHrOzAVIn2QfifE8bzpG78AKfnqohK2bohHaIV3YMhJoMasX_DfXKkFH4h2ORMfA23g3yrzlf0a-Lk-bDLa3gr15CeBezUpfPxkZAT4jHiKNRLILVo1pxs",
+    "snippet": "Find an ADA member dentist in your area. Enter your street address and ZIP code for a list of ADA member dentists near you.",
+    "host": "findadentist.ada.org"
+   },
+   {
+    "pos": 8,
+    "title": "Find a Trusted Dentist Near You - Delta Dental",
+    "url": "https://www.google.com/goto?url=CAEShwEB6zswFWNx2nApFTVN10B1F67TFzMQh1RJxdaHllP5Eo-cYMsD_qdxrKPqHMa_bNN7g9a6scPCk-9BYl2_zC4J0sQsQsT9wCCGJBpc0h4AarGJmoU8rHpekeFL6IbcvK-h1hACwTNdluUnDMURArvmp0ayXs8v0P2_CJhhkBDFZr1NOZLHd60",
+    "snippet": "Shopping for a dental plan? Search for a new dentist near you, or see if your current dentist is in the plan's network. Not sure which network to choose?Read more",
+    "host": "www1.deltadentalins.com"
+   },
+   {
+    "pos": 9,
+    "title": "Find a Dentist",
+    "url": "https://www.google.com/goto?url=CAESZwHrOzAVpTKZEa04-jvk-2MgOEd_3DACRrKzOpZhbIHeWPlc1BcR3_BR8RU3HqT0G_y7XgABaGuRv2PsQqtpg0gApgRAoIilPwjP43RI88msYvP5EXnv3vkJp4Cj-HdTSp-Z0f8Pt6M",
+    "snippet": "Find a dentist within the DentaQuest provider network. Search by address, city, county or zip code to find a dentist near you. Use our advanced search to ...",
+    "host": "www.dentaquest.com"
+   }
+  ],
+  "features": [
+   "local_packs",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

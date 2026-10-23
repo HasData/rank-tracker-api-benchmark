@@ -1,0 +1,107 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:48+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "home depot hours",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 9.64,
+ "bytes": 13345,
+ "seconds": 9.65,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Store Locator",
+    "url": "https://www.google.com/goto?url=CAESZAHrOzAVT_C5fumsFFvmbL1Lo4KS5FvAlwWSI6CEPQUrS98ssGA7fHmxwNmN3XanIKJQMbWK36mmNPjjrq44vExvXelOacYj7WRKohkwHBh-5_G1fM0zgKoFUGr41zaaRwQbfi0",
+    "snippet": "Order online for convenient store pickup daily until 6 p.m.. Learn More. Search By Image Or Voice. Let our app find it ...Read more",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 2,
+    "title": "Brooklyn Park #2804",
+    "url": "https://www.google.com/goto?url=CAESgAEB6zswFY50tIJnvPPCrje5iHK660xIxOBniCh_gMV8HHbIpHlVCmfmez-hj3lCshd2yiLAo0NJFyii4Jm8gbkWUU1dblW_Sj2Xp0VnfH6ODl85ujglhe8TAiUpYidmNKxD6Iok3Zy3zZFUgjBFcnFqPtj1GpHuMNg-DCn_2gZXgQ",
+    "snippet": "The Brooklyn Park Home Depot in Brooklyn Park, MN, 55428 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using our ...Read more",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 3,
+    "title": "Mira Mesa #6679 - San Diego",
+    "url": "https://www.google.com/goto?url=CAESeAHrOzAV6ymwdTMLtclfL70L2dI18ycPaeP_00P4rcR3pnxkvrC1080FwO5WXf5FCfTfVFeRAzRBA8IWqkzIFXccJ3uOscmRmEHaRAHN9smTLckVGQmxYEOFSEoo4TETfBFOxXkr_U88w1oll1F00k24JOzj-PAsWg",
+    "snippet": "... Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 7:00am - 8:00pm. Curbside: 09:00am - 6 ... Multiple times, I have been followed to my car, and asked if I needed ...Read more",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 4,
+    "title": "Urbandale #2115",
+    "url": "https://www.google.com/goto?url=CAESeAHrOzAVIIJa9whVbEpsactv717Mi8BOF7JaNX-dadhVeX85f6IP7ptdeFMI5BrBW_ymSkdYp3Y8lw--2vKn_03l0_KfiyY5OanNfscWOiggUFvB6_t8wJz_7nKExiZ9fMTNaOor6w8BznKpYEo8QwP0GT2QG_LwJw",
+    "snippet": "The Urbandale Home Depot in Urbandale, IA, 50322 | Hours, Directions & Curbside ... Hours. Mon-Sat: 6:00am - 9:00pm. Sun: 8:00am - 8:00pm. Curbside: 09:00am ...Read more",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 5,
+    "title": "Highlands Ranch #1540",
+    "url": "https://www.google.com/goto?url=CAEShAEB6zswFZKohto-Ecv_gWobG4Oxq2dQLevhLodSl4qAhKRt1QefU8IlDd0-AtDqu0n1OYyw-quxXH5zEVQ0zRdDqGw2gN-500CWV916kh5fwDkg1Wv9OZX2UYQaKOa2r80edFenmcQy6tkWY6o0J7iT0owkXeGJxOnXtbVFSIANSE66Nfw",
+    "snippet": "The Highlands Ranch Home Depot in Highlands Ranch, CO, 80129 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using ...Read more",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 6,
+    "title": "THE HOME DEPOT - Updated October 2026 - 23 Reviews",
+    "url": "https://www.google.com/goto?url=CAESawHrOzAVr_yb8bOlho5ibgfn8yL35-Glx56ksycGtjSsESPHM07_M2ELjiNVl3uomA0g3eeSVG8bFCMmOPnRbKE-HKqckaYWbM8KXCfB_HhVM6RHBIu5cYS2UeYYCJpI7VfVYkdyq8u-aMsO",
+    "snippet": "The Home Depot opens at 6:00 AM on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday.The Home Depot opens at 8:00 AM on Sunday. ; The Home Depot closes ...Read more",
+    "host": "www.yelp.com"
+   },
+   {
+    "pos": 7,
+    "title": "East San Jose #6672",
+    "url": "https://www.google.com/goto?url=CAESewHrOzAVMvku7P6UNfpwhrQ82sfAbwzBvwUYEAzcACcpau8we1WxCYPm46zPfkGvlFU_cStvmvchysxetk039F0oozVHiJS3fkFnqcAwfwmlCJIVkNAcxaBMz-iiZ0ezeFIrV8vpJIjIhnEGpALNzbNlM5ddesM5cgMF1w",
+    "snippet": "Save time on your trip to the Home Depot by scheduling your order with buy online pick up in store or schedule a delivery directly from your East San Jose ...",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 8,
+    "title": "Home Improvement at The Home Depot in Tucson, AZ",
+    "url": "https://www.google.com/goto?url=CAESaQHrOzAVvy2W8uceakWbIw8uqF4cTu04zRMM2BzWOiP5us1VsyTGgwIMn0G6vCg4xbhcHUp4QRoYO1YzS5MM4ItcnhpM5Fq8inkxAZ89DJZ5xLYDEtVf4An9fCXxCiF_rrcmBSMxyRNGpA",
+    "snippet": "Get directions, hours, and services and plan your visit today! Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber ...Read more",
+    "host": "www.homedepot.com"
+   },
+   {
+    "pos": 9,
+    "title": "New Rochelle #1245",
+    "url": "https://www.google.com/goto?url=CAESfgHrOzAVjh9S68DZTceKc8krp_1QXd9r6I5pVUvjia4lvfAxjUTmDsbLJTkMZzOaH6KaSFBMUHpSrW5-GV3kJmW5_H_wzOiiPBPfiIJeO0eAzL8Vkd9c4Z-bvX5DWG1xSsdnWcgqJBjxMhlilRJcYzHZFneirEOcpeJYUAlN8w",
+    "snippet": "... Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 7:00am - 8:00pm. Curbside: 09:00am - 6 ... We offer free pickup within two hours for millions of items using The Home Depot ...Read more",
+    "host": "www.homedepot.com"
+   }
+  ],
+  "features": [
+   "local_packs",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

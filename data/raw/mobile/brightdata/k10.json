@@ -1,0 +1,78 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:15:55+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=what+is+a+serp+api&gl=us&hl=en&brd_mobile=1&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 15.82,
+ "bytes": 42288,
+ "seconds": 15.82,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 2,
+    "title": "SerpApi",
+    "url": "https://serpapi.com/",
+    "snippet": "SerpApi is a real-time API to access Google search results. We handle proxies, solve captchas, and parse all rich structured data for you."
+   },
+   {
+    "pos": 7,
+    "title": "What Is a SERP API? Architecture, Limitations, and Why the Market Is Shifting",
+    "url": "https://you.com/resources/what-is-a-serp-api",
+    "snippet": "A SERP API is a managed service that retrieves, renders, and parses those pages into structured data your application can consume."
+   },
+   {
+    "pos": 8,
+    "title": "SERP API - 5K Requests/Month for Free",
+    "url": "https://brightdata.com/products/serp-api",
+    "snippet": "SERP API A comprehensive solution for easy, real-time search engine scraping, handling proxy management, unblocking, and parsing with ease."
+   },
+   {
+    "pos": 9,
+    "title": "Google SERP API: Everything You Need To Know | by Darshan Khandelwal",
+    "url": "https://medium.com/@darshankhandelwal12/google-serp-api-everything-you-need-to-know-e9ae28fd86ef",
+    "snippet": "you can use a Google SERP API to supply up-to-date facts, examples, or Q&A to a chatbot or language model. Developers often chain a SERP API ..."
+   },
+   {
+    "pos": 13,
+    "title": "20+ SERP APIs to Try Today [Updated List]",
+    "url": "https://www.lupagedigital.com/blog/serp-api/",
+    "snippet": "SERP API stands for 'search engine results page application programming interface'. These APIs scrape the search results page and then turn them into raw data,"
+   },
+   {
+    "pos": 14,
+    "title": "SERP API You Can Trust: DataForSEO Always Works.",
+    "url": "https://dataforseo.com/apis/serp-api",
+    "snippet": "DataForSEO SERP API can power up any workflow: rank tracking, keyword research, competitive analysis, SERP feature monitoring, and AI Mode search insights."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "perspectives",
+   "related",
+   "videos"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

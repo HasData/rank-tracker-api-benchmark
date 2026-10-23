@@ -1,0 +1,95 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:22:26+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "cheap flights to paris",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 8.15,
+ "bytes": 83361,
+ "seconds": 8.34,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Find Cheap Flights Worldwide & Book Your Ticket",
+    "url": "https://www.google.com/travel/flights?gl=US&hl=en-US",
+    "snippet": "Explore and compare cheap flights to anywhere with Google Flights. Find your next flight, track price changes to get the best deals, and book your ticket."
+   },
+   {
+    "pos": 2,
+    "title": "Cheap Flights, Plane Tickets & Airline Deals",
+    "url": "https://www.expedia.com/Flights",
+    "snippet": "Book cheap flights with Expedia and select from thousands of cheap airline tickets ... Flights to Paris · Flights to Mexico City · Flights to Cabo San Lucas."
+   },
+   {
+    "pos": 3,
+    "title": "r/Flights",
+    "url": "https://www.reddit.com/r/Flights/",
+    "snippet": "Community Info Section. Flights, Airlines, and Airfare. r/Flights is a part of the r/travel community primarily focusing on flights, airlines, airports ..."
+   },
+   {
+    "pos": 4,
+    "title": "Dream Flights | Giving Back to Those Who Gave",
+    "url": "https://dreamflights.org/",
+    "snippet": "We give back to those who gave through a 15 minute flight in a WWII-era Stearman biplane that is pure magic. Learn More ..."
+   },
+   {
+    "pos": 5,
+    "title": "American Airlines - Airline tickets and low fares at aa.com",
+    "url": "https://www.aa.com/homePage.do?locale=en_US",
+    "snippet": "Book low fares to destinations around the world and find the latest deals on airline tickets, hotels, car rentals and vacations at aa.com."
+   },
+   {
+    "pos": 6,
+    "title": "I Tried The CHEAPEST Airlines In The USA!",
+    "url": "https://www.youtube.com/watch?v=TpG0HRlyAvE",
+    "snippet": "TRUTH About America's CHEAPEST Airlines ... You'll see how to book the cheapest flights on Frontier Airlines, Breeze Airways, and Allegiant Air."
+   },
+   {
+    "pos": 7,
+    "title": "Cheap Flights, Airline Tickets & Airfare Deals",
+    "url": "https://www.kayak.com/flights",
+    "snippet": "Paris Flights · Flight New York - Paris (NYC - PAR)$397+ · Flight Atlanta - Paris (ATL - PAR)$422+ · Flight Chicago - Paris (CHI - PAR)$461+ · Flight Washington ..."
+   },
+   {
+    "pos": 8,
+    "title": "STEM Flights: Home",
+    "url": "https://www.stemflights.org/",
+    "snippet": "STEM Flights is a national nonprofit organization that connects Middle and High School students with volunteer Pilot Mentors to learn about Science, ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "answer_box",
+   "flight_result",
+   "local_map",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k20",
+  "q": "cheap flights to paris",
+  "intent": "travel",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

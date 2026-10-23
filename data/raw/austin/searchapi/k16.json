@@ -1,0 +1,90 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:31:57+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "world series",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.08,
+ "bytes": 58563,
+ "seconds": 4.15,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "NBC World Series | Schedule, Tickets, History - National ...",
+    "url": "https://nbcbaseball.com/",
+    "snippet": "See the NBC World Series schedule, buy tickets, find history, news, merch & team forms, get live scoring & stream games all in one place!"
+   },
+   {
+    "pos": 2,
+    "title": "MLB Postseason Digital Publications",
+    "url": "https://www.mlb.com/postseason/publications",
+    "snippet": "The 2025 Official MLB World Series Program digital edition is here. Read the stories, view the team sections, print the scorecards at home! Read Now."
+   },
+   {
+    "pos": 3,
+    "title": "2022 World Series",
+    "url": "https://en.wikipedia.org/wiki/2022_World_Series",
+    "snippet": "The 2022 World Series was the championship series of Major League Baseball's (MLB) 2022 season. The Astros defeated the Phillies in six games to earn their ..."
+   },
+   {
+    "pos": 4,
+    "title": "MLB Events: Draft, All-Star Game, World Series",
+    "url": "https://www.mlb.com/events",
+    "snippet": "The best-of-seven World Series presented by Capital One will air live on FOX and FOX One from October 23-31. March 5-17, 2026."
+   },
+   {
+    "pos": 5,
+    "title": "BACK-TO-BACK  The Los Angeles Dodgers win the",
+    "url": "https://www.facebook.com/tntsports/videos/dodgers-win-world-series/1123843013252221/",
+    "snippet": "In an 11-inning Game 7 thriller, the #Dodgers outlast the Blue Jays to win the World Series and cement their dominance."
+   },
+   {
+    "pos": 6,
+    "title": "The Rays and Brewers are both vying for their first World Series ...",
+    "url": "https://www.instagram.com/p/Des5lrujbJD/",
+    "snippet": "The Rays and Brewers are both vying for their first World Series championship! It's the first time since 1980 (Phillies vs. Royals)"
+   },
+   {
+    "pos": 7,
+    "title": "Édgar Rentería hits a go-ahead 3-run home run off of Cliff Lee",
+    "url": "https://www.reddit.com/r/baseball/comments/1xc47hc/2010_world_series_game_5_%C3%A9dgar_renter%C3%ADa_hits_a/",
+    "snippet": "Edgar Renteria walked-off a World Series (1997) and was the final out of another World Series (2004). October 19, 2008, the Rays clinched their ..."
+   },
+   {
+    "pos": 8,
+    "title": "2023 World Series",
+    "url": "https://en.wikipedia.org/wiki/2023_World_Series",
+    "snippet": "The 2023 World Series was the championship series of Major League Baseball's (MLB) 2023 season, and the 119th edition of the World Series."
+   }
+  ],
+  "features": [
+   "ads",
+   "inline_videos",
+   "organic_results",
+   "perspectives",
+   "related_searches",
+   "sports_results"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k16",
+  "q": "world series",
+  "intent": "news, sports",
+  "location": "Austin,Texas,United States"
+ }
+}

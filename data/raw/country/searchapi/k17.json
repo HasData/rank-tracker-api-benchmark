@@ -1,0 +1,98 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-15T13:04:20+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.77,
+ "bytes": 80445,
+ "seconds": 4.91,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Store: (541)296-7006. Mon-Sat: 7:00am - 9:00pm Sun: 8:00am - 8:00pm Store … calling 1-888-266-7228. store pickup daily until 6 p.m."
+   },
+   {
+    "pos": 2,
+    "title": "Aspen Hill #2558",
+    "url": "https://www.homedepot.com/l/Aspen-Hill/MD/Aspen-Hill/20906/2558",
+    "snippet": "Home Depot in Aspen Hill, MD, 20906 | Hours, Directions & Curbside Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber & ..."
+   },
+   {
+    "pos": 3,
+    "title": "The Bloomsburg Home Depot in Bloomsburg, PA, 17815",
+    "url": "https://www.homedepot.com/l/Bloomsburg/PA/Bloomsburg/17815/4171",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 9 Gus Ave Bloomsburg, PA 17815"
+   },
+   {
+    "pos": 4,
+    "title": "The Yulee Home Depot in Yulee, FL, 32097",
+    "url": "https://www.homedepot.com/l/Yulee/FL/Yulee/32097/6921",
+    "snippet": "Home Depot in Yulee, FL, 32097 | Hours, Directions & Curbside Specials & Offers. We offer free pickup within two hours … see what's new."
+   },
+   {
+    "pos": 5,
+    "title": "Hammond #347",
+    "url": "https://www.homedepot.com/l/Hammond/LA/Hammond/70403/347",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 400 W Minnesota Park Road Hammond, LA 70403"
+   },
+   {
+    "pos": 6,
+    "title": "Home Depot confirms all 2,000 stores will close for 24 hours ...",
+    "url": "https://www.the-sun.com/money/17116615/is-the-home-depot-open-thanksgiving/",
+    "snippet": "EVERY Home Depot store will close for a 24-hour period next month for a major federal holiday. The Home Depot is joining the likes of Olive."
+   },
+   {
+    "pos": 7,
+    "title": "The Home Depot",
+    "url": "https://www.homedepot.com/",
+    "snippet": "Shop online for all your home improvement needs: appliances, bathroom decorating ideas, kitchen remodeling, patio furniture, power tools, bbq grills, ..."
+   },
+   {
+    "pos": 8,
+    "title": "THE HOME DEPOT - Updated October 2026 - 58 Reviews",
+    "url": "https://www.yelp.com/biz/the-home-depot-miami-7",
+    "snippet": "THE HOME DEPOT, 11305 SW 40th St, Miami, FL 33165, 88 Photos, (678) 339-0157, Mon - 6:00 am - 11:00 pm, Tue - 6:00 am - 11:00 pm, Wed - 6:00 am - 11:00 pm,& ..."
+   },
+   {
+    "pos": 9,
+    "title": "The Home Depot in Huntsville, AL United States",
+    "url": "https://maps.apple.com/place?place-id=I2F08572CB14C3266",
+    "snippet": "The Home Depot · HOURS · 15 RATINGS · ACCEPTS."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

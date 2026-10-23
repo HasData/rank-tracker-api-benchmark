@@ -1,0 +1,103 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:24:15+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "home depot hours",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 5.81,
+ "bytes": 7287,
+ "seconds": 5.82,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Store Locator - The Home Depot",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Order online for convenient store pickup daily until 6 p.m.. Learn More. Search By Image Or Voice. Let our app find it ..."
+   },
+   {
+    "pos": 2,
+    "title": "Brooklyn Park #2804 - The Home Depot",
+    "url": "https://www.homedepot.com/l/Brooklyn-Park/MN/Brooklyn-Park/55428/2804",
+    "snippet": "The Brooklyn Park Home Depot in Brooklyn Park, MN, 55428 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using our ..."
+   },
+   {
+    "pos": 3,
+    "title": "Mira Mesa #6679 - San Diego - The Home Depot",
+    "url": "https://www.homedepot.com/l/Mira-Mesa/CA/San-Diego/92126/6679",
+    "snippet": "The Mira Mesa Home Depot in San Diego, CA, 92126 | Hours, Directions & Curbside ... Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 7:00am - 8:00pm. Curbside: 09:00am ..."
+   },
+   {
+    "pos": 4,
+    "title": "Urbandale #2115 - The Home Depot",
+    "url": "https://www.homedepot.com/l/Urbandale/IA/Urbandale/50322/2115",
+    "snippet": "The Urbandale Home Depot in Urbandale, IA, 50322 | Hours, Directions & Curbside ... Hours. Mon-Sat: 6:00am - 9:00pm. Sun: 8:00am - 8:00pm. Curbside: 09:00am ..."
+   },
+   {
+    "pos": 5,
+    "title": "Highlands Ranch #1540 - The Home Depot",
+    "url": "https://www.homedepot.com/l/Highlands-Ranch/CO/Highlands-Ranch/80129/1540",
+    "snippet": "The Highlands Ranch Home Depot in Highlands Ranch, CO, 80129 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using ..."
+   },
+   {
+    "pos": 6,
+    "title": "The Home Depot - 3902 N High School Rd, Indianapolis, Indiana",
+    "url": "https://www.yelp.com/biz/the-home-depot-indianapolis",
+    "snippet": "THE HOME DEPOT, 3902 N High School Rd, Indianapolis, IN 46254, 30 Photos, (508) 987-2151, Mon - 6:00 am - 10:00 pm, Tue - 6:00 am - 10:00 pm, Wed - 6:00 am ..."
+   },
+   {
+    "pos": 7,
+    "title": "East San Jose #6672 - The Home Depot",
+    "url": "https://www.homedepot.com/l/East-San-Jose/CA/San-Jose/95127/6672",
+    "snippet": "Save time on your trip to the Home Depot by scheduling your order with buy online pick up in store or schedule a delivery directly from your East San Jose ..."
+   },
+   {
+    "pos": 8,
+    "title": "Home Improvement at The Home Depot in Little Rock, AR",
+    "url": "https://www.homedepot.com/l/AR/Little-Rock/ARg7Tj4b",
+    "snippet": "Get directions, hours, and services and plan your visit today! Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber ..."
+   },
+   {
+    "pos": 9,
+    "title": "New Rochelle #1245 - The Home Depot",
+    "url": "https://www.homedepot.com/l/New-Rochelle/NY/New-Rochelle/10805/1245",
+    "snippet": "... Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 7:00am - 8:00pm. Curbside: 09:00am - 6 ... We offer free pickup within two hours for millions of items using The Home Depot ..."
+   },
+   {
+    "pos": 10,
+    "title": "Riverside #6619 - The Home Depot",
+    "url": "https://www.homedepot.com/l/Riverside/CA/Riverside/92504/6619",
+    "snippet": "The Riverside Home Depot in Riverside, CA, 92504 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using The Home ..."
+   }
+  ],
+  "features": [
+   "dmca_message",
+   "local_results",
+   "organic_results",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

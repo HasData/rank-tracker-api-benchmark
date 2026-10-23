@@ -1,0 +1,104 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T12:51:07+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "seo api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.91,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "API recommendations : r/SEO",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/SEO",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "DataForSEO: Powerful API Stack For Data-Driven SEO Tools",
+    "url": "https://dataforseo.com/",
+    "host": "dataforseo.com",
+    "crumb": "https://dataforseo.com",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "SEOs, what's the best API for SEO you've actually ...",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/SEO_LLM",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Overview | Semrush API",
+    "url": "https://developer.semrush.com/",
+    "host": "developer.semrush.com",
+    "crumb": "https://developer.semrush.com › api › seo › overview",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "SEO API: Automate your SEO and AEO workflows",
+    "url": "https://seranking.com/",
+    "host": "seranking.com",
+    "crumb": "https://seranking.com › api",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Top 14 SEO Analysis APIs for 2026 by Use Case - Nimble Way",
+    "url": "https://www.nimbleway.com/",
+    "host": "www.nimbleway.com",
+    "crumb": "https://www.nimbleway.com › blog › top-seo-analysis-a...",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "SEO API starter fra $69/mo - keywords, backlinks, onsite, AI",
+    "url": "https://morningscore.io/",
+    "host": "morningscore.io",
+    "crumb": "https://morningscore.io › seo-api",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Videos",
+   "SEO data, APIs, and no-code integrations for automation",
+   "In this video",
+   "DataForSEO's On-page API explained [in 5 minutes]",
+   "What people are saying",
+   "How can i ask my Client GSC API Key?",
+   "Help with the Google Indexing API",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k06",
+  "q": "seo api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

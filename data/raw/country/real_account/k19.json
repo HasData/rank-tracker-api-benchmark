@@ -1,0 +1,102 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T13:07:09+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "symptoms of flu",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.66,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Signs and Symptoms of Flu | Influenza (Flu)",
+    "url": "https://www.cdc.gov/",
+    "host": "www.cdc.gov",
+    "crumb": "https://www.cdc.gov › flu › signs-symptoms",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Influenza (flu) - Symptoms and causes",
+    "url": "https://www.mayoclinic.org/",
+    "host": "www.mayoclinic.org",
+    "crumb": "https://www.mayoclinic.org › Diseases & Conditions",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Flu Symptoms, Treatment & Prevention",
+    "url": "https://www.osfhealthcare.org/",
+    "host": "www.osfhealthcare.org",
+    "crumb": "https://www.osfhealthcare.org › primary-care › vaccines",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Flu symptoms, treatment and prevention",
+    "url": "https://www.ohsu.edu/",
+    "host": "www.ohsu.edu",
+    "crumb": "https://www.ohsu.edu › health › flu-symptoms-treatmen...",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "8 Common Flu Symptoms in Adults",
+    "url": "https://www.goodrx.com/",
+    "host": "www.goodrx.com",
+    "crumb": "https://www.goodrx.com › conditions › flu-symptoms-in...",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Influenza (Flu) Facts - MN Dept. of Health",
+    "url": "https://www.health.state.mn.us/",
+    "host": "www.health.state.mn.us",
+    "crumb": "https://www.health.state.mn.us › diseases › flu › basics",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "How to Recognize Flu Symptoms Early",
+    "url": "https://carrborofamilymedicine.net/",
+    "host": "carrborofamilymedicine.net",
+    "crumb": "https://carrborofamilymedicine.net › recognize-flu-sym...",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Images",
+   "Discussions and forums",
+   "What were your first symptoms?",
+   "Flu - who has it and what are your symptoms?",
+   "Flu Symptoms: When to Seek Urgent Care? | Q&A",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k19",
+  "q": "symptoms of flu",
+  "intent": "health",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

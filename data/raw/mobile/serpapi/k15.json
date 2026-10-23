@@ -1,0 +1,89 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:19:19+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "tesla stock",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.13,
+ "bytes": 67448,
+ "seconds": 1.25,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+    "url": "https://finance.yahoo.com/quote/TSLA/",
+    "snippet": "Tesla, Inc. (TSLA) closure 358.58 -8.58 (-2.34%) As of 9:31:35 AM EDT. Range 357.31 - 360.58 52 Week Range 297.38 - 498.83 Volume 1,310,630 Avg. Volume 37,327, ..."
+   },
+   {
+    "pos": 2,
+    "title": "TSLA - TESLA INC | Stock Quotes from Fidelity Investments",
+    "url": "https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=TSLA",
+    "snippet": "Tesla (TSLA) is trading at 367.16 Open Price 371.16 Previous close 367.16 Previous close 367.16 P/E Ratio 375.5492. Index NASDAQ100,R1000,R3000,SP500"
+   },
+   {
+    "pos": 3,
+    "title": "Tesla: TSLA Stock Price Quote & News",
+    "url": "https://robinhood.com/us/en/stocks/TSLA/",
+    "snippet": "Tesla(TSLA) stock is priced at $374.67, giving the company a market capitalization of 1.45T. It carries a P/E multiple of 348.63."
+   },
+   {
+    "pos": 4,
+    "title": "TSLA: Tesla Inc - Stock Price, Quote and News",
+    "url": "https://www.cnbc.com/quotes/TSLA",
+    "snippet": "Tesla Inc TSLA:NASDAQ Open0.00. Week Low297.38 52. Prev Close367.16 52 Week High498.83 52 Week High Date12/22/25 52 Week Low297.38 52"
+   },
+   {
+    "pos": 5,
+    "title": "TSLA Stock Price - Tesla, Inc.",
+    "url": "https://www.tradingview.com/symbols/NASDAQ-TSLA/",
+    "snippet": "The current price of TSLA is 367.16 USD — it has decreased by −2.15% in the past 24 hours. Watch Tesla, Inc. stock price performance more closely on the chart."
+   },
+   {
+    "pos": 6,
+    "title": "Tesla Investor Relations",
+    "url": "https://ir.tesla.com/",
+    "snippet": "Tesla's mission is to accelerate the world's transition to sustainable energy. Today, Tesla builds not only all-electric vehicles but also infinitely ..."
+   },
+   {
+    "pos": 7,
+    "title": "Tesla: Electric Cars, Solar & Clean Energy",
+    "url": "https://www.tesla.com/",
+    "snippet": "Starting at $61,9902. Find new and Certified Pre-Owned Tesla vehicles available immediately. s and Destination Chargers available near you."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "answer_box_list",
+   "knowledge_graph",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches",
+   "top_stories"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k15",
+  "q": "tesla stock",
+  "intent": "finance",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

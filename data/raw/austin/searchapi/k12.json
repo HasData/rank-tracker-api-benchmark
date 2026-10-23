@@ -1,0 +1,90 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:31:45+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 7.97,
+ "bytes": 237119,
+ "seconds": 8.45,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Best Dentists Near Me in Austin, Texas",
+    "url": "https://www.deltadental.com/member/find-a-dentist/texas/austin-dentists/",
+    "snippet": "There are more than 50 dentists around the area of Austin, TX. Additional information for each of the dentists is listed below. Delta Dental has the largest ..."
+   },
+   {
+    "pos": 2,
+    "title": "Austin Dentist | North Austin Dentistry, Open Saturdays",
+    "url": "https://northaustindentist.com/",
+    "snippet": "Logan Miller, DDS is a Family and Cosmetic Dentist in Austin TX. Comfortable, caring Dental for the whole Family. 512-458-3111..."
+   },
+   {
+    "pos": 3,
+    "title": "Dentist in Austin TX | Jefferson Dental and Orthodontics",
+    "url": "https://www.jeffersondentalclinics.com/locations/clinic/austin/",
+    "snippet": "Jefferson Dental in Austin TX offers affordable family, cosmetic & emergency dental care. Board-certified dentists, open late & Saturdays. Book today!"
+   },
+   {
+    "pos": 4,
+    "title": "Top 10 Best Dentists Near Austin, Texas (Updated 2026)",
+    "url": "https://www.yelp.com/search?find_desc=Dentists&find_loc=Austin%2C+TX",
+    "snippet": "Top 10 Best Dentists Near Austin, Texas (Updated 2026) · Avery Orthodontics · Celebrate Dental & Braces - South Congress · Regional Implant Center · Luv Braces ..."
+   },
+   {
+    "pos": 5,
+    "title": "Dentists in Georgetown, Austin, and Pflugerville, TX Smile ...",
+    "url": "https://smilehausdental.com/locations/austin-dentist/",
+    "snippet": "At Smile Haus Austin, we provide quality dental care for patients of all ages. We want Austinites to change the way they think about receiving oral health care ..."
+   },
+   {
+    "pos": 6,
+    "title": "South Austin Dental Associates: Top-Rated Dentist In Austin, TX",
+    "url": "https://southaustindentalassociates.com/",
+    "snippet": "South Austin Dental Associates is a top provider for both general and cosmetic dentistry, meaning we can provide a full range of dental services to meet any ..."
+   },
+   {
+    "pos": 7,
+    "title": "Dentists Near Me in Austin, TX",
+    "url": "https://healthcare.ascension.org/find-care/specialty/dentists/austin--texas",
+    "snippet": "Dentists in Austin, Texas. We can help connect you with the healthcare services you need. At Ascension, your health is our focus."
+   },
+   {
+    "pos": 8,
+    "title": "Book 100+ of the best Dentists near me in Austin, TX",
+    "url": "https://www.zocdoc.com/dentists/austin-221873pm",
+    "snippet": "There are currently 39 Dentists in Austin available for booking on Zocdoc. Filter by insurance, language, or appointment time to find your best match. Are there ..."
+   }
+  ],
+  "features": [
+   "inline_images",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "location": "Austin,Texas,United States"
+ }
+}

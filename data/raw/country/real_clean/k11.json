@@ -1,0 +1,113 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:57:04+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "pizza near me",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 5.33,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Pizza in Orlando, FL | Papa Johns Central Florida Parkway",
+    "url": "https://locations.papajohns.com/",
+    "host": "locations.papajohns.com",
+    "crumb": "https://locations.papajohns.com › orlando › pizza-near-me",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Delivery Near Me - Orlando, FL - 7060 International Dr",
+    "url": "https://locations.pizzahut.com/",
+    "host": "locations.pizzahut.com",
+    "crumb": "https://locations.pizzahut.com › ... › 7060 International Dr",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Pizza Parlors Torrance, CA - Last Updated October 2026",
+    "url": "https://www.yelp.com/",
+    "host": "www.yelp.com",
+    "crumb": "https://www.yelp.com › Restaurants",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Pizza Perfect | Best Pizza in Nashville, TN | Pizza near me",
+    "url": "https://pizzaperfectonline.com/",
+    "host": "pizzaperfectonline.com",
+    "crumb": "https://pizzaperfectonline.com",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Jordan Ranch",
+    "url": "https://www.crustpizzaco.com/",
+    "host": "www.crustpizzaco.com",
+    "crumb": "https://www.crustpizzaco.com › locations › jordan-ranch",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Best pizza spot in Corpus Christi, TX",
+    "url": "https://www.facebook.com/",
+    "host": "www.facebook.com",
+    "crumb": "Facebook · Corpus Christi Food Finds",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Best Pizza Places in Mission Viejo 2026",
+    "url": "https://slicelife.com/",
+    "host": "slicelife.com",
+    "crumb": "https://slicelife.com › California",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "I Tried San Jose's Top 5 Pizza Spots in One Night",
+    "url": "https://40.3k+ views/",
+    "host": "40.3k+ views",
+    "crumb": "40.3K+ views · 3 months ago",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "Stop by Giorgino's Pizza & Subs in Port Richey. They are ...",
+    "url": "https://www.facebook.com/",
+    "host": "www.facebook.com",
+    "crumb": "Facebook · Pasco News",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Web results",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

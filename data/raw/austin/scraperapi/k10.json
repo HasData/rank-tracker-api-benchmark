@@ -1,0 +1,73 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:36+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "what is a serp api",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 6.09,
+ "bytes": 8755,
+ "seconds": 6.1,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SERP API - 5K Requests/Month for Free",
+    "url": "https://www.google.com/goto?url=CAESYwHrOzAV6G7eA7_GrzC_fe6uOvjwLL8YU3x8sIBHzLHID62OJjW1uo-g5AabURCubeGBXWUZSifmSb0ZqRTYj5wnlPk0lLUxvK3DkAqMX5H0qaIfQaC5894tkjKRAgsy2BwiwQ",
+    "snippet": "SERP API A comprehensive solution for easy, real-time search engine scraping, handling proxy management, unblocking, and parsing with ease.",
+    "host": "brightdata.com"
+   },
+   {
+    "pos": 2,
+    "title": "What Is a SERP API? How It Works and When to Switch",
+    "url": "https://www.google.com/goto?url=CAESZwHrOzAVH97mI8u5TcvzC8QBjI2aBcFg1YmH0frgle5eeAHqnvbL8kOhVU5tufXt54avaEuNpBhJFygJXxd4SQ3-6ZRBavHv_WTjhdg70CMahKywIyzK1XEcs0L74cMlprbQIlq_Q_I",
+    "snippet": "Apr 30, 2026 — A SERP API is a managed service that retrieves, renders, and parses those pages into structured data your application can consume.",
+    "host": "you.com"
+   },
+   {
+    "pos": 3,
+    "title": "Google SERP API: Everything You Need To Know",
+    "url": "https://www.google.com/goto?url=CAESmwEB6zswFQuTFNWclrAgvMdk7cnqv9fMlBjKrDVqOSDPyjQB3k9SusJXR0orEDg0niB4OQgc1AdNGhbtBfYVcbvu2fREdYZkA_yX7YANsv3Os6bAoV1ViqqQEzD5TZPTW5BqCaww8_9n1cxZybaKwIUFlLvSCc4wIkk1BReOXU6xaHFX04NKAQtc-2L8ijrRC4lhYKTwpFBWiG-wtQ",
+    "snippet": "Having a Google search API allows you to access the large dataset that this massive search engine holds.Read more",
+    "host": "3 likes  ·  1 year ago"
+   },
+   {
+    "pos": 4,
+    "title": "20+ SERP APIs to Try Today [Updated List]",
+    "url": "https://www.google.com/goto?url=CAESZwHrOzAVuwTArPNpi06inm0NAvVJuzFTl8f51A5_JhKtkgL4hAqKnhKZ3JrJT3QTTwDpqxsL0cacyfcROYDIdrMWfnPqz2cHho_h80cNFFw920Ac_41ra4ED1h8-QL2ewzn-t0d2B-o",
+    "snippet": "SERP API stands for 'search engine results page application programming interface'. These APIs scrape the search results page and then turn them into raw data,",
+    "host": "www.lupagedigital.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

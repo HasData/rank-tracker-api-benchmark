@@ -1,0 +1,113 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T13:04:20+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "home depot hours",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 29.76,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › store-locator",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "The Bloomsburg Home Depot in Bloomsburg, PA, 17815",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › ... › Store Directory › PA",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Aspen Hill #2558",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › ... › Store Directory › MD",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Hammond #347",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › ... › Store Directory › LA",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Maple Heights #3804",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › ... › Store Directory › OH",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "The Home Depot - 3902 N High School Rd, Indianapolis ...",
+    "url": "https://www.yelp.com/",
+    "host": "www.yelp.com",
+    "crumb": "https://www.yelp.com › ... › Hardware Stores",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Dickson City #4118",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › ... › Store Directory › PA",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Caldwell #1811",
+    "url": "https://www.homedepot.com/",
+    "host": "www.homedepot.com",
+    "crumb": "https://www.homedepot.com › ... › Store Directory › ID",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "The Home Depot - Memphis",
+    "url": "https://www.mapquest.com/",
+    "host": "www.mapquest.com",
+    "crumb": "https://www.mapquest.com › ... › Memphis › 38104",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Web results",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

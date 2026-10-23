@@ -1,0 +1,97 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:55+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.39,
+ "bytes": 35664,
+ "seconds": 2.47,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "The Four Points Home Depot in Austin, TX, 78726",
+    "url": "https://www.homedepot.com/l/Four-Points/TX/Austin/78726/8418",
+    "snippet": "Home Depot in Austin, TX, 78726 | Hours, Directions & Curbside Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber & ..."
+   },
+   {
+    "pos": 2,
+    "title": "The SE Austin Home Depot in Austin, TX 78704",
+    "url": "https://www.homedepot.com/l/SE-Austin/TX/Austin/78704/6542",
+    "snippet": "From 1:28 PM until 4:19 PM. If you need anything at a reasonable time go somewhere else."
+   },
+   {
+    "pos": 3,
+    "title": "Home Improvement at The Home Depot in Austin, TX",
+    "url": "https://www.homedepot.com/l/TX/Austin/TXVrNwUP",
+    "snippet": "Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm. Depot We proudly serve Austin, Texas,"
+   },
+   {
+    "pos": 4,
+    "title": "The Slaughter Lane Home Depot in Austin, TX 78744",
+    "url": "https://www.homedepot.com/l/Slaughter-Lane/TX/Austin/78744/6563",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 8801 S I-35 Austin, TX 78744"
+   },
+   {
+    "pos": 5,
+    "title": "Austin Mueller Airport #6892",
+    "url": "https://www.homedepot.com/l/Austin-Mueller-Airport/TX/Austin/78723/6892",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm"
+   },
+   {
+    "pos": 6,
+    "title": "The Home Depot in Austin, TX United States",
+    "url": "https://maps.apple.com/place?place-id=I9358B4B00815C8AA",
+    "snippet": "Hours 6:00AM – 10:00PM Open Hours Open Sunday 8:00AM – 8:00PM Mon – Sat 6:00AM – 10:00PM. Phone +1 (512) 258-7914"
+   },
+   {
+    "pos": 7,
+    "title": "The Howard Lane Home Depot in Austin, TX, 78753",
+    "url": "https://www.homedepot.com/l/Howard-Lane/TX/Austin/78753/6553",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 13309 I-35 North Austin, TX 78753"
+   },
+   {
+    "pos": 8,
+    "title": "The Home Depot - 11301 Lakeline Blvd, Austin, Texas",
+    "url": "https://www.yelp.com/biz/the-home-depot-austin-20",
+    "snippet": "THE HOME DEPOT, 11301 Lakeline Blvd, Austin, TX 78717, 118 Photos, (979) 297-3562, Mon - 6:00 am - 10:00 pm, Tue - 6:00 am - 10:00 pm, Wed - 6:00 am - 10:00 ..."
+   },
+   {
+    "pos": 9,
+    "title": "The South Austin Home Depot in Sunset Valley, TX, 78745",
+    "url": "https://www.homedepot.com/l/South-Austin/TX/Sunset-Valley/78745/6570",
+    "snippet": "The South Austin Home Depot in Sunset Valley, TX, 78745 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using The ...Read more"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

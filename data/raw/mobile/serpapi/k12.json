@@ -1,0 +1,87 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:17:50+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.08,
+ "bytes": 59546,
+ "seconds": 1.17,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Dentist",
+    "url": "https://en.wikipedia.org/wiki/Dentist",
+    "snippet": "A dentist, also known as a dental doctor, dental physician, dental surgeon, is a health care professional who specializes in dentistry, the branch of ..."
+   },
+   {
+    "pos": 2,
+    "title": "Dentists : Occupational Outlook Handbook",
+    "url": "https://www.bls.gov/ooh/healthcare/dentists.htm",
+    "snippet": "Dentists diagnose and treat problems with patients' teeth, gums, and related parts of the mouth. They provide advice and instruction on taking care of the ..."
+   },
+   {
+    "pos": 3,
+    "title": "Dentist - Schema.org Type",
+    "url": "https://schema.org/Dentist",
+    "snippet": "Represents a relationship between two geometries (or the places they represent), relating a containing geometry to a contained geometry. \"a contains b iff no ..."
+   },
+   {
+    "pos": 4,
+    "title": "How often should we go to the dentist?: About once a year—but rates of disease progression vary greatly - PMC",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1116309/",
+    "snippet": "In Britain six months is customary, but why not twice weekly, annually, or even once a decade? To decide whether people should be advised to attend six-monthly ..."
+   },
+   {
+    "pos": 5,
+    "title": "29-1021.00 - Dentists, General",
+    "url": "https://www.onetonline.org/link/summary/29-1021.00",
+    "snippet": "Examine, diagnose, and treat diseases, injuries, and malformations of teeth and gums. May treat diseases of nerve, pulp, and other dental tissues affecting oral ..."
+   },
+   {
+    "pos": 6,
+    "title": "Dentist - Career Rankings, Salary, Reviews and Advice | US News Best Jobs",
+    "url": "https://careers.usnews.com/best-jobs/dentist",
+    "snippet": "Dentists identify and treat problems concerning a patient's mouth, gums and teeth. Their duties include extracting teeth, fitting dentures and filling ..."
+   },
+   {
+    "pos": 7,
+    "title": "Your baby's first dental visit | MouthHealthy - Oral Health Information from the ADA",
+    "url": "https://www.mouthhealthy.org/life-stages/babies-and-kids/first-dental-visit-for-baby",
+    "snippet": "During the first dental visit, the dentist will examine your baby to make sure their teeth, jaw, bite and gums are developing in the way they should and check ..."
+   }
+  ],
+  "features": [
+   "filters",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

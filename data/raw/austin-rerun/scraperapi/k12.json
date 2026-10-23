@@ -1,0 +1,81 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:14:53+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "dentist",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM"
+  }
+ },
+ "status": 200,
+ "bytes": 10698,
+ "seconds": 4.18,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Dentist",
+    "url": "https://en.wikipedia.org/wiki/Dentist",
+    "snippet": "A dentist, also known as a dental doctor, dental physician, dental surgeon, is a health care professional who specializes in dentistry, the branch of medicine ...Read more"
+   },
+   {
+    "pos": 2,
+    "title": "Find a dentist",
+    "url": "https://www.deltadental.com/member/find-a-dentist/",
+    "snippet": "Find in-network dentists in your area by using your current location or entering a ZIP code manually."
+   },
+   {
+    "pos": 3,
+    "title": "Find A Dentist",
+    "url": "https://smilecalifornia.org/find-a-dentist/",
+    "snippet": "we can help you find a dentist. Call the Telephone Service Center at 1-800-322-6384 for assistance. .m. to 5:00 p.m., Monday through Friday."
+   },
+   {
+    "pos": 4,
+    "title": "Dentist of Long Beach",
+    "url": "https://dentistlongbeach.com/",
+    "snippet": "Dentist of Long Beach offers personalized dental and orthodontic care for all ages. (562) 373-0026. Call (562) 373-0026"
+   },
+   {
+    "pos": 5,
+    "title": "Best Dentists Near Me",
+    "url": "https://www.zocdoc.com/dentists",
+    "snippet": "Use Zocdoc to search for dentists near you by location, insurance, and availability — and book instantly online. How to choose the right type of dentist?Read more"
+   },
+   {
+    "pos": 6,
+    "title": "UT Dentistry home",
+    "url": "https://uthscsa.edu/utdentistry/",
+    "snippet": "UT Dentistry, the region's most comprehensive dental center. We provide routine general dentistry and advanced oral health care … 210-450-3700 8210 Floyd Curl ..."
+   },
+   {
+    "pos": 7,
+    "title": "Find a Dentist",
+    "url": "https://www.dentaquest.com/en/find-a-dentist",
+    "snippet": "Find a dentist within the DentaQuest provider network. Search by address, city, county or zip code to find a dentist near you."
+   },
+   {
+    "pos": 8,
+    "title": "Dentist Search",
+    "url": "https://deltadentalva.com/dentist-search.html",
+    "snippet": "Dentist Search Results · Use the Find a Dentist National Search Tool · Use the Find a Medicare Advantage Network Dentist Tool · Disclaimers · Notice of Non- ...Read more"
+   }
+  ],
+  "features": [
+   "local_packs",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ }
+}

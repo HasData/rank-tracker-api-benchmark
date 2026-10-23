@@ -1,0 +1,96 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:20:02+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "mobile"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.04,
+ "bytes": 31147,
+ "seconds": 2.21,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Store Locator",
+    "url": "https://www.homedepot.com/l/store-locator",
+    "snippet": "Store: (541)296-7006. Mon-Sat: 7:00am - 9:00pm Sun: 8:00am - 8:00pm Store … calling 1-888-266-7228. store pickup daily until 6 p.m."
+   },
+   {
+    "pos": 2,
+    "title": "Brooklyn Park #2804",
+    "url": "https://www.homedepot.com/l/Brooklyn-Park/MN/Brooklyn-Park/55428/2804",
+    "snippet": "The Brooklyn Park Home Depot in Brooklyn Park, MN, 55428 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using our ..."
+   },
+   {
+    "pos": 3,
+    "title": "Mira Mesa #6679 - San Diego",
+    "url": "https://www.homedepot.com/l/Mira-Mesa/CA/San-Diego/92126/6679",
+    "snippet": "Hours Mon-Sat: 6:00am - 10:00pm Sun: 7:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 10604 Westview Pky San Diego, CA 92126"
+   },
+   {
+    "pos": 4,
+    "title": "Urbandale #2115",
+    "url": "https://www.homedepot.com/l/Urbandale/IA/Urbandale/50322/2115",
+    "snippet": "Hours Mon-Sat: 6:00am - 9:00pm Sun: 8:00am - 8:00pm Curbside: 09:00am - 6:00pm Location 10850 Plum Drive Urbandale, IA 50322 1/14"
+   },
+   {
+    "pos": 5,
+    "title": "Highlands Ranch #1540",
+    "url": "https://www.homedepot.com/l/Highlands-Ranch/CO/Highlands-Ranch/80129/1540",
+    "snippet": "Home Depot in Highlands Ranch, CO, 80129 | Hours, Directions & Curbside Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber ..."
+   },
+   {
+    "pos": 6,
+    "title": "The Home Depot - 3902 N High School Rd, Indianapolis, Indiana",
+    "url": "https://m.yelp.com/biz/the-home-depot-indianapolis",
+    "snippet": "The Home Depot opens at 6:00 AM on Monday, Tuesday, Wednesday, Thursday, Friday and Saturday.The Home Depot opens at 8 Mon-Sat 6:00 AM - 10:00 PMSun 8:00 AM - ..."
+   },
+   {
+    "pos": 7,
+    "title": "East San Jose #6672",
+    "url": "https://www.homedepot.com/l/East-San-Jose/CA/San-Jose/95127/6672",
+    "snippet": "Home Depot in San Jose, CA, 95127 | Hours, Directions & Curbside Specials & Offers Appliances Bath Blinds & Window Treatments Building Materials Lumber & ..."
+   },
+   {
+    "pos": 8,
+    "title": "Home Improvement at The Home Depot in Little Rock, AR",
+    "url": "https://www.homedepot.com/l/AR/Little-Rock/ARg7Tj4b",
+    "snippet": "Get directions, hours, and services and plan your visit - 10:00pm Sun: 8:00am - 8:00pm. We proudly serve Little Rock, Arkansas, for all things home improvement."
+   },
+   {
+    "pos": 9,
+    "title": "New Rochelle #1245",
+    "url": "https://www.homedepot.com/l/New-Rochelle/NY/New-Rochelle/10805/1245",
+    "snippet": "... Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 7:00am - 8:00pm. Curbside: 09:00am - 6 ... We offer free pickup within two hours for millions of items using The Home Depot ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

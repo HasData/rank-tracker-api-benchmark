@@ -1,0 +1,98 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:02:14+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "amazon scraper api",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 8.02,
+ "bytes": 72424,
+ "seconds": 8.15,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "2026's Top Amazon Scraper APIs (In-Depth Comparison)",
+    "url": "https://scrape.do/blog/best-amazon-scraper-api/",
+    "snippet": "The Scrape.do Amazon Scraper API extracts structured product data from Amazon.com and all international Amazon marketplaces. Unlike generic web ..."
+   },
+   {
+    "pos": 2,
+    "title": "4 Best Amazon Scraping APIs in 2026 (Tested on Speed, ...",
+    "url": "https://www.scrapingdog.com/blog/best-amazon-scraping-apis/",
+    "snippet": "ScraperAPI provides 5000 free credits on signup. It costs around $0.00245 to scrape one Amazon page. The price falls below $0.000475 with high ..."
+   },
+   {
+    "pos": 3,
+    "title": "Amazon Scraper API | Scraping Amazon Product Data is ...",
+    "url": "https://www.scrapingbee.com/features/amazon/",
+    "snippet": "Get structured JSON for Amazon products, reviews, pricing and more in a single API call."
+   },
+   {
+    "pos": 4,
+    "title": "Amazon Scraper API for Product Data - Free Trial",
+    "url": "https://oxylabs.io/products/web-api/scrape/ecommerce/amazon",
+    "snippet": "Scrape Amazon real-time product data, including listings, prices, ASINs, seller details, and bestseller data with our Amazon Scraper API"
+   },
+   {
+    "pos": 5,
+    "title": "amazon-scraper",
+    "url": "https://github.com/topics/amazon-scraper",
+    "snippet": "Amazon Scraper API for extracting search, product, offer listing, reviews, question and answers, best sellers and sellers data."
+   },
+   {
+    "pos": 6,
+    "title": "The Best Amazon Scraping APIs for 2026",
+    "url": "https://proxyway.com/best/best-amazon-scrapers",
+    "snippet": "The Best Amazon Scraping APIs for 2026 · 1. Decodo (formerly Smartproxy) · 2. Oxylabs · 3. Zyte · 4. ZenRows · 5. ScrapingBee · 6. Nimbleway. AI ..."
+   },
+   {
+    "pos": 7,
+    "title": "Scrape Amazon Product Data (complete 2026 tutorial)",
+    "url": "https://serpapi.com/blog/scrape-amazon-product-data-tutorial/",
+    "snippet": "Learn how to scrape Amazon search results to get product data, including product name, rating, price and more using a simple API."
+   },
+   {
+    "pos": 8,
+    "title": "Amazon Scraper API – Try for Free",
+    "url": "https://decodo.com/scraping/ecommerce/amazon",
+    "snippet": "With our Amazon Scraping API, you can send a single API request and receive the data you need in HTML or structured JSON format."
+   },
+   {
+    "pos": 9,
+    "title": "Amazon Scraper - 5K records/Month for Free",
+    "url": "https://brightdata.com/products/web-scraper/amazon",
+    "snippet": "The Amazon Scraper API works by sending automated requests to targeted website, extracting the necessary data points, and delivering them in a structured format ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k08",
+  "q": "amazon scraper api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

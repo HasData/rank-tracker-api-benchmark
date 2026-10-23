@@ -1,0 +1,95 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T12:57:04+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "pizza near me",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "desktop"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.99,
+ "bytes": 23391,
+ "seconds": 2.11,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Pizza in Tampa, FL | Papa Johns Gunn Hwy",
+    "url": "https://locations.papajohns.com/united-states/fl/33618/tampa/4231-gunn-hwy/pizza-near-me",
+    "snippet": "Papa Johns Gunn Hwy for the best pizza in Tampa. For pizza delivery in Tampa, call us at (813) 963-7272 to order, or stop by 4231 Gunn Hwy in Tampa, FL for ..."
+   },
+   {
+    "pos": 2,
+    "title": "Delivery Near Me - Orlando, FL - 7060 International Dr",
+    "url": "https://locations.pizzahut.com/fl/orlando/7060-international-dr/delivery",
+    "snippet": "Your local Pizza Hut at 7060 International Dr, Orlando, FL 32819 offers. Call (407) 351-0005 or visit PizzaHut.com (407) 352-5444 9100. Open Now- Closes at 2: ..."
+   },
+   {
+    "pos": 3,
+    "title": "Pizza Parlors Torrance, CA - Last Updated October 2026",
+    "url": "https://www.yelp.com/search?find_desc=Pizza+Parlors&find_loc=Torrance%2C+CA",
+    "snippet": "Pizza Parlors Torrance, CA · 1. Pizza Parlor. 4.6 (259 reviews). 12.6 mi. 2936 Clark Ave, Long Beach, CA 90815-1040. (562) 452-7880 · 2. Bonello's New York Pizza.Read more"
+   },
+   {
+    "pos": 4,
+    "title": "Jordan Ranch",
+    "url": "https://www.crustpizzaco.com/locations/TX/jordan-ranch",
+    "snippet": "Conveniently located at 29615 Jordan Crossing Blvd., Suite 250, Sunday through Thursday from 11 am to 9 pm, and Fridays and Saturdays until 10 pm."
+   },
+   {
+    "pos": 5,
+    "title": "Pizza Perfect | Best Pizza in Nashville, TN | Pizza near me",
+    "url": "https://pizzaperfectonline.com/",
+    "snippet": "Pizza Perfect: the best Pizza in Nashville, TN and other locations. Order directly online today for takeout or delivery. Save money, support local business!"
+   },
+   {
+    "pos": 6,
+    "title": "Best pizza spot in Corpus Christi, TX",
+    "url": "https://www.facebook.com/groups/5778221958942229/posts/27372058399131940/",
+    "snippet": "Public Best Pizza in Corpus Christi B&J's Pizza. Odi's Pizzeria. B&J's Pizza Padre Pizzeria RETRO Trattoria Mamma Lina Panjos Pizza Parlor"
+   },
+   {
+    "pos": 7,
+    "title": "Best Pizza Places in Mission Viejo 2026",
+    "url": "https://slicelife.com/pizza-delivery/ca-mission_viejo",
+    "snippet": "Top Pizza Restaurants in Mission Viejo, CA in 2026 Near You ; Cosentino's Pizza · $2.50 Delivery ; Ameci Pizza & Pasta · $1.99 - $6.99 Delivery ; Terra Mia Pizzeria.Read more"
+   },
+   {
+    "pos": 8,
+    "title": "I Tried San Jose's Top 5 Pizza Spots in One Night",
+    "url": "https://www.youtube.com/watch?v=vqcIbO9MTcw",
+    "snippet": "Bibo's is the most authentic Philly/New York pizza I've had in San Jose. And the people that work there are the best!"
+   },
+   {
+    "pos": 9,
+    "title": "Stop by Giorgino's Pizza & Subs in Port Richey. They are ...",
+    "url": "https://www.facebook.com/PascoNewsOnline/posts/pizza-for-the-game-today-stop-by-giorginos-pizza-subs-in-port-richey-they-are-lo/1485439900091635/",
+    "snippet": "They are located at US-19 and Ridge Road. Giorgino's Pizza and Subs 5729 Richey Dr Port Richey FL, 34668 727-748-1760."
+   }
+  ],
+  "features": [
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

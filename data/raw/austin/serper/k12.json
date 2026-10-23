@@ -1,0 +1,100 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:00+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en",
+   "location": "Austin,Texas,United States"
+  }
+ },
+ "status": 200,
+ "ttfb": 1.05,
+ "bytes": 3651,
+ "seconds": 1.14,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "My Frederick Dentist: Dentist Frederick, MD | Dentist Near Me ...",
+    "url": "https://www.myfrederickdentist.com/",
+    "snippet": "From checkups to dental implants, our friendly and highly qualified team of dentists in Frederick ・ 2407 Whittier Dr. Frederick, MD 21702 (301) 698-9552 ・ ..."
+   },
+   {
+    "pos": 2,
+    "title": "Dental Clinic",
+    "url": "https://www.frederickhealth.org/services/dental-clinic/",
+    "snippet": "For more information about our dental services, please call us at 240-566-7005. Our Experts. Morgan Baker, DMD. Dentistry. View Profile. 1 / 1 ..."
+   },
+   {
+    "pos": 3,
+    "title": "Frederick Dental Group: Dentist Frederick, MD",
+    "url": "https://www.frederickdentalgroup.net/",
+    "snippet": "We are your Dentist in Frederick, MD! With 30 years of experience. From cleanings to specialized treatment for TMD, our experienced dentists offer complete ..."
+   },
+   {
+    "pos": 4,
+    "title": "Frederick Cosmetic & Family Dentistry | General Dentist ...",
+    "url": "https://www.frederickcosmeticdds.com/",
+    "snippet": "Frederick Cosmetic & Family Dentistry provides a variety of general and cosmetic services for all your family's dental needs."
+   },
+   {
+    "pos": 5,
+    "title": "Best Dentists Near Me in Frederick, Maryland",
+    "url": "https://www.deltadental.com/member/find-a-dentist/maryland/frederick-dentists/",
+    "snippet": "See the list of Frederick, MD dentists in the Delta Dental network. Call for a quote 1-800-431-7201 … quote or to learn more."
+   },
+   {
+    "pos": 6,
+    "title": "Dentist in Frederick, MD - Insurance Accepted",
+    "url": "https://thesmilist.com/dentist-locations/maryland/frederick-dentist/",
+    "snippet": "The Smilist Frederick, MD is a leading dentist office offering cosmetic, general and emergency dentistry, teeth whitening, dental implants and Invisalign."
+   },
+   {
+    "pos": 7,
+    "title": "Premiere Dental Arts: Dentist Frederick",
+    "url": "https://premieredentalarts.com/",
+    "snippet": "Dentist in Frederick | 161 Thomas Johnson Dr, Suite 240. Our services include teeth whitening, dental implants, TMJ therapy, clear aligners, sleep apnea ..."
+   },
+   {
+    "pos": 8,
+    "title": "Book 100+ of the best Dentists near me in Frederick, MD",
+    "url": "https://www.zocdoc.com/dentists/frederick-206376pm",
+    "snippet": "Zocdoc is a free online service that helps patients find Dentists in Frederick and book appointments instantly. You can search for Frederick Dentists by symptom ..."
+   },
+   {
+    "pos": 9,
+    "title": "Affordable Frederick, MD Dentist",
+    "url": "https://www.brightnow.com/dental-office/frederick-dentist/34210/",
+    "snippet": "At Bright Now Dental in Frederick, you can expect a comprehensive range of affordable dental services, including dental check-ups, teeth cleaning, braces, root ..."
+   },
+   {
+    "pos": 10,
+    "title": "Frederick Dentist | Dental One Associates of Maryland",
+    "url": "https://www.dentalone-md.com/dentist-office/frederick-md-21702",
+    "snippet": "Trusted dental care in Frederick. Preventive, cosmetic & restorative services. Most insurance accepted. Call (301) 862-6783 to book!"
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

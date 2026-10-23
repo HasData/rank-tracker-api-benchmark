@@ -1,0 +1,116 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:45:12+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "best serp api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.8,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "10 Best SERP APIs in 2026 to Scale Data Extraction from ...",
+    "url": "https://www.scrapingdog.com/",
+    "host": "www.scrapingdog.com",
+    "crumb": "https://www.scrapingdog.com › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "The 5 Best SERP APIs for 2026",
+    "url": "https://proxyway.com/",
+    "host": "proxyway.com",
+    "crumb": "https://proxyway.com › Best",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Best SERP APIs 2026: 9 Tested on Cost, AI and Tracking",
+    "url": "https://cloro.dev/",
+    "host": "cloro.dev",
+    "crumb": "https://cloro.dev › Blog",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "host": "serpapi.com",
+    "crumb": "https://serpapi.com",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "SerpApi Alternatives: Best Web Search APIs in 2026",
+    "url": "https://serpapi.com/",
+    "host": "serpapi.com",
+    "crumb": "https://serpapi.com › blog › serpapi-alternatives-best-we...",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "7 Best Google SERP Scrapers in 2026 (Tested & Ranked)",
+    "url": "https://chat4data.ai/",
+    "host": "chat4data.ai",
+    "crumb": "https://chat4data.ai › blog › google-serp-scrapers",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "The 16 Best SERP and Web Search APIs of 2026",
+    "url": "https://brightdata.com/",
+    "host": "brightdata.com",
+    "crumb": "https://brightdata.com › blog › web-data › best-serp-apis",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "Top 7 Google SERP APIs for Efficient Web Scraping (Free ...",
+    "url": "https://github.com/",
+    "host": "github.com",
+    "crumb": "https://github.com › scraping › blob › main › api › Top ...",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "Best Web Search APIs: Compare Top Search API Tools",
+    "url": "https://www.olostep.com/",
+    "host": "www.olostep.com",
+    "crumb": "https://www.olostep.com › blog › best-web-search-apis",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "Sponsored results",
+   "Exa vs SerpApi - Compare SERP APIs - See the Benchmarks",
+   "My Ad Center",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k02",
+  "q": "best serp api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

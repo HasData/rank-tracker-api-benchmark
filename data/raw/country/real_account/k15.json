@@ -1,0 +1,113 @@
+{
+ "vendor": "real_account",
+ "task": "google_web",
+ "started": "2026-10-15T13:02:37+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "tesla stock",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 7.72,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+    "url": "https://finance.yahoo.com/",
+    "host": "finance.yahoo.com",
+    "crumb": "https://finance.yahoo.com › quote › TSLA",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Tesla: TSLA Stock Price Quote & News",
+    "url": "https://robinhood.com/",
+    "host": "robinhood.com",
+    "crumb": "https://robinhood.com › Stocks",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "TSLA - TESLA INC | Stock Quotes from Fidelity Investments",
+    "url": "https://digital.fidelity.com/",
+    "host": "digital.fidelity.com",
+    "crumb": "https://digital.fidelity.com › dashboard › summary",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "TSLA: Tesla Inc - Stock Price, Quote and News",
+    "url": "https://www.cnbc.com/",
+    "host": "www.cnbc.com",
+    "crumb": "https://www.cnbc.com › quotes › TSLA",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Tesla Stock Dips. Uber Raises a Trillion-Dollar Question.",
+    "url": "https://www.barrons.com/",
+    "host": "www.barrons.com",
+    "crumb": "https://www.barrons.com › articles › tesla-stock-price-u...",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "TSLA Stock Price - Tesla, Inc.",
+    "url": "https://www.tradingview.com/",
+    "host": "www.tradingview.com",
+    "crumb": "https://www.tradingview.com › ... › Motor Vehicles",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Tesla Stock Price | TSLA Stock Quote, News, and History",
+    "url": "https://markets.businessinsider.com/",
+    "host": "markets.businessinsider.com",
+    "crumb": "https://markets.businessinsider.com › Stocks",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "News",
+   "Choose your preferred sources",
+   "Tesla to hold Roadster reveal event on Thursday",
+   "News about Tesla",
+   "Tesla Robotaxi Earnings Reality Check: 8% Upside [2026]",
+   "Also in the news",
+   "AI Overview",
+   "Key Stock Statistics",
+   "Recent Market Context",
+   "Share public link",
+   "My Ad Center",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Web results",
+   "What people are saying",
+   "Question about Tesla Financing",
+   "Tesla's Next 2 Months Could Change Everything",
+   "Tesla’s Next 2 Months Could Change Everything",
+   "Fresh money today: TSLA or AVGO",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k15",
+  "q": "tesla stock",
+  "intent": "finance",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

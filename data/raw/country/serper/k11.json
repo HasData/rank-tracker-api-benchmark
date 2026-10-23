@@ -1,0 +1,99 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T12:57:04+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "pizza near me",
+   "gl": "us",
+   "hl": "en"
+  }
+ },
+ "status": 200,
+ "ttfb": 2.65,
+ "bytes": 3588,
+ "seconds": 2.78,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Jordan Ranch",
+    "url": "https://www.crustpizzaco.com/locations/TX/jordan-ranch",
+    "snippet": "Conveniently located at 29615 Jordan Crossing Blvd., Suite 250, Sunday through Thursday from 11 am to 9 pm, and Fridays and Saturdays until 10 pm."
+   },
+   {
+    "pos": 2,
+    "title": "THE BEST 10 PIZZA PLACES NEAR LEONARD, TX 75452",
+    "url": "https://www.yelp.com/search?cflt=pizza&find_loc=Leonard%2C+TX+75452",
+    "snippet": "Best Pizza in Leonard, TX - Last Updated October 2026 - Gzim's Pizza, Lea's Restaurant, The Rock Yard Kitchen & Bar, The Twisted Pickle, Domino's pizza, ..."
+   },
+   {
+    "pos": 3,
+    "title": "Pizza in Arlington, TX | Papa Johns Little Road",
+    "url": "https://locations.papajohns.com/united-states/tx/76016/arlington/4311-little-road/pizza-near-me",
+    "snippet": "For pizza delivery in Arlington, call us at (817) 483-7777 to order, or stop by 4311 Little Road in Arlington, TX for carryout."
+   },
+   {
+    "pos": 4,
+    "title": "In Anna TX, 628 W White St",
+    "url": "https://locations.pizzahut.com/tx/anna/628-w-white-st",
+    "snippet": "Visit your local Pizza Hut at in 628 W White St Anna, TX to find hot and fresh pizza, wings, pasta and more! Order carryout or delivery for quick service."
+   },
+   {
+    "pos": 5,
+    "title": "Pizza Patrón | Real Fresh. Real Flavor. | Texas, Arizona",
+    "url": "https://www.pizzapatron.com/",
+    "snippet": "Since 1986, Pizza Patrón has been about serving real fresh and real flavor with a latin inspired twist and time tested pizza classics."
+   },
+   {
+    "pos": 6,
+    "title": "THE 10 BEST Pizza Places in Rowlett (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g56587-c31-Rowlett_Texas.html",
+    "snippet": "Best Pizza in Rowlett, Texas: 1. Napoli's 4.3 ・ 2. Zuko Pizza Pasta ・ 3. Valentino's 4.5"
+   },
+   {
+    "pos": 7,
+    "title": "Pizza Nearby on Western Center in Fort Worth, TX offers ...",
+    "url": "https://www.facebook.com/groups/fortworthfoodies/posts/3752138528269514/",
+    "snippet": "Pizza Nearby on Western center. we have three Fort Worth locations. Ave📞817-927-7779 🍕5836 SW Loop 820📞817-732-3000 🍕2700 Western Center Blvd📞 ..."
+   },
+   {
+    "pos": 8,
+    "title": "Pizza Near Me - Fort Worth - Alliance",
+    "url": "https://www.piefivepizza.com/locations/fort-worth/",
+    "snippet": "Find pizza near me in Fort Worth - Alliance . Personal craft pizza with unlimited toppings for one price in only 5 minutes! 3000 Texas Sage Trail Fort Worth TX ..."
+   },
+   {
+    "pos": 9,
+    "title": "Order Online For Best Pizza Near You l Papa Murphy's Take ...",
+    "url": "https://www.papamurphys.com/",
+    "snippet": "Order Papa Murphy's Take 'N' Bake pizza, sides & desserts online and find a store near you. Enjoy scratch-made dough, fresh veggies, and mozzarella today."
+   },
+   {
+    "pos": 10,
+    "title": "LaRosa's Pizza | Italian Restaurant & Pizza Delivery Near Me",
+    "url": "https://www.larosas.com/",
+    "snippet": "LaRosa's Pizza & Italian Restaurant. Dine in, pick up, or delivery. Order our full Italian menu online or in the app. 60 locations for pizza near me."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:58:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "dentist",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 6.61,
+ "bytes": 12448,
+ "seconds": 6.72,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Cornelius Dentistry | Your North Carolina Dentist",
+    "url": "https://www.google.com/goto?url=CAESXgHrOzAVIlu2zbT2bKddz_4iMl0-Tp7C1FXFO5LIzydbhvErDLNkYqPI92wANaAbYVpxgsQ-yGen54bqphVTOvH2EifngGiJ8t1VVhgxLaE4RxLAePgXCp8lYD1fa7M",
+    "snippet": "From preventive care to cosmetic and restorative treatments, Cornelius Dentistry offers a full range of services to keep your smile healthy and radiant. Our ...Read more",
+    "host": "www.corneliusdentistry.com"
+   },
+   {
+    "pos": 2,
+    "title": "Find a Dentist Near Me | Delta Dental of North Carolina",
+    "url": "https://www.google.com/goto?url=CAESYQHrOzAV1KJqRfk-MTU4WZcqf3THQTwCdieYE3mzmRcEb_np3xl378sEOaDlU7IIlr2iAwAdAQNOA9642DXaCn9IWF2gDTrE6mNtegj2LcaIPLIBWXINDLAN8KQRCcBBrkM",
+    "snippet": "Delta Dental has the largest network of dentists nationwide. Find the one that's right for you. we offer dental coverage in all 50 states,",
+    "host": "deltadentalnc.com"
+   },
+   {
+    "pos": 3,
+    "title": "Find a dentist",
+    "url": "https://www.google.com/goto?url=CAESbQHrOzAVPV8XFk4Hg81HRtYUhwur_Q8OAqkiPmHqN7yoZmxbW6qTGFgFPdILTfoN-fdHzKYbb23fW7_i8iLtFGMVaQDGqGD-g7Y7NVPLuKCiEURa9G2RFTQhMS0hVZ5dcR3v2UNJbSSbmV-MoFg",
+    "snippet": "Find in-network dentists in your area by using your current location or entering a ZIP code manually.",
+    "host": "www.deltadental.com"
+   },
+   {
+    "pos": 4,
+    "title": "American Dental Association: Search for ADA Member ...",
+    "url": "https://www.google.com/goto?url=CAESWAHrOzAVZmxlRod42tQl1ma6ZpFC7hJ4cMK_bhM3RGbIbFPRN57MUGfg-u-3qeCeS8jb8P4qV_J8OgqvRyno85GikEaNsGU3MC7mgslEVjJrlZ73Ql6i3PE",
+    "snippet": "Find an ADA member dentist in your area. Enter your street address and ZIP code for a list of ADA member dentists near you.",
+    "host": "findadentist.ada.org"
+   },
+   {
+    "pos": 5,
+    "title": "Carolina Dentistry & Dentures",
+    "url": "https://www.google.com/goto?url=CAESXwHrOzAVoIByLdQAu1pTp7Db0caOVTmxo_UGo9RfokYLussmwFRKw3zNn1BNRZP4z2CRNVt7Foy-rfvNyfvQHS-EAisG9ZdFyjfOCRsnhJW6kq5uvZthY71K8kAeNK74",
+    "snippet": "Carolina Dentistry & Dentures ・ restorative and surgical dentistry, as well as removable prosthetics. Crowns, dentures, partials, repairs menuicon same day ...",
+    "host": "www.carolinadentistrync.com"
+   },
+   {
+    "pos": 6,
+    "title": "Discover Dentistry",
+    "url": "https://www.google.com/goto?url=CAESawHrOzAVwDRAIF6U1rPOTtfcgTkZ1dZinSFn39_KeqWdaHY8GrQhiQFqsB-UjvgQDOjmgqoeFMHOi4uYWG84CS8whTIquqcMKS9JJHEdmvQeB4q6mO2JLRM7Mks4hZCx4IxXGBEfpG993gFj",
+    "snippet": "A dentist is a doctor, scientist and clinician dedicated to the highest standards of health through prevention, diagnosis and treatment of oral diseases and ...",
+    "host": "www.adea.org"
+   },
+   {
+    "pos": 7,
+    "title": "Find a Dentist",
+    "url": "https://www.google.com/goto?url=CAESZwHrOzAVHe9GkLplmNxMb0qQkqrdYL9eWVC1OaFzoBQ2x6jSbRRHxjO-38oaU1be3Va1XmrGWyoBQWWSlXP_Om8hUUzQM_OaxluevE2iwVziyysSamyBHLCf68gliXz0tmCQF2v_ZjA",
+    "snippet": "Find a dentist within the DentaQuest provider network. Search by address, city, county or zip code to find a dentist near you.",
+    "host": "www.dentaquest.com"
+   },
+   {
+    "pos": 8,
+    "title": "Welcome to CarolinasDentist | North Carolina Local Dentists",
+    "url": "https://www.google.com/goto?url=CAESXAHrOzAVje4uwSbJaTF18XvNvYx3ALCCyVQQZskoKdjJVg2gSAKMqkdn3YYEOmP15i22Ygo-rNXrYrwAwYdbTaskQ6IyJ-jUg_lKsj5G2W2VTHxkRqwcAfJMv3LV",
+    "snippet": "At CarolinasDentist, our team of friendly dentists provides quality family dentistry in a modern & relaxing setting. Call us or schedule online!",
+    "host": "www.carolinasdentist.com"
+   },
+   {
+    "pos": 9,
+    "title": "Ballantyne Dentistry | Cosmetic, Sedation & Implant ... - Charlotte",
+    "url": "https://www.google.com/goto?url=CAESWwHrOzAV_URsEdERr7tZywPfY25babldidVWjqnXeXNBBWDA8iPGDmwePGYWDXTMR2Il1hCZOJjztHcIhUtQj5ijNsb0yhVHi6jNZ84JeSWti_KscRccbTNF-14",
+    "snippet": "Ballantyne Dentistry in Charlotte, NC provides comprehensive cosmetic, sedation, and implant care under one roof. Book a free consult today and love your ...",
+    "host": "ballantynedentistry.com"
+   }
+  ],
+  "features": [
+   "local_packs",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

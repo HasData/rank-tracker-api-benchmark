@@ -1,0 +1,100 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T14:02:48+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "pizza near me",
+   "gl": "us",
+   "hl": "en",
+   "location": "Austin,Texas,United States"
+  }
+ },
+ "status": 200,
+ "ttfb": 1.61,
+ "bytes": 3533,
+ "seconds": 1.62,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "THE BEST 10 PIZZA PLACES NEAR MILFORD MILL, MD ...",
+    "url": "https://www.yelp.com/search?cflt=pizza&find_loc=Milford+Mill%2C+MD+21244",
+    "snippet": "Vocelli Pizza, Vortex Ventures, Buongiorno, The Good Guys NY Pizza Kitchen, (410) 999-8300. The Original NY Pizza Co"
+   },
+   {
+    "pos": 2,
+    "title": "Buongiorno Pizza - Windsor Mill, MD - 6860 Dogwood Rd ...",
+    "url": "https://www.buongiornopizzamenu.com/",
+    "snippet": "Buongiorno Pizza in Windsor Mill, MD. Shop address is 6860 Dogwood Rd, Windsor Mill, MD 212446860 … 9:15 AM-8:45 PM (410) 298-7781. Pepperoni Pizza $12.99"
+   },
+   {
+    "pos": 3,
+    "title": "Pizza in Baltimore, MD | Papa Johns Harford Road",
+    "url": "https://locations.papajohns.com/united-states/md/21214/baltimore/5246-harford-road/pizza-near-me",
+    "snippet": "For pizza delivery in Baltimore, call us at (410) 319-7272 to order, or stop by 5246 Harford Road in Baltimore, MD for carryout."
+   },
+   {
+    "pos": 4,
+    "title": "Best Pizza Deals in Owings Mills, MD",
+    "url": "https://www.seasonspizza.com/stores/owingsmills/",
+    "snippet": "Seasons Pizza 9161 Reisterstown Road Owings Mills, MD 21117 (410) 581-5804 Store Hours: Mon - Thu 9:30am - 9:00pm Fri 9:30am - 10:00pm"
+   },
+   {
+    "pos": 5,
+    "title": "Angelis pizzeria",
+    "url": "https://www.angelispizzeria.com/",
+    "snippet": "Angeli's Pizzeria … voted Best Pizza in Baltimore (413 S High St, Little Italy) (5716 York Rd, Govans) Hill (1035 S Charles St) Bolton Hill (1203 W Mt Royal ..."
+   },
+   {
+    "pos": 6,
+    "title": "Pizza Delivery in Baltimore, MD",
+    "url": "https://locations.pizzahut.com/md/baltimore/pizza-delivery",
+    "snippet": "Order Delivery in Baltimore, MD for hot and fresh pizza, pasta, wings, pasta and more. Start your delivery order today!"
+   },
+   {
+    "pos": 7,
+    "title": "Best Pizza Places in Windsor Mill 2026",
+    "url": "https://slicelife.com/pizza-delivery/md-windsor_mill",
+    "snippet": "Liberty Pizza & Sub Open. Other favorites are Topolino's and Liberty Pizza & Sub. (844) 880-2346"
+   },
+   {
+    "pos": 8,
+    "title": "Best pizza in Baltimore? You all voted and in both @baltmag & ...",
+    "url": "https://www.instagram.com/reel/C-84ct5JY9Y/?hl=en",
+    "snippet": "Best pizza in Baltimore? You all voted and in both @baltmag & @baltimoresun, you voters @frankspizzaandpasta as BEST PIZZA!!"
+   },
+   {
+    "pos": 9,
+    "title": "THE 10 BEST Pizza Places in Baltimore (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g60811-c31-Baltimore_Maryland.html",
+    "snippet": "Pizza in Baltimore · 1. Di Pasquale's Italian Marketplace & Deli. 4.7. 4.7 of 5 bubbles · 2. Isabella's Brick Oven. 4.5. 4.5 of 5 bubbles · 3."
+   },
+   {
+    "pos": 10,
+    "title": "Essex",
+    "url": "https://www.pizzabolis.com/locations/essex/",
+    "snippet": "Pizza Boli's has more than 70 pizza restaurants, so it's easy to find a great pizza place near you. Get local delivery on pizza, wings, pastas, subs & more."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

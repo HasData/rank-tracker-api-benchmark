@@ -1,0 +1,81 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:14:49+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "pizza near me",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM"
+  }
+ },
+ "status": 200,
+ "bytes": 11237,
+ "seconds": 4.56,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Pizza in Houston, TX | Papa Johns Jones Rd",
+    "url": "https://locations.papajohns.com/united-states/tx/77065/houston/9110-jones-rd/pizza-near-me",
+    "snippet": "Order from Papa Johns Jones Rd for the best pizza in Houston. Order online, call or visit for a selection of pizza and more for delivery or takeout!"
+   },
+   {
+    "pos": 2,
+    "title": "Best Pizza in Jacksonville, NC | Empire Pizza | Pizza near me",
+    "url": "https://empirepizzanc.com/",
+    "snippet": "Empire Pizza: the best Pizza in Jacksonville, NC. Order directly online today for takeout or delivery. Save money, support local business!"
+   },
+   {
+    "pos": 3,
+    "title": "BC Pizza Near Me - Check Out Our Closest Locations",
+    "url": "https://bc.pizza/locations-bc-pizza-near-me/",
+    "snippet": "Searching for a BC pizza near me? Check out our list of all our locations. Find the closest to you by entering your zip code in the search bar."
+   },
+   {
+    "pos": 4,
+    "title": "Boynton Pizza Boynton Beach, FL - Last Updated October ...",
+    "url": "https://www.yelp.com/search?find_desc=Boynton+Pizza&find_loc=Boynton+Beach%2C+FL",
+    "snippet": "Top 10 Best Boynton Pizza in Boynton Beach, FL - Last Updated September 2026 - Yelp - Boynton Pizza, Danny's Pizza Kitchen, Monica's Italian Sandwiches, ..."
+   },
+   {
+    "pos": 5,
+    "title": "Delivery Near Me - Orlando, FL - 7060 International Dr",
+    "url": "https://locations.pizzahut.com/fl/orlando/7060-international-dr/delivery",
+    "snippet": "Looking for delivery near you? Your local Pizza Hut at 7060 International Dr, Orlando, FL 32819 offers a wide variety of food for delivery.Read more"
+   },
+   {
+    "pos": 6,
+    "title": "Jordan Ranch",
+    "url": "https://www.crustpizzaco.com/locations/TX/jordan-ranch",
+    "snippet": "Conveniently located at 29615 Jordan Crossing Blvd., Suite 250, in the Jordan Ranch Market shopping center, Crust Pizza is your go-to destination for dine-in, ...Read more"
+   },
+   {
+    "pos": 7,
+    "title": "Top Pizza Restaurants in Riverside, CA in 2026 Near You",
+    "url": "https://slicelife.com/pizza-delivery/ca-riverside",
+    "snippet": "Top Pizza Restaurants in Riverside, CA in 2026 Near You ; Bricks & Birch Riverside · $5.15 Delivery ; Marcello's Pizza & Pasta · $5.99 Delivery ; Aloha Pizza & Pasta.Read more"
+   },
+   {
+    "pos": 8,
+    "title": "THE 10 BEST Pizza Places in Rowlett (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g56587-c31-Rowlett_Texas.html",
+    "snippet": "1. Napoli's. 4.3. 4.3 of 5 bubbles. (201 reviews) · 2. Zuko Pizza Pasta. 4.7. 4.7 of 5 bubbles. (42 reviews) · 3. Valentino's. 4.5. 4.5 of 5 ...Read more"
+   }
+  ],
+  "features": [
+   "local_packs",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ }
+}

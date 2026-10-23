@@ -1,0 +1,86 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:46:33+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "google search api",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.39,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Google Custom Search API is closing. Need affordable ...",
+    "url": "https://www.reddit.com/",
+    "host": "www.reddit.com",
+    "crumb": "Reddit · r/googlecloud",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "host": "serpapi.com",
+    "crumb": "https://serpapi.com",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Google Search API for real-time SERP scraping",
+    "url": "https://www.searchapi.io/",
+    "host": "www.searchapi.io",
+    "crumb": "https://www.searchapi.io",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "All You Need to Know About the Official Google Search API ...",
+    "url": "https://medium.com/",
+    "host": "medium.com",
+    "crumb": "Medium · Darshan Khandelwal",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "How To Setup Custom Search API For Google",
+    "url": "https://8.8k+ views/",
+    "host": "8.8k+ views",
+    "crumb": "8.8K+ views · 12 months ago",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Sponsored result",
+   "Google Search API Alt - Free SERP API Key",
+   "My Ad Center",
+   "Web results",
+   "People also ask",
+   "Sponsored results",
+   "Google Search API Alt - Real-Time SERP API",
+   "Google Search API - Google SERP API - SERP API",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k03",
+  "q": "google search api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:51+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "cheap flights to paris",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.79,
+ "bytes": 12454,
+ "seconds": 2.81,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "$435 Cheap Flights to Paris Charles de Gaulle - Skyscanner",
+    "url": "https://www.google.com/goto?url=CAESmgEB6zswFcRco8_iK4IAAD2QsqUAdW8b_9F5DEmHMOCb4sB6w_NTHfx0mLs864ktFKykAe6Y5ZYyq4cmXnE4yzi6oDowMzVgwpwXtcG7l9yuI77yTiy4R7CLpwzESJAlWfT2M16blWd71H88Gp2phxRgwGOVF-HbwLIJz3z9OLbMYVxolVyjvr86MUzGV1TB8L2Q5UqY8V7eubYG",
+    "snippet": "The lowest price currently available for a one-way flight to Paris Charles de Gaulle Airport is $221. A round-trip plane ticket to CDG right now is $435.Read more",
+    "host": "www.skyscanner.com"
+   },
+   {
+    "pos": 2,
+    "title": "Cheap flights to Paris - Flight from United States to Paris",
+    "url": "https://www.google.com/goto?url=CAESawHrOzAVrxxfLp9M2BLYztA-iZ4DXHGAYW6YdxkHC7o4bD3QHRyFD2iMnvJ7U_QiBGJlbs_UrVVwM9AbfpX6SFbdbqSZKXDzUfcED9GpKlODGE8tjmHPXZp3IQiNApth8WTDCC5GYbMDeszI",
+    "snippet": "Find your cheap flight to Paris with Air France from $716. Discover our selection of return flights at the best price to Paris PAR.",
+    "host": "wwws.airfrance.us"
+   },
+   {
+    "pos": 3,
+    "title": "$222 CHEAP FLIGHTS to Paris in 2026/27",
+    "url": "https://www.google.com/goto?url=CAESegHrOzAVhzqGQi2HF9HAUEC2h8EgqnQRrO7HtlmmQRNj4xhAwU1QhAHrNZKffcPCI9s2KlYwVXqm-gawjli_QGV6NjkL_wbePiKcBcXLk2RCoBNuTS0azbeLMf9ZMLormeIHR8qmF9hChqGjaf3LV6ZnJjAoxlTtiKD5",
+    "snippet": "Monday is the cheapest day to fly to Paris at $946 round-trip on average over the past 12 months on KAYAK. Saturday is the most expensive at $1,020.Read more",
+    "host": "www.kayak.com"
+   },
+   {
+    "pos": 4,
+    "title": "Flights to Paris",
+    "url": "https://www.google.com/goto?url=CAESZAHrOzAV9_-Vnnv2Ud6UnJqyCbSDUKqYgs3WF-r2ssqtz0TMqq_78RCp-MjfpDtCwJdCLTha1WA_NL72r6fNWahy5FGnGLxPuddc8IaGv90pE1F_9TbmFqV5wdyXzJDfsIvvNnY",
+    "snippet": "You can often find lower fares by booking in advance and traveling during off-peak times. Midweek flights and flexible dates may help you find better prices.Read more",
+    "host": "www.aa.com"
+   },
+   {
+    "pos": 5,
+    "title": "Cheap flights from the United States to Paris ...",
+    "url": "https://www.google.com/goto?url=CAESbgHrOzAV60NyoA1MDKCbK3J4q8-SAH-IRANsVjNJmnoBtc0mxcxTC7YbI_S5ZPQxgyEmuKHQxYourw4x71TBjabda08J53LRnRF9tz-UkhwH7xdGMVj3fMLIFHnN5dzSvsB50KF54fqTfybSYPud",
+    "snippet": "The cheapest day to depart from United States to Paris is on a Sunday when prices can be found for as low as $801. Be sure to avoid booking ...Read more",
+    "host": "www.momondo.com"
+   },
+   {
+    "pos": 6,
+    "title": "Find Cheap Flights to Paris",
+    "url": "https://www.google.com/travel/flights/flights-to-paris.html?gl=US&hl=en-US",
+    "snippet": "Use Google Flights to find cheap flights to Paris from United States, Flights. Just enter your departure city, choose Paris in the destination field, and click ..."
+   },
+   {
+    "pos": 7,
+    "title": "How much is the cheapest flight to Paris?",
+    "url": "https://www.google.com/goto?url=CAEShgEB6zswFd6Ie3SgCEJaFxN3sDiv8yMf-5yxXFY5Zzd53LOKKDey6e9HA3-h0T5fTtVEC4I4eFK7XC1wfeJyT-QhfkkkFAW5MC8-hLxSgxQIOlBxn9vEIF1I4-dPeUuHS9mvyyqZPmW8A8lUqxV0PPI47bpUxcACIgxxdWawjtz0OxoWZL0Duw",
+    "snippet": "Prices were available within the past 7 days and start at $253 for one-way flights and $427 for roundtrip, for the period specified.",
+    "host": "www.expedia.com"
+   },
+   {
+    "pos": 8,
+    "title": "Flights to Paris (ORY)",
+    "url": "https://www.google.com/goto?url=CAESdQHrOzAV-_7SkVp8q_ZXxQpIOmrJ-HZYSI6ZGpKa986dslQh-RqJvUYgPKi0Hf0CI73IlVbLo3M3eTDoOfYIeDCjoT6yUmKB4aPSxDyBre7f_CGRgoOQCX89bPAyOZYOTalopVOZq2yYUb1CNBWMqFerGNJWVw",
+    "snippet": "Offering some of the lowest fares available, choose from three levels—Basic, Smart, or Premium—to customize your flight to Paris.",
+    "host": "us.frenchbee.com"
+   },
+   {
+    "pos": 9,
+    "title": "United Cheap Flights to Paris from ...",
+    "url": "https://www.google.com/goto?url=CAESbgHrOzAVYTpSkrPu14KhRcza_VBjSH6Mnts24y2_lml1WO383oLuEXHilQd3gsB3TCypu7yFj9BxSrn30BOru43lqxGSAs-ObjXj-X8_Dlu6zSQAfgmab4-NkF2ay1thHfd8TuZbSERLWGHFq8HI",
+    "snippet": "Book cheap flights to Paris (CDG) with United Airlines. Enjoy all the in-flight perks on your Paris flight, including speed Wi-Fi.",
+    "host": "www.united.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k20",
+  "q": "cheap flights to paris",
+  "intent": "travel",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "vendor": "serper",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:55+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://google.serper.dev/search",
+  "params": null,
+  "json": {
+   "q": "home depot hours",
+   "gl": "us",
+   "hl": "en",
+   "location": "Austin,Texas,United States"
+  }
+ },
+ "status": 200,
+ "ttfb": 1.83,
+ "bytes": 4077,
+ "seconds": 1.9,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "The Poplar Midtown Home Depot in Memphis, TN 38104",
+    "url": "https://www.homedepot.com/l/Poplar-Midtown/TN/Memphis/38104/8916",
+    "snippet": "(901)725-8308. Store Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 8:00am ... We offer free pickup within two hours for millions of items using The Home Depot app."
+   },
+   {
+    "pos": 2,
+    "title": "The Truse In-Town Home Depot in Memphis, TN, 38117",
+    "url": "https://www.homedepot.com/l/Truse-In-Town/TN/Memphis/38117/703",
+    "snippet": "You can buy online with free pickup in store in two hours using our product locator app. Returns are just as simple — start them in the app or online to ..."
+   },
+   {
+    "pos": 3,
+    "title": "The Cordova Home Depot in Memphis, TN, 38133",
+    "url": "https://www.homedepot.com/l/Cordova/TN/Memphis/38133/704",
+    "snippet": "Let our associates get you in and out, so you can get back to work. You can buy online with free pickup in store in two hours using our product locator app."
+   },
+   {
+    "pos": 4,
+    "title": "The Hickory Hill Home Depot in Memphis, TN, 38115",
+    "url": "https://www.homedepot.com/l/Hickory-Hill/TN/Memphis/38115/725",
+    "snippet": "(901)546-6414. Store Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 8 ... You can buy online with free pickup in store in two hours using our product locator app."
+   },
+   {
+    "pos": 5,
+    "title": "The Home Depot - 800 Truse Rd, Memphis, Tennessee",
+    "url": "https://www.yelp.com/biz/the-home-depot-memphis-10",
+    "snippet": "THE HOME DEPOT, 800 Truse Rd, Memphis, TN 38117, 54 Photos, (281) 257-8900, Mon - 6:00 am - 10:00 pm, Tue - 6:00 am - 10:00 pm, Wed - 6:00 am - 10:00 pm, ..."
+   },
+   {
+    "pos": 6,
+    "title": "Olive Branch #8469",
+    "url": "https://www.homedepot.com/l/Olive-Branch/MS/Olive-Branch/38654/8469",
+    "snippet": "The Olive Branch Home Depot in Olive Branch, MS, 38654 | Hours, Directions & Curbside ... We offer free pickup within two hours for millions of items using our ..."
+   },
+   {
+    "pos": 7,
+    "title": "The Home Depot - Memphis",
+    "url": "https://www.mapquest.com/us/tennessee/the-home-depot-5207912",
+    "snippet": "... 722-3535 today. Let's get started on your next project! More. Hours. Open until 10 pm. Sun. 8 am - 8 pm. Mon. 6 am - 10 pm. Tue. 6 am - 10 pm. Wed. 6 am - 10 pm."
+   },
+   {
+    "pos": 8,
+    "title": "Bartlett/Stage Rd #737 - Memphis",
+    "url": "https://www.homedepot.com/l/Bartlett-Stage-Rd/TN/Memphis/38128/737",
+    "snippet": "Rental Center: (901)379-1609. Store Hours. Mon-Sat: 6:00am - 10:00pm. Sun: 8:00am - 8:00pm. Curbside: 09:00am - 6:00pm. Location. 4950 Stage Rd. Memphis, TN ..."
+   },
+   {
+    "pos": 9,
+    "title": "The Home Depot Locations & Hours Near Memphis, TN ...",
+    "url": "https://www.yellowpages.com/memphis-tn/the-home-depot",
+    "snippet": "1.Garden Center at The Home Depot. 1627 Poplar Ave. Memphis, TN · 2.The Home Depot. 4950 Stage Rd · 3.The Home Depot. 8010 Giacosa Pl · 4.The ..."
+   },
+   {
+    "pos": 10,
+    "title": "The Home Depot in Memphis, TN – Reviews, Hours, and ...",
+    "url": "https://local.yahoo.com/info-132392957-the-home-depot-memphis/",
+    "snippet": "Read customer reviews and get hours of operation and contact information for The Home Depot, a(n) Home & Garden Retailers business in Memphis, TN."
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related_searches"
+  ],
+  "aio_present": null
+ },
+ "item": {
+  "id": "k17",
+  "q": "home depot hours",
+  "intent": "navigational, local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

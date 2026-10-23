@@ -1,0 +1,91 @@
+{
+ "vendor": "searchapi",
+ "task": "google_web",
+ "started": "2026-10-22T15:31:57+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.searchapi.io/api/v1/search",
+  "params": {
+   "engine": "google",
+   "q": "tesla stock",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.4,
+ "bytes": 53866,
+ "seconds": 2.49,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Tesla, Inc. (TSLA) Stock Price, News, Quote & History",
+    "url": "https://finance.yahoo.com/quote/TSLA/",
+    "snippet": "Tesla, Inc. (TSLA) 30,410.78% Close 373.71 Open 381.51. Range 380.51 - 388.84 52 Week Range 297.38 - 498.83 Volume 44,779,790 Avg. Volume 38, ..."
+   },
+   {
+    "pos": 2,
+    "title": "TSLA - TESLA INC | Stock Quotes from Fidelity Investments",
+    "url": "https://digital.fidelity.com/prgw/digital/research/quote/dashboard/summary?symbol=TSLA",
+    "snippet": "Tesla (TSLA) is trading at 386.47 Open Price 381.425 Previous close 386.47 Previous close 386.47 P/E Ratio 386.7988. Index NASDAQ100,R1000,R3000,SP500"
+   },
+   {
+    "pos": 3,
+    "title": "Tesla: TSLA Stock Price Quote & News",
+    "url": "https://robinhood.com/us/en/stocks/TSLA/",
+    "snippet": "Tesla(TSLA) stock is priced at $375.10, shares reached a daily high of $373.98 and a low of $370.00. At a current price of $375.10, the stock is +1.4% higher ..."
+   },
+   {
+    "pos": 4,
+    "title": "TSLA Stock Quote Price and Forecast",
+    "url": "https://www.cnn.com/markets/stocks/TSLA",
+    "snippet": "The price of TSLA shares has increased $13.34 since the market last closed. This is a 3.76% rise. Closed at $368.06. Show more The stock has since risen $0.89 ..."
+   },
+   {
+    "pos": 5,
+    "title": "TSLA: Tesla Inc - Stock Price, Quote and News",
+    "url": "https://www.cnbc.com/quotes/TSLA",
+    "snippet": "Tesla Inc TSLA:NASDAQ EXPORT. Tesla is falling even after earnings. Market Cap1.528T Shares Out3.95B. News, Stock Quotes, and Market Data and Analysis."
+   },
+   {
+    "pos": 6,
+    "title": "Tesla Inc (TSLA) Stock Price & News - Google Finance",
+    "url": "https://www.google.com/finance/quote/TSLA:NASDAQ",
+    "snippet": "52-wk high. $498.83 ; 52-wk low. $297.38 ; EPS. $1.08 ; Beta. 1.92."
+   },
+   {
+    "pos": 7,
+    "title": "Tesla, Inc. (TSLA) Stock Price, Quote, News & Analysis",
+    "url": "https://seekingalpha.com/symbol/TSLA",
+    "snippet": "Tesla, Inc. is currently listed on NASDAQ under TSLA. One share of TSLA stock can currently be purchased for approximately $368.06."
+   },
+   {
+    "pos": 8,
+    "title": "TSLA Stock Price - Tesla, Inc.",
+    "url": "https://www.tradingview.com/symbols/NASDAQ-TSLA/",
+    "snippet": "The current price of TSLA is 386.47 USD — it has increased by 3.41% in the past 24 hours. TSLA stock has risen by 4.12% TSLA price has a max estimate of 550.00 ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "answer_box",
+   "knowledge_graph",
+   "organic_results",
+   "related_questions",
+   "related_searches",
+   "top_stories"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k15",
+  "q": "tesla stock",
+  "intent": "finance",
+  "location": "Austin,Texas,United States"
+ }
+}

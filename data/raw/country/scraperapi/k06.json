@@ -1,0 +1,106 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:50:32+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "seo api",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 4.04,
+ "bytes": 11372,
+ "seconds": 4.06,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "DataForSEO: Powerful API Stack For Data-Driven SEO Tools",
+    "url": "https://www.google.com/goto?url=CAESUgHrOzAVH6tWgyGGPGfeXHMxbKabZH_eHLZrecapiJbsnjuNF40NIikYnhGcCS6nbgCTWKROSwnDOZ5LMFZcMRcqKH5jOv16MpUnkJDzFPdqs94",
+    "snippet": "We provide comprehensive data solutions for SEO and SEM analytics via API. DataForSEO is a trusted partner for 750+ SEO software companies and agencies.",
+    "host": "dataforseo.com"
+   },
+   {
+    "pos": 2,
+    "title": "API recommendations : r/SEO",
+    "url": "https://www.google.com/goto?url=CAESfQHrOzAVwcRBFWPjR1TcMjLSctGlFUTXlJk0qBqDThY2RBIVgBXAQyXUKVa4zyuml3nOr6EMAB8TKxh6TG5WSlRTUSZcMytc6z0r-_lPKBovudEAvn4W8Dw76T5Z2vOzMXkEP2XX73Q_DyJyEPthxUcqsKugBzLeGMhp5YR9",
+    "snippet": "Top 10 SEO TOOLS APIs & Scrapers — I built an advanced SEO data API for AI writers. How I actually use an API for SEO software day-to-day. ...",
+    "host": "10+ comments  ·  2 years ago"
+   },
+   {
+    "pos": 3,
+    "title": "3 APIs for SEO pros - get a free API key | Authoritas",
+    "url": "https://www.google.com/goto?url=CAESWgHrOzAVASBx8zDCUrraTRqzHO7uEu46ux-bS2VFiZxuQqKM4Aj9lGIZ4udnUHmGSfiJ7SvVFmhcTprcpAN25_kQxp-szedPFqGjAyRyQ09AJ5M75avNkotjUg",
+    "snippet": "The SEO Platform API is free with Advanced and Expert level business packages and all agency packages. The SERPs API and Page Structure API are charged per ...Read more",
+    "host": "www.authoritas.com"
+   },
+   {
+    "pos": 4,
+    "title": "SEO API: Automate your SEO and AEO workflows",
+    "url": "https://www.google.com/goto?url=CAESWQHrOzAVpJ8osd3StbwFTCijS09M17TS8kPkmb5EOrcrdH1IHP3SpuF0LGjIdJKfNMqjoqStZffhj6Fqhy-EdgHfBNZ15G_CdKEqnEXLaN7-imWVFt79fu5P",
+    "snippet": "The Project API lets you manage and automate SEO and AEO/GEO workflows within the platform, including rank tracking, keyword grouping, competitor monitoring,",
+    "host": "seranking.com"
+   },
+   {
+    "pos": 5,
+    "title": "Search Console API",
+    "url": "https://developers.google.com/webmaster-tools",
+    "snippet": "The Search Console API provides programmatic access to the most popular reports and actions in your Search Console account. Query your search analytics, list ..."
+   },
+   {
+    "pos": 6,
+    "title": "SerpApi: SEO",
+    "url": "https://www.google.com/goto?url=CAESXAHrOzAV-k8Y0vwQJ3aZHAi0dYqBa5khEzRWEilv2F828IO0pM24VME1P1qUYdr8erDYZuGTo3PTrqg_VeIrVsFHMGx-AMwVEIxohKH5dVT9gK5MoIRL27jDd0t2",
+    "snippet": "SerpApi provides rankings, organic search results and paid ad results. Use any keyword, any country, and any language across various search engines.",
+    "host": "serpapi.com"
+   },
+   {
+    "pos": 7,
+    "title": "SEO API Tool",
+    "url": "https://www.google.com/goto?url=CAESVwHrOzAVZMRm1UIawFVptcgfOav9p96mUPdbcdpfppaXG1O2N5qM-AxOHTs9b9WMKSdevjAHg_XSTb6WYzjywLZ_Nzr_5_eXf_j7zgW6GXDVCXfXD934wQ",
+    "snippet": "Moz API gives you the power to quickly create custom SEO tools, dashboards, and integrations — affordably and at scale.",
+    "host": "moz.com"
+   },
+   {
+    "pos": 8,
+    "title": "Top 14 SEO Analysis APIs for 2026 by Use Case - Nimble Way",
+    "url": "https://www.google.com/goto?url=CAESbwHrOzAVxZBP5DyRT8qVaX-HvtF8L6bn3WU4cBckUq2h5UKt4knanKomTAIybLU-NR_CbY9IlUayTCikdUJRAoGvQ4vU9C2Ov8_5f7FYQU4JrEpj9w5iz-ZxTqmkgaqHn5itBXJlBEB14Mb9H15xaQ",
+    "snippet": "Jun 24, 2026 — An SEO analysis API is a programmatic interface that returns structured search intelligence, such as rankings, backlinks, SERP features, content ...Read more",
+    "host": "www.nimbleway.com"
+   },
+   {
+    "pos": 9,
+    "title": "Get Google SEO Data for Free (API) - Claude Blog",
+    "url": "https://www.google.com/goto?url=CAESdQHrOzAV7c1k-v3IhfaSPSystp6KLP8A3VuCRFi9G0D1YMTV2NC5d0DgEDiRQnq4XLqtjvWJWX1ZJWET8SWnSyX3-Fz3t1dJiJrnoxpLNFiOghyw-umCpnHJ3PvQLYskX9HEx7NA75OzLqJG0uBJKWZcHpQ5vQ",
+    "snippet": "Mar 28, 2026 — How to Get Google SEO Data for Free · Google's free APIs provide Core Web Vitals, Search Console, PageSpeed, and indexation data at $0.0006/ ...Read more",
+    "host": "claude-blog.md"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k06",
+  "q": "seo api",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:49+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "world series",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.23,
+ "bytes": 76617,
+ "seconds": 1.33,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "MLB Postseason 2026: Playoff Bracket and World Series ...",
+    "url": "https://www.mlb.com/postseason",
+    "snippet": "The official home of the Major League Baseball Postseason including playoff news, schedule, bracket, and video."
+   },
+   {
+    "pos": 2,
+    "title": "World Series",
+    "url": "https://en.wikipedia.org/wiki/World_Series",
+    "snippet": "The World Series is the annual championship series of Major League Baseball (MLB), a professional baseball league operating in the United States and Canada, ..."
+   },
+   {
+    "pos": 3,
+    "title": "MLB World Series Winners",
+    "url": "https://www.espn.com/mlb/worldseries/history/winners",
+    "snippet": "View a comprehensive list of every single MLB World Series champion from 1903 to present on ESPN. Includes the finals opponent and the series result."
+   },
+   {
+    "pos": 4,
+    "title": "List of World Series champions",
+    "url": "https://en.wikipedia.org/wiki/List_of_World_Series_champions",
+    "snippet": "A total of 121 World Series have been contested through 2025, with the AL champion winning 68 and the NL champion winning 53. The New York Yankees of the AL ..."
+   },
+   {
+    "pos": 5,
+    "title": "World Series Winners",
+    "url": "https://www.baseball-reference.com/postseason/world-series.shtml",
+    "snippet": "World Series Winners. A list of World Series winners, losers, and MVPs throughout major-league history. Winning team is listed in bold."
+   },
+   {
+    "pos": 6,
+    "title": "Little League® World Series",
+    "url": "https://www.littleleague.org/world-series/",
+    "snippet": "Little League World Series tournaments will be held from July 27 to August 25, 2019. claim the 2026 Little League Baseball World Series® title,"
+   },
+   {
+    "pos": 7,
+    "title": "Postseason History: World Series",
+    "url": "https://www.mlb.com/postseason/history/world-series",
+    "snippet": "A guide to all World Series winners by year, from World Series 2023 to the inception of the postseason championship in 1903."
+   }
+  ],
+  "features": [
+   "inline_videos",
+   "knowledge_graph",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches",
+   "sports_results",
+   "top_stories"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k16",
+  "q": "world series",
+  "intent": "news, sports",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

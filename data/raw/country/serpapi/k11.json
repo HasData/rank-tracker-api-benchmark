@@ -1,0 +1,99 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:57:04+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "pizza near me",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 12.34,
+ "bytes": 91066,
+ "seconds": 12.53,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Pizzeria Near Me - Clinton Township, MI - 15630 Hall Road",
+    "url": "https://locations.pizzahut.com/mi/clinton-township/15630-hall-road/pizzeria",
+    "snippet": "We're your local pizzeria in Clinton Township, MI. 15630 Hall Road. Hall Road Ste A-4 Clinton Township, MI 48038 … call us at (586) 464-3638."
+   },
+   {
+    "pos": 2,
+    "title": "THE BEST 10 PIZZA PLACES NEAR BERKLEY, MI 48072",
+    "url": "https://www.yelp.com/search?cflt=pizza&find_loc=Berkley%2C+MI+48072",
+    "snippet": "The Best 10 Pizza Places near Berkley, MI 48072 ; 1. Palazzo Di Pizza · (180 reviews). 2.8 mi ; 2. Amici's Kitchen and Living Room · (116 reviews). 0.5 mi ; 3. Uncle ..."
+   },
+   {
+    "pos": 3,
+    "title": "Pizza House - Ann Arbor",
+    "url": "https://www.pizzahouse.com/",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "THE 10 BEST Pizza Places in Plymouth (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g42601-c31-Plymouth_Michigan.html",
+    "snippet": "Best Pizza in Plymouth, Michigan: 1. Pizza e Vino 4.5. Buddy's Pizza 4.2 3. Pizza Spot 4.5 4.5 of 5 bubbles (4 reviews) 4. Bigalora Wood ..."
+   },
+   {
+    "pos": 5,
+    "title": "Livonia's hidden gem This old-school Italian pizza shop ...",
+    "url": "https://www.facebook.com/chowdowndetroit/posts/livonias-hidden-gem-this-old-school-italian-pizza-shop-deserves-more-customers-m/1506499484377910/",
+    "snippet": "This is my favorite pizza place!!!!!!! It's soooooo good! Best pizza I ever had! Even the cheese bread with sauce omg delicious!"
+   },
+   {
+    "pos": 6,
+    "title": "Crust Pizza Co. - Pizzeria near me | Chicago Style Pizza",
+    "url": "https://www.crustpizzaco.com/",
+    "snippet": "Award winning Chicago-Style Thin Crust Pizza. Family Friendly Pizzeria. Our dough is made fresh in house at each location multiple times throughout the day."
+   },
+   {
+    "pos": 7,
+    "title": "Best Pizza Near Me - Order Pizza on DoorDash",
+    "url": "https://www.doordash.com/cuisine/pizza-near-me/?srsltid=AU7gw4W8lGgfFDc1TcCXvouRV-vMiJ84mCJ3Vyt_qPC7HMsyPBrFgo9m",
+    "snippet": "Little Caesars · (3k+) · 0.5 mi ; Papa Johns Pizza · (10k+) · 1.2 mi ; Bellissimo Pizza · (8k+) · 1.2 mi ; Pizza Hut · (4k+) · 11.8 mi ; Pizza Zone \"N\" Grill · (3k+) · 0.7 mi."
+   },
+   {
+    "pos": 8,
+    "title": "You voted and these are the top 7 best pizza shops in metro ...",
+    "url": "https://www.youtube.com/watch?v=lT-K25ryRvY",
+    "snippet": "You voted and these are the top 7 best pizza shops in metro Detroit. Detroit's Best Pizza. Angelo Ferrara and Otis's Kitchen"
+   },
+   {
+    "pos": 9,
+    "title": "Who has the best pizza in Metro Detroit? The votes are in! Here ...",
+    "url": "https://www.facebook.com/Local4/posts/who-has-the-best-pizza-in-metro-detroit-the-votes-are-inhere-are-the-top-5-and-w/1200666392105928/",
+    "snippet": "Best pizza in Metro Detroit? Green Lantern in Madison Heights gets my vote, with Loui's Pizza in Hazel Park coming in a close second."
+   }
+  ],
+  "features": [
+   "filters",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

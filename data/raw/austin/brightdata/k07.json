@@ -1,0 +1,95 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:01:59+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=google+maps+scraper&gl=us&hl=en&uule=Austin%2CTexas%2CUnited+States&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 14.73,
+ "bytes": 57199,
+ "seconds": 14.81,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 6,
+    "title": "Google Maps Scraper",
+    "url": "https://apify.com/compass/crawler-google-places",
+    "snippet": "Google Maps Scraper lets you extract business data from Google Maps, helping you generate leads, analyze competitors, and fuel growth with just a few clicks.Read more"
+   },
+   {
+    "pos": 7,
+    "title": "Google Maps Scraper - Free Tier",
+    "url": "https://outscraper.com/google-maps-scraper/",
+    "snippet": "Scrape Google Maps data in seconds. Outscraper's Google Maps Scraper lets you extract business names, emails, phone numbers, reviews & ratings."
+   },
+   {
+    "pos": 8,
+    "title": "gosom/google-maps-scraper: scrape data ...",
+    "url": "https://github.com/gosom/google-maps-scraper",
+    "snippet": "The easiest way to use Google Maps Scraper is with an AI coding agent such as Claude Code, Codex, Cursor, GitHub Copilot, or any Agent Skills-compatible tool.Read more"
+   },
+   {
+    "pos": 9,
+    "title": "Maps Scraper & Map data extractor - Chrome Web Store",
+    "url": "https://chromewebstore.google.com/detail/maps-scraper-map-data-ext/ofbhiclojhjkggpnapcnjjjdjlgcikdf?hl=en-US",
+    "snippet": "A scraping tool for map business leads, one click to extract data from Bing Maps, includes phone number, email, social media."
+   },
+   {
+    "pos": 10,
+    "title": "Best Google Maps scraping tools for local business leads?",
+    "url": "https://www.reddit.com/r/CRM/comments/1spqhw8/best_google_maps_scraping_tools_for_local/",
+    "snippet": "I’m trying to help my sister grow her small business and reach more local customers. I came across the idea of using Google Maps scraper to build a ..."
+   },
+   {
+    "pos": 15,
+    "title": "Scrap.io: Google Maps Scraper - Local Lead Generation",
+    "url": "https://scrap.io/",
+    "snippet": "Scraper Google Maps, Apple Maps and Bing Maps. Extract business data, emails, phone numbers and more from 195 countries. Try free for 7 days."
+   },
+   {
+    "pos": 16,
+    "title": "The Best Google Maps Scraper (2026)",
+    "url": "https://www.youtube.com/watch?v=BTR7Y-QMmAo",
+    "snippet": "Get local business leads from Google Maps with emails, phone numbers, and addresses in one click. ScraperCity's Google Maps scraper uses AI ..."
+   },
+   {
+    "pos": 17,
+    "title": "Google Maps Scraper | Octoparse Templates",
+    "url": "https://www.octoparse.com/scraping-templates/google-maps-scraper",
+    "snippet": "Octoparse Google Maps Reviews Scraper allows you to scrape reviews, ratings, and reviewers' names, URLs, times, etc. Just enter the Google Maps place detailed ...Read more"
+   },
+   {
+    "pos": 18,
+    "title": "Google Maps Scraper",
+    "url": "https://nodatanobusiness.com/solutions/google-maps-scraper",
+    "snippet": "Scrape business data from Google Maps directly into your spreadsheet with our Google Maps Scraper – built to create lead lists, researching competitors, or ...Read more"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic",
+   "people_also_ask",
+   "related",
+   "top_ads"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k07",
+  "q": "google maps scraper",
+  "intent": "commercial, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

@@ -1,0 +1,102 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:40+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "best running shoes",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 5.77,
+ "bytes": 72106,
+ "seconds": 6.11,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "The Best Running Shoes I Tested in 2025",
+    "url": "https://www.google.com/goto?url=CAESmQEB6zswFWn6XE6Z7SYbEA5Aksce9RZrtEVS9HZ9DSUTcS9Wlg2QMGK5wLjFd0GarUk4_dNhh8D5Ki87g8MiH8LsQnEONIe4qjPqVhWVEj7DsaJuHY3jWPFD5Fwu_twl5wbte7ilwKcyVKLPZQJYGRvb3HOQBDrA-aa5Ci5oabBboMhFxbi0x3HLLOOLB-NZ3AvyqcaKDBD1IHg",
+    "snippet": "Dec 30, 2025 — Here are my top four trainers of 2025. Nike Vomero Premium: Asics Metaspeed Edge Tokyo: My Top Pick for Racing. Best Stability Running Shoes ...",
+    "host": "www.runnersworld.com"
+   },
+   {
+    "pos": 2,
+    "title": "Best Road Running Shoes for Men of 2026",
+    "url": "https://www.google.com/goto?url=CAESgQEB6zswFcRUiwM1JbVLZcE0-dGERaCgwLqbdneD-VSOireTCfFGEubx4HuquDwYWuV-sJIKxus0y-7nKaHOHdvKV16bn7XW-IxQN5syfYVKwIdXT_JpnzTChHHHi82diNnPEvWDBRcoRYUWI8VJZsh_e4wKLcDrAzrYBj3T2e7NXSs",
+    "snippet": "Aug 13, 2026 — We like the HOKA Mach 6, Salomon Aero Glide 4, and On Cloudeclipse for speed workouts and intervals. These are the three lightest shoes in our ...Read more",
+    "host": "www.treelinereview.com"
+   },
+   {
+    "pos": 3,
+    "title": "What are some good running shoes. : r/runninglifestyle",
+    "url": "https://www.google.com/goto?url=CAESlwEB6zswFXO8zHvQPWeQrgsmPV3D2lD2t5xia9ChlqOg2egn1pEUFaYTrN4p3UZZOKwTnba-zL4gw6OaxuSE5HaAzVok8ReU9P0D_qm3f0m4YCYjK7NQPEDX4F8FiPle1gOMjK5jeIZ7LDCE65W_yFR29Pom-Uc1oO-wAmPSnpWN1_cb7nM6boZU3QQvRpe1OZXlaM9VFh8x",
+    "snippet": "I’m looking for good running shoes for training the one I got for training hurt my calf when running for long distances there the Nike downshifter 11 ...",
+    "host": "100+ comments  ·  1 year ago"
+   },
+   {
+    "pos": 4,
+    "title": "The Best Beginner Running Shoes 2026",
+    "url": "https://www.google.com/goto?url=CAESegHrOzAVQUkq9k_oUFirmnRu4UVrbtfGoRGd12qDSP-JDDeTcG5dgN73XXQmM4C96QOMh5FqtQIbJUMpNFNlSkp7-UaPP7yTvR6nBYsTes5xz_QGzVk0TIry1tq_i0GXalCDJgeIAGWGIBOh4MWltGo-uQsUXv98iXrC",
+    "snippet": "The Puma Velocity Nitro 4 is one of our favourite shoes for runners of all levels, and one of the best value shoes on the market as well. It's light, ...Read more",
+    "host": "theruntesters.com"
+   },
+   {
+    "pos": 5,
+    "title": "Best Long Distance Running Shoes",
+    "url": "https://www.google.com/goto?url=CAESdAHrOzAVnoppkeW0rJiVhjH2qDU6N6AkbaIUOTaPm6MA4bKTcXacEC-q_w49UzI7_JhDKl1EevVmu_mWGRAGNTrsPp7hczBs9tm6muiZAAOJOCuUF_IMkGmc5bUiNAV04dFMxkhPd9u3svrKv89RdCLnVdaH",
+    "snippet": "Nov 13, 2025 — Best Long Distance Running Shoes for Everyday Use: · adidas Evo SL · Puma MagMax Nitro · Asics Superblast 2 · Asics Megablast · adidas Boston 13.Read more",
+    "host": "weartesters.com"
+   },
+   {
+    "pos": 6,
+    "title": "The Best Running Shoes for Men 2026",
+    "url": "https://www.google.com/goto?url=CAEShgEB6zswFWCYfUTzT5TpJz2ORBfDeBDlrD21dNckx8hiCtFLgza9Z54plzIiFiGuc6nsTbppF-igAY9h94Bq04pQTBM9UIXw6O-lIhvYaCmSCCpbQJg47nXEx02DdiHb59hJ9lSkbh33nSKXIrTGceurTcysJbn9KbnndH2RZQvLYydG70RZdA",
+    "snippet": "Jul 20, 2026 — The best running shoes for men Nike Pegasus 42 Nike. The Megablast is easily one of the best super trainers on the market. The Adizero Evo SL ' ...",
+    "host": "www.runnersworld.com"
+   },
+   {
+    "pos": 7,
+    "title": "Best running shoes of 2026, tested by real runners and ...",
+    "url": "https://www.google.com/goto?url=CAESjgEB6zswFSKMNCpUK_i-prk04FXy2bCzCFF8EynkqHMruYaLxL1HCHHq57FZNrOgHPNVOLFjzhoYjL1fzpCxNrXzDyzZ1vBlmAHfpnOJ5JxRm_IztubrVVxaiQXfAV2iSSowsX-RkdbGMhQNyP2kzRGanhtKfJ_SHx5Fh9GzfbGUhiSi8aODQm2_ADyYHzL-",
+    "snippet": "Jul 23, 2026 — Nike Pegasus 42: Miller named this shoe the best option for beginners thanks to its construction that works for a wide range of foot types. It ...Read more",
+    "host": "health.yahoo.com"
+   },
+   {
+    "pos": 8,
+    "title": "Best Running Shoes Reviewed + Ranked by Experts",
+    "url": "https://www.google.com/goto?url=CAESdAHrOzAVzfgeslMWcDP9t_Bd3Cpj-FVXlNtgKuQ9Xw84GV0g-fV-bch6NLrfvLzo6qJNsPyk5a-P_6VyKxsUfHoIfwQJBm_Rr7TdVXqAUDKt3R57BTcpE6Dm80fyIeH0I_TkZMEogWI7NIR6CYzu76Aks0D0",
+    "snippet": "Jun 12, 2026 — #1 Best overall: ASICS MegaBlast Score: 8.7 Best Daily - Asics Megablast #2 Best for durability: Adidas Adios Pro 4 Score: 8.4 #1 Best overall: ...",
+    "host": "marathonhandbook.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches",
+   "shopping_items"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k13",
+  "q": "best running shoes",
+  "intent": "commercial",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

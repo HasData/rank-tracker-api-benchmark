@@ -1,0 +1,100 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:17:27+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "pizza near me",
+   "gl": "us",
+   "hl": "en",
+   "device": "mobile",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 23.45,
+ "bytes": 83922,
+ "seconds": 23.48,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Domino's: Pizza Delivery & Carryout, Pasta, Wings & More",
+    "url": "https://www.dominos.com/",
+    "snippet": "Weeklong carryout Carry out for just $7.99 each. Spend less dough when you carry out a Large 1-topping pizza on any of our 6 delicious crusts, 8-piece wings or ..."
+   },
+   {
+    "pos": 2,
+    "title": "Order Pizza Near Me",
+    "url": "https://www.pizzahut.com/menu/pizza",
+    "snippet": "Find a restaurant to see our full menu and prices · Cheese Pizza · Pepperoni Pizza · Supreme Pizza · Meat Lover's® Pizza · Pepperoni Lover's® Pizza · Veggie ..."
+   },
+   {
+    "pos": 3,
+    "title": "Need to know the BEST pizza : r/kennesaw",
+    "url": "https://www.reddit.com/r/kennesaw/comments/1sz3d6c/need_to_know_the_best_pizza/",
+    "snippet": "Ah-Beetz on Barrett is a very close 2nd place. Big Pie is more traditional, great for families and groups, decent pizza at a good … oxtail ..."
+   },
+   {
+    "pos": 4,
+    "title": "TOP 10 BEST Pizza in Atlanta, GA - Updated 2026",
+    "url": "https://m.yelp.com/search?find_desc=Pizza&find_loc=Atlanta%2C+GA",
+    "snippet": "Antico Pizza, Pizza By Yandys, Mister O1 Extraordinary Pizza, Cicis Pizza 7.7 mi 3912 N Druid Hills Rd, The best pizza value for $9.99 is at Cicis! pizza for $ ..."
+   },
+   {
+    "pos": 5,
+    "title": "LaRosa's Pizza | Italian Restaurant & Pizza Delivery Near Me",
+    "url": "https://www.larosas.com/",
+    "snippet": "Dine in, pick up, or delivery. 60 locations for pizza near me. $7.99 Medium Pizzas. Pizzas for $7.99 each."
+   },
+   {
+    "pos": 6,
+    "title": "Little Caesars® | Best Value Delivery & Carryout",
+    "url": "https://littlecaesars.com/en-us/",
+    "snippet": "Order HOT-N-READY® pizzas, Crazy Bread®, and more from Little Caesars® online for delivery or carryout. Pepperoni Pizza for $5.00. Delivery, service, small ..."
+   },
+   {
+    "pos": 7,
+    "title": "THE 10 BEST Pizza Places in Georgia Coast (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g659477-c31-Georgia_Coast_Georgia.html",
+    "snippet": "1. Graffito 4.7 ・ 2. Sal's Neighborhood Pizzeria ・ 3. Vinnie Van Go-Go's ・ 4. Huc A Poos 4.4. Pizza on Wheels is top notch"
+   },
+   {
+    "pos": 8,
+    "title": "Five Star Pizza | Fast Pizza Delivery & Takeout Across Florida",
+    "url": "https://fivestarpizza.com/",
+    "snippet": "Experience fresh, hand-tossed dough and premium toppings at Five Star Pizza in Florida. Order now for fast delivery or carryout!"
+   },
+   {
+    "pos": 9,
+    "title": "Pizza, Subs, Beer and open till 3am#littleitalyathens #pizza #downtownathensga #godawgs #sandwich",
+    "url": "https://www.facebook.com/littleitalyathens/posts/pizza-subs-beer-and-open-till-3amlittleitalyathens-pizza-downtownathensga-godawg/1932519558068103/",
+    "snippet": "Relevant locations. Little Italy-Athens, Downtown Athens GA, Bama. Athens. Georgia. United States. Recent posts ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "filters",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

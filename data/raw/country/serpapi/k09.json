@@ -1,0 +1,92 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:54:25+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "how to scrape google search results",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 0.8,
+ "bytes": 70838,
+ "seconds": 0.89,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Scraping Google Search results (on a small scale)",
+    "url": "https://www.reddit.com/r/webscraping/comments/1bcs1pz/scraping_google_search_results_on_a_small_scale/",
+    "snippet": "Using AI to scrape reviews and extract/generate data in Google Sheets. How to Scrape All of the Google Search Results? How to Scrape Google ..."
+   },
+   {
+    "pos": 2,
+    "title": "How to Scrape Google Search Results in 2026",
+    "url": "https://scrapfly.io/blog/posts/how-to-scrape-google",
+    "snippet": "Tutorial on scraping Google search using Python with a few community packages. How to parse dynamic SERP HTML and how to not get blocked."
+   },
+   {
+    "pos": 3,
+    "title": "🕷️ The Ultimate Guide to Web Scraping Google Search ...",
+    "url": "https://medium.com/@santiagopampillo/%EF%B8%8F-the-ultimate-guide-to-web-scraping-google-search-results-unlocking-the-power-of-data-with-599816b76ce2",
+    "snippet": "Let's walk through the process of setting up and using ScrapingBee to scrape Google search results. Step 2: Get Your API Key"
+   },
+   {
+    "pos": 4,
+    "title": "Google Search Scraper - Free Tier",
+    "url": "https://outscraper.com/google-search-scraper/",
+    "snippet": "Google scraper works the same as you would open each search query and copy the results into a file. It automates manual exporting of the search results data."
+   },
+   {
+    "pos": 5,
+    "title": "How to Scrape Google Search Results: 2026 Python Tutorial",
+    "url": "https://oxylabs.io/blog/how-to-scrape-google-search-results",
+    "snippet": "Scraping public Google search results with Python using our API · 1. Install required Python libraries · 2. Set up a payload and send a POST ..."
+   },
+   {
+    "pos": 6,
+    "title": "Google Search scraper and SERP API",
+    "url": "https://apify.com/apify/google-search-scraper",
+    "snippet": "Create a free Apify account using your email · Open Google Search Results Scraper · Add one or more search queries · Click the “Start” button and wait for the data ..."
+   },
+   {
+    "pos": 7,
+    "title": "Is it ok to scrape data from Google results? [closed]",
+    "url": "https://stackoverflow.com/questions/22657548/is-it-ok-to-scrape-data-from-google-results",
+    "snippet": "To scrape Google search results, you must either use their official API. Python is good for scraping google search results, but you need to ..."
+   },
+   {
+    "pos": 8,
+    "title": "How To Scrape Google Search Results With Python",
+    "url": "https://www.browserless.io/blog/how-to-scrape-google-search",
+    "snippet": "Scraping Google's HTML directly is the classic approach when using Python. You build a Google URL, fetch the HTML data, and parse search results ..."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "inline_videos",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k09",
+  "q": "how to scrape google search results",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T13:07:45+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "cheap flights to paris",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 5.98,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "$214 Cheap Flights to Paris Charles de Gaulle - Skyscanner",
+    "url": "https://www.skyscanner.com/",
+    "host": "www.skyscanner.com",
+    "crumb": "https://www.skyscanner.com › ... › Île-de-France",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Cheap flights to Paris - Flight from United States to Paris",
+    "url": "https://wwws.airfrance.us/",
+    "host": "wwws.airfrance.us",
+    "crumb": "https://wwws.airfrance.us › Flights › To France",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "$222 CHEAP FLIGHTS to Paris in 2026/27",
+    "url": "https://www.kayak.com/",
+    "host": "www.kayak.com",
+    "crumb": "https://www.kayak.com › ... › Europe › France",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Flights to Paris",
+    "url": "https://www.aa.com/",
+    "host": "www.aa.com",
+    "crumb": "https://www.aa.com › ... › Flights to France",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "Cheap flights from the United States to Paris ...",
+    "url": "https://www.momondo.com/",
+    "host": "www.momondo.com",
+    "crumb": "https://www.momondo.com › Flights › Flights to Paris",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Flights to Paris (ORY)",
+    "url": "https://us.frenchbee.com/",
+    "host": "us.frenchbee.com",
+    "crumb": "https://us.frenchbee.com › French bee › Paris",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "United Cheap Flights to Paris from ...",
+    "url": "https://www.united.com/",
+    "host": "www.united.com",
+    "crumb": "https://www.united.com › ... › Flights to Paris",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "How to Book Cheap Flights to Paris from USA in ...",
+    "url": "https://vocal.media/",
+    "host": "vocal.media",
+    "crumb": "https://vocal.media › how-to-book-cheap-flights-to-pari...",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "Web results",
+   "People also ask",
+   "Ask anything in AI Mode",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k20",
+  "q": "cheap flights to paris",
+  "intent": "travel",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

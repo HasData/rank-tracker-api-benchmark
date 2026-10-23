@@ -1,0 +1,98 @@
+{
+ "vendor": "hasdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:03:15+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.hasdata.com/scrape/google/serp",
+  "params": {
+   "q": "best running shoes",
+   "gl": "us",
+   "hl": "en",
+   "deviceType": "desktop",
+   "location": "Austin,Texas,United States"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 15.67,
+ "bytes": 69215,
+ "seconds": 16.03,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "7 Best Running Shoes in 2026",
+    "url": "https://runrepeat.com/guides/best-running-shoes",
+    "snippet": "The New Balance 1080 v15 stands out in the all-rounder game, bringing a whole new level of comfort while sustaining lightness and responsiveness ...Read more"
+   },
+   {
+    "pos": 2,
+    "title": "The 15 Best Running Shoes of 2026",
+    "url": "https://www.runnersworld.com/gear/a19663621/best-running-shoes/",
+    "snippet": "The Brooks Ghost is our No. 1 shoe when we recommend new trainers to beginners. The reason why our editors recommend the Ghost: its Goldilocks ...Read more"
+   },
+   {
+    "pos": 3,
+    "title": "What are the best running shoes that you'd actually buy ...",
+    "url": "https://www.reddit.com/r/runninglifestyle/comments/1u5x7mx/what_are_the_best_running_shoes_that_youd/",
+    "snippet": "I’m finally replacing my running shoes and I forgot how overwhelming this category is. Every list says something different and everyone seems to ..."
+   },
+   {
+    "pos": 4,
+    "title": "Best of Road Running Shoes",
+    "url": "https://believeintherun.com/shoe-reviews/type/best-of-road/",
+    "snippet": "Independent, run-tested reviews of running shoes, gear, and race-day everything. Find your next shoe with our Shoe Finder and the pigeon."
+   },
+   {
+    "pos": 5,
+    "title": "The 10 Best Women's Running Shoes 2026",
+    "url": "https://www.fleetfeet.com/running-shoe-buyers-guide/best-running-shoes-women?srsltid=AU7gw4Ukrd9PDB59lxYrlH-0y2oGtHR7rUsNwSG1ooMIVkut4k8tgaXb",
+    "snippet": "The women's Mizuno Wave Rider has long been one of the best running shoes on the market, and the Wave Rider 29 is sure to maintain its spot on ...Read more"
+   },
+   {
+    "pos": 6,
+    "title": "Men's Best Sellers Running Shoes",
+    "url": "https://www.nike.com/w/mens-best-running-shoes-37v7jz76m50znik1zy7ok",
+    "snippet": "Mens Best Sellers Running Shoes ; Nike Pegasus 42 · Nike Pegasus 42 Men's Road Running Shoes · $145 ; Nike Pegasus Premium · Nike Pegasus Premium Men's Road ...Read more"
+   },
+   {
+    "pos": 7,
+    "title": "Best Running Shoes of the Year: 6 Top-Shelf Models",
+    "url": "https://sixminutemile.com/post/six-of-the-best-running-shoes-of-the-year/",
+    "snippet": "Six of the Very Best Running Shoes of the Year · ASICS Megablast · Adidas Adizero Evo SL · FAST-R Nitro Elite 3 · Mount to Coast H1 · Norda 005.Read more"
+   },
+   {
+    "pos": 8,
+    "title": "The Best Running Shoe From Every Brand in 2026!",
+    "url": "https://www.youtube.com/watch?v=9qv6rh34rXU",
+    "snippet": "If you get a shoe from Adidas, ASICS, Brooks, Hoka, Kiprun, Li Ning, Mizuno, New Balance, Nike, Puma, Salomon, Saucony - you're probably ..."
+   },
+   {
+    "pos": 9,
+    "title": "Top Rated Running Shoes | REI Co-op",
+    "url": "https://www.rei.com/s/top-rated-running-shoes",
+    "snippet": "Shop for Top Rated Running Shoes at REI - Browse our extensive selection of trusted outdoor brands and high-quality recreation gear."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "immersive_products",
+   "organic_results",
+   "perspectives",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k13",
+  "q": "best running shoes",
+  "intent": "commercial",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

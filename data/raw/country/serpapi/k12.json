@@ -1,0 +1,100 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T12:58:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "dentist",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 1.02,
+ "bytes": 66092,
+ "seconds": 1.08,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Dentist",
+    "url": "https://en.wikipedia.org/wiki/Dentist",
+    "snippet": "A dentist, also known as a dental doctor, dental physician, dental surgeon, is a health care professional who specializes in dentistry, the branch of ..."
+   },
+   {
+    "pos": 2,
+    "title": "Dentist - Schema.org Type",
+    "url": "https://schema.org/Dentist",
+    "snippet": "The general opening hours for a business. Opening hours can be specified as a weekly time range, starting with days, then times per day."
+   },
+   {
+    "pos": 3,
+    "title": "Dentists : Occupational Outlook Handbook",
+    "url": "https://www.bls.gov/ooh/healthcare/dentists.htm",
+    "snippet": "Dentists diagnose and treat problems with patients' teeth, gums, and related parts of the mouth. They provide advice and instruction on taking care of the ..."
+   },
+   {
+    "pos": 4,
+    "title": "How often should we go to the dentist? - PMC - NIH",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1116309/",
+    "snippet": "They concluded that patients would benefit most by attending dentists at intervals ranging from 13 months to 120 months."
+   },
+   {
+    "pos": 5,
+    "title": "Dentist",
+    "url": "https://www.usphs.gov/professions/dentist/",
+    "snippet": "A world away from the typical private dentistry practice, dentists in the USPHS Commissioned Corps work with special populations, contribute to public policy, ..."
+   },
+   {
+    "pos": 6,
+    "title": "29-1021.00 - Dentists, General",
+    "url": "https://www.onetonline.org/link/summary/29-1021.00",
+    "snippet": "Examine, diagnose, and treat diseases, injuries, and malformations of teeth and gums. May treat diseases of nerve, pulp, and other dental tissues"
+   },
+   {
+    "pos": 7,
+    "title": "Your baby's first dental visit",
+    "url": "https://www.mouthhealthy.org/life-stages/babies-and-kids/first-dental-visit-for-baby",
+    "snippet": "During the first dental visit, the dentist will examine your baby to make sure their teeth, jaw, bite and gums are developing in the way they should and check ..."
+   },
+   {
+    "pos": 8,
+    "title": "Shark Dentist - Official Developer Overview Trailer",
+    "url": "https://www.youtube.com/watch?v=jRP4DNFN6s0",
+    "snippet": "In Shark Dentist, your task is to treat the teeth of giant predators in a dark clinic while avoiding their deadly aggression. Balance tactics, ..."
+   },
+   {
+    "pos": 9,
+    "title": "Physiologic dimensions of the periodontium significant to ...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/286038/",
+    "snippet": "When treating patients, the objectives of restorative therapy must be clear. The first and most basic objective is preservation of the teeth."
+   }
+  ],
+  "features": [
+   "filters",
+   "local_map",
+   "local_results",
+   "organic_results",
+   "related_questions",
+   "related_searches",
+   "things_to_know"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

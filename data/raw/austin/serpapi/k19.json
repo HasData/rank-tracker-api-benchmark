@@ -1,0 +1,94 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:06:58+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "symptoms of flu",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 0.79,
+ "bytes": 64384,
+ "seconds": 0.85,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Symptoms of COVID-19",
+    "url": "https://www.cdc.gov/covid/signs-symptoms/index.html",
+    "snippet": "Fever or chills Cough Shortness of breath or difficulty breathing Sore throat Congestion or runny nose New loss of taste or smell Fatigue Muscle or body aches ..."
+   },
+   {
+    "pos": 2,
+    "title": "COVID-19 symptoms and what to do",
+    "url": "https://www.nhs.uk/conditions/covid-19/covid-19-symptoms-and-what-to-do/",
+    "snippet": "a blocked or runny nose; loss of appetite; diarrhoea; feeling sick or being sick. The symptoms are very similar to symptoms of other illnesses, such as colds ..."
+   },
+   {
+    "pos": 3,
+    "title": "Symptom Checker",
+    "url": "https://www.mayoclinic.org/symptom-checker/select-symptom/itt-20009075",
+    "snippet": "Abdominal pain in adults · Blood in stool in adults · Chest pain in adults · Constipation in adults · Cough in adults · Diarrhea in adults · Difficulty swallowing in ..."
+   },
+   {
+    "pos": 4,
+    "title": "Signs and symptoms",
+    "url": "https://en.wikipedia.org/wiki/Signs_and_symptoms",
+    "snippet": "Examples · Ascites (build-up of fluid in the abdomen) · Nail clubbing (deformed nails) · Cough · Death rattle (last moments of life) · Hemoptysis (blood-stained ..."
+   },
+   {
+    "pos": 5,
+    "title": "Symptom Checker with Body from WebMD - Check Your ...",
+    "url": "https://symptoms.webmd.com/",
+    "snippet": "WebMD Symptom Checker is designed with a body map to help you understand what your medical symptoms could mean, and provide you with the trusted information ..."
+   },
+   {
+    "pos": 6,
+    "title": "Symptoms of Eastern Equine Encephalitis",
+    "url": "https://www.cdc.gov/eastern-equine-encephalitis/signs-symptoms/index.html",
+    "snippet": "Symptoms of eastern equine encephalitis include fever, chills, aches, and joint pain. Fever Chills Body aches Joint pain. Fever Headache ..."
+   },
+   {
+    "pos": 7,
+    "title": "Symptoms of Multiple Sclerosis",
+    "url": "https://www.nationalmssociety.org/understanding-ms/what-is-ms/ms-symptoms",
+    "snippet": "The symptoms of multiple sclerosis are variable and unpredictable. No two people have exactly the same symptoms, and symptoms can change over time."
+   },
+   {
+    "pos": 8,
+    "title": "Symptoms",
+    "url": "https://www.mayoclinic.org/symptoms",
+    "snippet": "Nasal congestion · Nausea and vomiting · Neck pain: Symptom · Neutropenia · Night leg cramps · Night sweats · Nipple discharge · Nose, runny. See: Runny nose."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "dmca_messages",
+   "inline_images",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k19",
+  "q": "symptoms of flu",
+  "intent": "health",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

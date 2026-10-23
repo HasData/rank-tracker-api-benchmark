@@ -1,0 +1,108 @@
+{
+ "vendor": "scraperapi",
+ "task": "google_web",
+ "started": "2026-10-15T17:02:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scraperapi.com/structured/google/search",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "pizza near me",
+   "country_code": "us",
+   "tld": "com",
+   "hl": "en",
+   "gl": "us",
+   "output_format": "json",
+   "uule": "w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM="
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.21,
+ "bytes": 12179,
+ "seconds": 2.21,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Pizza in Orlando, FL | Papa Johns Central Florida Parkway",
+    "url": "https://www.google.com/goto?url=CAESpAEB6zswFQe6AePfOtwPvrLoV_zFbwCEbcDfPMMv4KIBWeoDHXqbrvhoBd5Kn5HaAS6sF5RLAAqDcgOIkLG0g2Zz7ndiCv9JHuvBvr8IB5lVbqJI72Ub5Yq7ITXRnuqHZg00ntuifLS4PMbAGa7BZXEohrjPKmXkGEQeTDNgpLM8fV0S904BPXIvRqZXs94_C4NVjxaj4UO_qNepcPUd7Fc5lcPfAg",
+    "snippet": "For pizza delivery in Orlando, call us at (407) 477-2287 to order, or stop by 5336 CENTRAL FLORIDA PARKWAY in Orlando, FL for carryout.",
+    "host": "locations.papajohns.com"
+   },
+   {
+    "pos": 2,
+    "title": "Jordan Ranch",
+    "url": "https://www.google.com/goto?url=CAEScQHrOzAVIsH1tND9oVZ8z7ftXqGA12hWBaEw8Tw_qGN89TQPHPZ_0KmrvsS7pOmcQj6q6sYK8y_4aKtoqeuNTYxoTV-EjzxgBoaBwX26O8YlCcaRTeG-40w9cXmZgPNnzVs7YxEX1gsdQ7raBsugUhcE",
+    "snippet": "Conveniently located at 29615 Jordan Crossing Blvd., Suite 250, Sunday through Thursday from 11 am to 9 pm, and Fridays and Saturdays until 10 pm.",
+    "host": "www.crustpizzaco.com"
+   },
+   {
+    "pos": 3,
+    "title": "Pizza Parlors Torrance, CA - Last Updated October 2026",
+    "url": "https://www.google.com/goto?url=CAEShgEB6zswFcNzAJlVONqDhTp1SKXP4K1ycPoOCMKXyCEtKmHeWzBmdZfEkxtPQFaU78gdqAuqIJM9iAhoWVFQfnAqocdmb9jSPB5DqCwZ0NNuiJjL8JLiSYRgTlo-9yubtCHri2hdKAURmcCtW7csvPQkoet8cCojt9qNP6c_evi_21HWuvo7Xg",
+    "snippet": "1. Pizza Parlor. 4.6 (259 reviews). 12.6 mi. 2936 Clark Ave, Long Beach, CA 90815-1040 · 2. Bonello's New York Pizza. 4.4 (569 reviews). 1.2 mi. 20120 Anza Ave, ...Read more",
+    "host": "www.yelp.com"
+   },
+   {
+    "pos": 4,
+    "title": "Delivery Near Me - Orlando, FL - 7060 International Dr",
+    "url": "https://www.google.com/goto?url=CAESgwEB6zswFZ_iclcI48cN0vsfKO5Ccb0qBrbroyt3-NZw-tuSG8OOUA_v_8HUmsJRDkQ5R1CGXf-yBuGXm91HjZ8vqiqXP2EJ03FRcAuY2Jejb2HOjj1OUWkb7s3BEEoeEfZtfTAmK_ZfIFutOu2V8KG2fTYy7l38dSqFmWHDNvqqkkkdfA",
+    "snippet": "Your local Pizza Hut at 7060 International Dr, Orlando, FL 32819 offers. Call (407) 351-0005 or visit PizzaHut.com (407) 352-5444 9100. Open Now- Closes at 2: ...",
+    "host": "locations.pizzahut.com"
+   },
+   {
+    "pos": 5,
+    "title": "Pizza Perfect | Best Pizza in Nashville, TN | Pizza near me",
+    "url": "https://www.google.com/goto?url=CAESWgHrOzAVA6pE5HfjmeI4jySoRNYRqGy2BhJ2VejKkJ1wnYf3u3rbifsEmrDwNJh_EAWwYHSX3qWCIU7PF7A63IF5IKrAu8RfylbgiCXMG0NYw8Md9GTrsk2MKA",
+    "snippet": "Pizza Perfect: the best Pizza in Nashville, TN and other locations. Order directly online today for takeout or delivery. Save money, support local business!",
+    "host": "pizzaperfectonline.com"
+   },
+   {
+    "pos": 6,
+    "title": "Best Pizza in Tamarac, FL | Pizza near me",
+    "url": "https://www.google.com/goto?url=CAESWwHrOzAVQwPniwh73ShWNvPVy4lYt-A2yaW-X1xzQWOX3fK4NBN_-JUeCUGXEXnqeas7koiL22N3EwYwenVlCyZbV0WVcDjUOoNYB9C_UgGXlqqsJgVlNuttJXE",
+    "snippet": "Address: 8275 NW 88th South Florida's Top Spot for Real New York Pizza … authentic NY-style pizza in the area. open for dine-in, takeout, or quick pick-up.",
+    "host": "nypizzaplace.com"
+   },
+   {
+    "pos": 7,
+    "title": "Best Pizza in Ocean City, Maryland",
+    "url": "https://www.google.com/goto?url=CAEShAEB6zswFQUH_juG9GC_KXjJdcwoI4zFOt8zKmaEjv_MC2IOYSk51loSQdyJRKh8NfvYyXJrLiDTs-KDttj2fcZqHPXRqlnbtTKGtvlMoms6qiWDakdN0Vvei0_vSaWfn5j_TeZ1Cjl_HR1lGupHYLPGhgvc5kA2qL1-H-APmONc4TKKMt8",
+    "snippet": "I see alot of people asking whats the best pizza around oc. By far its The Cap’ns Slice  just listen to the crunch!",
+    "host": "10+ comments  ·  1 year ago"
+   },
+   {
+    "pos": 8,
+    "title": "Pizza in Tampa, FL | Papa Johns Gunn Hwy",
+    "url": "https://www.google.com/goto?url=CAESkwEB6zswFYVjbwYTKYcHzHjCZpmqIYMzmzUgBJuxnDJVbNalv5SpIvD674QgGChJHq542CYLPXz1yMGonvFwJuzWMqJr3zYTcwGVrgRFjkqWs8KaC_TFUwW-OSuIoOHq0H6e5VcEOJHymTshMVp7i2dHUgDli85EHzsvk-Tvd2iZUdnxlA7Ecb9v0dyUxwfzXbR5Pj0",
+    "snippet": "Papa Johns Gunn Hwy for the best pizza in Tampa. For pizza delivery in Tampa, call us at (813) 963-7272 to order, or stop by 4231 Gunn Hwy in Tampa, FL for ...",
+    "host": "locations.papajohns.com"
+   },
+   {
+    "pos": 9,
+    "title": "Best Pizza Places in Mission Viejo 2026",
+    "url": "https://www.google.com/goto?url=CAEScAHrOzAV2LMfN2Y2Vd7GFt9VbCDbh8TdYcvZraWI0PxKrW_T2u4lTxlXMB3HWcl8c1ypohiDIrNDyRa3PNiuRDDF2A9XavKIWy6GyzOF_aWLbW5qu2TkHxvsolsaCoVMxEPjkPHT_zFP9MNc6iEmUXE",
+    "snippet": "Top Pizza Restaurants in Mission Viejo, CA in 2026 Near You ; Cosentino's Pizza · $2.50 Delivery ; Ameci Pizza & Pasta · $1.99 - $6.99 Delivery ; Terra Mia Pizzeria.Read more",
+    "host": "slicelife.com"
+   }
+  ],
+  "features": [
+   "ai_box",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

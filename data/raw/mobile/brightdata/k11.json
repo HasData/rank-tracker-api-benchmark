@@ -1,0 +1,99 @@
+{
+ "vendor": "brightdata",
+ "task": "google_web",
+ "started": "2026-10-15T14:16:47+00:00",
+ "request": {
+  "method": "POST",
+  "url": "https://api.brightdata.com/request",
+  "params": null,
+  "json": {
+   "zone": "serp_api1",
+   "url": "https://www.google.com/search?q=pizza+near+me&gl=us&hl=en&brd_mobile=1&brd_json=1",
+   "format": "raw"
+  }
+ },
+ "status": 200,
+ "ttfb": 8.05,
+ "bytes": 21689,
+ "seconds": 8.05,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 5,
+    "title": "Order Pizza Near Me",
+    "url": "https://www.pizzahut.com/menu/pizza",
+    "snippet": "Order carryout or delivery online or via the app. Select your store for local menus & pricing. Find a restaurant to see our full menu and prices"
+   },
+   {
+    "pos": 6,
+    "title": "Best Pizza Restaurants Near Me - October 2026",
+    "url": "https://www.yelp.com/nearme/pizza-restaurants",
+    "snippet": "Some of the best pizza restaurants near me are: Tony's Pizza Napoletana Montesacro SOMA Pink Onion. Golden Boy Pizza Beretta Valencia"
+   },
+   {
+    "pos": 13,
+    "title": "BC Pizza Near Me - Check Out Our Closest Locations",
+    "url": "https://bc.pizza/locations-bc-pizza-near-me/",
+    "snippet": "Searching for a BC pizza near me? Check out our list of all our locations. Find the closest to you by entering your zip code in the search bar."
+   },
+   {
+    "pos": 14,
+    "title": "Pizza in Phoenix, AZ | Papa Johns West Bell Road",
+    "url": "https://locations.papajohns.com/united-states/az/85308/phoenix/4232-west-bell-road/pizza-near-me",
+    "snippet": "For pizza delivery in Phoenix, call us at (602) 308-0200 to order, or stop by 4232 West Bell Road in Phoenix, AZ for carryout."
+   },
+   {
+    "pos": 15,
+    "title": "Best pizza in Morgantown? : r/MorgantownWV",
+    "url": "https://www.reddit.com/r/MorgantownWV/comments/6krdp7/best_pizza_in_morgantown/",
+    "snippet": "Mountain State Brewing and Vocellis are my top 2. Papa Allens has some pretty good cheese. Try Milano's Pizza. IMO the best Pizza Al's is Pizza ..."
+   },
+   {
+    "pos": 16,
+    "title": "Best Pizza Places in Mission Viejo 2026",
+    "url": "https://slicelife.com/pizza-delivery/ca-mission_viejo",
+    "snippet": "Top Pizza Restaurants in Mission Viejo, CA in 2026 Near You ; Cosentino's Pizza · $2.50 Delivery ; Ameci Pizza & Pasta · $1.99 - $6.99 Delivery ; Terra Mia Pizzeria."
+   },
+   {
+    "pos": 17,
+    "title": "Leander",
+    "url": "https://www.crustpizzaco.com/locations/TX/leander",
+    "snippet": "located at 145 South Brook Drive, Suite 180, Leander, TX 78641, Crust Pizza is your go-to dine-in or to-go choice. from 11 am to 9 pm on weekdays, and on ..."
+   },
+   {
+    "pos": 18,
+    "title": "THE 5 BEST Pizza Places in Enterprise (Updated 2026)",
+    "url": "https://www.tripadvisor.com/Restaurants-g30509-c31-Enterprise_Alabama.html",
+    "snippet": "1. Mellow Mushroom Enterprise. 4.3. 4.3 of 5 bubbles. (236 reviews) · 2. Hungry Howies. 4.3. 4.3 of 5 bubbles. (13 reviews) · 3. Marco's Pizza."
+   },
+   {
+    "pos": 19,
+    "title": "Best pizza in STL?",
+    "url": "https://urbanstl.com/best-pizza-in-stl-t5857.html",
+    "snippet": "I like their pizza, especially when it's free on Monday nights! Someone told me about a place called Palladora's, has anyone every heard of it?"
+   },
+   {
+    "pos": 20,
+    "title": "PIZZA FOR THE GAME TODAY: Stop by Giorgino's Pizza & Subs in Port Richey. They are ...",
+    "url": "https://www.facebook.com/PascoNewsOnline/posts/pizza-for-the-game-today-stop-by-giorginos-pizza-subs-in-port-richey-they-are-lo/1485439900091635/",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "organic",
+   "people_also_ask",
+   "related"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k11",
+  "q": "pizza near me",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "mobile",
+  "location": null
+ }
+}

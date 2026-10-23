@@ -1,0 +1,77 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:05:08+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "how to tie a tie",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 18.84,
+ "bytes": 58720,
+ "seconds": 18.92,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "How To Tie A Necktie | Different Ways Of Tying A Tie",
+    "url": "https://www.ties.com/how-to-tie-a-tie?srsltid=AU7gw4Wsye-7vYdoA4h7FjUwfut3H5gnv1UU87TGusK8kEslNa9sBM_b",
+    "snippet": "A comprehensive step by step guide on the different ways to tie a tie. Windsor, 4 in hand, Eldredge, Trinity, bow tie, and other simple knots from Ties.com."
+   },
+   {
+    "pos": 2,
+    "title": "How to Tie a Tie Easily",
+    "url": "https://www.youtube.com/watch?v=TATblk1LUQI",
+    "snippet": "Learn how to tie a tie properly with this quick step-by-step guide—get the perfect knot and the right length every time. How to tie a tie."
+   },
+   {
+    "pos": 3,
+    "title": "Quickest way to tie a tie Wes & Alison share a helpful tip for ...",
+    "url": "https://www.facebook.com/lifewithwesandalison/videos/quickest-way-to-tie-a-tie/7247470708699432/",
+    "snippet": "The tip of the point should be right at the top of your belt buckle. One break in the lower leg of your pants (otherwise have them hemmed)."
+   },
+   {
+    "pos": 4,
+    "title": "Tie-a-Tie.net",
+    "url": "https://www.tie-a-tie.net/",
+    "snippet": "Learn how to tie a tie with the Windsor, Half Windsor, Four in Hand and Pratt necktie knots by following step-by-step video instructions and colored ..."
+   },
+   {
+    "pos": 5,
+    "title": "How to Tie a Tie",
+    "url": "https://www.youtube.com/playlist?list=PL2icB-k-9pmKlGsMo6gD_F4JH5_5bifPN",
+    "snippet": "How to tie a tie in 10 seconds. Half Windsor Knot Mirrored. How to Tie a Bow Tie like tying a shoe tiehole. How to tie a tie 1 minute tutorial (Mirrored)"
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "inline_images",
+   "inline_videos",
+   "organic_results",
+   "perspectives",
+   "related_searches",
+   "short_videos"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k18",
+  "q": "how to tie a tie",
+  "intent": "informational, video",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

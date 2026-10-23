@@ -1,0 +1,98 @@
+{
+ "vendor": "serpapi",
+ "task": "google_web",
+ "started": "2026-10-15T14:02:22+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://serpapi.com/search.json",
+  "params": {
+   "engine": "google",
+   "q": "how to scrape google search results",
+   "gl": "us",
+   "hl": "en",
+   "device": "desktop",
+   "location": "Austin,Texas,United States",
+   "api_key": "<hidden>"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 0.78,
+ "bytes": 57466,
+ "seconds": 0.86,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "RESULTS - Raise Your Voice to End Poverty",
+    "url": "https://results.org/",
+    "snippet": "RESULTS is a movement of passionate, committed everyday people who use their voices to influence political decisions that will bring an end to poverty."
+   },
+   {
+    "pos": 2,
+    "title": "NCAA Division III Swimming & Diving Championship Results",
+    "url": "https://indianasportscorp.org/ncaa-division-iii-swimming-diving-championship-results/",
+    "snippet": "NCAA Division III Swimming & Diving Championship Results. PDF HEAT SHEETS AND RESULTS Below are links to each of the session heat sheets and results."
+   },
+   {
+    "pos": 3,
+    "title": "Results",
+    "url": "https://live.pttiming.com/xc-ptt.html?mid=5806",
+    "snippet": "Loading Data."
+   },
+   {
+    "pos": 4,
+    "title": "Results (2015)",
+    "url": "https://www.imdb.com/title/tt3824412/",
+    "snippet": "Boring and confounding \"Results\" is one of those tedious, quirky indie flicks with no in-built audience. a romantic comedy"
+   },
+   {
+    "pos": 5,
+    "title": "NCAA Indoor Track & Field Live Results - Leone Timing",
+    "url": "https://results.leonetiming.com/?mid=8657",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Some thoughts about Anthropic's new cryptanalysis results",
+    "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+    "snippet": "Yesterday Anthropic published two new cryptanalysis results, both outputs of Claude Mythos, their (still) unreleased advanced model."
+   },
+   {
+    "pos": 7,
+    "title": "Results Official Trailer #1 (2015) - Cobie Smulders, Guy Pearce ...",
+    "url": "https://www.youtube.com/watch?v=XoM_dM7tQvI",
+    "snippet": "Recently divorced, newly rich, and utterly miserable, Danny (Kevin Corrigan) would seem to be the perfect test subject for a definitive look at ..."
+   },
+   {
+    "pos": 8,
+    "title": "Who We Are - RESULTS",
+    "url": "https://results.org/who-we-are",
+    "snippet": "RESULTS is a movement of passionate, committed everyday people. We believe poverty is not inevitable, and that our voices have power."
+   },
+   {
+    "pos": 9,
+    "title": "Color Survey Results",
+    "url": "https://blog.xkcd.com/2010/05/03/color-survey-results/",
+    "snippet": "Color Survey Results · If you ask people to name colors long enough, they go totally crazy. · “Puke” and “vomit” are totally real colors."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "organic_results",
+   "related_questions",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k09",
+  "q": "how to scrape google search results",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": "Austin,Texas,United States"
+ }
+}

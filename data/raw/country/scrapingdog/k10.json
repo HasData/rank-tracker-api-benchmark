@@ -1,0 +1,81 @@
+{
+ "vendor": "scrapingdog",
+ "task": "google_web",
+ "started": "2026-10-15T14:23:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://api.scrapingdog.com/google",
+  "params": {
+   "api_key": "<hidden>",
+   "query": "what is a serp api",
+   "country": "us",
+   "language": "en",
+   "page": 0,
+   "advance_search": "false"
+  },
+  "json": null
+ },
+ "status": 200,
+ "ttfb": 2.84,
+ "bytes": 8049,
+ "seconds": 2.96,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "SerpApi: Google Search API",
+    "url": "https://serpapi.com/",
+    "snippet": "Sign in to your account"
+   },
+   {
+    "pos": 2,
+    "title": "SERP API - 5K Requests/Month for Free - Bright Data",
+    "url": "https://brightdata.com/products/serp-api",
+    "snippet": "SERP API A comprehensive solution for easy, real-time search engine scraping, handling proxy management, unblocking, and parsing with ease."
+   },
+   {
+    "pos": 3,
+    "title": "What Is a SERP API? How It Works and When to Switch - You.com",
+    "url": "https://you.com/resources/what-is-a-serp-api",
+    "snippet": "A SERP API is a managed service that retrieves, renders, and parses those pages into structured data your application can consume."
+   },
+   {
+    "pos": 4,
+    "title": "Best SERP APIs in 2026: Official Google Alternatives & Third-Party ...",
+    "url": "https://scrapfly.io/blog/posts/google-serp-api-and-alternatives",
+    "snippet": "A SERP API allows developers to access search engine results programmatically, streamlining the process of data extraction for analysis and SEO optimization."
+   },
+   {
+    "pos": 5,
+    "title": "Google SERP API: Everything You Need To Know - Medium",
+    "url": "https://medium.com/@darshankhandelwal12/google-serp-api-everything-you-need-to-know-e9ae28fd86ef",
+    "snippet": "Having a Google search API allows you to access the large dataset that this massive search engine holds."
+   },
+   {
+    "pos": 6,
+    "title": "SerpAPI tool in Azure Machine Learning prompt flow - Microsoft Learn",
+    "url": "https://learn.microsoft.com/en-us/azure/machine-learning/prompt-flow/tools-reference/serp-api-tool?view=azureml-api-2",
+    "snippet": "SerpAPI is a Python tool that provides a wrapper to the SerpAPI Google Search Engine Results API and the SerpAPI Bing Search Engine Results API."
+   }
+  ],
+  "features": [
+   "ai_overview",
+   "answer_box",
+   "dmca_message",
+   "organic_results",
+   "people_also_asked_for",
+   "related_searches"
+  ],
+  "aio_present": true
+ },
+ "item": {
+  "id": "k10",
+  "q": "what is a serp api",
+  "intent": "informational, topic",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}

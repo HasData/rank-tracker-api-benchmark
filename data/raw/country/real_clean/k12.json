@@ -1,0 +1,116 @@
+{
+ "vendor": "real_clean",
+ "task": "google_web",
+ "started": "2026-10-15T12:58:38+00:00",
+ "request": {
+  "method": "GET",
+  "url": "https://www.google.com/search",
+  "params": {
+   "q": "dentist",
+   "hl": "en",
+   "gl": "us",
+   "uule": "w+CAIQICINVW5pdGVkIFN0YXRlcw=="
+  },
+  "json": null
+ },
+ "status": 200,
+ "seconds": 6.71,
+ "error": null,
+ "norm": {
+  "organic": [
+   {
+    "pos": 1,
+    "title": "Find a dentist",
+    "url": "https://www.deltadental.com/",
+    "host": "www.deltadental.com",
+    "crumb": "https://www.deltadental.com › member › find-a-dentist",
+    "snippet": null
+   },
+   {
+    "pos": 2,
+    "title": "Find A Dentist",
+    "url": "https://smilecalifornia.org/",
+    "host": "smilecalifornia.org",
+    "crumb": "https://smilecalifornia.org › find-a-dentist",
+    "snippet": null
+   },
+   {
+    "pos": 3,
+    "title": "Groveland Dental: Dentist St Paul MN",
+    "url": "https://grovelanddental.com/",
+    "host": "grovelanddental.com",
+    "crumb": "https://grovelanddental.com",
+    "snippet": null
+   },
+   {
+    "pos": 4,
+    "title": "Dentist of Long Beach",
+    "url": "https://dentistlongbeach.com/",
+    "host": "dentistlongbeach.com",
+    "crumb": "https://dentistlongbeach.com",
+    "snippet": null
+   },
+   {
+    "pos": 5,
+    "title": "American Dental Association: Search for ADA Member ...",
+    "url": "https://findadentist.ada.org/",
+    "host": "findadentist.ada.org",
+    "crumb": "https://findadentist.ada.org",
+    "snippet": null
+   },
+   {
+    "pos": 6,
+    "title": "Dentists of Davis: Local Dentist Office in Davis CA",
+    "url": "https://www.dentistsofdavis.com/",
+    "host": "www.dentistsofdavis.com",
+    "crumb": "https://www.dentistsofdavis.com",
+    "snippet": null
+   },
+   {
+    "pos": 7,
+    "title": "Delta Dental Find a Dentist",
+    "url": "https://www.deltadentalaz.com/",
+    "host": "www.deltadentalaz.com",
+    "crumb": "https://www.deltadentalaz.com › forms › find-dentist",
+    "snippet": null
+   },
+   {
+    "pos": 8,
+    "title": "LifeSmiles of Sidney | Sidney Dentist",
+    "url": "https://www.sidneynedentist.com/",
+    "host": "www.sidneynedentist.com",
+    "crumb": "https://www.sidneynedentist.com",
+    "snippet": null
+   },
+   {
+    "pos": 9,
+    "title": "Find a Dentist",
+    "url": "https://www.dentaquest.com/",
+    "host": "www.dentaquest.com",
+    "crumb": "https://www.dentaquest.com › find-a-dentist",
+    "snippet": null
+   }
+  ],
+  "features": [
+   "People also ask",
+   "Ask anything in AI Mode",
+   "Web results",
+   "Things to know",
+   "Choose what you’re giving feedback on",
+   "Types. What are the different types of dentists?",
+   "People also search for",
+   "Page Navigation",
+   "Next"
+  ],
+  "aio_present": false
+ },
+ "item": {
+  "id": "k12",
+  "q": "dentist",
+  "intent": "local",
+  "gl": "us",
+  "hl": "en",
+  "device": "desktop",
+  "location": null
+ }
+}
